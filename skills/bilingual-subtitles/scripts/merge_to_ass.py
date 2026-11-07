@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Merge a <base>.en.srt + <base>.cs.srt (or .ct.srt) pair into a bilingual
 <base>.en_cs.ass file: English above, Chinese below, English colored
-&H0062A8EB to match ~/.claude/commands/subtitle-color.md.
+&H0062A8EB (amber #EBA862).
 
 Each cue's English text is joined into a single line, and each cue's
 Chinese text is joined into a single line (multi-line SRT cues are
@@ -31,7 +31,7 @@ import re
 import sys
 from pathlib import Path
 
-ENGLISH_COLOR = "&H0062A8EB"  # matches /subtitle-color.md
+ENGLISH_COLOR = "&H0062A8EB"  # amber #EBA862
 CHINESE_COLOR = "&H00FFFFFF"
 
 # PlayResY - MarginV for each style (bottom-aligned anchor y), used both by
@@ -148,6 +148,29 @@ def pair_cues(en_cues, cs_cues):
     return events
 
 
+def trim_same_style_overlaps(events):
+    """Where two cues of the SAME style (English-English or
+    Chinese-Chinese) overlap in time, trim the earlier cue's end to the
+    later cue's start. Each line renders at a fixed \\pos(), so without
+    this, overlapping same-style cues draw directly on top of each other
+    instead of stacking or replacing one another.
+    """
+    by_style = {}
+    for idx, (style, _start, _end, _text) in enumerate(events):
+        by_style.setdefault(style, []).append(idx)
+
+    trimmed = list(events)
+    for idxs in by_style.values():
+        idxs.sort(key=lambda i: events[i][1])
+        for k in range(len(idxs) - 1):
+            i, j = idxs[k], idxs[k + 1]
+            style, start, end, text = trimmed[i]
+            next_start = trimmed[j][1]
+            if end > next_start:
+                trimmed[i] = (style, start, max(start, next_start), text)
+    return trimmed
+
+
 def main():
     if len(sys.argv) != 2:
         print("Usage: merge_to_ass.py <base_path>", file=sys.stderr)
@@ -172,6 +195,7 @@ def main():
     cs_cues = parse_srt(cs_path)
     events = pair_cues(en_cues, cs_cues)
     events.sort(key=lambda e: e[1])
+    events = trim_same_style_overlaps(events)
 
     out_path = base.with_name(base.name + ".en_cs.ass")
     with out_path.open("w", encoding="utf-8") as f:

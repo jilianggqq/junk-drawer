@@ -1,10 +1,12 @@
 ---
 name: bilingual-subtitles
-description: Extract English and Chinese subtitles from video files (mkv/mp4/etc, via ffprobe/ffmpeg), save as <video>.en.srt and <video>.cs.srt, then merge them into a single bilingual <video>.en_cs.ass file with the English track colored per subtitle-color. Use when the user wants to extract, combine, or style video subtitles, or mentions bilingual subtitles, dual subtitles, or en_cs.ass.
+description: Extract English and Chinese text subtitles from video files with ffprobe and ffmpeg, then merge SRT pairs into styled bilingual ASS subtitles with amber English above white Chinese. Use for English-Chinese subtitle extraction, merging, or styling.
 ---
 
 Paths below are relative to the current working directory unless the user
-gives absolute paths. `<script-dir>` = `~/.claude/skills/bilingual-subtitles/scripts`.
+gives absolute paths. `<script-dir>` is the `scripts/` folder beside this SKILL.md. Resolve it from
+the installed skill location. Requires Python 3, ffprobe, and ffmpeg. The
+merge script uses only Python’s standard library.
 
 ## Workflow
 
@@ -19,7 +21,7 @@ them. Accept:
 - A folder — discover video files in it (`.mkv .mp4 .avi .mov .wmv .flv .ts
   .m2ts .webm`).
 
-### 2. Extract subtitles (same strategy as the video-subtitle-extractor agent)
+### 2. Extract subtitles
 For each video, base = filename without extension.
 
 Analyze streams:
@@ -47,16 +49,18 @@ ffmpeg -i "<video_path>" -map 0:<stream_index> -c:s srt "<base>.en.srt"
 If a language is missing, report it and skip that half of the merge step
 for that video (you need both `.en.srt` and a Chinese `.srt` to merge).
 
+Reuse existing matching SRTs when available. Check output and `assembly/`
+paths for collisions before extraction or merging; do not silently
+overwrite existing subtitles or backups. If embedded text subtitles are
+unavailable, report this instead of inventing translations or running OCR.
+
 ### 3. Merge into bilingual ASS
 ```
 python3 <script-dir>/merge_to_ass.py "<dir>/<base>"
 ```
 Reads `<base>.en.srt` and `<base>.cs.srt` (or `<base>.ct.srt` as fallback),
 writes `<base>.en_cs.ass` — English styled above Chinese, English
-`PrimaryColour` set to `&H0062A8EB` (`#EBA862`, the same color
-`~/.claude/commands/subtitle-color.md` uses), Chinese left white. This
-already applies the color change — no separate `/subtitle-color` call is
-needed for the merged file, since the script sets it directly in the
+`PrimaryColour` set to `&H0062A8EB` (`#EBA862`), Chinese left white. The script sets the color directly in the
 `[V4+ Styles]` section it writes.
 
 Each cue's text is collapsed to a single line: if the source SRT cue had
@@ -92,9 +96,10 @@ image-based subs skipped).
   section, not inline tags.
 - SRT timestamps use `,` for milliseconds; ASS uses `.` with centiseconds
   — the script converts this (`00:00:01,000` → `0:00:01.00`).
-- The script sorts merged events by start time; it does not attempt to
-  align English/Chinese cues that have slightly different timings — each
-  line renders independently.
+- The script greedily pairs overlapping English/Chinese cues one-to-one
+  and shares their timing window. Unpaired cues keep their original timing.
+  Events are sorted and same-language overlaps are trimmed to prevent
+  fixed-position lines from rendering on top of each other.
 - Multi-line SRT cues are joined into one line per language (space-joined),
   not kept as multiple ASS lines.
 - Overlapping English/Chinese cue pairs are re-timed to a shared window and
@@ -110,3 +115,7 @@ image-based subs skipped).
 - The script moves (not copies) `.en.srt`/`.cs.srt`/`.ct.srt` into
   `assembly/` after a successful merge — if you need to re-run the merge
   for a video, the sources will be in `assembly/`, not next to the video.
+
+## Sync after AI edits
+
+Whenever an AI modifies this skill, automatically synchronize the complete skill folder between `/Users/qiqiangguan/.codex/skills/bilingual-subtitles` and `/Users/qiqiangguan/GQQ/GitLocal/junk-drawer/skills/bilingual-subtitles` before reporting completion. This applies to `SKILL.md`, scripts, assets, presets, and other maintained skill files. Apply the final changes to both copies, including intentional file additions, renames, and removals; exclude generated caches such as `__pycache__` and `.pyc` files. Inspect differences first and preserve unrelated edits rather than blindly overwriting them. Verify that the maintained files match after syncing. If synchronization fails, report the failure and remaining differences explicitly. This requirement authorizes local synchronization; commit or push only when the user requests it.

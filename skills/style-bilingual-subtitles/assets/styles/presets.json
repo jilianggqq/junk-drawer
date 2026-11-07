@@ -1,0 +1,50 @@
+{
+  "amber-english": {
+    "label": "Amber English above white Chinese",
+    "description": "English Arial 52, Chinese Microsoft YaHei 56; fixed positions on a 1920×1080 canvas.",
+    "template": "amber-english.ass",
+    "layout": "separate",
+    "order": [
+      "English",
+      "Chinese"
+    ],
+    "positions": {
+      "English": "960,990",
+      "Chinese": "960,1050"
+    }
+  },
+  "pale-gold-chinese": {
+    "label": "Pale gold Chinese above English",
+    "description": "Both 微软雅黑 and pale gold; Chinese 55, English 45; bottom centered, shadow 1.5, margin 20 on a 1920×1080 canvas.",
+    "template": "pale-gold-chinese.ass",
+    "layout": "combined",
+    "style": "Subtitle",
+    "order": [
+      "Chinese",
+      "English"
+    ],
+    "font_sizes": {
+      "Chinese": 55,
+      "English": 45
+    }
+  },
+  "white-chinese": {
+    "label": "White Chinese above white English",
+    "description": "Chinese 方正黑体_GBK 16, English 微软雅黑 14; white, outline 2, shadow 1, bottom margin 2; reference uses implicit ASS resolution.",
+    "template": "white-chinese.ass",
+    "layout": "combined",
+    "style": "Default",
+    "order": [
+      "Chinese",
+      "English"
+    ],
+    "font_sizes": {
+      "Chinese": 16,
+      "English": 14
+    },
+    "font_names": {
+      "Chinese": "方正黑体_GBK",
+      "English": "微软雅黑"
+    }
+  }
+}
