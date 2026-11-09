@@ -1,0 +1,467 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,16,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:07.54,0:00:10.51,Default,,0000,0000,0000,,莫妮卡  你的保时捷能借我吗\N{\fn微软雅黑\fs14}Monica? Hey, can I borrow the Porsche?
+Dialogue: 0,0:00:10.81,0:00:12.17,Default,,0000,0000,0000,,-好的  -太好了\N{\fn微软雅黑\fs14}- Okay.  - All right!
+Dialogue: 0,0:00:12.74,0:00:15.14,Default,,0000,0000,0000,,有什么"不准"的呢\N{\fn微软雅黑\fs14}But what is it not?
+Dialogue: 0,0:00:15.75,0:00:18.11,Default,,0000,0000,0000,,不准在车上和我女性朋友玩乐\N{\fn微软雅黑\fs14}A place to entertain my lady friends.
+Dialogue: 0,0:00:19.18,0:00:21.07,Default,,0000,0000,0000,,还有什么呢\N{\fn微软雅黑\fs14}And what else is it not?
+Dialogue: 0,0:00:21.67,0:00:23.24,Default,,0000,0000,0000,,不准在车上吃意大利面\N{\fn微软雅黑\fs14}A place to eat spaghetti.
+Dialogue: 0,0:00:24.45,0:00:26.64,Default,,0000,0000,0000,,乖  你开车干嘛去\N{\fn微软雅黑\fs14}Very good. What do you need it for anyway?
+Dialogue: 0,0:00:26.69,0:00:29.47,Default,,0000,0000,0000,,强力球彩票的奖金已经累积到三亿了\N{\fn微软雅黑\fs14}The Powerball lottery is up to 300 million...
+Dialogue: 0,0:00:29.52,0:00:31.08,Default,,0000,0000,0000,,但是这里又没有卖的\N{\fn微软雅黑\fs14}and they don't sell tickets here.
+Dialogue: 0,0:00:31.28,0:00:33.18,Default,,0000,0000,0000,,所以你要开车到康涅狄格州去买\N{\fn微软雅黑\fs14}So you're driving up to Connecticut?
+Dialogue: 0,0:00:34.15,0:00:36.81,Default,,0000,0000,0000,,对  康涅狄格州  不是西弗吉尼亚州\N{\fn微软雅黑\fs14}Yeah, Connecticut. Not West Virginia.
+Dialogue: 0,0:00:38.89,0:00:40.72,Default,,0000,0000,0000,,也许我可以开车载你去\N{\fn微软雅黑\fs14}Maybe I'll drive you up there.
+Dialogue: 0,0:00:40.77,0:00:42.35,Default,,0000,0000,0000,,我也想买几张彩票\N{\fn微软雅黑\fs14}I'd like to buy some tickets myself.
+Dialogue: 0,0:00:42.40,0:00:45.86,Default,,0000,0000,0000,,钱德勒不挣钱  这三亿我们可以用一下\N{\fn微软雅黑\fs14}Yeah, with Chandler not getting paid, we could really use $300 million.
+Dialogue: 0,0:00:46.89,0:00:48.73,Default,,0000,0000,0000,,是的  如果我还是原来的工作\N{\fn微软雅黑\fs14}Yes, because if I was at my old job,
+Dialogue: 0,0:00:48.78,0:00:51.48,Default,,0000,0000,0000,,我们会说"三亿元  不用  谢了"\N{\fn微软雅黑\fs14}we'd say, ''300 million? No, thank you.''
+Dialogue: 0,0:00:53.55,0:00:54.87,Default,,0000,0000,0000,,你可以帮我买吗\N{\fn微软雅黑\fs14}Will you get me tickets too?
+Dialogue: 0,0:00:54.87,0:00:55.93,Default,,0000,0000,0000,,对啊  我也要\N{\fn微软雅黑\fs14}Yeah, me too.
+Dialogue: 0,0:00:55.98,0:00:57.70,Default,,0000,0000,0000,,-当然  -我有个主意\N{\fn微软雅黑\fs14}- Sure.  - I have an idea.
+Dialogue: 0,0:00:57.75,0:01:01.18,Default,,0000,0000,0000,,我们一人拿五十块钱  一起买\N{\fn微软雅黑\fs14}Why don't we all pitch in 50 bucks, we'll pool our money together...
+Dialogue: 0,0:01:01.23,0:01:02.73,Default,,0000,0000,0000,,如果我们中奖  大家平分\N{\fn微软雅黑\fs14}and then if we win, we'll split it.
+Dialogue: 0,0:01:02.78,0:01:04.91,Default,,0000,0000,0000,,这主意不错\N{\fn微软雅黑\fs14}That's a great idea!
+Dialogue: 0,0:01:05.49,0:01:06.66,Default,,0000,0000,0000,,不用  谢了\N{\fn微软雅黑\fs14}No, thanks.
+Dialogue: 0,0:01:08.40,0:01:10.18,Default,,0000,0000,0000,,你不想要中彩票吗\N{\fn微软雅黑\fs14}You don't wanna win the lottery?
+Dialogue: 0,0:01:10.18,0:01:11.00,Default,,0000,0000,0000,,我当然想\N{\fn微软雅黑\fs14}Sure I do.
+Dialogue: 0,0:01:11.05,0:01:13.31,Default,,0000,0000,0000,,我还想当国王呢\N{\fn微软雅黑\fs14}I also want to be king of my own country...
+Dialogue: 0,0:01:13.36,0:01:15.88,Default,,0000,0000,0000,,我还想知道阿梅莉亚·埃尔哈特怎么了\N{\fn微软雅黑\fs14}...and find out what happened to Amelia Earhart.
+Dialogue: 0,0:01:16.42,0:01:17.96,Default,,0000,0000,0000,,还在想那个女飞行员吗\N{\fn微软雅黑\fs14}Still on Amelia Earhart?
+Dialogue: 0,0:01:18.01,0:01:19.85,Default,,0000,0000,0000,,那女人就那样消失了\N{\fn微软雅黑\fs14}The woman just vanished!
+Dialogue: 0,0:01:21.28,0:01:22.95,Default,,0000,0000,0000,,说真的  你真的不加入吗\N{\fn微软雅黑\fs14}Seriously, you don't want in on this?
+Dialogue: 0,0:01:23.00,0:01:24.41,Default,,0000,0000,0000,,不要  你们知道\N{\fn微软雅黑\fs14}No. Do you know what
+Dialogue: 0,0:01:24.46,0:01:26.43,Default,,0000,0000,0000,,中彩票的机率有多大吗\N{\fn微软雅黑\fs14}your odds are of winning the lottery?
+Dialogue: 0,0:01:26.48,0:01:30.14,Default,,0000,0000,0000,,比你被雷劈四十二次的机率还小\N{\fn微软雅黑\fs14}I mean, you have a better chance of being struck by lightning 42 times.
+Dialogue: 0,0:01:30.19,0:01:31.57,Default,,0000,0000,0000,,但是我们有六个人\N{\fn微软雅黑\fs14}But there's six of us,
+Dialogue: 0,0:01:31.62,0:01:33.45,Default,,0000,0000,0000,,所以我们只需要被打到七次\N{\fn微软雅黑\fs14}so we'd only have to get struck 7 times.
+Dialogue: 0,0:01:33.59,0:01:35.18,Default,,0000,0000,0000,,我喜欢这种机率\N{\fn微软雅黑\fs14}I like those odds!
+Dialogue: 0,0:01:36.70,0:01:38.08,Default,,0000,0000,0000,,真的  你们  我不敢相信\N{\fn微软雅黑\fs14}Seriously, you guys, I can't believe
+Dialogue: 0,0:01:38.13,0:01:40.83,Default,,0000,0000,0000,,你们居然花了两百五十块买彩票\N{\fn微软雅黑\fs14}you're gonna spend $250 on the lottery.
+Dialogue: 0,0:01:40.88,0:01:43.67,Default,,0000,0000,0000,,这实在太狗便便了吧\N{\fn微软雅黑\fs14}I mean, that's such a bunch of boo-hockey.
+Dialogue: 0,0:01:47.32,0:01:48.35,Default,,0000,0000,0000,,我来问\N{\fn微软雅黑\fs14}I'll ask.
+Dialogue: 0,0:01:49.87,0:01:51.10,Default,,0000,0000,0000,,狗便便\N{\fn微软雅黑\fs14}''Boo-hockey''?
+Dialogue: 0,0:01:52.40,0:01:54.74,Default,,0000,0000,0000,,艾玛已经要开始学说话了\N{\fn微软雅黑\fs14}Oh, we think Emma's about to start talking...
+Dialogue: 0,0:01:54.79,0:01:58.09,Default,,0000,0000,0000,,所以我们在她面前会注意用词\N{\fn微软雅黑\fs14}...so we're trying to be careful about what words we use in front of her.
+Dialogue: 0,0:01:58.52,0:02:00.92,Default,,0000,0000,0000,,准备好吧  你们会听到很多的狗便便\N{\fn微软雅黑\fs14}So get ready to hear a lot of boo-hockey...
+Dialogue: 0,0:02:00.97,0:02:02.95,Default,,0000,0000,0000,,"去安息吧"还有"她母亲的"等等\N{\fn微软雅黑\fs14}...gosh darn it and brother pucker.
+Dialogue: 0,0:02:05.43,0:02:07.09,Default,,0000,0000,0000,,你怎么知道她要开始说话了\N{\fn微软雅黑\fs14}How do you know she's gonna start talking?
+Dialogue: 0,0:02:07.29,0:02:08.46,Default,,0000,0000,0000,,我跟她说话的时候\N{\fn微软雅黑\fs14}When I talk to her,
+Dialogue: 0,0:02:08.51,0:02:10.77,Default,,0000,0000,0000,,我似乎感觉到  她好像能听懂\N{\fn微软雅黑\fs14}I almost feel like she understands what I'm saying.
+Dialogue: 0,0:02:10.96,0:02:12.22,Default,,0000,0000,0000,,有点像乔伊\N{\fn微软雅黑\fs14}Kind of like Joey.
+Dialogue: 0,0:02:14.53,0:02:15.66,Default,,0000,0000,0000,,你说什么\N{\fn微软雅黑\fs14}What's that now?
+Dialogue: 0,0:02:17.70,0:02:19.87,Default,,0000,0000,0000,,《老友记》  第九季 第18集  彩票啊彩票\N{\fn微软雅黑\fs14}Friends S09E18 The One With The Lottery
+Dialogue: 0,0:03:09.50,0:03:13.18,Default,,0000,0000,0000,,天啊  瞧瞧这些彩票  激动人心啊\N{\fn微软雅黑\fs14}God, look at all these tickets. It's so exciting.
+Dialogue: 0,0:03:13.23,0:03:14.41,Default,,0000,0000,0000,,自从六年级后\N{\fn微软雅黑\fs14}I haven't won anything
+Dialogue: 0,0:03:14.46,0:03:15.67,Default,,0000,0000,0000,,我就没有赢过任何东西了\N{\fn微软雅黑\fs14}since sixth grade.
+Dialogue: 0,0:03:15.72,0:03:17.02,Default,,0000,0000,0000,,吃派大赛吗\N{\fn微软雅黑\fs14}Pie-eating contest?
+Dialogue: 0,0:03:19.86,0:03:21.56,Default,,0000,0000,0000,,因为我原来很胖\N{\fn微软雅黑\fs14}You assume because I was heavy
+Dialogue: 0,0:03:21.61,0:03:23.22,Default,,0000,0000,0000,,你就以为那是我唯一能赢的比赛吗\N{\fn微软雅黑\fs14}that's the only way I could win something?
+Dialogue: 0,0:03:23.38,0:03:25.73,Default,,0000,0000,0000,,不  我看过你全身都是蓝莓的照片\N{\fn微软雅黑\fs14}No, I saw a picture of you covered in blueberries.
+Dialogue: 0,0:03:26.70,0:03:28.42,Default,,0000,0000,0000,,-那天还真开心啊  -是啊\N{\fn微软雅黑\fs14}- That was a good day.  - Yeah.
+Dialogue: 0,0:03:30.02,0:03:32.36,Default,,0000,0000,0000,,他们要把你的车拖走了\N{\fn微软雅黑\fs14}They're towing your car!
+Dialogue: 0,0:03:32.61,0:03:34.27,Default,,0000,0000,0000,,我车停在莫顿的车库里\N{\fn微软雅黑\fs14}I'm parked in a garage on Morton.
+Dialogue: 0,0:03:34.82,0:03:36.58,Default,,0000,0000,0000,,他们要把一辆车拖走了\N{\fn微软雅黑\fs14}They're towing a car.
+Dialogue: 0,0:03:37.56,0:03:40.40,Default,,0000,0000,0000,,而我眼冒金星了\N{\fn微软雅黑\fs14}And I am seeing spots.
+Dialogue: 0,0:03:41.50,0:03:43.30,Default,,0000,0000,0000,,罗斯  你没带艾玛\N{\fn微软雅黑\fs14}Ross, you don't have Emma!
+Dialogue: 0,0:03:43.35,0:03:44.46,Default,,0000,0000,0000,,瑞秋  你也没有在带艾玛\N{\fn微软雅黑\fs14}Rachel, you don't have Emma!
+Dialogue: 0,0:03:44.51,0:03:45.80,Default,,0000,0000,0000,,艾玛呢  艾玛到哪去了\N{\fn微软雅黑\fs14}Where's Emma? Who has Emma?
+Dialogue: 0,0:03:45.85,0:03:46.73,Default,,0000,0000,0000,,乔伊  别紧张\N{\fn微软雅黑\fs14}Joey, relax.
+Dialogue: 0,0:03:46.78,0:03:50.40,Default,,0000,0000,0000,,两小时前  我妈把她接走了  你也在啊\N{\fn微软雅黑\fs14}My mother picked her up two hours ago. You were there.
+Dialogue: 0,0:03:52.28,0:03:53.24,Default,,0000,0000,0000,,有吗\N{\fn微软雅黑\fs14}I was?
+Dialogue: 0,0:03:53.24,0:03:55.36,Default,,0000,0000,0000,,是的  你还跟她说话\N{\fn微软雅黑\fs14}Yes, and you talked to her.
+Dialogue: 0,0:03:55.60,0:03:58.79,Default,,0000,0000,0000,,-我有吗  -她还带来了砂锅菜来\N{\fn微软雅黑\fs14}- I did?  - She dropped off a casserole.
+Dialogue: 0,0:03:58.84,0:04:00.83,Default,,0000,0000,0000,,对  那个砂锅夫人\N{\fn微软雅黑\fs14}Oh, yeah, the casserole lady.
+Dialogue: 0,0:04:02.17,0:04:04.59,Default,,0000,0000,0000,,你是过来看我们中大奖的吗\N{\fn微软雅黑\fs14}Did you come by to watch us win the big bucks?
+Dialogue: 0,0:04:04.64,0:04:06.79,Default,,0000,0000,0000,,是啊  我还想在你们中奖后\N{\fn微软雅黑\fs14}Yeah. And then I figured after you win,
+Dialogue: 0,0:04:06.84,0:04:08.32,Default,,0000,0000,0000,,全部到阳台上\N{\fn微软雅黑\fs14}we can all go out to the balcony...
+Dialogue: 0,0:04:08.37,0:04:11.76,Default,,0000,0000,0000,,看小精灵在夜之彩虹上跳舞\N{\fn微软雅黑\fs14}and see a night rainbow with gremlins dancing on top of it.
+Dialogue: 0,0:04:13.93,0:04:16.23,Default,,0000,0000,0000,,别碰电话  我来接\N{\fn微软雅黑\fs14}Don't touch the phone! I'll get it!
+Dialogue: 0,0:04:16.81,0:04:18.86,Default,,0000,0000,0000,,-你觉得他有洗手吗  -你好\N{\fn微软雅黑\fs14}- You think he washed his hands?  - Hello?
+Dialogue: 0,0:04:19.40,0:04:20.87,Default,,0000,0000,0000,,查理  有什么消息\N{\fn微软雅黑\fs14}Hey, Charlie, what do you know?
+Dialogue: 0,0:04:20.87,0:04:21.49,Default,,0000,0000,0000,,怎么回事\N{\fn微软雅黑\fs14}What's going on?
+Dialogue: 0,0:04:21.54,0:04:22.70,Default,,0000,0000,0000,,他们公司开始决定雇佣谁了\N{\fn微软雅黑\fs14}Chandler's supposed to find out
+Dialogue: 0,0:04:22.75,0:04:24.85,Default,,0000,0000,0000,,钱德勒在等消息\N{\fn微软雅黑\fs14}if he's getting a job at his agency.
+Dialogue: 0,0:04:24.90,0:04:26.51,Default,,0000,0000,0000,,但在十五名实习生中\N{\fn微软雅黑\fs14}But out of 15 interns,
+Dialogue: 0,0:04:26.56,0:04:27.89,Default,,0000,0000,0000,,他们只聘请三个人\N{\fn微软雅黑\fs14}they're only hiring three.
+Dialogue: 0,0:04:27.94,0:04:30.08,Default,,0000,0000,0000,,-机率真小  -是啊\N{\fn微软雅黑\fs14}- Tough odds.  - Yeah.
+Dialogue: 0,0:04:30.13,0:04:31.33,Default,,0000,0000,0000,,像你们二十四州联合彩票的\N{\fn微软雅黑\fs14}If only it were a sure thing
+Dialogue: 0,0:04:31.38,0:04:33.16,Default,,0000,0000,0000,,机率一样高\N{\fn微软雅黑\fs14}like your 24-state lottery.
+Dialogue: 0,0:04:34.97,0:04:37.38,Default,,0000,0000,0000,,是啊  瞧瞧谁想通了\N{\fn微软雅黑\fs14}Yeah, look who's coming around!
+Dialogue: 0,0:04:38.88,0:04:41.57,Default,,0000,0000,0000,,该死  好啦  有消息再通知我\N{\fn微软雅黑\fs14}Damn it. All right, call me when you know more.
+Dialogue: 0,0:04:43.79,0:04:47.01,Default,,0000,0000,0000,,-用你了吗  -一个名额已经被占了\N{\fn微软雅黑\fs14}- Did you get it?  - One of the slots got filled.
+Dialogue: 0,0:04:47.32,0:04:51.27,Default,,0000,0000,0000,,-被你吗  -听话听音\N{\fn微软雅黑\fs14}- By you?  - Sense the tone.
+Dialogue: 0,0:04:52.90,0:04:54.71,Default,,0000,0000,0000,,不是我  是个叫内特的小子\N{\fn微软雅黑\fs14}No, that kid Nate got it.
+Dialogue: 0,0:04:54.76,0:04:56.63,Default,,0000,0000,0000,,喔  我讨厌那小子\N{\fn微软雅黑\fs14}Oh, I hate that guy.
+Dialogue: 0,0:04:56.68,0:04:57.36,Default,,0000,0000,0000,,真想说  有没有搞错\N{\fn微软雅黑\fs14}I mean, come on,
+Dialogue: 0,0:04:57.41,0:04:58.82,Default,,0000,0000,0000,,小子  把裤子提上去\N{\fn微软雅黑\fs14}kid, pull up your pants!
+Dialogue: 0,0:05:00.17,0:05:02.11,Default,,0000,0000,0000,,还有两个名额不是吗\N{\fn微软雅黑\fs14}Well, there's two spots left, right?
+Dialogue: 0,0:05:02.16,0:05:05.16,Default,,0000,0000,0000,,是  我真的好想要  我想要被录取\N{\fn微软雅黑\fs14}Yeah. I mean, I want this so much. I wanna get one.
+Dialogue: 0,0:05:05.21,0:05:07.00,Default,,0000,0000,0000,,也希望我朋友查理被录取\N{\fn微软雅黑\fs14}I want my friend Charlie to get one.
+Dialogue: 0,0:05:07.40,0:05:08.98,Default,,0000,0000,0000,,其实我不是很在乎查理\N{\fn微软雅黑\fs14}Except I don't care about Charlie.
+Dialogue: 0,0:05:11.25,0:05:12.73,Default,,0000,0000,0000,,-嘿  你们好  -嘿\N{\fn微软雅黑\fs14}- Hey, you guys.  - Hey!
+Dialogue: 0,0:05:12.78,0:05:14.39,Default,,0000,0000,0000,,你们不会相信的\N{\fn微软雅黑\fs14}You are not gonna believe this.
+Dialogue: 0,0:05:14.44,0:05:15.68,Default,,0000,0000,0000,,我刚刚遇到我的算命师傅\N{\fn微软雅黑\fs14}I just saw my psychic.
+Dialogue: 0,0:05:15.73,0:05:18.93,Default,,0000,0000,0000,,她说我今晚一定会中彩票的\N{\fn微软雅黑\fs14}and she said I was definitely gonna win the lottery tonight!
+Dialogue: 0,0:05:20.66,0:05:23.21,Default,,0000,0000,0000,,提醒我了  我想要增加好运\N{\fn微软雅黑\fs14}That's reminds me.I thought we could use some extra luck...
+Dialogue: 0,0:05:23.26,0:05:25.01,Default,,0000,0000,0000,,所以从餐厅带了个幸运骨头回来\N{\fn微软雅黑\fs14}...so I brought a wishbone home from work.
+Dialogue: 0,0:05:25.06,0:05:27.68,Default,,0000,0000,0000,,算命师傅再加上幸运骨头\N{\fn微软雅黑\fs14}A psychic and a wishbone?
+Dialogue: 0,0:05:28.22,0:05:30.98,Default,,0000,0000,0000,,拜托给别人留点机会吧\N{\fn微软雅黑\fs14}Guys, give someone else a chance.
+Dialogue: 0,0:05:32.14,0:05:33.60,Default,,0000,0000,0000,,好了  谁来\N{\fn微软雅黑\fs14}All right, who wants to do it?
+Dialogue: 0,0:05:33.60,0:05:34.41,Default,,0000,0000,0000,,我可以吗\N{\fn微软雅黑\fs14}Can I?
+Dialogue: 0,0:05:34.46,0:05:36.76,Default,,0000,0000,0000,,素食者从来就没机会玩幸运骨头\N{\fn微软雅黑\fs14}Vegetarians never get to do the wishbone.
+Dialogue: 0,0:05:37.63,0:05:40.64,Default,,0000,0000,0000,,特别不公平  我们只是不吃肉\N{\fn微软雅黑\fs14}It's really not fair. Just because we don't eat the meat...
+Dialogue: 0,0:05:40.69,0:05:42.72,Default,,0000,0000,0000,,不代表我们不喜欢玩尸骨\N{\fn微软雅黑\fs14}...doesn't mean we don't like to play with the carcasses.
+Dialogue: 0,0:05:44.29,0:05:46.00,Default,,0000,0000,0000,,好了  瑞秋呢\N{\fn微软雅黑\fs14}All right. Rach?
+Dialogue: 0,0:05:46.10,0:05:48.75,Default,,0000,0000,0000,,我不想要让手沾上火鸡的味道\N{\fn微软雅黑\fs14}I don't want that turkey smell all over my hands.
+Dialogue: 0,0:05:48.80,0:05:51.79,Default,,0000,0000,0000,,我来  我要把砂锅菜的味道盖过去\N{\fn微软雅黑\fs14}I'll do it! It'll get the casserole stink off of mine.
+Dialogue: 0,0:05:54.87,0:05:57.23,Default,,0000,0000,0000,,-希望我会赢  -嗯  没有关系\N{\fn微软雅黑\fs14}- I hope I win.  - Well, it doesn't really matter.
+Dialogue: 0,0:05:57.28,0:05:59.36,Default,,0000,0000,0000,,你们的愿望是一样的\N{\fn微软雅黑\fs14}You're both wishing for the same thing.
+Dialogue: 0,0:05:59.79,0:06:01.24,Default,,0000,0000,0000,,我不能告诉你我许什么愿\N{\fn微软雅黑\fs14}I can't tell you what I'm wishing for,
+Dialogue: 0,0:06:01.29,0:06:04.10,Default,,0000,0000,0000,,要不然不会实现的\N{\fn微软雅黑\fs14}or else, you know, it won't come true.
+Dialogue: 0,0:06:04.97,0:06:07.89,Default,,0000,0000,0000,,对  但是我们都知道你许什么愿\N{\fn微软雅黑\fs14}Right. But we know what you're wishing for.
+Dialogue: 0,0:06:08.05,0:06:11.24,Default,,0000,0000,0000,,-我真不能讲出来  -我了解\N{\fn微软雅黑\fs14}- I can't really say.  - I understand.
+Dialogue: 0,0:06:11.29,0:06:13.77,Default,,0000,0000,0000,,但你许的愿跟我们想的一样  不是吗\N{\fn微软雅黑\fs14}But you're wishing for what we think, aren't you?
+Dialogue: 0,0:06:13.93,0:06:15.90,Default,,0000,0000,0000,,我真的很不喜欢这些问题\N{\fn微软雅黑\fs14}I'm not really comfortable with these questions!
+Dialogue: 0,0:06:16.78,0:06:18.77,Default,,0000,0000,0000,,-拜托  -赶快做\N{\fn微软雅黑\fs14}- Please!  - Just do it!
+Dialogue: 0,0:06:18.82,0:06:20.99,Default,,0000,0000,0000,,好的  一  二  三\N{\fn微软雅黑\fs14}Okay. One, two, three.
+Dialogue: 0,0:06:21.32,0:06:22.57,Default,,0000,0000,0000,,我赢了  嘿\N{\fn微软雅黑\fs14}I won! Hey!
+Dialogue: 0,0:06:23.23,0:06:23.97,Default,,0000,0000,0000,,你们知道吗\N{\fn微软雅黑\fs14}You know what?
+Dialogue: 0,0:06:24.02,0:06:26.18,Default,,0000,0000,0000,,我确定你们的愿望会成真\N{\fn微软雅黑\fs14}I'm sure your wish is gonna come true.
+Dialogue: 0,0:06:26.23,0:06:27.67,Default,,0000,0000,0000,,但是  为了以防万一\N{\fn微软雅黑\fs14}But, you guys, just in case,
+Dialogue: 0,0:06:27.72,0:06:30.88,Default,,0000,0000,0000,,我们来擦这个灯  或许灯神会出现\N{\fn微软雅黑\fs14}maybe a genie will come out if we rub this lamp.
+Dialogue: 0,0:06:32.73,0:06:34.23,Default,,0000,0000,0000,,那东西好烫啊\N{\fn微软雅黑\fs14}That thing gets hot!
+Dialogue: 0,0:06:35.08,0:06:36.95,Default,,0000,0000,0000,,罗斯  你可以继续取笑我们\N{\fn微软雅黑\fs14}Ross, just keep making your jokes.
+Dialogue: 0,0:06:37.00,0:06:39.25,Default,,0000,0000,0000,,万一我们真中奖了  你怎么想\N{\fn微软雅黑\fs14}How are you gonna feel if we actually do win?
+Dialogue: 0,0:06:39.30,0:06:41.03,Default,,0000,0000,0000,,你们不会中的\N{\fn微软雅黑\fs14}You're not gonna win.
+Dialogue: 0,0:06:41.03,0:06:42.58,Default,,0000,0000,0000,,我知道机率很小\N{\fn微软雅黑\fs14}I know the odds are against us...
+Dialogue: 0,0:06:42.63,0:06:44.16,Default,,0000,0000,0000,,但是总是有人会中\N{\fn微软雅黑\fs14}...but somebody has to win,
+Dialogue: 0,0:06:44.21,0:06:46.86,Default,,0000,0000,0000,,也有可能是我们  到时候你怎么想\N{\fn微软雅黑\fs14}and it could be us. And then how you gonna feel?
+Dialogue: 0,0:06:46.91,0:06:50.84,Default,,0000,0000,0000,,我们会说"大家开直升机去海岬玩吧"\N{\fn微软雅黑\fs14}We're gonna be like, ''Everybody, let's take our helicopters up to the Cape.''
+Dialogue: 0,0:06:50.89,0:06:53.51,Default,,0000,0000,0000,,而你只能说  我不行…\N{\fn微软雅黑\fs14}And you're gonna be all, like, ''Oh, I can't, guys.
+Dialogue: 0,0:06:53.56,0:06:56.08,Default,,0000,0000,0000,,待会见好了  我得给我的现代加油\N{\fn微软雅黑\fs14}I'll have to meet you up there. I gotta gas up the Hyundai.''
+Dialogue: 0,0:07:00.63,0:07:02.18,Default,,0000,0000,0000,,够了  我听过自己的录音\N{\fn微软雅黑\fs14}Okay, I've heard myself on tape,
+Dialogue: 0,0:07:02.23,0:07:03.82,Default,,0000,0000,0000,,根本不是这样的\N{\fn微软雅黑\fs14}and I sound nothing like that.
+Dialogue: 0,0:07:05.50,0:07:06.86,Default,,0000,0000,0000,,到时候头条新闻是这样的\N{\fn微软雅黑\fs14}I can see the headline now:
+Dialogue: 0,0:07:06.91,0:07:08.03,Default,,0000,0000,0000,,"因见好友们中彩票\N{\fn微软雅黑\fs14}''Lottery Winners' Friend,
+Dialogue: 0,0:07:08.08,0:07:10.09,Default,,0000,0000,0000,,懊悔不已   自食手臂"\N{\fn微软雅黑\fs14}Filled With Regret, Eats Own Arm.''
+Dialogue: 0,0:07:11.50,0:07:12.99,Default,,0000,0000,0000,,我为什么要吃自己的手臂\N{\fn微软雅黑\fs14}Why would I eat my own arm?
+Dialogue: 0,0:07:13.04,0:07:13.79,Default,,0000,0000,0000,,你当然不会\N{\fn微软雅黑\fs14}Well, you wouldn't,
+Dialogue: 0,0:07:13.84,0:07:15.38,Default,,0000,0000,0000,,但我们可以买下那报社  爱怎么写就怎么写\N{\fn微软雅黑\fs14}but we own the paper. We can print whatever we want.
+Dialogue: 0,0:07:16.78,0:07:19.44,Default,,0000,0000,0000,,你知道吗  我帮你出五十块好了\N{\fn微软雅黑\fs14}You know what? I'm gonna throw in 50 bucks for you.
+Dialogue: 0,0:07:20.27,0:07:22.13,Default,,0000,0000,0000,,-为什么  -因为我知道你认为\N{\fn微软雅黑\fs14}- Why?  - Because I know that you think...
+Dialogue: 0,0:07:22.18,0:07:24.29,Default,,0000,0000,0000,,彩票是很狗便便的东西\N{\fn微软雅黑\fs14}that the lottery is boo-hockey...
+Dialogue: 0,0:07:25.62,0:07:29.25,Default,,0000,0000,0000,,但大家在一起等着开奖  会很好玩的\N{\fn微软雅黑\fs14}...but we're all here, and we're gonna watch the numbers and have fun.
+Dialogue: 0,0:07:29.50,0:07:32.45,Default,,0000,0000,0000,,你是我哥  我希望你也有份\N{\fn微软雅黑\fs14}And you're my brother, and I want you to be a part of this.
+Dialogue: 0,0:07:34.17,0:07:37.76,Default,,0000,0000,0000,,你不用这样  我自己付钱好了\N{\fn微软雅黑\fs14}You don't have to do that. I mean, I'll pay for myself.
+Dialogue: 0,0:07:38.04,0:07:40.92,Default,,0000,0000,0000,,你想让我和你们一起开心\N{\fn微软雅黑\fs14}But just the fact that you want me to have fun with you guys,
+Dialogue: 0,0:07:40.97,0:07:41.71,Default,,0000,0000,0000,,真的是太窝心了\N{\fn微软雅黑\fs14}that's so sweet.
+Dialogue: 0,0:07:41.76,0:07:42.49,Default,,0000,0000,0000,,过来\N{\fn微软雅黑\fs14}Come here.
+Dialogue: 0,0:07:44.75,0:07:46.12,Default,,0000,0000,0000,,开房去吧\N{\fn微软雅黑\fs14}Get a room.
+Dialogue: 0,0:07:50.61,0:07:52.02,Default,,0000,0000,0000,,你已经加入了\N{\fn微软雅黑\fs14}So now that you're in,
+Dialogue: 0,0:07:52.07,0:07:53.27,Default,,0000,0000,0000,,要是中奖了  你会干嘛\N{\fn微软雅黑\fs14}what are you gonna do if we win?
+Dialogue: 0,0:07:53.32,0:07:55.44,Default,,0000,0000,0000,,我不知道  或许投资吧\N{\fn微软雅黑\fs14}I don't know. I'll probably just invest it.
+Dialogue: 0,0:07:55.58,0:07:56.97,Default,,0000,0000,0000,,你能再冷静点吗\N{\fn微软雅黑\fs14}Calm down.
+Dialogue: 0,0:07:58.28,0:07:59.63,Default,,0000,0000,0000,,正经点  这就是你的白日梦\N{\fn微软雅黑\fs14}Seriously, that's your fantasy?
+Dialogue: 0,0:07:59.68,0:08:00.92,Default,,0000,0000,0000,,就是投资\N{\fn微软雅黑\fs14}To invest it?
+Dialogue: 0,0:08:01.09,0:08:02.58,Default,,0000,0000,0000,,我很抱歉  我是说投资吗\N{\fn微软雅黑\fs14}Oh, I'm sorry. Did I say, ''invest it''?
+Dialogue: 0,0:08:02.63,0:08:04.86,Default,,0000,0000,0000,,我的意思是"快乐的全部花光光"\N{\fn微软雅黑\fs14}I meant, ''Be cool and piss it all away.''
+Dialogue: 0,0:08:08.30,0:08:10.70,Default,,0000,0000,0000,,我知道了  我们该把全部的钱凑起来\N{\fn微软雅黑\fs14}I know! We should pool all our money
+Dialogue: 0,0:08:10.75,0:08:11.92,Default,,0000,0000,0000,,买下尼克斯队\N{\fn微软雅黑\fs14}and buy the Knicks!
+Dialogue: 0,0:08:12.09,0:08:13.97,Default,,0000,0000,0000,,我不是很在乎尼克斯队\N{\fn微软雅黑\fs14}I don't really care about the Knicks.
+Dialogue: 0,0:08:14.02,0:08:16.52,Default,,0000,0000,0000,,如果我选你当前锋  你就会了\N{\fn微软雅黑\fs14}You will when I pick you as starting forward.
+Dialogue: 0,0:08:17.60,0:08:21.09,Default,,0000,0000,0000,,你会那样做吗  我从没有被选上\N{\fn微软雅黑\fs14}You would do that? I never get picked!
+Dialogue: 0,0:08:22.22,0:08:24.38,Default,,0000,0000,0000,,我不确定球队会是正确的选择\N{\fn微软雅黑\fs14}I'm not sure a sports team is the way to go.
+Dialogue: 0,0:08:24.43,0:08:25.89,Default,,0000,0000,0000,,你不让我买尼克斯队吗\N{\fn微软雅黑\fs14}You won't let me buy the Knicks?
+Dialogue: 0,0:08:25.94,0:08:27.63,Default,,0000,0000,0000,,不敢相信你要打破我的梦想\N{\fn微软雅黑\fs14}I can't believe you're taking this away.
+Dialogue: 0,0:08:27.98,0:08:30.93,Default,,0000,0000,0000,,你说的对  这个梦想已经有十五秒之久了\N{\fn微软雅黑\fs14}You're right, it has been your dream for over 15 seconds.
+Dialogue: 0,0:08:32.62,0:08:35.25,Default,,0000,0000,0000,,还要多久才会摇奖  妈咪\N{\fn微软雅黑\fs14}How long until they announce the numbers, Mommy?
+Dialogue: 0,0:08:36.72,0:08:39.86,Default,,0000,0000,0000,,这个也让我来  "妈咪"\N{\fn微软雅黑\fs14}I'll take this one too. ''Mommy''?
+Dialogue: 0,0:08:41.41,0:08:44.29,Default,,0000,0000,0000,,喔  我要习惯叫瑞秋"妈咪"\N{\fn微软雅黑\fs14}Oh, I've gotten into the habit of calling Rachel...
+Dialogue: 0,0:08:44.34,0:08:45.94,Default,,0000,0000,0000,,只要是艾玛在场\N{\fn微软雅黑\fs14}...''Mommy'' when we're around Emma.
+Dialogue: 0,0:08:46.39,0:08:49.03,Default,,0000,0000,0000,,我现在发现她并不在\N{\fn微软雅黑\fs14}Which I now realize we are not.
+Dialogue: 0,0:08:51.24,0:08:54.63,Default,,0000,0000,0000,,希望她听久了  她第一句话会说这个\N{\fn微软雅黑\fs14}I'm hoping that if she hears it enough, it'll be her first word.
+Dialogue: 0,0:08:54.68,0:08:55.85,Default,,0000,0000,0000,,如果真的要这样做\N{\fn微软雅黑\fs14}Although if we're gonna do that,
+Dialogue: 0,0:08:55.90,0:08:58.08,Default,,0000,0000,0000,,你也应该叫我"爹地"才对\N{\fn微软雅黑\fs14}we should probably call me ''Daddy'' too.
+Dialogue: 0,0:08:59.74,0:09:01.24,Default,,0000,0000,0000,,我喜欢哦  爹地\N{\fn微软雅黑\fs14}I like that, Daddy.
+Dialogue: 0,0:09:05.75,0:09:08.94,Default,,0000,0000,0000,,我只是在说瑞秋\N{\fn微软雅黑\fs14}I was just talking about Rachel.
+Dialogue: 0,0:09:08.99,0:09:10.89,Default,,0000,0000,0000,,爹地生气了吗\N{\fn微软雅黑\fs14}Is Daddy getting angry?
+Dialogue: 0,0:09:13.90,0:09:15.50,Default,,0000,0000,0000,,爹地要打我吗\N{\fn微软雅黑\fs14}Is Daddy gonna spank me?
+Dialogue: 0,0:09:18.20,0:09:19.81,Default,,0000,0000,0000,,嗯  那要看\N{\fn微软雅黑\fs14}Well, that depends.
+Dialogue: 0,0:09:20.64,0:09:22.48,Default,,0000,0000,0000,,你是不是不乖...\N{\fn微软雅黑\fs14}Have you been a bad--?
+Dialogue: 0,0:09:22.53,0:09:23.66,Default,,0000,0000,0000,,不行  我演不下去\N{\fn微软雅黑\fs14}No, I can't.
+Dialogue: 0,0:09:26.89,0:09:30.27,Default,,0000,0000,0000,,哈啰  嘿  查理  还有其他人吗\N{\fn微软雅黑\fs14}Hello? Hello? Hey, Charlie. Did anybody else hear?
+Dialogue: 0,0:09:32.14,0:09:34.55,Default,,0000,0000,0000,,什么  苏珊拿到了  怎么会呢\N{\fn微软雅黑\fs14}What? Susan got it? How?
+Dialogue: 0,0:09:34.86,0:09:37.01,Default,,0000,0000,0000,,喔  天啊  早知道我也跟他上床\N{\fn微软雅黑\fs14}Oh, man, I would've slept with him!
+Dialogue: 0,0:09:38.65,0:09:39.94,Default,,0000,0000,0000,,好了  拜\N{\fn微软雅黑\fs14}All right, bye.
+Dialogue: 0,0:09:41.25,0:09:43.04,Default,,0000,0000,0000,,老兄  我很抱歉\N{\fn微软雅黑\fs14}Dude, I'm sorry. But hey,
+Dialogue: 0,0:09:43.09,0:09:44.41,Default,,0000,0000,0000,,还有一个名额  不是吗\N{\fn微软雅黑\fs14}there's one spot left, right?
+Dialogue: 0,0:09:44.46,0:09:46.15,Default,,0000,0000,0000,,那也是查理的\N{\fn微软雅黑\fs14}Well, Charlie's gonna get that.
+Dialogue: 0,0:09:46.15,0:09:47.09,Default,,0000,0000,0000,,别那样说\N{\fn微软雅黑\fs14}Hey, don't say that.
+Dialogue: 0,0:09:47.14,0:09:49.80,Default,,0000,0000,0000,,你也有一样的机会\N{\fn微软雅黑\fs14}You've got just as good a chance of getting that job.
+Dialogue: 0,0:09:49.94,0:09:51.51,Default,,0000,0000,0000,,他是老板的儿子\N{\fn微软雅黑\fs14}He is the boss' son.
+Dialogue: 0,0:09:52.07,0:09:54.02,Default,,0000,0000,0000,,-来吧  彩票  -是啊\N{\fn微软雅黑\fs14}- Come on, lottery!  - Yeah!
+Dialogue: 0,0:09:54.48,0:09:56.63,Default,,0000,0000,0000,,大概二十分钟就开奖了\N{\fn微软雅黑\fs14}It starts in, like, 20 minutes.
+Dialogue: 0,0:09:56.68,0:09:57.71,Default,,0000,0000,0000,,好了  我们来吧\N{\fn微软雅黑\fs14}Okay, here we go.
+Dialogue: 0,0:09:57.76,0:10:01.18,Default,,0000,0000,0000,,我们需要尽快分配这些彩票对奖\N{\fn微软雅黑\fs14}We need to sort through the tickets quickly to see if we've won.
+Dialogue: 0,0:10:01.23,0:10:03.92,Default,,0000,0000,0000,,谁有主意要怎么安排吗\N{\fn微软雅黑\fs14}So does anybody have any ideas how to organize this?
+Dialogue: 0,0:10:03.97,0:10:05.29,Default,,0000,0000,0000,,好的  这样如何\N{\fn微软雅黑\fs14}Okay, how about this:
+Dialogue: 0,0:10:06.98,0:10:09.24,Default,,0000,0000,0000,,我们分成六组各四十张\N{\fn微软雅黑\fs14}We divide them into six groups of 40.
+Dialogue: 0,0:10:09.29,0:10:12.58,Default,,0000,0000,0000,,剩下的十张就由先对完的人来对\N{\fn微软雅黑\fs14}The remaining 10 can be read by whoever finishes first.
+Dialogue: 0,0:10:12.63,0:10:13.60,Default,,0000,0000,0000,,我还有一个主意\N{\fn微软雅黑\fs14}I have another idea.
+Dialogue: 0,0:10:13.65,0:10:15.22,Default,,0000,0000,0000,,很抱歉  提议时间已经过了\N{\fn微软雅黑\fs14}I'm sorry, idea time is over.
+Dialogue: 0,0:10:17.29,0:10:19.91,Default,,0000,0000,0000,,-所有的彩票都在碗里了吗  -是的\N{\fn微软雅黑\fs14}- Well, are all the tickets in the bowl?  - Yeah.
+Dialogue: 0,0:10:19.96,0:10:21.62,Default,,0000,0000,0000,,那床头柜上面的那些呢\N{\fn微软雅黑\fs14}What about the ones on the nightstand?
+Dialogue: 0,0:10:22.06,0:10:23.58,Default,,0000,0000,0000,,那边没有彩票\N{\fn微软雅黑\fs14}There are no tickets there.
+Dialogue: 0,0:10:23.63,0:10:25.44,Default,,0000,0000,0000,,那边有  我几分钟前才看到\N{\fn微软雅黑\fs14}Yes, there are. I just saw them a few minutes ago.
+Dialogue: 0,0:10:27.20,0:10:30.36,Default,,0000,0000,0000,,不对  没有  你看错了\N{\fn微软雅黑\fs14}No, you didn't. You must be mistaken.
+Dialogue: 0,0:10:30.41,0:10:32.23,Default,,0000,0000,0000,,床头柜上有二十张彩票\N{\fn微软雅黑\fs14}There are 20 tickets on the nightstand.
+Dialogue: 0,0:10:32.28,0:10:33.81,Default,,0000,0000,0000,,钱德勒  听话听音\N{\fn微软雅黑\fs14}Chandler, sense the tone.
+Dialogue: 0,0:10:35.69,0:10:39.11,Default,,0000,0000,0000,,哎呦喂  瞧瞧妈咪找到了什么\N{\fn微软雅黑\fs14}Well, well, well. Look what Mommy found.
+Dialogue: 0,0:10:40.78,0:10:44.49,Default,,0000,0000,0000,,好啦  我给自己和钱德勒多买了二十张\N{\fn微软雅黑\fs14}Okay, fine. I bought 20 extra tickets for me and Chandler.
+Dialogue: 0,0:10:45.14,0:10:47.89,Default,,0000,0000,0000,,算命的还说我会被朋友背叛\N{\fn微软雅黑\fs14}The psychic also said that I would be betrayed.
+Dialogue: 0,0:10:49.91,0:10:52.76,Default,,0000,0000,0000,,我不敢相信  我以为我们是一起的\N{\fn微软雅黑\fs14}I can't believe this. I thought we were all in this together.
+Dialogue: 0,0:10:52.86,0:10:55.29,Default,,0000,0000,0000,,你五分钟前才加入的\N{\fn微软雅黑\fs14}Hey, you just got in five minutes ago!
+Dialogue: 0,0:10:55.29,0:10:56.31,Default,,0000,0000,0000,,是三分钟前\N{\fn微软雅黑\fs14}Three minutes ago!
+Dialogue: 0,0:10:56.36,0:10:58.10,Default,,0000,0000,0000,,我不知道那有什么重要的\N{\fn微软雅黑\fs14}I don't know why that's important.
+Dialogue: 0,0:10:59.13,0:11:01.94,Default,,0000,0000,0000,,我们一直在一起\N{\fn微软雅黑\fs14}I was with you the whole time.
+Dialogue: 0,0:11:01.99,0:11:03.31,Default,,0000,0000,0000,,你是什么时候买的\N{\fn微软雅黑\fs14}When did you even get those?
+Dialogue: 0,0:11:03.59,0:11:07.10,Default,,0000,0000,0000,,就在你看未拆封的色情书刊的时候\N{\fn微软雅黑\fs14}When you were reading the dirty magazines without taking off the plastic.
+Dialogue: 0,0:11:08.31,0:11:09.66,Default,,0000,0000,0000,,我教你\N{\fn微软雅黑\fs14}I'll show you how.
+Dialogue: 0,0:11:11.10,0:11:12.01,Default,,0000,0000,0000,,好了  莫妮卡\N{\fn微软雅黑\fs14}Okay. Well, Monica,
+Dialogue: 0,0:11:12.06,0:11:14.63,Default,,0000,0000,0000,,假设你的额外彩票中奖了怎么办\N{\fn微软雅黑\fs14}suppose one of your special tickets wins?
+Dialogue: 0,0:11:14.68,0:11:17.47,Default,,0000,0000,0000,,你中了彩票但失去了朋友  你怎么办\N{\fn微软雅黑\fs14}How are you gonna feel when you win and lose your friends?
+Dialogue: 0,0:11:17.52,0:11:19.75,Default,,0000,0000,0000,,拜托  如果我中奖了\N{\fn微软雅黑\fs14}Please. If I win the lottery,
+Dialogue: 0,0:11:19.80,0:11:21.52,Default,,0000,0000,0000,,你们才不会离开我\N{\fn微软雅黑\fs14}you guys are not gonna leave me.
+Dialogue: 0,0:11:21.57,0:11:23.81,Default,,0000,0000,0000,,上星期有人给我些小松饼\N{\fn微软雅黑\fs14}Someone gave me muffins last week,
+Dialogue: 0,0:11:23.86,0:11:25.70,Default,,0000,0000,0000,,就让你们骚扰了我整整三天\N{\fn微软雅黑\fs14}and I couldn't get rid of you for three days!
+Dialogue: 0,0:11:26.75,0:11:29.67,Default,,0000,0000,0000,,钱德勒  你可以告诉她这是不对的吗\N{\fn微软雅黑\fs14}Chandler, would you just tell her what she did was wrong?
+Dialogue: 0,0:11:30.16,0:11:30.74,Default,,0000,0000,0000,,她说得对\N{\fn微软雅黑\fs14}She's right.
+Dialogue: 0,0:11:30.79,0:11:32.63,Default,,0000,0000,0000,,你不应该帮我们两个另买彩票\N{\fn微软雅黑\fs14}You shouldn't have bought tickets just for us.
+Dialogue: 0,0:11:33.36,0:11:34.54,Default,,0000,0000,0000,,让我说完\N{\fn微软雅黑\fs14}Let me finish.
+Dialogue: 0,0:11:35.17,0:11:37.66,Default,,0000,0000,0000,,然而  看起来我好像得不到这份工作了\N{\fn微软雅黑\fs14}However, it doesn't look like I'm gonna get this job...
+Dialogue: 0,0:11:37.71,0:11:39.24,Default,,0000,0000,0000,,原则太贵  承受不起\N{\fn微软雅黑\fs14}...so I can't afford to have principles.
+Dialogue: 0,0:11:39.29,0:11:41.26,Default,,0000,0000,0000,,所以  去你们的  彩票是我们的\N{\fn微软雅黑\fs14}So screw you! The tickets are ours!
+Dialogue: 0,0:11:43.23,0:11:44.63,Default,,0000,0000,0000,,我嫁了个好男人\N{\fn微软雅黑\fs14}There's the man I married.
+Dialogue: 0,0:11:46.21,0:11:48.67,Default,,0000,0000,0000,,好了  相信我  如果你们中奖了\N{\fn微软雅黑\fs14}All right. Believe me, if you win the lottery
+Dialogue: 0,0:11:48.72,0:11:50.51,Default,,0000,0000,0000,,我们不再是朋友\N{\fn微软雅黑\fs14}it's the last you're gonna hear from us.
+Dialogue: 0,0:11:50.65,0:11:52.76,Default,,0000,0000,0000,,无所谓  不用你们当朋友\N{\fn微软雅黑\fs14}Fine. Don't be my friends.
+Dialogue: 0,0:11:52.81,0:11:54.29,Default,,0000,0000,0000,,我会买新朋友\N{\fn微软雅黑\fs14}I'll buy new friends.
+Dialogue: 0,0:11:55.80,0:11:57.81,Default,,0000,0000,0000,,是的  我还会付钱让他们做整形手术\N{\fn微软雅黑\fs14}Yeah, and then I'll pay for their plastic surgery
+Dialogue: 0,0:11:57.86,0:11:59.52,Default,,0000,0000,0000,,变得跟你们一模一样\N{\fn微软雅黑\fs14}so they look just like you!
+Dialogue: 0,0:12:00.81,0:12:03.11,Default,,0000,0000,0000,,你知道吗  我要拿回我的份\N{\fn微软雅黑\fs14}You know what? I want my share of the tickets.
+Dialogue: 0,0:12:03.16,0:12:04.76,Default,,0000,0000,0000,,我也要拿回我的\N{\fn微软雅黑\fs14}I want my tickets too!
+Dialogue: 0,0:12:04.81,0:12:06.21,Default,,0000,0000,0000,,而且我要买下尼克斯队\N{\fn微软雅黑\fs14}And I'm buying the Knicks!
+Dialogue: 0,0:12:06.26,0:12:08.04,Default,,0000,0000,0000,,还有施特菲·格拉芙（德国网球运动员）\N{\fn微软雅黑\fs14}And Steffi Graf!
+Dialogue: 0,0:12:08.86,0:12:10.79,Default,,0000,0000,0000,,太好了  那我也要拿回我的\N{\fn微软雅黑\fs14}Cool. Then I want mine too!
+Dialogue: 0,0:12:10.84,0:12:11.54,Default,,0000,0000,0000,,如果我中奖…\N{\fn微软雅黑\fs14}And if I win...
+Dialogue: 0,0:12:11.59,0:12:14.66,Default,,0000,0000,0000,,我要拿全部的钱去买低利公债\N{\fn微软雅黑\fs14}I'm gonna put it all into a very low-yield bond!
+Dialogue: 0,0:12:14.92,0:12:19.35,Default,,0000,0000,0000,,不行  我们必须要把彩票放在一起\N{\fn微软雅黑\fs14}No. You guys, we gotta keep all the tickets together.
+Dialogue: 0,0:12:19.40,0:12:21.53,Default,,0000,0000,0000,,不  我们应该分一分\N{\fn微软雅黑\fs14}No. No, we should divide them up...
+Dialogue: 0,0:12:21.58,0:12:22.41,Default,,0000,0000,0000,,而且我应该多分点\N{\fn微软雅黑\fs14}...and I should get extra
+Dialogue: 0,0:12:22.46,0:12:23.90,Default,,0000,0000,0000,,因为是开我的车买的\N{\fn微软雅黑\fs14}because we used my car!
+Dialogue: 0,0:12:24.05,0:12:26.56,Default,,0000,0000,0000,,如果有人可以多拿一些\N{\fn微软雅黑\fs14}Hey! Hey! If anybody gets extra tickets,
+Dialogue: 0,0:12:26.61,0:12:27.30,Default,,0000,0000,0000,,那也应该是我\N{\fn微软雅黑\fs14}it should be me!
+Dialogue: 0,0:12:27.35,0:12:28.72,Default,,0000,0000,0000,,这整件事都是我想出来的\N{\fn微软雅黑\fs14}This whole thing was my idea!
+Dialogue: 0,0:12:28.77,0:12:31.37,Default,,0000,0000,0000,,是啊  谢谢你发明彩票\N{\fn微软雅黑\fs14}Yeah. Thanks for inventing the lottery!
+Dialogue: 0,0:12:32.72,0:12:35.00,Default,,0000,0000,0000,,把彩票给我  我来分\N{\fn微软雅黑\fs14}Just give them to me, and I'll split them up!
+Dialogue: 0,0:12:37.66,0:12:38.98,Default,,0000,0000,0000,,嘿  嘿\N{\fn微软雅黑\fs14}Hey, hey!
+Dialogue: 0,0:12:40.27,0:12:41.98,Default,,0000,0000,0000,,天啊  我再也受不了了\N{\fn微软雅黑\fs14}God, I can't take it anymore!
+Dialogue: 0,0:12:42.03,0:12:43.23,Default,,0000,0000,0000,,我来结束这一切\N{\fn微软雅黑\fs14}I'm putting an end to this!
+Dialogue: 0,0:12:43.28,0:12:45.22,Default,,0000,0000,0000,,如果她跳楼了  她的彩票就是我的\N{\fn微软雅黑\fs14}Okay, if she jumps, I get her tickets!
+Dialogue: 0,0:12:45.27,0:12:46.52,Default,,0000,0000,0000,,等等  不  嘿\N{\fn微软雅黑\fs14}Wait, no, no! Hey!
+Dialogue: 0,0:12:48.58,0:12:51.98,Default,,0000,0000,0000,,要么同进退  要么一切归零\N{\fn微软雅黑\fs14}If we're not doing this together, we're not doing it at all.
+Dialogue: 0,0:12:52.03,0:12:52.98,Default,,0000,0000,0000,,跟你们的彩票说再见吧\N{\fn微软雅黑\fs14}Say goodbye to your tickets.
+Dialogue: 0,0:12:53.03,0:12:54.13,Default,,0000,0000,0000,,不  不  不\N{\fn微软雅黑\fs14}No! No! No!
+Dialogue: 0,0:12:54.28,0:12:56.38,Default,,0000,0000,0000,,不要再靠近过来了\N{\fn微软雅黑\fs14}Do not come any closer!
+Dialogue: 0,0:12:57.26,0:12:58.31,Default,,0000,0000,0000,,我可以再靠近一点点吗\N{\fn微软雅黑\fs14}Can I come a little bit closer?
+Dialogue: 0,0:12:58.36,0:13:00.02,Default,,0000,0000,0000,,我的宝贝被压到了\N{\fn微软雅黑\fs14}Valuable things are getting squished.
+Dialogue: 0,0:13:00.94,0:13:02.10,Default,,0000,0000,0000,,现在  什么比较重要\N{\fn微软雅黑\fs14}Now, what's more important,
+Dialogue: 0,0:13:02.15,0:13:03.67,Default,,0000,0000,0000,,朋友还是钱\N{\fn微软雅黑\fs14}your friends or money?
+Dialogue: 0,0:13:03.86,0:13:05.20,Default,,0000,0000,0000,,-朋友  -钱\N{\fn微软雅黑\fs14}- Friends!  - Money!
+Dialogue: 0,0:13:09.76,0:13:10.76,Default,,0000,0000,0000,,朋友\N{\fn微软雅黑\fs14}Friends.
+Dialogue: 0,0:13:12.08,0:13:14.45,Default,,0000,0000,0000,,嘿  莫妮卡  那你额外的彩票呢\N{\fn微软雅黑\fs14}Hey, Monica, what about your extra tickets?
+Dialogue: 0,0:13:14.60,0:13:15.78,Default,,0000,0000,0000,,全都在里面了\N{\fn微软雅黑\fs14}They're all in there.
+Dialogue: 0,0:13:17.47,0:13:19.74,Default,,0000,0000,0000,,还有我内衣藏的这五张\N{\fn微软雅黑\fs14}Even these five that I hid in my bra.
+Dialogue: 0,0:13:19.74,0:13:20.43,Default,,0000,0000,0000,,莫妮卡\N{\fn微软雅黑\fs14}Monica!
+Dialogue: 0,0:13:21.06,0:13:24.07,Default,,0000,0000,0000,,好的  很好  你们都吓坏了\N{\fn微软雅黑\fs14}Okay. Good. You guys were so scared.
+Dialogue: 0,0:13:24.12,0:13:25.99,Default,,0000,0000,0000,,我才不会丢掉这些...\N{\fn微软雅黑\fs14}There is no way I was gonna dump this--
+Dialogue: 0,0:13:26.88,0:13:28.42,Default,,0000,0000,0000,,天啊  不\N{\fn微软雅黑\fs14}God! No!
+Dialogue: 0,0:13:32.28,0:13:34.02,Default,,0000,0000,0000,,我好像把你的碗摔破了\N{\fn微软雅黑\fs14}I think I broke your bowl.
+Dialogue: 0,0:13:35.55,0:13:36.78,Default,,0000,0000,0000,,快快快\N{\fn微软雅黑\fs14}Go! Go! Go!
+Dialogue: 0,0:13:52.24,0:13:56.05,Default,,0000,0000,0000,,多美好的夜晚啊  到街上去找彩票\N{\fn微软雅黑\fs14}What a beautiful night to be running around the street, looking for tickets.
+Dialogue: 0,0:13:57.17,0:13:59.11,Default,,0000,0000,0000,,而且被风一吹就更有趣了\N{\fn微软雅黑\fs14}And the wind sure made it fun.
+Dialogue: 0,0:14:00.16,0:14:01.78,Default,,0000,0000,0000,,菲比  有一半不见了\N{\fn微软雅黑\fs14}Phoebe, we lost half of them.
+Dialogue: 0,0:14:01.83,0:14:02.74,Default,,0000,0000,0000,,那又怎样\N{\fn微软雅黑\fs14}So what?
+Dialogue: 0,0:14:02.79,0:14:05.16,Default,,0000,0000,0000,,莫妮卡  我们还是会中奖的\N{\fn微软雅黑\fs14}Monica, we have the winning ticket.
+Dialogue: 0,0:14:05.21,0:14:07.58,Default,,0000,0000,0000,,算命师傅说我会中奖的  记得吗\N{\fn微软雅黑\fs14}My psychic said I was gonna win, remember?
+Dialogue: 0,0:14:08.62,0:14:10.54,Default,,0000,0000,0000,,奇怪的是\N{\fn微软雅黑\fs14}Weird your psychic didn't mention
+Dialogue: 0,0:14:10.59,0:14:12.48,Default,,0000,0000,0000,,算命师没算到可怕的鸽子\N{\fn微软雅黑\fs14}anything about the scary pigeon.
+Dialogue: 0,0:14:13.99,0:14:17.07,Default,,0000,0000,0000,,她有说过  我就是那么死的\N{\fn微软雅黑\fs14}As a matter of fact, she said that's how I'm going to die.
+Dialogue: 0,0:14:17.76,0:14:21.19,Default,,0000,0000,0000,,所以  原谅我有点被吓到\N{\fn微软雅黑\fs14}So excuse me for being a little skittish.
+Dialogue: 0,0:14:22.44,0:14:24.67,Default,,0000,0000,0000,,有两通留言  可能是工作的消息\N{\fn微软雅黑\fs14}There's two messages. This could be from work.
+Dialogue: 0,0:14:24.72,0:14:27.44,Default,,0000,0000,0000,,-放出来  -好了  来了\N{\fn微软雅黑\fs14}- Oh, play them.  - Okay. Here we go.
+Dialogue: 0,0:14:29.44,0:14:32.61,Default,,0000,0000,0000,,你好  我是阳台上的鸽子\N{\fn微软雅黑\fs14}Hello. This is the pigeon from the balcony
+Dialogue: 0,0:14:32.69,0:14:34.53,Default,,0000,0000,0000,,打电话过来道歉的\N{\fn微软雅黑\fs14}calling to apologize.
+Dialogue: 0,0:14:35.75,0:14:37.71,Default,,0000,0000,0000,,我不应该把彩票\N{\fn微软雅黑\fs14}I shouldn't have knocked the tickets
+Dialogue: 0,0:14:37.76,0:14:40.04,Default,,0000,0000,0000,,从那个漂亮小姐手中弄翻\N{\fn微软雅黑\fs14}out of the pretty lady's hand.
+Dialogue: 0,0:14:41.65,0:14:45.55,Default,,0000,0000,0000,,全是我的错  不关她的事  拜\N{\fn微软雅黑\fs14}It was all my fault. Not hers. Bye.
+Dialogue: 0,0:14:52.15,0:14:54.53,Default,,0000,0000,0000,,嗯  他这道歉能做到一定很难\N{\fn微软雅黑\fs14}Well, I bet that was very hard for him to do.
+Dialogue: 0,0:14:57.43,0:14:58.92,Default,,0000,0000,0000,,嘿  钱德勒  我是查理\N{\fn微软雅黑\fs14}Hey, Chandler, it's Charlie.
+Dialogue: 0,0:14:59.14,0:15:00.35,Default,,0000,0000,0000,,就是这个了\N{\fn微软雅黑\fs14}This is it.
+Dialogue: 0,0:15:01.39,0:15:05.05,Default,,0000,0000,0000,,听着  结果最后的名额给我了\N{\fn微软雅黑\fs14}Listen, it turns out I got the last spot.
+Dialogue: 0,0:15:05.70,0:15:08.46,Default,,0000,0000,0000,,我很抱歉  老兄  很高兴跟你共事过\N{\fn微软雅黑\fs14}I'm really sorry, man. It was a lot of fun working with you.
+Dialogue: 0,0:15:08.51,0:15:10.13,Default,,0000,0000,0000,,再打电话给我吧\N{\fn微软雅黑\fs14}Give me a call if you want.
+Dialogue: 0,0:15:11.56,0:15:14.64,Default,,0000,0000,0000,,天啊  我很难过  亲爱的\N{\fn微软雅黑\fs14}Gosh, I'm so sorry, honey.
+Dialogue: 0,0:15:14.69,0:15:16.00,Default,,0000,0000,0000,,真替你难过  钱德勒\N{\fn微软雅黑\fs14}Sorry, Chandler.
+Dialogue: 0,0:15:16.05,0:15:18.38,Default,,0000,0000,0000,,这真是不公平  这就像那次\N{\fn微软雅黑\fs14}It is so unfair. It's like that time
+Dialogue: 0,0:15:18.43,0:15:20.74,Default,,0000,0000,0000,,他们升珊卓  而不是我一样\N{\fn微软雅黑\fs14}they promoted Saundra over me at work.
+Dialogue: 0,0:15:21.00,0:15:22.78,Default,,0000,0000,0000,,她跟拉夫·劳伦是亲戚吗\N{\fn微软雅黑\fs14}Was she related to Ralph Lauren?
+Dialogue: 0,0:15:22.83,0:15:25.66,Default,,0000,0000,0000,,不是  只是她工作能力比我强太多了\N{\fn微软雅黑\fs14}No, she was just much better at her job than me.
+Dialogue: 0,0:15:27.02,0:15:28.82,Default,,0000,0000,0000,,你们大家  快要开奖了\N{\fn微软雅黑\fs14}You guys, the drawing's about to start.
+Dialogue: 0,0:15:28.87,0:15:30.89,Default,,0000,0000,0000,,我们应该打电话给我妈\N{\fn微软雅黑\fs14}We should call my mom's
+Dialogue: 0,0:15:30.94,0:15:31.91,Default,,0000,0000,0000,,跟艾玛说晚安\N{\fn微软雅黑\fs14}and say good night to Emma...
+Dialogue: 0,0:15:31.96,0:15:33.95,Default,,0000,0000,0000,,-趁她还没睡着  -好主意\N{\fn微软雅黑\fs14}- before she goes down.  - Good idea.
+Dialogue: 0,0:15:34.58,0:15:37.25,Default,,0000,0000,0000,,亲爱的  这件事上你真的很坚强\N{\fn微软雅黑\fs14}Honey, you're being really strong about this.
+Dialogue: 0,0:15:37.53,0:15:39.74,Default,,0000,0000,0000,,我知道你很想要这份工作\N{\fn微软雅黑\fs14}I know how badly you wanted that job.
+Dialogue: 0,0:15:40.15,0:15:42.11,Default,,0000,0000,0000,,是啊  我觉得本来是我应得的\N{\fn微软雅黑\fs14}Yeah, you know, I really thought I deserved it.
+Dialogue: 0,0:15:43.22,0:15:45.11,Default,,0000,0000,0000,,让我们来赢彩票吧\N{\fn微软雅黑\fs14}But let's go win the lottery.
+Dialogue: 0,0:15:45.16,0:15:47.75,Default,,0000,0000,0000,,我们还有一百三十个机会  不是吗\N{\fn微软雅黑\fs14}I mean, we still have a 130 chances to win, right?
+Dialogue: 0,0:15:50.16,0:15:51.64,Default,,0000,0000,0000,,一百三十一个\N{\fn微软雅黑\fs14}Hundred and thirty-one.
+Dialogue: 0,0:15:53.49,0:15:56.48,Default,,0000,0000,0000,,是的  晚安甜心  我爱你\N{\fn微软雅黑\fs14}Yeah, good night, sweetheart. I love you.
+Dialogue: 0,0:15:56.53,0:15:59.88,Default,,0000,0000,0000,,还有记住  你是爹地的小乖女\N{\fn微软雅黑\fs14}And remember, you're Daddy's little girl.
+Dialogue: 0,0:16:00.57,0:16:02.66,Default,,0000,0000,0000,,菲比完全毁了这感觉\N{\fn微软雅黑\fs14}Phoebe's totally ruined that for me.
+Dialogue: 0,0:16:06.67,0:16:08.42,Default,,0000,0000,0000,,嗨  妈  让艾玛听\N{\fn微软雅黑\fs14}Hi, Mom. Put her back on.
+Dialogue: 0,0:16:08.47,0:16:10.67,Default,,0000,0000,0000,,瑞秋  他们在开奖了\N{\fn微软雅黑\fs14}Rach, they're announcing the numbers!
+Dialogue: 0,0:16:11.21,0:16:13.70,Default,,0000,0000,0000,,我的天啊  我可以感到自己在改变了\N{\fn微软雅黑\fs14}My God, I can already feel myself changing.
+Dialogue: 0,0:16:14.95,0:16:19.00,Default,,0000,0000,0000,,强力球彩票中奖号码  有五十三\N{\fn微软雅黑\fs14}Here are your official Powerball numbers. We have 53.
+Dialogue: 0,0:16:19.14,0:16:21.59,Default,,0000,0000,0000,,-我有  -我们也有一个\N{\fn微软雅黑\fs14}- I've got that.  - We have one too!
+Dialogue: 0,0:16:21.95,0:16:23.81,Default,,0000,0000,0000,,我们快中奖了\N{\fn微软雅黑\fs14}We are on the road, people!
+Dialogue: 0,0:16:25.98,0:16:27.12,Default,,0000,0000,0000,,快点\N{\fn微软雅黑\fs14}Come on!
+Dialogue: 0,0:16:27.17,0:16:28.24,Default,,0000,0000,0000,,妈  拜托\N{\fn微软雅黑\fs14}Mom, please,
+Dialogue: 0,0:16:28.29,0:16:29.86,Default,,0000,0000,0000,,我知道你喜欢你的新嘴唇\N{\fn微软雅黑\fs14}I know you love your new lips,
+Dialogue: 0,0:16:29.91,0:16:31.92,Default,,0000,0000,0000,,但是我听不太懂你说什么\N{\fn微软雅黑\fs14}but I can barely understand you.
+Dialogue: 0,0:16:32.87,0:16:35.69,Default,,0000,0000,0000,,可以让我跟我女儿道晚安吗\N{\fn微软雅黑\fs14}Would you please just let me say good night to my daughter?
+Dialogue: 0,0:16:36.07,0:16:38.48,Default,,0000,0000,0000,,然后接下来的号码是七\N{\fn微软雅黑\fs14}And here we go. The Powerball is seven.
+Dialogue: 0,0:16:38.67,0:16:41.63,Default,,0000,0000,0000,,好了  你们快对号码  让我发财吧\N{\fn微软雅黑\fs14}All right, check your numbers! Make me rich.
+Dialogue: 0,0:16:44.00,0:16:46.07,Default,,0000,0000,0000,,你们大家  你们不会相信这个的\N{\fn微软雅黑\fs14}You guys, you're not gonna believe this.
+Dialogue: 0,0:16:46.12,0:16:47.54,Default,,0000,0000,0000,,我刚刚在跟艾玛说晚安的时候\N{\fn微软雅黑\fs14}I was just saying good night to Emma,
+Dialogue: 0,0:16:47.59,0:16:49.62,Default,,0000,0000,0000,,她说了第一个单词\N{\fn微软雅黑\fs14}and she said her first words.
+Dialogue: 0,0:16:49.67,0:16:51.83,Default,,0000,0000,0000,,-什么  -她说了什么\N{\fn微软雅黑\fs14}- What?  - Well, what did she say?
+Dialogue: 0,0:16:51.88,0:16:53.99,Default,,0000,0000,0000,,她说了"葛利巴"\N{\fn微软雅黑\fs14}She said, ''Gleba'' !
+Dialogue: 0,0:16:58.56,0:17:00.06,Default,,0000,0000,0000,,让我发财吧\N{\fn微软雅黑\fs14}Make me rich!
+Dialogue: 0,0:17:01.66,0:17:02.94,Default,,0000,0000,0000,,是不是很惊人呢\N{\fn微软雅黑\fs14}Isn't that amazing?
+Dialogue: 0,0:17:02.99,0:17:04.84,Default,,0000,0000,0000,,是啊  真是太棒了\N{\fn微软雅黑\fs14}Oh, yeah. No, no, no, that's great.
+Dialogue: 0,0:17:05.18,0:17:06.74,Default,,0000,0000,0000,,你怎么会不兴奋呢\N{\fn微软雅黑\fs14}Why aren't you more excited?
+Dialogue: 0,0:17:07.67,0:17:10.31,Default,,0000,0000,0000,,瑞秋  "葛利巴"不算单词\N{\fn微软雅黑\fs14}Rach, gleba is not a word.
+Dialogue: 0,0:17:11.74,0:17:13.47,Default,,0000,0000,0000,,它当然算\N{\fn微软雅黑\fs14}Well, of course it is.
+Dialogue: 0,0:17:13.52,0:17:15.72,Default,,0000,0000,0000,,好吧  那它是什么意思呢\N{\fn微软雅黑\fs14}Okay. What does it mean?
+Dialogue: 0,0:17:15.86,0:17:18.48,Default,,0000,0000,0000,,我又不认识所有的字词\N{\fn微软雅黑\fs14}Well, I don't know all the words.
+Dialogue: 0,0:17:19.21,0:17:22.72,Default,,0000,0000,0000,,我很高兴没有错过我女儿开口讲话\N{\fn微软雅黑\fs14}You know, I'm just glad I didn't miss my daughter's first word.
+Dialogue: 0,0:17:22.77,0:17:25.74,Default,,0000,0000,0000,,你就是错过了  "葛利巴"算\N{\fn微软雅黑\fs14}Yes you did! Gleba is a word!
+Dialogue: 0,0:17:25.79,0:17:27.37,Default,,0000,0000,0000,,好的  那用它造句\N{\fn微软雅黑\fs14}Okay. Use it in a sentence.
+Dialogue: 0,0:17:27.50,0:17:30.19,Default,,0000,0000,0000,,好的  艾玛刚刚说了"葛利巴"\N{\fn微软雅黑\fs14}Okay. Emma just said, ''Gleba.''
+Dialogue: 0,0:17:34.44,0:17:36.22,Default,,0000,0000,0000,,那不算说话\N{\fn微软雅黑\fs14}It's not a word.
+Dialogue: 0,0:17:36.22,0:17:38.45,Default,,0000,0000,0000,,好的  我来查字典\N{\fn微软雅黑\fs14}Okay, fine. I'm gonna look it up.
+Dialogue: 0,0:17:38.50,0:17:40.12,Default,,0000,0000,0000,,好的  太好了\N{\fn微软雅黑\fs14}Okay, great.
+Dialogue: 0,0:17:40.25,0:17:42.81,Default,,0000,0000,0000,,顺便查一下  有天她说的另外一句\N{\fn微软雅黑\fs14}While you're at it, she said another word the other day.
+Dialogue: 0,0:17:42.86,0:17:44.53,Default,,0000,0000,0000,,你何不也查查看这个\N{\fn微软雅黑\fs14}Why don't you look up:
+Dialogue: 0,0:17:49.93,0:17:54.45,Default,,0000,0000,0000,,好了  葛利巴...\N{\fn微软雅黑\fs14}All right. Okay. Okay. Gleba...
+Dialogue: 0,0:17:54.50,0:17:58.69,Default,,0000,0000,0000,,找到了  "含孢子的丰厚菌种"\N{\fn微软雅黑\fs14}Here it is! ''The fleshy, spore-bearing inner mass of a certain fungi.''
+Dialogue: 0,0:18:04.82,0:18:07.28,Default,,0000,0000,0000,,她会成为科学家的\N{\fn微软雅黑\fs14}She's gonna be a scientist.
+Dialogue: 0,0:18:15.44,0:18:18.49,Default,,0000,0000,0000,,-该死的  有人有对到吗  -没有\N{\fn微软雅黑\fs14}- Damn it. Anybody got anything?  - No.
+Dialogue: 0,0:18:18.74,0:18:20.51,Default,,0000,0000,0000,,我还在对我的\N{\fn微软雅黑\fs14}I'm still looking through mine.
+Dialogue: 0,0:18:20.56,0:18:23.11,Default,,0000,0000,0000,,再对一次  没有\N{\fn微软雅黑\fs14}Just double-checking. No.
+Dialogue: 0,0:18:23.78,0:18:25.84,Default,,0000,0000,0000,,没有  没有\N{\fn微软雅黑\fs14}No. No.
+Dialogue: 0,0:18:31.52,0:18:32.68,Default,,0000,0000,0000,,没有\N{\fn微软雅黑\fs14}No!
+Dialogue: 0,0:18:36.79,0:18:39.74,Default,,0000,0000,0000,,你好  等一下\N{\fn微软雅黑\fs14}Hello? Hold on.
+Dialogue: 0,0:18:39.93,0:18:40.92,Default,,0000,0000,0000,,是你老板\N{\fn微软雅黑\fs14}It's your boss.
+Dialogue: 0,0:18:40.97,0:18:43.77,Default,,0000,0000,0000,,"拒绝你了  很抱歉"的电话来了\N{\fn微软雅黑\fs14}The ''I'm sorry I rejected you'' phone call.
+Dialogue: 0,0:18:44.01,0:18:45.92,Default,,0000,0000,0000,,我还真不习惯男生打这种电话来\N{\fn微软雅黑\fs14}I'm not used to getting these from guys.
+Dialogue: 0,0:18:47.73,0:18:50.30,Default,,0000,0000,0000,,-嘿  史提夫  -钱德勒  嗨\N{\fn微软雅黑\fs14}- Hey, Steve.  - Chandler, hi.
+Dialogue: 0,0:18:50.35,0:18:53.43,Default,,0000,0000,0000,,我想你已经听说  我们三个名额都满了\N{\fn微软雅黑\fs14}I'm sure you've heard we filled the three positions.
+Dialogue: 0,0:18:53.48,0:18:56.05,Default,,0000,0000,0000,,我们觉得以你的成熟度及经验\N{\fn微软雅黑\fs14}We felt that with your maturity and experience...
+Dialogue: 0,0:18:56.10,0:18:58.46,Default,,0000,0000,0000,,你不会甘心当个助理而已的\N{\fn微软雅黑\fs14}you wouldn't be happy being someone's assistant.
+Dialogue: 0,0:18:58.51,0:19:01.30,Default,,0000,0000,0000,,我爱死当助理了  接听电话…\N{\fn微软雅黑\fs14}I'd love to be somebody's assistant. Answering phones...
+Dialogue: 0,0:19:01.35,0:19:03.28,Default,,0000,0000,0000,,倒咖啡  我就是为那些工作而活的\N{\fn微软雅黑\fs14}...getting coffee, I live for that stuff.
+Dialogue: 0,0:19:03.33,0:19:04.93,Default,,0000,0000,0000,,而且我并没有很成熟\N{\fn微软雅黑\fs14}And I'm not too mature.
+Dialogue: 0,0:19:05.36,0:19:07.31,Default,,0000,0000,0000,,放屁  咪咪  屁蛋\N{\fn微软雅黑\fs14}Farts, boobies, butt cracks!
+Dialogue: 0,0:19:10.32,0:19:13.52,Default,,0000,0000,0000,,钱德勒  你是全部的人里面最优秀的\N{\fn微软雅黑\fs14}Chandler, you were the strongest person in the program.
+Dialogue: 0,0:19:13.85,0:19:17.04,Default,,0000,0000,0000,,我们要聘请你当初级广告文案\N{\fn微软雅黑\fs14}We're offering you the position of junior copywriter.
+Dialogue: 0,0:19:18.92,0:19:20.93,Default,,0000,0000,0000,,我  那个刚刚才说"屁蛋"的人\N{\fn微软雅黑\fs14}Me? That guy who just said, ''butt cracks''?
+Dialogue: 0,0:19:21.92,0:19:23.21,Default,,0000,0000,0000,,是的  没错\N{\fn微软雅黑\fs14}Yes, that's right.
+Dialogue: 0,0:19:23.26,0:19:25.40,Default,,0000,0000,0000,,我们很期望你能带给这份工作…\N{\fn微软雅黑\fs14}We're excited about the level of sophistication...
+Dialogue: 0,0:19:25.45,0:19:27.19,Default,,0000,0000,0000,,一定程度的深度\N{\fn微软雅黑\fs14}...you'll be bringing to the job.
+Dialogue: 0,0:19:29.64,0:19:32.49,Default,,0000,0000,0000,,好的  谢谢  你不会失望的  明天见\N{\fn微软雅黑\fs14}Okay. Well, thanks, you won't regret it. I'll see you tomorrow.
+Dialogue: 0,0:19:45.59,0:19:46.51,Default,,0000,0000,0000,,怎么了\N{\fn微软雅黑\fs14}What?
+Dialogue: 0,0:19:47.43,0:19:49.61,Default,,0000,0000,0000,,对  我要当初级广告文案了\N{\fn微软雅黑\fs14}Oh, yeah, I'm gonna be a junior copywriter.
+Dialogue: 0,0:19:51.58,0:19:55.17,Default,,0000,0000,0000,,恭喜了  亲爱的  为你骄傲\N{\fn微软雅黑\fs14}Congratulations! Oh, sweetie, I'm so proud of you.
+Dialogue: 0,0:19:55.22,0:19:57.23,Default,,0000,0000,0000,,谢谢  这表示我今晚可以被爱爱吗\N{\fn微软雅黑\fs14}Thanks. Does that mean I get the good loving tonight?
+Dialogue: 0,0:19:57.63,0:20:00.24,Default,,0000,0000,0000,,当然  不看电视或什么其它的\N{\fn微软雅黑\fs14}You bet. No TV or anything.
+Dialogue: 0,0:20:02.03,0:20:04.53,Default,,0000,0000,0000,,嘿  恭喜你找到工作了\N{\fn微软雅黑\fs14}Hey, that is so great about the job.
+Dialogue: 0,0:20:04.58,0:20:05.59,Default,,0000,0000,0000,,谢了  老兄\N{\fn微软雅黑\fs14}Thanks, man.
+Dialogue: 0,0:20:05.64,0:20:07.62,Default,,0000,0000,0000,,我其实也有帮到忙\N{\fn微软雅黑\fs14}I'd like to think I had something to do with it.
+Dialogue: 0,0:20:07.78,0:20:08.88,Default,,0000,0000,0000,,真的吗  怎么说\N{\fn微软雅黑\fs14}Really? Why?
+Dialogue: 0,0:20:09.25,0:20:11.20,Default,,0000,0000,0000,,刚刚在玩幸运骨头的时候…\N{\fn微软雅黑\fs14}Well, before with the wishbone.
+Dialogue: 0,0:20:11.25,0:20:14.27,Default,,0000,0000,0000,,我没有许愿我们中彩票\N{\fn微软雅黑\fs14}I didn't wish we would win the lottery.
+Dialogue: 0,0:20:14.32,0:20:16.28,Default,,0000,0000,0000,,我的愿望是你找到工作\N{\fn微软雅黑\fs14}I wished you'd get the job.
+Dialogue: 0,0:20:17.39,0:20:18.72,Default,,0000,0000,0000,,喔  是吗\N{\fn微软雅黑\fs14}Oh, yeah?
+Dialogue: 0,0:20:20.00,0:20:22.50,Default,,0000,0000,0000,,听着  别告诉莫妮卡  她会把五马分尸的\N{\fn微软雅黑\fs14}Listen, don't tell Monica. She'll rip your heart right out.
+Dialogue: 0,0:20:25.93,0:20:28.93,Default,,0000,0000,0000,,你们知道吗  我刚刚真有一点感觉\N{\fn微软雅黑\fs14}Well, you know what? There was a little part of me...
+Dialogue: 0,0:20:28.98,0:20:30.46,Default,,0000,0000,0000,,我们会中奖\N{\fn微软雅黑\fs14}...that really thought we were gonna win.
+Dialogue: 0,0:20:30.51,0:20:33.48,Default,,0000,0000,0000,,我也是  都是为了我的\N{\fn微软雅黑\fs14}Me too. So much for my
+Dialogue: 0,0:20:33.53,0:20:36.54,Default,,0000,0000,0000,,恐龙与女飞行员主题公园\N{\fn微软雅黑\fs14}dinosaur/ Amelia Earhart theme park.
+Dialogue: 0,0:20:38.63,0:20:42.06,Default,,0000,0000,0000,,中奖号码是多少来着\N{\fn微软雅黑\fs14}You guys? What was the Powerball number again?
+Dialogue: 0,0:20:42.11,0:20:44.93,Default,,0000,0000,0000,,-七  -我们中奖了\N{\fn微软雅黑\fs14}- Seven.  - We won.
+Dialogue: 0,0:20:44.98,0:20:46.72,Default,,0000,0000,0000,,-什么  -我们中奖了\N{\fn微软雅黑\fs14}- What?  - We won!
+Dialogue: 0,0:20:46.77,0:20:49.50,Default,,0000,0000,0000,,-让我看  让我看 -别撕掉了\N{\fn微软雅黑\fs14}-Let me see! Let me see! -Don't tear it!
+Dialogue: 0,0:20:50.19,0:20:53.07,Default,,0000,0000,0000,,菲比  你其它五个号码都不对\N{\fn微软雅黑\fs14}Phoebe, you don't have any of the first five numbers!
+Dialogue: 0,0:20:55.00,0:20:58.32,Default,,0000,0000,0000,,我知道  但是我们中了特别号\N{\fn微软雅黑\fs14}I know that, but look, we got the Powerball number.
+Dialogue: 0,0:20:58.37,0:21:00.09,Default,,0000,0000,0000,,我们中了三块钱\N{\fn微软雅黑\fs14}We won $3!
+Dialogue: 0,0:21:02.03,0:21:04.24,Default,,0000,0000,0000,,哇  你觉得我们应该分二十年提领\N{\fn微软雅黑\fs14}Wow, you think we should get that over 20 years
+Dialogue: 0,0:21:04.29,0:21:05.76,Default,,0000,0000,0000,,还是一次领光呢\N{\fn微软雅黑\fs14}or go for the big payout?
+Dialogue: 0,0:21:06.35,0:21:09.33,Default,,0000,0000,0000,,我不管  我从来就没有中过任何东西\N{\fn微软雅黑\fs14}I don't care. I've never won anything before.
+Dialogue: 0,0:21:09.38,0:21:10.75,Default,,0000,0000,0000,,我真不敢相信\N{\fn微软雅黑\fs14}I can't believe this!
+Dialogue: 0,0:21:11.15,0:21:13.53,Default,,0000,0000,0000,,菲比  你要怎么花这三块钱呢\N{\fn微软雅黑\fs14}So, Pheebs, what are you gonna do with your $3?
+Dialogue: 0,0:21:13.82,0:21:15.41,Default,,0000,0000,0000,,又不是全都是我的\N{\fn微软雅黑\fs14}Well, it's not all mine.
+Dialogue: 0,0:21:15.46,0:21:16.81,Default,,0000,0000,0000,,我们每个人都有五十分\N{\fn微软雅黑\fs14}We all get 50 cents.
+Dialogue: 0,0:21:18.39,0:21:20.33,Default,,0000,0000,0000,,你知道吗  我那份给你\N{\fn微软雅黑\fs14}You know what? You can have mine.
+Dialogue: 0,0:21:20.61,0:21:21.63,Default,,0000,0000,0000,,-我的也是  -我的也是\N{\fn微软雅黑\fs14}- Me too.  - Me too.
+Dialogue: 0,0:21:21.68,0:21:23.65,Default,,0000,0000,0000,,我的也是\N{\fn微软雅黑\fs14}Me too.
+Dialogue: 0,0:21:29.15,0:21:31.14,Default,,0000,0000,0000,,好吧  既然大家都要给你\N{\fn微软雅黑\fs14}Well, I guess if everybody else is.
+Dialogue: 0,0:21:41.63,0:21:44.84,Default,,0000,0000,0000,,嘿  我刚刚打了彩票热线\N{\fn微软雅黑\fs14}Hey, guys. So I just called the Powerball hot line.
+Dialogue: 0,0:21:44.89,0:21:46.73,Default,,0000,0000,0000,,你们敢相信吗  没有人中奖耶\N{\fn微软雅黑\fs14}Can you believe it? Nobody won.
+Dialogue: 0,0:21:46.99,0:21:49.13,Default,,0000,0000,0000,,恕我不能赞同\N{\fn微软雅黑\fs14}I beg to differ.
+Dialogue: 0,0:21:51.66,0:21:53.49,Default,,0000,0000,0000,,或许没有人中头奖\N{\fn微软雅黑\fs14}Maybe nobody won the jackpot,
+Dialogue: 0,0:21:53.75,0:21:55.40,Default,,0000,0000,0000,,但是刚刚这里有个人\N{\fn微软雅黑\fs14}but there was this guy in here earlier...
+Dialogue: 0,0:21:55.45,0:21:57.99,Default,,0000,0000,0000,,在外面捡到一张彩票\N{\fn微软雅黑\fs14}...and he found a ticket on the street right outside
+Dialogue: 0,0:21:58.04,0:21:59.86,Default,,0000,0000,0000,,中了一万块钱\N{\fn微软雅黑\fs14}and won $ 10,000.
+Dialogue: 0,0:22:10.48,0:22:13.91,Default,,0000,0000,0000,,不要再责怪漂亮小姐了\N{\fn微软雅黑\fs14}Again, don't blame the pretty lady.
+Dialogue: 0,0:22:15.40,0:22:19.69,Default,,0000,0000,0000,,那不是她的错  是鸽子我的错\N{\fn微软雅黑\fs14}It was not her fault. It was me, the pigeon.
+Dialogue: 0,0:22:23.97,0:22:25.89,Default,,0000,0000,0000,,真的  不要再瞪她了\N{\fn微软雅黑\fs14}Seriously, stop staring at her.

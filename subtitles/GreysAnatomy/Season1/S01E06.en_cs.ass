@@ -1,0 +1,1628 @@
+[Script Info]
+Title: S01E06
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: English,Arial,52,&H0062A8EB,&H000000FF,&H00000000,&H00808080,0,0,0,0,100,100,0,0,1,3,0,2,10,10,90,1
+Style: Chinese,Microsoft YaHei,56,&H00FFFFFF,&H000000FF,&H00000000,&H00808080,0,0,0,0,100,100,0,0,1,3,0,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.29,0:00:02.33,English,,0,0,0,,{\pos(960,990)}Previously on Grey's Anatomy...
+Dialogue: 0,0:00:00.29,0:00:02.33,Chinese,,0,0,0,,{\pos(960,1050)}前情提要
+Dialogue: 0,0:00:02.50,0:00:03.88,English,,0,0,0,,{\pos(960,990)}We had sex. Once.
+Dialogue: 0,0:00:02.50,0:00:03.88,Chinese,,0,0,0,,{\pos(960,1050)}我们只是上过一次床
+Dialogue: 0,0:00:03.96,0:00:04.96,English,,0,0,0,,{\pos(960,990)}Go out with me.
+Dialogue: 0,0:00:03.96,0:00:04.96,Chinese,,0,0,0,,{\pos(960,1050)}和我约会吧
+Dialogue: 0,0:00:04.96,0:00:06.04,English,,0,0,0,,{\pos(960,990)}You know you're my boss.
+Dialogue: 0,0:00:04.96,0:00:06.04,Chinese,,0,0,0,,{\pos(960,1050)}你明知你是我上司
+Dialogue: 0,0:00:06.12,0:00:07.38,English,,0,0,0,,{\pos(960,990)}You know it's against the rules.
+Dialogue: 0,0:00:06.12,0:00:07.38,Chinese,,0,0,0,,{\pos(960,1050)}也知道这违反规定
+Dialogue: 0,0:00:07.38,0:00:09.22,English,,0,0,0,,{\pos(960,990)}Do you like Izzie? Is that what this is about?
+Dialogue: 0,0:00:07.38,0:00:09.22,Chinese,,0,0,0,,{\pos(960,1050)}你喜欢伊兹吗？是这样吗？
+Dialogue: 0,0:00:09.25,0:00:11.46,English,,0,0,0,,{\pos(960,990)}Izzie? No. She's not the one I'm attracted to.
+Dialogue: 0,0:00:09.25,0:00:11.46,Chinese,,0,0,0,,{\pos(960,1050)}伊兹？不是 我喜欢的人不是她
+Dialogue: 0,0:00:11.67,0:00:13.08,English,,0,0,0,,{\pos(960,990)}Not the one. So there's a one.
+Dialogue: 0,0:00:11.67,0:00:13.08,Chinese,,0,0,0,,{\pos(960,1050)}不是她 那就另有其人了
+Dialogue: 0,0:00:13.08,0:00:15.93,English,,0,0,0,,{\pos(960,990)}Haven't you ever been attracted to someone you know you couldn't have?
+Dialogue: 0,0:00:13.08,0:00:15.93,Chinese,,0,0,0,,{\pos(960,1050)}难道你从没喜欢过一个 明知追不到的人吗？
+Dialogue: 0,0:00:16.12,0:00:17.29,English,,0,0,0,,{\pos(960,990)}Meredith.
+Dialogue: 0,0:00:16.12,0:00:17.29,Chinese,,0,0,0,,{\pos(960,1050)}梅若迪丝
+Dialogue: 0,0:00:17.88,0:00:18.92,English,,0,0,0,,{\pos(960,990)}Just coffee.
+Dialogue: 0,0:00:17.88,0:00:18.92,Chinese,,0,0,0,,{\pos(960,1050)}只是咖啡而已
+Dialogue: 0,0:00:18.96,0:00:19.96,English,,0,0,0,,{\pos(960,990)}Good.
+Dialogue: 0,0:00:18.96,0:00:19.96,Chinese,,0,0,0,,{\pos(960,1050)}很好
+Dialogue: 0,0:00:19.96,0:00:21.38,English,,0,0,0,,{\pos(960,990)}- OK. - OK.
+Dialogue: 0,0:00:19.96,0:00:21.38,Chinese,,0,0,0,,{\pos(960,1050)}- 好吧 - 好
+Dialogue: 0,0:00:21.42,0:00:23.50,English,,0,0,0,,{\pos(960,990)}But your mother's Alzheimer's is advancing.
+Dialogue: 0,0:00:21.42,0:00:23.50,Chinese,,0,0,0,,{\pos(960,1050)}但你母亲的阿尔茨海默症越来越严重
+Dialogue: 0,0:00:23.58,0:00:25.54,English,,0,0,0,,{\pos(960,990)}So while she's still lucid enough to consent,
+Dialogue: 0,0:00:23.58,0:00:25.54,Chinese,,0,0,0,,{\pos(960,1050)}趁她还算神智清楚时 必须同意
+Dialogue: 0,0:00:25.62,0:00:27.38,English,,0,0,0,,{\pos(960,990)}she needs to sign everything over to you.
+Dialogue: 0,0:00:25.62,0:00:27.38,Chinese,,0,0,0,,{\pos(960,1050)}将所有财产过户给你
+Dialogue: 0,0:00:27.38,0:00:28.42,English,,0,0,0,,{\pos(960,990)}Me?
+Dialogue: 0,0:00:27.38,0:00:28.42,Chinese,,0,0,0,,{\pos(960,1050)}我？
+Dialogue: 0,0:00:29.71,0:00:30.79,English,,0,0,0,,{\pos(960,990)}Thanks for the coffee.
+Dialogue: 0,0:00:29.71,0:00:30.79,Chinese,,0,0,0,,{\pos(960,1050)}谢谢你的咖啡
+Dialogue: 0,0:00:34.96,0:00:36.96,English,,0,0,0,,{\pos(960,990)}So, you blew me off for a bottle of tequila.
+Dialogue: 0,0:00:34.96,0:00:36.96,Chinese,,0,0,0,,{\pos(960,1050)}你就为了一瓶龙舌兰拒绝我
+Dialogue: 0,0:00:37.08,0:00:38.92,English,,0,0,0,,{\pos(960,990)}That's not nearly as much fun to wake up to.
+Dialogue: 0,0:00:37.08,0:00:38.92,Chinese,,0,0,0,,{\pos(960,1050)}酒醒之后就更无趣了
+Dialogue: 0,0:00:40.12,0:00:42.08,English,,0,0,0,,{\pos(960,990)}You mind moving this tail wagon?
+Dialogue: 0,0:00:40.12,0:00:42.08,Chinese,,0,0,0,,{\pos(960,1050)}麻烦移一下车
+Dialogue: 0,0:00:42.17,0:00:43.50,English,,0,0,0,,{\pos(960,990)}You're blocking me in.
+Dialogue: 0,0:00:42.17,0:00:43.50,Chinese,,0,0,0,,{\pos(960,1050)}我的车出不来了
+Dialogue: 0,0:00:46.54,0:00:48.17,English,,0,0,0,,{\pos(960,990)}A couple hundred years ago,
+Dialogue: 0,0:00:46.54,0:00:48.17,Chinese,,0,0,0,,{\pos(960,1050)}两百多年前
+Dialogue: 0,0:00:48.17,0:00:52.08,English,,0,0,0,,{\pos(960,990)}Benjamin Franklin shared with the world the secret of his success...
+Dialogue: 0,0:00:48.17,0:00:52.08,Chinese,,0,0,0,,{\pos(960,1050)}班杰明富兰克林 曾向世人分享他的成功秘诀
+Dialogue: 0,0:00:52.88,0:00:57.42,English,,0,0,0,,{\pos(960,990)}"Never leave that till tomorrow," he said, "what you can do today."
+Dialogue: 0,0:00:52.88,0:00:57.42,Chinese,,0,0,0,,{\pos(960,1050)}他说：“今日事 今日毕”
+Dialogue: 0,0:01:04.21,0:01:06.21,English,,0,0,0,,{\pos(960,990)}This is the man who discovered electricity.
+Dialogue: 0,0:01:04.21,0:01:06.21,Chinese,,0,0,0,,{\pos(960,1050)}富兰克林发现了电
+Dialogue: 0,0:01:06.67,0:01:09.42,English,,0,0,0,,{\pos(960,990)}You'd think more of us would listen to what he had to say.
+Dialogue: 0,0:01:06.67,0:01:09.42,Chinese,,0,0,0,,{\pos(960,1050)}还以为大多数人会听从他的忠告
+Dialogue: 0,0:01:14.71,0:01:17.04,English,,0,0,0,,{\pos(960,990)}I don't know why we put things off,
+Dialogue: 0,0:01:14.71,0:01:17.04,Chinese,,0,0,0,,{\pos(960,1050)}我不知道大家为何总是惯性拖延
+Dialogue: 0,0:01:17.62,0:01:18.92,English,,0,0,0,,{\pos(960,990)}but if I had to guess,
+Dialogue: 0,0:01:17.62,0:01:18.92,Chinese,,0,0,0,,{\pos(960,1050)}不过若要我猜的话
+Dialogue: 0,0:01:19.71,0:01:22.04,English,,0,0,0,,{\pos(960,990)}I'd say it has a lot to do with fear.
+Dialogue: 0,0:01:19.71,0:01:22.04,Chinese,,0,0,0,,{\pos(960,1050)}我想主要应该是因为害怕
+Dialogue: 0,0:01:24.25,0:01:25.38,English,,0,0,0,,{\pos(960,990)}Fear of failure,
+Dialogue: 0,0:01:24.25,0:01:25.38,Chinese,,0,0,0,,{\pos(960,1050)}害怕失败
+Dialogue: 0,0:01:25.92,0:01:27.04,English,,0,0,0,,{\pos(960,990)}fear of pain,
+Dialogue: 0,0:01:25.92,0:01:27.04,Chinese,,0,0,0,,{\pos(960,1050)}害怕痛苦
+Dialogue: 0,0:01:27.79,0:01:28.92,English,,0,0,0,,{\pos(960,990)}fear of rejection.
+Dialogue: 0,0:01:27.79,0:01:28.92,Chinese,,0,0,0,,{\pos(960,1050)}害怕遭拒
+Dialogue: 0,0:01:34.38,0:01:36.12,English,,0,0,0,,{\pos(960,990)}Wouldn't it be easier to just ask her out?
+Dialogue: 0,0:01:34.38,0:01:36.12,Chinese,,0,0,0,,{\pos(960,1050)}直接约她出去不是比较简单吗？
+Dialogue: 0,0:01:51.08,0:01:52.62,English,,0,0,0,,{\pos(960,990)}- She's gonna be late. - Maybe not.
+Dialogue: 0,0:01:51.08,0:01:52.62,Chinese,,0,0,0,,{\pos(960,1050)}- 她会迟到的 - 也许不会
+Dialogue: 0,0:01:55.46,0:01:57.46,English,,0,0,0,,{\pos(960,990)}- We should wait for her. - Definitely not.
+Dialogue: 0,0:01:55.46,0:01:57.46,Chinese,,0,0,0,,{\pos(960,1050)}- 我们应该等她 - 绝对不要
+Dialogue: 0,0:01:57.88,0:02:01.54,English,,0,0,0,,{\pos(960,990)}I'm not her mother, and you are not her boyfriend. Not yet, anyway.
+Dialogue: 0,0:01:57.88,0:02:01.54,Chinese,,0,0,0,,{\pos(960,1050)}我不是她妈 你也不是她男友 至少还不是
+Dialogue: 0,0:02:01.54,0:02:03.83,English,,0,0,0,,{\pos(960,990)}Stop, OK? I told you I'm not interested.
+Dialogue: 0,0:02:01.54,0:02:03.83,Chinese,,0,0,0,,{\pos(960,1050)}别说了 行吗？我说过我对她没兴趣
+Dialogue: 0,0:02:04.58,0:02:06.00,English,,0,0,0,,{\pos(960,990)}Life is short, George.
+Dialogue: 0,0:02:04.58,0:02:06.00,Chinese,,0,0,0,,{\pos(960,1050)}人生苦短 乔治
+Dialogue: 0,0:02:06.46,0:02:08.67,English,,0,0,0,,{\pos(960,990)}Do you really want to die before you ever ask her out?
+Dialogue: 0,0:02:06.46,0:02:08.67,Chinese,,0,0,0,,{\pos(960,1050)}难道你真想到死前都没约她出去吗？
+Dialogue: 0,0:02:08.75,0:02:10.38,English,,0,0,0,,{\pos(960,990)}I do not want to ask her out.
+Dialogue: 0,0:02:08.75,0:02:10.38,Chinese,,0,0,0,,{\pos(960,1050)}我又不想约她出去
+Dialogue: 0,0:02:11.88,0:02:13.46,English,,0,0,0,,{\pos(960,990)}Do you really want to die a liar?
+Dialogue: 0,0:02:11.88,0:02:14.25,Chinese,,0,0,0,,{\pos(960,1050)}- 你真的要死鸭子嘴硬吗？ - 我没…
+Dialogue: 0,0:02:13.46,0:02:14.46,English,,0,0,0,,{\pos(960,990)}I'm not...
+Dialogue: 0,0:02:14.92,0:02:16.12,English,,0,0,0,,{\pos(960,990)}I'm not dying.
+Dialogue: 0,0:02:14.92,0:02:16.12,Chinese,,0,0,0,,{\pos(960,1050)}我还不会死
+Dialogue: 0,0:02:18.04,0:02:20.38,English,,0,0,0,,{\pos(960,990)}Sometimes, the fear is just of making a decision.
+Dialogue: 0,0:02:18.04,0:02:20.38,Chinese,,0,0,0,,{\pos(960,1050)}有时候 你只是害怕做决定
+Dialogue: 0,0:02:23.25,0:02:24.92,English,,0,0,0,,{\pos(960,990)}Because what if you're wrong?
+Dialogue: 0,0:02:23.25,0:02:24.92,Chinese,,0,0,0,,{\pos(960,1050)}因为万一错了呢？
+Dialogue: 0,0:02:25.67,0:02:27.75,English,,0,0,0,,{\pos(960,990)}What if you're making a mistake you can't undo?
+Dialogue: 0,0:02:25.67,0:02:27.75,Chinese,,0,0,0,,{\pos(960,1050)}万一你铸下无法挽回的过错怎么办？
+Dialogue: 0,0:02:29.38,0:02:30.38,English,,0,0,0,,{\pos(960,990)}Crap.
+Dialogue: 0,0:02:29.38,0:02:30.38,Chinese,,0,0,0,,{\pos(960,1050)}可恶
+Dialogue: 0,0:02:30.50,0:02:31.50,English,,0,0,0,,{\pos(960,990)}Crap?
+Dialogue: 0,0:02:30.50,0:02:31.50,Chinese,,0,0,0,,{\pos(960,1050)}可恶？
+Dialogue: 0,0:02:31.62,0:02:32.92,English,,0,0,0,,{\pos(960,990)}Hi. I'm late.
+Dialogue: 0,0:02:31.62,0:02:32.92,Chinese,,0,0,0,,{\pos(960,1050)}你好 我迟到了
+Dialogue: 0,0:02:33.46,0:02:34.58,English,,0,0,0,,{\pos(960,990)}You're avoiding me.
+Dialogue: 0,0:02:33.46,0:02:34.58,Chinese,,0,0,0,,{\pos(960,1050)}你在躲我
+Dialogue: 0,0:02:34.67,0:02:36.33,English,,0,0,0,,{\pos(960,990)}Yes, but also late.
+Dialogue: 0,0:02:34.67,0:02:36.33,Chinese,,0,0,0,,{\pos(960,1050)}是的 但我也迟到了
+Dialogue: 0,0:02:36.46,0:02:38.12,English,,0,0,0,,{\pos(960,990)}Are we gonna talk about this?
+Dialogue: 0,0:02:36.46,0:02:38.83,Chinese,,0,0,0,,{\pos(960,1050)}- 我们要不要谈一谈？ - 不要
+Dialogue: 0,0:02:38.12,0:02:39.12,English,,0,0,0,,{\pos(960,990)}No.
+Dialogue: 0,0:02:39.17,0:02:40.92,English,,0,0,0,,{\pos(960,990)}About us and Bailey and what she saw?
+Dialogue: 0,0:02:39.17,0:02:40.92,Chinese,,0,0,0,,{\pos(960,1050)}关于贝利撞见我俩的事？
+Dialogue: 0,0:02:41.25,0:02:44.54,English,,0,0,0,,{\pos(960,990)}I don't need to talk about it. I experienced it... naked.
+Dialogue: 0,0:02:41.25,0:02:44.54,Chinese,,0,0,0,,{\pos(960,1050)}没什么好谈的 我体验过了…一丝不挂
+Dialogue: 0,0:02:44.67,0:02:46.29,English,,0,0,0,,{\pos(960,990)}This is getting complicated.
+Dialogue: 0,0:02:44.67,0:02:46.29,Chinese,,0,0,0,,{\pos(960,1050)}这下越来越复杂了
+Dialogue: 0,0:02:46.54,0:02:47.71,English,,0,0,0,,{\pos(960,990)}Complicated for me.
+Dialogue: 0,0:02:46.54,0:02:47.71,Chinese,,0,0,0,,{\pos(960,1050)}对我来说才复杂
+Dialogue: 0,0:02:47.75,0:02:49.54,English,,0,0,0,,{\pos(960,990)}I'm the intern sleeping with the attending.
+Dialogue: 0,0:02:47.75,0:02:49.54,Chinese,,0,0,0,,{\pos(960,1050)}我一个实习医生却和主治医生上床
+Dialogue: 0,0:02:49.62,0:02:51.67,English,,0,0,0,,{\pos(960,990)}Bailey isn't speaking to me anymore.
+Dialogue: 0,0:02:49.62,0:02:51.67,Chinese,,0,0,0,,{\pos(960,1050)}贝利不肯和我说话了
+Dialogue: 0,0:02:51.67,0:02:53.12,English,,0,0,0,,{\pos(960,990)}Not that that's a bad thing.
+Dialogue: 0,0:02:51.67,0:02:53.12,Chinese,,0,0,0,,{\pos(960,1050)}那好像也不是坏事
+Dialogue: 0,0:02:53.92,0:02:56.25,English,,0,0,0,,{\pos(960,990)}If I was a better guy, I'd walk away.
+Dialogue: 0,0:02:53.92,0:02:56.25,Chinese,,0,0,0,,{\pos(960,1050)}如果我识相点 我会和你保持距离的
+Dialogue: 0,0:02:56.33,0:02:57.50,English,,0,0,0,,{\pos(960,990)}Yes, you would.
+Dialogue: 0,0:02:56.33,0:02:57.50,Chinese,,0,0,0,,{\pos(960,1050)}没错
+Dialogue: 0,0:02:59.62,0:03:00.98,English,,0,0,0,,{\pos(960,990)}Do you want me to be a better guy?
+Dialogue: 0,0:02:59.62,0:03:00.98,Chinese,,0,0,0,,{\pos(960,1050)}你希望我识相点吗？
+Dialogue: 0,0:03:01.17,0:03:02.21,English,,0,0,0,,{\pos(960,990)}Yes.
+Dialogue: 0,0:03:01.17,0:03:02.21,Chinese,,0,0,0,,{\pos(960,1050)}希望
+Dialogue: 0,0:03:04.54,0:03:05.54,English,,0,0,0,,{\pos(960,990)}No.
+Dialogue: 0,0:03:04.54,0:03:05.54,Chinese,,0,0,0,,{\pos(960,1050)}不要
+Dialogue: 0,0:03:07.08,0:03:08.17,English,,0,0,0,,{\pos(960,990)}Crap.
+Dialogue: 0,0:03:07.08,0:03:08.17,Chinese,,0,0,0,,{\pos(960,1050)}可恶
+Dialogue: 0,0:03:09.00,0:03:10.08,English,,0,0,0,,{\pos(960,990)}I'm late.
+Dialogue: 0,0:03:09.00,0:03:10.08,Chinese,,0,0,0,,{\pos(960,1050)}我迟到了
+Dialogue: 0,0:03:10.79,0:03:11.88,English,,0,0,0,,{\pos(960,990)}Take your time.
+Dialogue: 0,0:03:10.79,0:03:11.88,Chinese,,0,0,0,,{\pos(960,1050)}慢慢来
+Dialogue: 0,0:03:13.25,0:03:14.25,English,,0,0,0,,{\pos(960,990)}Think about it.
+Dialogue: 0,0:03:13.25,0:03:14.25,Chinese,,0,0,0,,{\pos(960,1050)}好好考虑一下
+Dialogue: 0,0:03:19.25,0:03:21.33,English,,0,0,0,,{\pos(960,990)}That was definitely worth being late.
+Dialogue: 0,0:03:19.25,0:03:21.33,Chinese,,0,0,0,,{\pos(960,1050)}真是迟到也值得
+Dialogue: 0,0:03:23.71,0:03:25.04,English,,0,0,0,,{\pos(960,990)}Thanks.
+Dialogue: 0,0:03:23.71,0:03:25.04,Chinese,,0,0,0,,{\pos(960,1050)}谢了
+Dialogue: 0,0:03:28.25,0:03:31.67,English,,0,0,0,,{\pos(960,990)}Is this a... Should we talk about this?
+Dialogue: 0,0:03:28.25,0:03:31.67,Chinese,,0,0,0,,{\pos(960,1050)}这算是…我们该谈一谈吗？
+Dialogue: 0,0:03:33.88,0:03:35.21,English,,0,0,0,,{\pos(960,990)}Yeah, definitely.
+Dialogue: 0,0:03:33.88,0:03:35.21,Chinese,,0,0,0,,{\pos(960,1050)}当然了
+Dialogue: 0,0:03:47.83,0:03:48.83,English,,0,0,0,,{\pos(960,990)}You're late.
+Dialogue: 0,0:03:47.83,0:03:49.67,Chinese,,0,0,0,,{\pos(960,1050)}- 你迟到了 - 你也是
+Dialogue: 0,0:03:48.83,0:03:49.67,English,,0,0,0,,{\pos(960,990)}So are you.
+Dialogue: 0,0:03:49.75,0:03:52.12,English,,0,0,0,,{\pos(960,990)}I know, and I can't afford to piss off Bailey any more.
+Dialogue: 0,0:03:49.75,0:03:52.12,Chinese,,0,0,0,,{\pos(960,1050)}我知道 而且我不能再惹贝利了
+Dialogue: 0,0:03:52.25,0:03:53.58,English,,0,0,0,,{\pos(960,990)}Do you think she told anyone?
+Dialogue: 0,0:03:52.25,0:03:53.58,Chinese,,0,0,0,,{\pos(960,1050)}你觉得她说出去了吗？
+Dialogue: 0,0:03:53.62,0:03:54.75,English,,0,0,0,,{\pos(960,990)}About you and McDreamy?
+Dialogue: 0,0:03:53.62,0:03:54.75,Chinese,,0,0,0,,{\pos(960,1050)}你和美梦医生的事吗？
+Dialogue: 0,0:03:54.83,0:03:55.88,English,,0,0,0,,{\pos(960,990)}- Yeah. - No.
+Dialogue: 0,0:03:54.83,0:03:55.88,Chinese,,0,0,0,,{\pos(960,1050)}- 对 - 不会说的
+Dialogue: 0,0:03:56.25,0:03:57.25,English,,0,0,0,,{\pos(960,990)}He's her boss, too.
+Dialogue: 0,0:03:56.25,0:03:57.25,Chinese,,0,0,0,,{\pos(960,1050)}他也是她的上司
+Dialogue: 0,0:03:57.46,0:04:00.04,English,,0,0,0,,{\pos(960,990)}If they find out, what can they... Can they kick me out, or...
+Dialogue: 0,0:03:57.46,0:04:00.04,Chinese,,0,0,0,,{\pos(960,1050)}若被发现 他们会开除我吗？还是…
+Dialogue: 0,0:04:00.04,0:04:01.12,English,,0,0,0,,{\pos(960,990)}No...
+Dialogue: 0,0:04:00.04,0:04:01.12,Chinese,,0,0,0,,{\pos(960,1050)}不会…
+Dialogue: 0,0:04:01.79,0:04:02.92,English,,0,0,0,,{\pos(960,990)}Not officially.
+Dialogue: 0,0:04:01.79,0:04:02.92,Chinese,,0,0,0,,{\pos(960,1050)}表面上不会
+Dialogue: 0,0:04:03.25,0:04:07.25,English,,0,0,0,,{\pos(960,990)}You'll just get edged out, blacklisted,
+Dialogue: 0,0:04:03.25,0:04:07.25,Chinese,,0,0,0,,{\pos(960,1050)}你只会被排挤、列入黑名单
+Dialogue: 0,0:04:07.62,0:04:09.00,English,,0,0,0,,{\pos(960,990)}banned from his surgeries,
+Dialogue: 0,0:04:07.62,0:04:09.00,Chinese,,0,0,0,,{\pos(960,1050)}禁止参与他的手术
+Dialogue: 0,0:04:09.79,0:04:11.33,English,,0,0,0,,{\pos(960,990)}passed over for chief resident.
+Dialogue: 0,0:04:09.79,0:04:11.33,Chinese,,0,0,0,,{\pos(960,1050)}当不了总住院医师
+Dialogue: 0,0:04:12.46,0:04:14.83,English,,0,0,0,,{\pos(960,990)}It'll be humiliating, but you'll live.
+Dialogue: 0,0:04:12.46,0:04:14.83,Chinese,,0,0,0,,{\pos(960,1050)}虽然很丢脸 但是死不了
+Dialogue: 0,0:04:15.04,0:04:16.25,English,,0,0,0,,{\pos(960,990)}I have to end it.
+Dialogue: 0,0:04:15.04,0:04:16.25,Chinese,,0,0,0,,{\pos(960,1050)}我必须结束这一切
+Dialogue: 0,0:04:17.04,0:04:18.83,English,,0,0,0,,{\pos(960,990)}I definitely have to end it.
+Dialogue: 0,0:04:17.04,0:04:18.83,Chinese,,0,0,0,,{\pos(960,1050)}我非结束不可
+Dialogue: 0,0:04:20.42,0:04:21.46,English,,0,0,0,,{\pos(960,990)}I have to end it, right?
+Dialogue: 0,0:04:20.42,0:04:21.46,Chinese,,0,0,0,,{\pos(960,1050)}我必须结束 对吧？
+Dialogue: 0,0:04:21.96,0:04:23.33,English,,0,0,0,,{\pos(960,990)}Meredith, shut up.
+Dialogue: 0,0:04:21.96,0:04:23.33,Chinese,,0,0,0,,{\pos(960,1050)}梅若迪丝 闭嘴
+Dialogue: 0,0:04:23.67,0:04:24.75,English,,0,0,0,,{\pos(960,990)}What?
+Dialogue: 0,0:04:23.67,0:04:24.75,Chinese,,0,0,0,,{\pos(960,1050)}什么？
+Dialogue: 0,0:04:26.33,0:04:28.29,English,,0,0,0,,{\pos(960,990)}Did you seriously just tell me to shut up?
+Dialogue: 0,0:04:26.33,0:04:28.29,Chinese,,0,0,0,,{\pos(960,1050)}你刚才是叫我闭嘴吗？
+Dialogue: 0,0:04:28.33,0:04:29.21,English,,0,0,0,,{\pos(960,990)}Please.
+Dialogue: 0,0:04:28.33,0:04:29.21,Chinese,,0,0,0,,{\pos(960,1050)}拜托
+Dialogue: 0,0:04:29.29,0:04:32.38,English,,0,0,0,,{\pos(960,990)}You got a hot doctor who likes to make you open up and say "ahh."
+Dialogue: 0,0:04:29.29,0:04:32.38,Chinese,,0,0,0,,{\pos(960,1050)}你找到一个性感医生 还鼓励你敞开心扉…
+Dialogue: 0,0:04:32.46,0:04:34.42,English,,0,0,0,,{\pos(960,990)}It's the American dream. Stop whining about it.
+Dialogue: 0,0:04:32.46,0:04:34.42,Chinese,,0,0,0,,{\pos(960,1050)}简直就是美国梦 别再抱怨了
+Dialogue: 0,0:04:34.79,0:04:37.25,English,,0,0,0,,{\pos(960,990)}No. No good can come from sleeping with your boss.
+Dialogue: 0,0:04:34.79,0:04:37.25,Chinese,,0,0,0,,{\pos(960,1050)}不 和上司上床绝对不会有好结果
+Dialogue: 0,0:04:37.29,0:04:38.46,English,,0,0,0,,{\pos(960,990)}Cristina, you're late.
+Dialogue: 0,0:04:37.29,0:04:38.46,Chinese,,0,0,0,,{\pos(960,1050)}克里斯廷娜 你迟到了
+Dialogue: 0,0:04:38.54,0:04:39.58,English,,0,0,0,,{\pos(960,990)}So is Meredith.
+Dialogue: 0,0:04:38.54,0:04:39.58,Chinese,,0,0,0,,{\pos(960,1050)}梅若迪丝也是
+Dialogue: 0,0:04:39.92,0:04:43.04,English,,0,0,0,,{\pos(960,990)}Whatever it is we're afraid of, one thing holds true.
+Dialogue: 0,0:04:39.92,0:04:43.04,Chinese,,0,0,0,,{\pos(960,1050)}无论我们害怕什么 唯有一件事不会改变
+Dialogue: 0,0:04:43.42,0:04:45.12,English,,0,0,0,,{\pos(960,990)}If, by the time the pain of not doing
+Dialogue: 0,0:04:43.42,0:04:45.12,Chinese,,0,0,0,,{\pos(960,1050)}那就是逃避某件事的痛苦
+Dialogue: 0,0:04:45.12,0:04:47.75,English,,0,0,0,,{\pos(960,990)}a thing gets worse than the fear of doing it,
+Dialogue: 0,0:04:45.12,0:04:47.75,Chinese,,0,0,0,,{\pos(960,1050)}变得比去做这件事的恐惧更糟糕时
+Dialogue: 0,0:04:48.04,0:04:50.92,English,,0,0,0,,{\pos(960,990)}it can feel like we're carrying around a giant tumor.
+Dialogue: 0,0:04:48.04,0:04:50.92,Chinese,,0,0,0,,{\pos(960,1050)}那种感觉就像是长了个巨大的肿瘤
+Dialogue: 0,0:04:50.92,0:04:53.58,English,,0,0,0,,{\pos(960,990)}When we walk in this door, you will maintain decorum.
+Dialogue: 0,0:04:50.92,0:04:53.58,Chinese,,0,0,0,,{\pos(960,1050)}进了这扇门 你们要举止得体
+Dialogue: 0,0:04:53.62,0:04:56.67,English,,0,0,0,,{\pos(960,990)}You will not laugh, vomit, or drop your jaw.
+Dialogue: 0,0:04:53.62,0:04:56.67,Chinese,,0,0,0,,{\pos(960,1050)}不准笑、呕吐、震惊
+Dialogue: 0,0:04:56.71,0:04:57.83,English,,0,0,0,,{\pos(960,990)}Are we understood?
+Dialogue: 0,0:04:56.71,0:04:57.83,Chinese,,0,0,0,,{\pos(960,1050)}明白了吗？
+Dialogue: 0,0:04:58.00,0:04:59.04,English,,0,0,0,,{\pos(960,990)}Why would we laugh?
+Dialogue: 0,0:04:58.00,0:04:59.04,Chinese,,0,0,0,,{\pos(960,1050)}为什么会笑？
+Dialogue: 0,0:04:59.04,0:05:00.21,English,,0,0,0,,{\pos(960,990)}Just you wait.
+Dialogue: 0,0:04:59.04,0:05:00.21,Chinese,,0,0,0,,{\pos(960,1050)}你等着瞧吧
+Dialogue: 0,0:05:00.29,0:05:01.67,English,,0,0,0,,{\pos(960,990)}Good morning, Miss Connors.
+Dialogue: 0,0:05:00.29,0:05:01.67,Chinese,,0,0,0,,{\pos(960,1050)}早上好 康纳斯女士
+Dialogue: 0,0:05:02.17,0:05:03.25,English,,0,0,0,,{\pos(960,990)}Good morning.
+Dialogue: 0,0:05:02.17,0:05:03.25,Chinese,,0,0,0,,{\pos(960,1050)}早上好
+Dialogue: 0,0:05:05.96,0:05:07.04,English,,0,0,0,,{\pos(960,990)}What is it?
+Dialogue: 0,0:05:05.96,0:05:07.04,Chinese,,0,0,0,,{\pos(960,1050)}那是什么？
+Dialogue: 0,0:05:08.25,0:05:09.46,English,,0,0,0,,{\pos(960,990)}Tumor.
+Dialogue: 0,0:05:08.25,0:05:09.46,Chinese,,0,0,0,,{\pos(960,1050)}肿瘤
+Dialogue: 0,0:05:10.21,0:05:12.79,English,,0,0,0,,{\pos(960,990)}And you thought I was speaking metaphorically.
+Dialogue: 0,0:05:10.21,0:05:12.79,Chinese,,0,0,0,,{\pos(960,1050)}你刚才还以为我是在打比方吧
+Dialogue: 0,0:05:34.88,0:05:37.38,Chinese,,0,0,0,,{\pos(960,1050)}实习医生
+Dialogue: 0,0:05:44.12,0:05:45.33,English,,0,0,0,,{\pos(960,990)}Good morning, Annie.
+Dialogue: 0,0:05:44.12,0:05:45.33,Chinese,,0,0,0,,{\pos(960,1050)}早上好 安妮
+Dialogue: 0,0:05:45.92,0:05:48.71,English,,0,0,0,,{\pos(960,990)}How are you? This is Dr. Bailey, and these are my fellow interns.
+Dialogue: 0,0:05:45.92,0:05:48.71,Chinese,,0,0,0,,{\pos(960,1050)}你感觉如何？这位是贝利医生 这几位也是实习医生
+Dialogue: 0,0:05:48.79,0:05:50.92,English,,0,0,0,,{\pos(960,990)}Dr. Karev, we refer to patients as "mister".
+Dialogue: 0,0:05:48.79,0:05:50.92,Chinese,,0,0,0,,{\pos(960,1050)}卡瑞医生 对患者不可直呼其名
+Dialogue: 0,0:05:50.92,0:05:52.33,English,,0,0,0,,{\pos(960,990)}I told him to call me "Annie."
+Dialogue: 0,0:05:50.92,0:05:52.33,Chinese,,0,0,0,,{\pos(960,1050)}是我要他叫我安妮的
+Dialogue: 0,0:05:52.79,0:05:55.54,English,,0,0,0,,{\pos(960,990)}"Ms. Connors" makes me feel old and fat,
+Dialogue: 0,0:05:52.79,0:05:55.54,Chinese,,0,0,0,,{\pos(960,1050)}“康纳斯女士”听上去又老又肥
+Dialogue: 0,0:05:56.00,0:05:58.54,English,,0,0,0,,{\pos(960,990)}which I am, but why feel that way?
+Dialogue: 0,0:05:56.00,0:05:58.54,Chinese,,0,0,0,,{\pos(960,1050)}虽然我确实如此 但何必让自己难受呢？
+Dialogue: 0,0:05:59.38,0:06:00.75,English,,0,0,0,,{\pos(960,990)}Good morning.
+Dialogue: 0,0:05:59.38,0:06:00.75,Chinese,,0,0,0,,{\pos(960,1050)}早上好
+Dialogue: 0,0:06:01.08,0:06:02.75,English,,0,0,0,,{\pos(960,990)}Annie, this is Dr. Burke.
+Dialogue: 0,0:06:01.08,0:06:02.75,Chinese,,0,0,0,,{\pos(960,1050)}安妮 这位是柏克医生
+Dialogue: 0,0:06:03.17,0:06:04.33,English,,0,0,0,,{\pos(960,990)}Awesome surgeon.
+Dialogue: 0,0:06:03.17,0:06:04.33,Chinese,,0,0,0,,{\pos(960,1050)}一流外科医生
+Dialogue: 0,0:06:05.88,0:06:06.96,English,,0,0,0,,{\pos(960,990)}Dr. Karev.
+Dialogue: 0,0:06:05.88,0:06:06.96,Chinese,,0,0,0,,{\pos(960,1050)}卡瑞医生
+Dialogue: 0,0:06:07.38,0:06:11.42,English,,0,0,0,,{\pos(960,990)}Oh! Annie Connors is a 43-year-old woman who presented last night
+Dialogue: 0,0:06:07.38,0:06:11.42,Chinese,,0,0,0,,{\pos(960,1050)}安妮康纳斯今年43岁 昨晚入院
+Dialogue: 0,0:06:11.50,0:06:14.33,English,,0,0,0,,{\pos(960,990)}with progressive shortness of breath for the past three months.
+Dialogue: 0,0:06:11.50,0:06:14.33,Chinese,,0,0,0,,{\pos(960,1050)}她过去三个月来出现渐进性呼吸短促
+Dialogue: 0,0:06:14.46,0:06:17.38,English,,0,0,0,,{\pos(960,990)}Found to have a very large tumor
+Dialogue: 0,0:06:14.46,0:06:17.38,Chinese,,0,0,0,,{\pos(960,1050)}目前已发现一颗成因不明的
+Dialogue: 0,0:06:17.42,0:06:20.42,English,,0,0,0,,{\pos(960,990)}of unknown origin pressed against her diaphragm.
+Dialogue: 0,0:06:17.42,0:06:20.42,Chinese,,0,0,0,,{\pos(960,1050)}巨大肿瘤正在压迫她的横膈膜
+Dialogue: 0,0:06:20.54,0:06:23.08,English,,0,0,0,,{\pos(960,990)}Stable vital signs. Scheduled for CT this morning, sir.
+Dialogue: 0,0:06:20.54,0:06:23.08,Chinese,,0,0,0,,{\pos(960,1050)}生命征象稳定 今早安排她做电脑断层扫描
+Dialogue: 0,0:06:23.46,0:06:24.50,English,,0,0,0,,{\pos(960,990)}Thank you, Dr. Karev.
+Dialogue: 0,0:06:23.46,0:06:24.50,Chinese,,0,0,0,,{\pos(960,1050)}谢谢 卡瑞医生
+Dialogue: 0,0:06:25.67,0:06:26.96,English,,0,0,0,,{\pos(960,990)}Are you at all claustrophobic?
+Dialogue: 0,0:06:25.67,0:06:26.96,Chinese,,0,0,0,,{\pos(960,1050)}你是否有幽闭恐惧症？
+Dialogue: 0,0:06:27.08,0:06:28.42,English,,0,0,0,,{\pos(960,990)}I've been housebound for the last year.
+Dialogue: 0,0:06:27.08,0:06:28.42,Chinese,,0,0,0,,{\pos(960,1050)}过去一年我都待在家里
+Dialogue: 0,0:06:28.42,0:06:30.12,English,,0,0,0,,{\pos(960,990)}How claustrophobic could I be?
+Dialogue: 0,0:06:28.42,0:06:30.12,Chinese,,0,0,0,,{\pos(960,1050)}我是能有什么幽闭恐惧症？
+Dialogue: 0,0:06:30.88,0:06:31.92,English,,0,0,0,,{\pos(960,990)}All right, then.
+Dialogue: 0,0:06:30.88,0:06:31.92,Chinese,,0,0,0,,{\pos(960,1050)}那就好
+Dialogue: 0,0:06:32.38,0:06:34.79,English,,0,0,0,,{\pos(960,990)}Dr. Stevens is going to take you up for a CT.
+Dialogue: 0,0:06:32.38,0:06:34.79,Chinese,,0,0,0,,{\pos(960,1050)}史蒂文斯医生 会带你去照电脑断层扫描
+Dialogue: 0,0:06:34.88,0:06:38.16,English,,0,0,0,,{\pos(960,990)}It'll give us a better look at the tumor, and we'll know how to proceed from there.
+Dialogue: 0,0:06:34.88,0:06:38.16,Chinese,,0,0,0,,{\pos(960,1050)}这样我们会更了解肿瘤的状况 就知道接下来该如何治疗
+Dialogue: 0,0:06:38.21,0:06:39.58,English,,0,0,0,,{\pos(960,990)}Could someone tell my mom?
+Dialogue: 0,0:06:38.21,0:06:39.58,Chinese,,0,0,0,,{\pos(960,1050)}有人可以通知我妈吗？
+Dialogue: 0,0:06:40.17,0:06:42.54,English,,0,0,0,,{\pos(960,990)}She'll worry if she gets back and I'm not here.
+Dialogue: 0,0:06:40.17,0:06:42.54,Chinese,,0,0,0,,{\pos(960,1050)}她回来发现我不在会担心的
+Dialogue: 0,0:06:42.58,0:06:43.92,English,,0,0,0,,{\pos(960,990)}Yeah, of course. Of course.
+Dialogue: 0,0:06:42.58,0:06:43.92,Chinese,,0,0,0,,{\pos(960,1050)}当然可以
+Dialogue: 0,0:06:44.00,0:06:47.54,English,,0,0,0,,{\pos(960,990)}And would it be possible for Alex to take me instead?
+Dialogue: 0,0:06:44.00,0:06:47.54,Chinese,,0,0,0,,{\pos(960,1050)}可以让亚力克带我去吗？
+Dialogue: 0,0:06:48.04,0:06:51.92,English,,0,0,0,,{\pos(960,990)}I mean, he's, he's just so fun to look at.
+Dialogue: 0,0:06:48.04,0:06:51.92,Chinese,,0,0,0,,{\pos(960,1050)}毕竟光看着他也开心
+Dialogue: 0,0:06:53.71,0:06:54.62,English,,0,0,0,,{\pos(960,990)}Annie.
+Dialogue: 0,0:06:53.71,0:06:54.62,Chinese,,0,0,0,,{\pos(960,1050)}安妮
+Dialogue: 0,0:06:54.62,0:06:55.79,English,,0,0,0,,{\pos(960,990)}Sure.
+Dialogue: 0,0:06:54.62,0:06:55.79,Chinese,,0,0,0,,{\pos(960,1050)}没问题
+Dialogue: 0,0:06:56.08,0:06:57.08,English,,0,0,0,,{\pos(960,990)}Sure, Ms. Connors.
+Dialogue: 0,0:06:56.08,0:06:57.08,Chinese,,0,0,0,,{\pos(960,1050)}好的 康纳斯女士
+Dialogue: 0,0:06:57.17,0:06:58.17,English,,0,0,0,,{\pos(960,990)}Excuse me.
+Dialogue: 0,0:06:57.17,0:06:58.17,Chinese,,0,0,0,,{\pos(960,1050)}失陪
+Dialogue: 0,0:07:01.46,0:07:03.50,English,,0,0,0,,{\pos(960,990)}- How much do you think it weighs? - 60 pounds.
+Dialogue: 0,0:07:01.46,0:07:03.50,Chinese,,0,0,0,,{\pos(960,1050)}- 你觉得那有多重？ - 27公斤
+Dialogue: 0,0:07:03.54,0:07:06.00,English,,0,0,0,,{\pos(960,990)}More. She's carrying around a whole extra person.
+Dialogue: 0,0:07:03.54,0:07:06.00,Chinese,,0,0,0,,{\pos(960,1050)}更重 她简直多了一个人的重量
+Dialogue: 0,0:07:06.04,0:07:07.33,English,,0,0,0,,{\pos(960,990)}This one's going in the books.
+Dialogue: 0,0:07:06.04,0:07:07.33,Chinese,,0,0,0,,{\pos(960,1050)}这绝对会变成教材案例
+Dialogue: 0,0:07:07.33,0:07:09.42,English,,0,0,0,,{\pos(960,990)}- I've got to get in. - I almost did.
+Dialogue: 0,0:07:07.33,0:07:09.42,Chinese,,0,0,0,,{\pos(960,1050)}- 我必须要参加 - 我差点成了
+Dialogue: 0,0:07:09.83,0:07:12.38,English,,0,0,0,,{\pos(960,990)}Have you ever seen Alex like that? He actually seemed sincere.
+Dialogue: 0,0:07:09.83,0:07:12.38,Chinese,,0,0,0,,{\pos(960,1050)}你们见过亚力克那模样吗？ 他看上去超级真诚
+Dialogue: 0,0:07:12.42,0:07:13.83,English,,0,0,0,,{\pos(960,990)}"Seemed" being the operative word.
+Dialogue: 0,0:07:12.42,0:07:13.83,Chinese,,0,0,0,,{\pos(960,1050)}“看上去”是关键
+Dialogue: 0,0:07:13.88,0:07:15.46,English,,0,0,0,,{\pos(960,990)}He was on call when she came in.
+Dialogue: 0,0:07:13.88,0:07:15.46,Chinese,,0,0,0,,{\pos(960,1050)}她入院时正好是他值班
+Dialogue: 0,0:07:15.75,0:07:17.19,English,,0,0,0,,{\pos(960,990)}I am never leaving this place again.
+Dialogue: 0,0:07:15.75,0:07:17.19,Chinese,,0,0,0,,{\pos(960,1050)}我再也不离开医院了
+Dialogue: 0,0:07:18.12,0:07:19.46,English,,0,0,0,,{\pos(960,990)}Let's move, people.
+Dialogue: 0,0:07:18.12,0:07:19.46,Chinese,,0,0,0,,{\pos(960,1050)}大家动作快
+Dialogue: 0,0:07:19.54,0:07:22.54,English,,0,0,0,,{\pos(960,990)}Ms. Connor's surgery, should we choose to proceed,
+Dialogue: 0,0:07:19.54,0:07:22.54,Chinese,,0,0,0,,{\pos(960,1050)}如果我们决定帮康纳斯女士动手术
+Dialogue: 0,0:07:22.62,0:07:25.12,English,,0,0,0,,{\pos(960,990)}will take most, if not all, of the surgeons off the floor,
+Dialogue: 0,0:07:22.62,0:07:25.12,Chinese,,0,0,0,,{\pos(960,1050)}将会几乎需要这一层的所有医生
+Dialogue: 0,0:07:25.12,0:07:28.54,English,,0,0,0,,{\pos(960,990)}which means you people will have to work extra hard not to kill anyone,
+Dialogue: 0,0:07:25.12,0:07:28.54,Chinese,,0,0,0,,{\pos(960,1050)}这也代表你们必须更加小心 别害死患者
+Dialogue: 0,0:07:28.75,0:07:31.25,English,,0,0,0,,{\pos(960,990)}'cause we won't be there to fix your mistakes.
+Dialogue: 0,0:07:28.75,0:07:31.25,Chinese,,0,0,0,,{\pos(960,1050)}因为没人有空帮你们善后
+Dialogue: 0,0:07:31.25,0:07:32.33,English,,0,0,0,,{\pos(960,990)}Dr. Burke.
+Dialogue: 0,0:07:31.25,0:07:32.33,Chinese,,0,0,0,,{\pos(960,1050)}柏克医生
+Dialogue: 0,0:07:36.08,0:07:37.58,English,,0,0,0,,{\pos(960,990)}I really want in on this.
+Dialogue: 0,0:07:36.08,0:07:37.58,Chinese,,0,0,0,,{\pos(960,1050)}我真的很想参加这次手术
+Dialogue: 0,0:07:38.29,0:07:39.66,English,,0,0,0,,{\pos(960,990)}I thought we weren't talking.
+Dialogue: 0,0:07:38.29,0:07:39.66,Chinese,,0,0,0,,{\pos(960,1050)}我们不是不交谈吗？
+Dialogue: 0,0:07:39.75,0:07:41.21,English,,0,0,0,,{\pos(960,990)}I'm not talking. I'm just saying.
+Dialogue: 0,0:07:39.75,0:07:41.21,Chinese,,0,0,0,,{\pos(960,1050)}我没和你谈 只是说出看法
+Dialogue: 0,0:07:43.50,0:07:46.96,English,,0,0,0,,{\pos(960,990)}Find her mother, get a family history, and I'll tell Bailey.
+Dialogue: 0,0:07:43.50,0:07:46.96,Chinese,,0,0,0,,{\pos(960,1050)}去找她母亲 查查家族病史 我会和贝利说
+Dialogue: 0,0:07:49.79,0:07:52.04,English,,0,0,0,,{\pos(960,990)}Mr. Harper had a coronary bypass yesterday.
+Dialogue: 0,0:07:49.79,0:07:52.04,Chinese,,0,0,0,,{\pos(960,1050)}哈波先生昨天做了冠状动脉绕道手术
+Dialogue: 0,0:07:52.04,0:07:54.62,English,,0,0,0,,{\pos(960,990)}His blood pressure, currently 100/65.
+Dialogue: 0,0:07:52.04,0:07:54.62,Chinese,,0,0,0,,{\pos(960,1050)}目前血压100/65
+Dialogue: 0,0:07:54.71,0:07:59.21,English,,0,0,0,,{\pos(960,990)}It was running low overnight down to 70/30, but responded to medication.
+Dialogue: 0,0:07:54.71,0:07:59.21,Chinese,,0,0,0,,{\pos(960,1050)}昨晚降到了70/30 但药物治疗有起色
+Dialogue: 0,0:07:59.79,0:08:02.62,English,,0,0,0,,{\pos(960,990)}Postoperative labs show a crit of 30 and normal coagulation.
+Dialogue: 0,0:07:59.79,0:08:02.62,Chinese,,0,0,0,,{\pos(960,1050)}术后化验数据 血球容积比30% 凝血正常
+Dialogue: 0,0:08:02.67,0:08:05.54,English,,0,0,0,,{\pos(960,990)}Chest-tube output has halted over the last two hours.
+Dialogue: 0,0:08:02.67,0:08:05.54,Chinese,,0,0,0,,{\pos(960,1050)}胸管引流已停止两小时
+Dialogue: 0,0:08:05.79,0:08:06.83,English,,0,0,0,,{\pos(960,990)}What's your plan?
+Dialogue: 0,0:08:05.79,0:08:06.83,Chinese,,0,0,0,,{\pos(960,1050)}接下来有何打算？
+Dialogue: 0,0:08:06.88,0:08:09.50,English,,0,0,0,,{\pos(960,990)}Chest x-ray and check the tube for possible occlusion.
+Dialogue: 0,0:08:06.88,0:08:09.50,Chinese,,0,0,0,,{\pos(960,1050)}照胸片 检查胸管是否有闭塞情形
+Dialogue: 0,0:08:09.83,0:08:10.83,English,,0,0,0,,{\pos(960,990)}Good.
+Dialogue: 0,0:08:09.83,0:08:11.58,Chinese,,0,0,0,,{\pos(960,1050)}很好 他的状况良好
+Dialogue: 0,0:08:10.83,0:08:11.83,English,,0,0,0,,{\pos(960,990)}He's doing fine.
+Dialogue: 0,0:08:13.21,0:08:14.29,English,,0,0,0,,{\pos(960,990)}Thank you.
+Dialogue: 0,0:08:13.21,0:08:14.29,Chinese,,0,0,0,,{\pos(960,1050)}谢谢
+Dialogue: 0,0:08:23.58,0:08:26.29,English,,0,0,0,,{\pos(960,990)}I know you think I like Meredith, but I don't like Meredith.
+Dialogue: 0,0:08:23.58,0:08:26.29,Chinese,,0,0,0,,{\pos(960,1050)}我知道你以为我喜欢梅若迪丝 但我没有喜欢她
+Dialogue: 0,0:08:26.29,0:08:27.21,English,,0,0,0,,{\pos(960,990)}What?
+Dialogue: 0,0:08:26.29,0:08:27.21,Chinese,,0,0,0,,{\pos(960,1050)}什么？
+Dialogue: 0,0:08:27.21,0:08:29.83,English,,0,0,0,,{\pos(960,990)}No. I like Meredith. Obviously, I like Meredith.
+Dialogue: 0,0:08:27.21,0:08:29.83,Chinese,,0,0,0,,{\pos(960,1050)}不 我喜欢梅若迪丝 我当然喜欢她
+Dialogue: 0,0:08:29.92,0:08:32.04,English,,0,0,0,,{\pos(960,990)}I just don't have a thing for her.
+Dialogue: 0,0:08:29.92,0:08:32.04,Chinese,,0,0,0,,{\pos(960,1050)}我只是对她没有那种意思
+Dialogue: 0,0:08:32.29,0:08:33.21,English,,0,0,0,,{\pos(960,990)}OK.
+Dialogue: 0,0:08:32.29,0:08:33.21,Chinese,,0,0,0,,{\pos(960,1050)}好吧
+Dialogue: 0,0:08:33.21,0:08:36.21,English,,0,0,0,,{\pos(960,990)}It's just this morning, I know you were probably just teasing,
+Dialogue: 0,0:08:33.21,0:08:36.21,Chinese,,0,0,0,,{\pos(960,1050)}我知道今天早上你可能只是在逗我
+Dialogue: 0,0:08:36.21,0:08:39.17,English,,0,0,0,,{\pos(960,990)}but I don't want you to say anything like that to her, because we live together,
+Dialogue: 0,0:08:36.21,0:08:39.17,Chinese,,0,0,0,,{\pos(960,1050)}但我不希望你对她开那种玩笑 因为我们住在一起
+Dialogue: 0,0:08:39.17,0:08:40.33,English,,0,0,0,,{\pos(960,990)}and that would be really awkward.
+Dialogue: 0,0:08:39.17,0:08:40.33,Chinese,,0,0,0,,{\pos(960,1050)}那样会变得很尴尬
+Dialogue: 0,0:08:40.33,0:08:42.17,English,,0,0,0,,{\pos(960,990)}- George, stop talking. - OK.
+Dialogue: 0,0:08:40.33,0:08:42.17,Chinese,,0,0,0,,{\pos(960,1050)}- 乔治 别再说了 - 好吧
+Dialogue: 0,0:08:47.96,0:08:49.00,English,,0,0,0,,{\pos(960,990)}Morning.
+Dialogue: 0,0:08:47.96,0:08:49.00,Chinese,,0,0,0,,{\pos(960,1050)}早上好
+Dialogue: 0,0:08:50.62,0:08:54.29,English,,0,0,0,,{\pos(960,990)}Mr. Levangie, this is Dr. Bailey and her fine staff of surgical interns.
+Dialogue: 0,0:08:50.62,0:08:54.29,Chinese,,0,0,0,,{\pos(960,1050)}勒凡吉先生 这位是贝利医生 以及她底下优秀的实习医生们
+Dialogue: 0,0:09:00.21,0:09:01.83,English,,0,0,0,,{\pos(960,990)}Welcome to hell, kids.
+Dialogue: 0,0:09:00.21,0:09:01.83,Chinese,,0,0,0,,{\pos(960,1050)}欢迎来到地狱 孩子们
+Dialogue: 0,0:09:04.96,0:09:06.04,English,,0,0,0,,{\pos(960,990)}Who's presenting?
+Dialogue: 0,0:09:04.96,0:09:06.04,Chinese,,0,0,0,,{\pos(960,1050)}谁来陈述病情？
+Dialogue: 0,0:09:06.12,0:09:08.21,English,,0,0,0,,{\pos(960,990)}Edward Levangie is a 63-year-old man
+Dialogue: 0,0:09:06.12,0:09:08.21,Chinese,,0,0,0,,{\pos(960,1050)}爱德华勒凡吉 63岁男性
+Dialogue: 0,0:09:08.21,0:09:10.83,English,,0,0,0,,{\pos(960,990)}admitted for pain management for dyskinesia.
+Dialogue: 0,0:09:08.21,0:09:10.83,Chinese,,0,0,0,,{\pos(960,1050)}因异动症入院接受控制疼痛治疗
+Dialogue: 0,0:09:10.92,0:09:12.54,English,,0,0,0,,{\pos(960,990)}He's been stable since last night
+Dialogue: 0,0:09:10.92,0:09:12.54,Chinese,,0,0,0,,{\pos(960,1050)}昨晚开始他的病情就很稳定
+Dialogue: 0,0:09:12.54,0:09:14.62,English,,0,0,0,,{\pos(960,990)}and responding well to the bolus injections.
+Dialogue: 0,0:09:12.54,0:09:14.62,Chinese,,0,0,0,,{\pos(960,1050)}全剂量注射药物后反应良好
+Dialogue: 0,0:09:14.67,0:09:16.08,English,,0,0,0,,{\pos(960,990)}Izzie, possible treatments?
+Dialogue: 0,0:09:14.67,0:09:16.08,Chinese,,0,0,0,,{\pos(960,1050)}伊兹 说说可行疗法
+Dialogue: 0,0:09:16.08,0:09:17.96,English,,0,0,0,,{\pos(960,990)}For Parkinson's disease? Um.
+Dialogue: 0,0:09:16.08,0:09:17.96,Chinese,,0,0,0,,{\pos(960,1050)}治疗帕金森氏症吗？
+Dialogue: 0,0:09:18.04,0:09:21.92,English,,0,0,0,,{\pos(960,990)}- Deep brain stimulation has shown very... - Not for Parkinson's, for spinal pain.
+Dialogue: 0,0:09:18.04,0:09:21.92,Chinese,,0,0,0,,{\pos(960,1050)}- 脑深层刺激术很有… - 不是帕金森氏症 是脊椎疼痛
+Dialogue: 0,0:09:23.17,0:09:24.17,English,,0,0,0,,{\pos(960,990)}Um.
+Dialogue: 0,0:09:25.67,0:09:30.33,English,,0,0,0,,{\pos(960,990)}Intraspinal catheter. That way, he can have constant pain medication.
+Dialogue: 0,0:09:25.67,0:09:30.33,Chinese,,0,0,0,,{\pos(960,1050)}脊椎内导管 这样能以药物持续治疗疼痛
+Dialogue: 0,0:09:30.38,0:09:31.67,English,,0,0,0,,{\pos(960,990)}Excellent.
+Dialogue: 0,0:09:30.38,0:09:31.67,Chinese,,0,0,0,,{\pos(960,1050)}非常好
+Dialogue: 0,0:09:31.79,0:09:32.83,English,,0,0,0,,{\pos(960,990)}This is Dr. Grey.
+Dialogue: 0,0:09:31.79,0:09:32.83,Chinese,,0,0,0,,{\pos(960,1050)}这位是葛蕾医生
+Dialogue: 0,0:09:33.17,0:09:35.42,English,,0,0,0,,{\pos(960,990)}She's gonna prep you for the procedure and assist.
+Dialogue: 0,0:09:33.17,0:09:35.42,Chinese,,0,0,0,,{\pos(960,1050)}她会帮你做术前准备并且从旁协助
+Dialogue: 0,0:09:39.08,0:09:40.17,English,,0,0,0,,{\pos(960,990)}Excuse me.
+Dialogue: 0,0:09:39.08,0:09:40.17,Chinese,,0,0,0,,{\pos(960,1050)}失陪
+Dialogue: 0,0:09:45.54,0:09:48.04,English,,0,0,0,,{\pos(960,990)}You make yourselves busy. I'll catch up with you.
+Dialogue: 0,0:09:45.54,0:09:48.04,Chinese,,0,0,0,,{\pos(960,1050)}你们先去忙吧 我等等就来
+Dialogue: 0,0:10:05.12,0:10:06.04,English,,0,0,0,,{\pos(960,990)}Miranda.
+Dialogue: 0,0:10:05.12,0:10:06.04,Chinese,,0,0,0,,{\pos(960,1050)}米兰达
+Dialogue: 0,0:10:06.08,0:10:07.12,English,,0,0,0,,{\pos(960,990)}Excuse me?
+Dialogue: 0,0:10:06.08,0:10:07.12,Chinese,,0,0,0,,{\pos(960,1050)}你说什么？
+Dialogue: 0,0:10:07.67,0:10:08.87,English,,0,0,0,,{\pos(960,990)}Well, that's your name, right?
+Dialogue: 0,0:10:07.67,0:10:08.87,Chinese,,0,0,0,,{\pos(960,1050)}那是你的名字吧？
+Dialogue: 0,0:10:08.92,0:10:09.96,English,,0,0,0,,{\pos(960,990)}It's on your jacket.
+Dialogue: 0,0:10:08.92,0:10:09.96,Chinese,,0,0,0,,{\pos(960,1050)}绣在你的医生袍上
+Dialogue: 0,0:10:10.33,0:10:11.79,English,,0,0,0,,{\pos(960,990)}All right, fine, I'll just call you "Bailey" then.
+Dialogue: 0,0:10:10.33,0:10:11.79,Chinese,,0,0,0,,{\pos(960,1050)}算了 我还是叫你贝利就好
+Dialogue: 0,0:10:11.79,0:10:14.04,English,,0,0,0,,{\pos(960,990)}You think you're charming and that talented,
+Dialogue: 0,0:10:11.79,0:10:14.04,Chinese,,0,0,0,,{\pos(960,1050)}你顶着那一头神经兮兮
+Dialogue: 0,0:10:14.08,0:10:16.42,English,,0,0,0,,{\pos(960,990)}neurotic, overly moussed hair sort of way.
+Dialogue: 0,0:10:14.08,0:10:16.42,Chinese,,0,0,0,,{\pos(960,1050)}放荡不羁 喷了太多定型液的头发 自以为魅力四射
+Dialogue: 0,0:10:16.46,0:10:17.54,English,,0,0,0,,{\pos(960,990)}Good for you.
+Dialogue: 0,0:10:16.46,0:10:17.54,Chinese,,0,0,0,,{\pos(960,1050)}你开心就好
+Dialogue: 0,0:10:17.71,0:10:20.29,English,,0,0,0,,{\pos(960,990)}But if you think I'm gonna stand back and watch while you favor her...
+Dialogue: 0,0:10:17.71,0:10:20.29,Chinese,,0,0,0,,{\pos(960,1050)}但若你以为在我面前偏袒她 我会袖手旁观…
+Dialogue: 0,0:10:20.29,0:10:21.96,English,,0,0,0,,{\pos(960,990)}I don't favor her. She's good.
+Dialogue: 0,0:10:20.29,0:10:21.96,Chinese,,0,0,0,,{\pos(960,1050)}我没有偏袒她 她很优秀
+Dialogue: 0,0:10:22.12,0:10:23.29,English,,0,0,0,,{\pos(960,990)}I'm sure she is.
+Dialogue: 0,0:10:22.12,0:10:23.29,Chinese,,0,0,0,,{\pos(960,1050)}当然是了
+Dialogue: 0,0:10:23.29,0:10:26.08,English,,0,0,0,,{\pos(960,990)}Can I point out that, technically, I'm your boss.
+Dialogue: 0,0:10:23.29,0:10:26.08,Chinese,,0,0,0,,{\pos(960,1050)}我提醒一下 严格来说我是你上司
+Dialogue: 0,0:10:26.17,0:10:27.46,English,,0,0,0,,{\pos(960,990)}You don't scare me.
+Dialogue: 0,0:10:26.17,0:10:27.46,Chinese,,0,0,0,,{\pos(960,1050)}我才不怕你
+Dialogue: 0,0:10:27.62,0:10:31.71,English,,0,0,0,,{\pos(960,990)}Look, I'm not gonna advertise your extracurricular activities with my intern.
+Dialogue: 0,0:10:27.62,0:10:31.71,Chinese,,0,0,0,,{\pos(960,1050)}听着 我不会到处宣传 你和我的实习医生私下乱搞
+Dialogue: 0,0:10:31.79,0:10:35.33,English,,0,0,0,,{\pos(960,990)}However, the next time I see you favoring Meredith Grey in any way,
+Dialogue: 0,0:10:31.79,0:10:35.33,Chinese,,0,0,0,,{\pos(960,1050)}但是下次再让我看见 你有任何偏心梅若迪丝葛蕾的行为
+Dialogue: 0,0:10:35.42,0:10:38.38,English,,0,0,0,,{\pos(960,990)}I'll make sure she doesn't see the inside of an OR for a month...
+Dialogue: 0,0:10:35.42,0:10:38.38,Chinese,,0,0,0,,{\pos(960,1050)}我就让她一个月都进不了手术室
+Dialogue: 0,0:10:39.46,0:10:40.71,English,,0,0,0,,{\pos(960,990)}just for the sake of balance.
+Dialogue: 0,0:10:39.46,0:10:40.71,Chinese,,0,0,0,,{\pos(960,1050)}这是为了公平起见
+Dialogue: 0,0:10:44.67,0:10:45.96,English,,0,0,0,,{\pos(960,990)}- We're all set, Doc. - OK.
+Dialogue: 0,0:10:44.67,0:10:45.96,Chinese,,0,0,0,,{\pos(960,1050)}- 都准备好了 医生 - 好
+Dialogue: 0,0:10:47.71,0:10:50.96,English,,0,0,0,,{\pos(960,990)}Annie, there's gonna be a microphone in there for you in case you get scared
+Dialogue: 0,0:10:47.71,0:10:50.96,Chinese,,0,0,0,,{\pos(960,1050)}安妮 里面有个麦克风 万一你感到害怕
+Dialogue: 0,0:10:51.00,0:10:54.29,English,,0,0,0,,{\pos(960,990)}or you want to get out, but try not to do that,
+Dialogue: 0,0:10:51.00,0:10:54.29,Chinese,,0,0,0,,{\pos(960,1050)}或是想出来就能使用 但请尽量克制
+Dialogue: 0,0:10:54.33,0:10:56.83,English,,0,0,0,,{\pos(960,990)}because then we're gonna have to start all over again.
+Dialogue: 0,0:10:54.33,0:10:56.83,Chinese,,0,0,0,,{\pos(960,1050)}不然我们就得从头来过
+Dialogue: 0,0:10:56.88,0:10:58.75,English,,0,0,0,,{\pos(960,990)}I'm fine. I'll be fine.
+Dialogue: 0,0:10:56.88,0:10:58.75,Chinese,,0,0,0,,{\pos(960,1050)}不要紧 我不会有事的
+Dialogue: 0,0:10:58.79,0:11:01.83,English,,0,0,0,,{\pos(960,990)}I know you're gonna be fine, because I'm gonna be right over there,
+Dialogue: 0,0:10:58.79,0:11:01.83,Chinese,,0,0,0,,{\pos(960,1050)}我知道你不会有事 因为我全程都会站在那里
+Dialogue: 0,0:11:01.83,0:11:03.71,English,,0,0,0,,{\pos(960,990)}behind that glass, waiting for you.
+Dialogue: 0,0:11:01.83,0:11:03.71,Chinese,,0,0,0,,{\pos(960,1050)}就在那片玻璃后面等着你
+Dialogue: 0,0:11:05.17,0:11:06.62,English,,0,0,0,,{\pos(960,990)}- All right? - OK.
+Dialogue: 0,0:11:05.17,0:11:06.62,Chinese,,0,0,0,,{\pos(960,1050)}- 好吗？ - 好
+Dialogue: 0,0:11:06.67,0:11:07.71,English,,0,0,0,,{\pos(960,990)}You ready?
+Dialogue: 0,0:11:06.67,0:11:07.71,Chinese,,0,0,0,,{\pos(960,1050)}准备好了吗？
+Dialogue: 0,0:11:07.92,0:11:09.42,English,,0,0,0,,{\pos(960,990)}- Are you really ready? - Mm-hmm.
+Dialogue: 0,0:11:07.92,0:11:09.42,Chinese,,0,0,0,,{\pos(960,1050)}你真的准备好了吗？
+Dialogue: 0,0:11:09.42,0:11:10.58,English,,0,0,0,,{\pos(960,990)}Let's do this.
+Dialogue: 0,0:11:09.42,0:11:10.58,Chinese,,0,0,0,,{\pos(960,1050)}开始吧
+Dialogue: 0,0:11:10.67,0:11:11.92,English,,0,0,0,,{\pos(960,990)}See ya.
+Dialogue: 0,0:11:10.67,0:11:11.92,Chinese,,0,0,0,,{\pos(960,1050)}等会儿见
+Dialogue: 0,0:11:20.29,0:11:21.96,English,,0,0,0,,{\pos(960,990)}Oh, hey, man, you got an extra battery?
+Dialogue: 0,0:11:20.29,0:11:21.96,Chinese,,0,0,0,,{\pos(960,1050)}老兄 你有备用电池吗？
+Dialogue: 0,0:11:23.12,0:11:24.17,English,,0,0,0,,{\pos(960,990)}Unbelievable.
+Dialogue: 0,0:11:23.12,0:11:24.17,Chinese,,0,0,0,,{\pos(960,1050)}真不敢相信
+Dialogue: 0,0:11:25.38,0:11:26.96,English,,0,0,0,,{\pos(960,990)}Oh, I know, right?
+Dialogue: 0,0:11:25.38,0:11:26.96,Chinese,,0,0,0,,{\pos(960,1050)}可不是嘛
+Dialogue: 0,0:11:27.00,0:11:28.54,English,,0,0,0,,{\pos(960,990)}I've never seen anything like this.
+Dialogue: 0,0:11:27.00,0:11:28.54,Chinese,,0,0,0,,{\pos(960,1050)}我从没见过这么大的肿瘤
+Dialogue: 0,0:11:28.88,0:11:30.04,English,,0,0,0,,{\pos(960,990)}God.
+Dialogue: 0,0:11:28.88,0:11:30.04,Chinese,,0,0,0,,{\pos(960,1050)}天啊
+Dialogue: 0,0:11:30.17,0:11:33.54,English,,0,0,0,,{\pos(960,990)}Yeah, what I don't understand is how a person lets it get like that.
+Dialogue: 0,0:11:30.17,0:11:33.54,Chinese,,0,0,0,,{\pos(960,1050)}是啊 我不懂的是怎么会有人 任由肿瘤发展成这样
+Dialogue: 0,0:11:33.58,0:11:37.25,English,,0,0,0,,{\pos(960,990)}I mean, man, that is a whole lot of nasty.
+Dialogue: 0,0:11:33.58,0:11:37.25,Chinese,,0,0,0,,{\pos(960,1050)}天啊 那还真够恶心的
+Dialogue: 0,0:11:37.33,0:11:38.83,English,,0,0,0,,{\pos(960,990)}Maybe she's afraid of doctors.
+Dialogue: 0,0:11:37.33,0:11:38.83,Chinese,,0,0,0,,{\pos(960,1050)}也许她怕看医生
+Dialogue: 0,0:11:39.33,0:11:40.25,English,,0,0,0,,{\pos(960,990)}Poor thing.
+Dialogue: 0,0:11:39.33,0:11:40.25,Chinese,,0,0,0,,{\pos(960,1050)}太可怜了
+Dialogue: 0,0:11:40.29,0:11:41.88,English,,0,0,0,,{\pos(960,990)}Poor thing? Please.
+Dialogue: 0,0:11:40.29,0:11:41.88,Chinese,,0,0,0,,{\pos(960,1050)}可怜？拜托哦
+Dialogue: 0,0:11:41.88,0:11:43.83,English,,0,0,0,,{\pos(960,990)}If you're afraid of doctors, you take a pill.
+Dialogue: 0,0:11:41.88,0:11:43.83,Chinese,,0,0,0,,{\pos(960,1050)}怕看医生的话 好歹也吃药啊
+Dialogue: 0,0:11:43.83,0:11:47.12,English,,0,0,0,,{\pos(960,990)}She's just sick, like, warped, you know?
+Dialogue: 0,0:11:43.83,0:11:47.12,Chinese,,0,0,0,,{\pos(960,1050)}她就是心理有病那种
+Dialogue: 0,0:11:47.79,0:11:51.08,English,,0,0,0,,{\pos(960,990)}Seriously, I don't know how she lives with herself.
+Dialogue: 0,0:11:47.79,0:11:51.08,Chinese,,0,0,0,,{\pos(960,1050)}说真的 不知道她是如何自处的
+Dialogue: 0,0:11:52.25,0:11:53.25,English,,0,0,0,,{\pos(960,990)}Ugh.
+Dialogue: 0,0:11:56.12,0:11:59.33,English,,0,0,0,,{\pos(960,990)}At first, we thought she was just putting on weight.
+Dialogue: 0,0:11:56.12,0:11:59.33,Chinese,,0,0,0,,{\pos(960,1050)}起初我们以为她只是变胖了
+Dialogue: 0,0:11:59.67,0:12:03.67,English,,0,0,0,,{\pos(960,990)}When we realized what was happening, I tried to get her to go to the doctor,
+Dialogue: 0,0:11:59.67,0:12:03.67,Chinese,,0,0,0,,{\pos(960,1050)}后来我们发现是怎么回事后 我就劝她去看医生
+Dialogue: 0,0:12:03.67,0:12:05.46,English,,0,0,0,,{\pos(960,990)}but she was scared.
+Dialogue: 0,0:12:03.67,0:12:05.46,Chinese,,0,0,0,,{\pos(960,1050)}但她太害怕了
+Dialogue: 0,0:12:05.50,0:12:08.62,English,,0,0,0,,{\pos(960,990)}And the bigger it got, the less she wanted to go.
+Dialogue: 0,0:12:05.50,0:12:08.62,Chinese,,0,0,0,,{\pos(960,1050)}肿瘤越大 她就越不想看医生
+Dialogue: 0,0:12:09.33,0:12:12.71,English,,0,0,0,,{\pos(960,990)}And she never really felt all that sick until last night.
+Dialogue: 0,0:12:09.33,0:12:12.71,Chinese,,0,0,0,,{\pos(960,1050)}她到昨晚才真的感到很不舒服
+Dialogue: 0,0:12:13.46,0:12:14.96,English,,0,0,0,,{\pos(960,990)}She couldn't breathe.
+Dialogue: 0,0:12:13.46,0:12:14.96,Chinese,,0,0,0,,{\pos(960,1050)}她无法呼吸
+Dialogue: 0,0:12:15.17,0:12:17.33,English,,0,0,0,,{\pos(960,990)}Because the tumor was crushing her lungs.
+Dialogue: 0,0:12:15.17,0:12:17.33,Chinese,,0,0,0,,{\pos(960,1050)}因为肿瘤压迫了她的肺部
+Dialogue: 0,0:12:17.42,0:12:19.46,English,,0,0,0,,{\pos(960,990)}Yes, well, I called 911.
+Dialogue: 0,0:12:17.42,0:12:19.46,Chinese,,0,0,0,,{\pos(960,1050)}是的 所以我叫救护车了
+Dialogue: 0,0:12:20.25,0:12:22.33,English,,0,0,0,,{\pos(960,990)}It just seemed like the right thing to do.
+Dialogue: 0,0:12:20.25,0:12:22.33,Chinese,,0,0,0,,{\pos(960,1050)}我觉得该那么做才对
+Dialogue: 0,0:12:25.79,0:12:28.33,English,,0,0,0,,{\pos(960,990)}The right thing to do would have been to call a year ago.
+Dialogue: 0,0:12:25.79,0:12:28.33,Chinese,,0,0,0,,{\pos(960,1050)}其实一年前就该这么做了
+Dialogue: 0,0:12:30.46,0:12:32.00,English,,0,0,0,,{\pos(960,990)}Thank you.
+Dialogue: 0,0:12:30.46,0:12:32.00,Chinese,,0,0,0,,{\pos(960,1050)}谢谢
+Dialogue: 0,0:12:33.96,0:12:35.62,English,,0,0,0,,{\pos(960,990)}OK, Mr. Levangie.
+Dialogue: 0,0:12:33.96,0:12:35.62,Chinese,,0,0,0,,{\pos(960,1050)}勒凡吉先生
+Dialogue: 0,0:12:37.25,0:12:40.00,English,,0,0,0,,{\pos(960,990)}- We're gonna get you more comfortable, OK? - Mm-hmm.
+Dialogue: 0,0:12:37.25,0:12:40.00,Chinese,,0,0,0,,{\pos(960,1050)}我们会让你舒服一点 好吗？
+Dialogue: 0,0:12:40.04,0:12:42.83,English,,0,0,0,,{\pos(960,990)}I'm gonna go downstairs, and I'll be back up shortly.
+Dialogue: 0,0:12:40.04,0:12:42.83,Chinese,,0,0,0,,{\pos(960,1050)}我先下楼一趟 很快就回来
+Dialogue: 0,0:12:42.92,0:12:44.08,English,,0,0,0,,{\pos(960,990)}- OK. - OK.
+Dialogue: 0,0:12:42.92,0:12:44.08,Chinese,,0,0,0,,{\pos(960,1050)}- 好 - 好的
+Dialogue: 0,0:12:48.12,0:12:49.17,English,,0,0,0,,{\pos(960,990)}Excuse me.
+Dialogue: 0,0:12:48.12,0:12:49.17,Chinese,,0,0,0,,{\pos(960,1050)}不好意思
+Dialogue: 0,0:12:50.25,0:12:52.33,English,,0,0,0,,{\pos(960,990)}- I'm sorry, Doctor... - Grey.
+Dialogue: 0,0:12:50.25,0:12:52.33,Chinese,,0,0,0,,{\pos(960,1050)}- 抱歉 这位医生… - 我姓葛蕾
+Dialogue: 0,0:12:52.92,0:12:53.92,English,,0,0,0,,{\pos(960,990)}My dad seems to like you.
+Dialogue: 0,0:12:52.92,0:12:53.92,Chinese,,0,0,0,,{\pos(960,1050)}我爸似乎很喜欢你
+Dialogue: 0,0:12:53.92,0:12:56.00,English,,0,0,0,,{\pos(960,990)}He's always liked skinny blondes.
+Dialogue: 0,0:12:53.92,0:12:56.00,Chinese,,0,0,0,,{\pos(960,1050)}他一向喜欢身材苗条的金发妞
+Dialogue: 0,0:12:56.54,0:12:58.50,English,,0,0,0,,{\pos(960,990)}Is that rude? I'm sorry. I'm so tired.
+Dialogue: 0,0:12:56.54,0:12:58.50,Chinese,,0,0,0,,{\pos(960,1050)}这样很没礼貌吧？抱歉 我太累了
+Dialogue: 0,0:12:59.04,0:13:00.08,English,,0,0,0,,{\pos(960,990)}Is there something...
+Dialogue: 0,0:12:59.04,0:13:00.08,Chinese,,0,0,0,,{\pos(960,1050)}有什么事吗？
+Dialogue: 0,0:13:01.25,0:13:02.89,English,,0,0,0,,{\pos(960,990)}I was wondering if you would talk to him.
+Dialogue: 0,0:13:01.25,0:13:02.89,Chinese,,0,0,0,,{\pos(960,1050)}我在想你能否和他谈谈
+Dialogue: 0,0:13:03.33,0:13:05.29,English,,0,0,0,,{\pos(960,990)}- About? - Brain surgery.
+Dialogue: 0,0:13:03.33,0:13:05.29,Chinese,,0,0,0,,{\pos(960,1050)}- 谈什么？ - 脑部手术
+Dialogue: 0,0:13:05.67,0:13:08.71,English,,0,0,0,,{\pos(960,990)}The doctor mentioned it, and I've read about it online.
+Dialogue: 0,0:13:05.67,0:13:08.71,Chinese,,0,0,0,,{\pos(960,1050)}之前医生提过 我也上网查了相关资料
+Dialogue: 0,0:13:08.96,0:13:12.38,English,,0,0,0,,{\pos(960,990)}If it worked, it could help with most of his symptoms, not just pain.
+Dialogue: 0,0:13:08.96,0:13:12.38,Chinese,,0,0,0,,{\pos(960,1050)}若成功 除了缓解疼痛 也能减轻他大部分的症状
+Dialogue: 0,0:13:13.29,0:13:16.08,English,,0,0,0,,{\pos(960,990)}- Is he a candidate? - He is, but he's afraid of it.
+Dialogue: 0,0:13:13.29,0:13:16.08,Chinese,,0,0,0,,{\pos(960,1050)}- 评估过可以做手术吗？ - 可以 但他不敢
+Dialogue: 0,0:13:16.54,0:13:18.88,English,,0,0,0,,{\pos(960,990)}Surgery on his back, he can understand, but his brain...
+Dialogue: 0,0:13:16.54,0:13:18.88,Chinese,,0,0,0,,{\pos(960,1050)}背部手术他能理解 但脑部…
+Dialogue: 0,0:13:19.58,0:13:21.46,English,,0,0,0,,{\pos(960,990)}and... there are risks.
+Dialogue: 0,0:13:19.58,0:13:21.46,Chinese,,0,0,0,,{\pos(960,1050)}而且还伴随风险
+Dialogue: 0,0:13:22.21,0:13:24.38,English,,0,0,0,,{\pos(960,990)}- But his quality of life... - There isn't any.
+Dialogue: 0,0:13:22.21,0:13:24.38,Chinese,,0,0,0,,{\pos(960,1050)}- 但他的生活质量… - 毫无质量可言
+Dialogue: 0,0:13:25.58,0:13:26.70,English,,0,0,0,,{\pos(960,990)}And it keeps getting worse.
+Dialogue: 0,0:13:25.58,0:13:26.70,Chinese,,0,0,0,,{\pos(960,1050)}而且还越来越糟
+Dialogue: 0,0:13:28.92,0:13:30.58,English,,0,0,0,,{\pos(960,990)}I'm getting married next month.
+Dialogue: 0,0:13:28.92,0:13:30.58,Chinese,,0,0,0,,{\pos(960,1050)}我下个月要结婚了
+Dialogue: 0,0:13:31.08,0:13:32.58,English,,0,0,0,,{\pos(960,990)}I already lost my mom.
+Dialogue: 0,0:13:31.08,0:13:32.58,Chinese,,0,0,0,,{\pos(960,1050)}我已经失去了我妈妈
+Dialogue: 0,0:13:33.00,0:13:34.38,English,,0,0,0,,{\pos(960,990)}And I want him to walk...
+Dialogue: 0,0:13:33.00,0:13:34.38,Chinese,,0,0,0,,{\pos(960,1050)}我希望他能陪我走…
+Dialogue: 0,0:13:37.29,0:13:39.58,English,,0,0,0,,{\pos(960,990)}I want him with me. Maybe that's selfish, but...
+Dialogue: 0,0:13:37.29,0:13:39.58,Chinese,,0,0,0,,{\pos(960,1050)}我希望他陪着我 也许这样很自私 但是…
+Dialogue: 0,0:13:40.54,0:13:42.46,English,,0,0,0,,{\pos(960,990)}you don't know what it's like having a parent...
+Dialogue: 0,0:13:40.54,0:13:42.46,Chinese,,0,0,0,,{\pos(960,1050)}你不知道这种感觉…
+Dialogue: 0,0:13:43.50,0:13:44.62,English,,0,0,0,,{\pos(960,990)}watching him...
+Dialogue: 0,0:13:43.50,0:13:44.62,Chinese,,0,0,0,,{\pos(960,1050)}看着他…
+Dialogue: 0,0:13:45.71,0:13:46.83,English,,0,0,0,,{\pos(960,990)}I do.
+Dialogue: 0,0:13:45.71,0:13:46.83,Chinese,,0,0,0,,{\pos(960,1050)}我知道
+Dialogue: 0,0:13:47.50,0:13:49.00,English,,0,0,0,,{\pos(960,990)}I do know what it's like.
+Dialogue: 0,0:13:47.50,0:13:49.00,Chinese,,0,0,0,,{\pos(960,1050)}我很明白那种感觉
+Dialogue: 0,0:13:50.04,0:13:51.29,English,,0,0,0,,{\pos(960,990)}I'll see what I can do.
+Dialogue: 0,0:13:50.04,0:13:51.29,Chinese,,0,0,0,,{\pos(960,1050)}我会尽量想办法的
+Dialogue: 0,0:13:52.29,0:13:53.38,English,,0,0,0,,{\pos(960,990)}Thanks.
+Dialogue: 0,0:13:52.29,0:13:53.38,Chinese,,0,0,0,,{\pos(960,1050)}谢谢
+Dialogue: 0,0:13:53.67,0:13:54.83,English,,0,0,0,,{\pos(960,990)}You're welcome.
+Dialogue: 0,0:13:53.67,0:13:54.83,Chinese,,0,0,0,,{\pos(960,1050)}不客气
+Dialogue: 0,0:13:55.67,0:13:56.88,English,,0,0,0,,{\pos(960,990)}Thank you.
+Dialogue: 0,0:13:55.67,0:13:56.88,Chinese,,0,0,0,,{\pos(960,1050)}谢谢你
+Dialogue: 0,0:14:01.92,0:14:03.75,English,,0,0,0,,{\pos(960,990)}The right hemidiaphragm is so high
+Dialogue: 0,0:14:01.92,0:14:03.75,Chinese,,0,0,0,,{\pos(960,1050)}右侧膈位置太高了
+Dialogue: 0,0:14:03.79,0:14:05.71,English,,0,0,0,,{\pos(960,990)}that it's completely displacing her lung tissue.
+Dialogue: 0,0:14:03.79,0:14:05.71,Chinese,,0,0,0,,{\pos(960,1050)}导致肺部组织完全移位
+Dialogue: 0,0:14:05.96,0:14:08.58,English,,0,0,0,,{\pos(960,990)}It's infiltrated her spinal canal in three places.
+Dialogue: 0,0:14:05.96,0:14:08.58,Chinese,,0,0,0,,{\pos(960,1050)}椎孔已经有三处遭渗入
+Dialogue: 0,0:14:09.79,0:14:10.83,English,,0,0,0,,{\pos(960,990)}We should start there.
+Dialogue: 0,0:14:09.79,0:14:10.83,Chinese,,0,0,0,,{\pos(960,1050)}我们应该从那着手
+Dialogue: 0,0:14:10.88,0:14:13.60,English,,0,0,0,,{\pos(960,990)}It's gonna take three or four hours just to get around those nerves.
+Dialogue: 0,0:14:10.88,0:14:13.60,Chinese,,0,0,0,,{\pos(960,1050)}光是绕开那些神经就要三、四小时
+Dialogue: 0,0:14:13.75,0:14:15.67,English,,0,0,0,,{\pos(960,990)}I'd prefer to start in front and then flip her.
+Dialogue: 0,0:14:13.75,0:14:15.67,Chinese,,0,0,0,,{\pos(960,1050)}我较想从正面开始 然后再做背部手术
+Dialogue: 0,0:14:15.67,0:14:17.79,English,,0,0,0,,{\pos(960,990)}You never know what kind of vessels are involved.
+Dialogue: 0,0:14:15.67,0:14:17.79,Chinese,,0,0,0,,{\pos(960,1050)}不确定会牵扯到哪条血管
+Dialogue: 0,0:14:18.00,0:14:19.21,English,,0,0,0,,{\pos(960,990)}How intertwined they are.
+Dialogue: 0,0:14:18.00,0:14:19.21,Chinese,,0,0,0,,{\pos(960,1050)}还有缠绕的情况
+Dialogue: 0,0:14:19.38,0:14:20.70,English,,0,0,0,,{\pos(960,990)}I'm gonna need a good head start.
+Dialogue: 0,0:14:19.38,0:14:20.70,Chinese,,0,0,0,,{\pos(960,1050)}一开始我希望求稳
+Dialogue: 0,0:14:20.75,0:14:23.12,English,,0,0,0,,{\pos(960,990)}I should really go with the spine fresh, if I miss a step,
+Dialogue: 0,0:14:20.75,0:14:23.12,Chinese,,0,0,0,,{\pos(960,1050)}我很需要从脊椎开始 以免稍有不慎
+Dialogue: 0,0:14:23.21,0:14:24.29,English,,0,0,0,,{\pos(960,990)}she's paralyzed.
+Dialogue: 0,0:14:23.21,0:14:24.29,Chinese,,0,0,0,,{\pos(960,1050)}她就瘫痪了
+Dialogue: 0,0:14:24.38,0:14:25.92,English,,0,0,0,,{\pos(960,990)}If I don't relieve the pressure on her lungs,
+Dialogue: 0,0:14:24.38,0:14:25.92,Chinese,,0,0,0,,{\pos(960,1050)}如果我不先释放她肺部的压力
+Dialogue: 0,0:14:25.92,0:14:28.00,English,,0,0,0,,{\pos(960,990)}she'll be dead, so she won't mind if she can't walk.
+Dialogue: 0,0:14:25.92,0:14:28.00,Chinese,,0,0,0,,{\pos(960,1050)}她就死定了 所以瘫痪是其次问题
+Dialogue: 0,0:14:28.67,0:14:30.54,English,,0,0,0,,{\pos(960,990)}Do you think she really wants to live?
+Dialogue: 0,0:14:28.67,0:14:30.54,Chinese,,0,0,0,,{\pos(960,1050)}你们真觉得她想活下来？
+Dialogue: 0,0:14:31.29,0:14:34.00,English,,0,0,0,,{\pos(960,990)}Come on. She's been housebound.
+Dialogue: 0,0:14:31.29,0:14:34.00,Chinese,,0,0,0,,{\pos(960,1050)}拜托哦 她一直宅在家里
+Dialogue: 0,0:14:34.00,0:14:37.62,English,,0,0,0,,{\pos(960,990)}She's been living under this thing, just watching it grow for how long?
+Dialogue: 0,0:14:34.00,0:14:37.62,Chinese,,0,0,0,,{\pos(960,1050)}她和这个肿瘤生活这么久 就这样任由肿瘤变大 多久了？
+Dialogue: 0,0:14:38.21,0:14:41.25,English,,0,0,0,,{\pos(960,990)}She doesn't seem stupid. Doesn't even seem all that scared.
+Dialogue: 0,0:14:38.21,0:14:41.25,Chinese,,0,0,0,,{\pos(960,1050)}她看上去并不蠢 也不是很害怕的感觉
+Dialogue: 0,0:14:41.67,0:14:44.25,English,,0,0,0,,{\pos(960,990)}Why would anyone wait this long unless they wanted to die?
+Dialogue: 0,0:14:41.67,0:14:44.25,Chinese,,0,0,0,,{\pos(960,1050)}如果不想死的话 谁会等这么久？
+Dialogue: 0,0:14:44.29,0:14:46.67,English,,0,0,0,,{\pos(960,990)}People do things every day that they know could kill them.
+Dialogue: 0,0:14:44.29,0:14:46.67,Chinese,,0,0,0,,{\pos(960,1050)}人们每天都在做找死的事
+Dialogue: 0,0:14:47.46,0:14:48.74,English,,0,0,0,,{\pos(960,990)}Doesn't mean they want to die.
+Dialogue: 0,0:14:47.46,0:14:48.74,Chinese,,0,0,0,,{\pos(960,1050)}但不代表他们真的想死
+Dialogue: 0,0:14:48.79,0:14:50.96,English,,0,0,0,,{\pos(960,990)}What are her chances of surviving the surgery?
+Dialogue: 0,0:14:48.79,0:14:50.96,Chinese,,0,0,0,,{\pos(960,1050)}手术成功的机率有多大？
+Dialogue: 0,0:14:51.04,0:14:52.64,English,,0,0,0,,{\pos(960,990)}Slightly better than if we do nothing.
+Dialogue: 0,0:14:51.04,0:14:52.64,Chinese,,0,0,0,,{\pos(960,1050)}比我们什么都不做好一点
+Dialogue: 0,0:14:53.25,0:14:54.33,English,,0,0,0,,{\pos(960,990)}So is it worth it?
+Dialogue: 0,0:14:53.25,0:14:54.33,Chinese,,0,0,0,,{\pos(960,1050)}那值得吗？
+Dialogue: 0,0:14:55.92,0:14:58.79,English,,0,0,0,,{\pos(960,990)}Hey, come on. You were already thinking it. I'm just saying.
+Dialogue: 0,0:14:55.92,0:14:58.79,Chinese,,0,0,0,,{\pos(960,1050)}少来了 我只不过是说出 你们心里的想法罢了
+Dialogue: 0,0:15:00.38,0:15:02.21,English,,0,0,0,,{\pos(960,990)}She's 43. It's worth a try.
+Dialogue: 0,0:15:00.38,0:15:02.21,Chinese,,0,0,0,,{\pos(960,1050)}她才43岁 值得一试
+Dialogue: 0,0:15:07.96,0:15:09.38,English,,0,0,0,,{\pos(960,990)}Morning.
+Dialogue: 0,0:15:07.96,0:15:09.38,Chinese,,0,0,0,,{\pos(960,1050)}早上好
+Dialogue: 0,0:15:10.92,0:15:15.00,Chinese,,0,0,0,,{\pos(960,1050)}莫瑞堤医生请至4672号病房
+Dialogue: 0,0:15:15.08,0:15:16.12,English,,0,0,0,,{\pos(960,990)}Dr. Shepherd...
+Dialogue: 0,0:15:15.08,0:15:16.12,Chinese,,0,0,0,,{\pos(960,1050)}薛波医生…
+Dialogue: 0,0:15:17.25,0:15:19.33,English,,0,0,0,,{\pos(960,990)}Mr. Levangie, the Parkinson's patient...
+Dialogue: 0,0:15:17.25,0:15:19.33,Chinese,,0,0,0,,{\pos(960,1050)}那位帕金森氏症患者勒凡吉先生…
+Dialogue: 0,0:15:19.83,0:15:21.21,English,,0,0,0,,{\pos(960,990)}is he a good candidate for DBS?
+Dialogue: 0,0:15:19.83,0:15:21.21,Chinese,,0,0,0,,{\pos(960,1050)}他适合做脑深层刺激术吗？
+Dialogue: 0,0:15:22.21,0:15:23.41,English,,0,0,0,,{\pos(960,990)}Yes, but he's not interested.
+Dialogue: 0,0:15:22.21,0:15:23.41,Chinese,,0,0,0,,{\pos(960,1050)}适合 但他不想做
+Dialogue: 0,0:15:24.08,0:15:27.08,English,,0,0,0,,{\pos(960,990)}OK, but I think it's worth talking to him again, pushing him.
+Dialogue: 0,0:15:24.08,0:15:27.08,Chinese,,0,0,0,,{\pos(960,1050)}好 但我认为值得再说服他看看
+Dialogue: 0,0:15:27.12,0:15:28.53,English,,0,0,0,,{\pos(960,990)}We're talking about a brain surgery
+Dialogue: 0,0:15:27.12,0:15:28.53,Chinese,,0,0,0,,{\pos(960,1050)}这可是脑部手术
+Dialogue: 0,0:15:28.54,0:15:30.88,English,,0,0,0,,{\pos(960,990)}that is performed while the patient is wide awake.
+Dialogue: 0,0:15:28.54,0:15:30.88,Chinese,,0,0,0,,{\pos(960,1050)}而且手术过程中患者是清醒的
+Dialogue: 0,0:15:30.92,0:15:34.71,English,,0,0,0,,{\pos(960,990)}There is a risk of paralysis, a risk of death, and the patient doesn't want it.
+Dialogue: 0,0:15:30.92,0:15:34.71,Chinese,,0,0,0,,{\pos(960,1050)}接受手术有可能瘫痪 甚至死亡 患者并不想动手术
+Dialogue: 0,0:15:34.75,0:15:38.25,English,,0,0,0,,{\pos(960,990)}It is not my job to push him into anything and it's definitely not yours.
+Dialogue: 0,0:15:34.75,0:15:38.25,Chinese,,0,0,0,,{\pos(960,1050)}我不该说服他接受手术 你更加不应该那么做
+Dialogue: 0,0:15:38.96,0:15:39.88,English,,0,0,0,,{\pos(960,990)}OK.
+Dialogue: 0,0:15:38.96,0:15:39.88,Chinese,,0,0,0,,{\pos(960,1050)}好吧
+Dialogue: 0,0:15:39.92,0:15:41.83,English,,0,0,0,,{\pos(960,990)}Since you're uncomfortable with my decision in this case,
+Dialogue: 0,0:15:39.92,0:15:41.83,Chinese,,0,0,0,,{\pos(960,1050)}既然你不满意我的决定
+Dialogue: 0,0:15:41.83,0:15:43.08,English,,0,0,0,,{\pos(960,990)}- it's probably best you don't scrub in. - But...
+Dialogue: 0,0:15:41.83,0:15:43.08,Chinese,,0,0,0,,{\pos(960,1050)}- 还是别参加我的手术好了 - 但是…
+Dialogue: 0,0:15:43.08,0:15:45.29,English,,0,0,0,,{\pos(960,990)}It's a minor procedure. You won't be missed.
+Dialogue: 0,0:15:43.08,0:15:45.29,Chinese,,0,0,0,,{\pos(960,1050)}这只是个小手术 不来也不会怎样
+Dialogue: 0,0:15:55.08,0:15:56.50,English,,0,0,0,,{\pos(960,990)}You know, they call you the Nazi.
+Dialogue: 0,0:15:55.08,0:15:56.50,Chinese,,0,0,0,,{\pos(960,1050)}别人都叫你纳粹
+Dialogue: 0,0:15:56.83,0:15:58.12,English,,0,0,0,,{\pos(960,990)}So I've heard.
+Dialogue: 0,0:15:56.83,0:15:58.12,Chinese,,0,0,0,,{\pos(960,1050)}我听说了
+Dialogue: 0,0:16:04.33,0:16:05.33,English,,0,0,0,,{\pos(960,990)}I won't lie to you.
+Dialogue: 0,0:16:04.33,0:16:05.33,Chinese,,0,0,0,,{\pos(960,1050)}我不会骗你
+Dialogue: 0,0:16:05.33,0:16:07.83,English,,0,0,0,,{\pos(960,990)}The surgery is going to be long and difficult,
+Dialogue: 0,0:16:05.33,0:16:07.83,Chinese,,0,0,0,,{\pos(960,1050)}手术十分漫长 而且很不容易
+Dialogue: 0,0:16:08.29,0:16:11.12,English,,0,0,0,,{\pos(960,990)}but we have an extremely capable surgical team, and I can...
+Dialogue: 0,0:16:08.29,0:16:11.12,Chinese,,0,0,0,,{\pos(960,1050)}但我们有极为优秀的外科手术团队…
+Dialogue: 0,0:16:11.12,0:16:12.33,English,,0,0,0,,{\pos(960,990)}Am I gonna die?
+Dialogue: 0,0:16:11.12,0:16:12.33,Chinese,,0,0,0,,{\pos(960,1050)}我会死吗？
+Dialogue: 0,0:16:14.92,0:16:16.04,English,,0,0,0,,{\pos(960,990)}There's always that risk,
+Dialogue: 0,0:16:14.92,0:16:16.04,Chinese,,0,0,0,,{\pos(960,1050)}手术总有风险
+Dialogue: 0,0:16:17.00,0:16:18.38,English,,0,0,0,,{\pos(960,990)}but if we don't do the surgery...
+Dialogue: 0,0:16:17.00,0:16:18.38,Chinese,,0,0,0,,{\pos(960,1050)}但若我们不做手术…
+Dialogue: 0,0:16:19.75,0:16:20.83,English,,0,0,0,,{\pos(960,990)}I'll definitely die.
+Dialogue: 0,0:16:19.75,0:16:20.83,Chinese,,0,0,0,,{\pos(960,1050)}我必死无疑
+Dialogue: 0,0:16:21.58,0:16:22.67,English,,0,0,0,,{\pos(960,990)}Yes.
+Dialogue: 0,0:16:21.58,0:16:22.67,Chinese,,0,0,0,,{\pos(960,1050)}是的
+Dialogue: 0,0:16:22.96,0:16:24.08,English,,0,0,0,,{\pos(960,990)}Soon?
+Dialogue: 0,0:16:22.96,0:16:24.08,Chinese,,0,0,0,,{\pos(960,1050)}很快吗？
+Dialogue: 0,0:16:24.42,0:16:25.42,English,,0,0,0,,{\pos(960,990)}Yes.
+Dialogue: 0,0:16:24.42,0:16:25.42,Chinese,,0,0,0,,{\pos(960,1050)}是的
+Dialogue: 0,0:16:28.25,0:16:30.58,English,,0,0,0,,{\pos(960,990)}- Mom, the room's clean. - OK, honey, OK.
+Dialogue: 0,0:16:28.25,0:16:30.58,Chinese,,0,0,0,,{\pos(960,1050)}- 妈妈 病房很干净 - 好 亲爱的
+Dialogue: 0,0:16:30.62,0:16:31.67,English,,0,0,0,,{\pos(960,990)}Mom!
+Dialogue: 0,0:16:30.62,0:16:31.67,Chinese,,0,0,0,,{\pos(960,1050)}妈妈！
+Dialogue: 0,0:16:32.42,0:16:33.54,English,,0,0,0,,{\pos(960,990)}She'll have the surgery.
+Dialogue: 0,0:16:32.42,0:16:33.54,Chinese,,0,0,0,,{\pos(960,1050)}她要做手术
+Dialogue: 0,0:16:33.54,0:16:34.71,English,,0,0,0,,{\pos(960,990)}Mom.
+Dialogue: 0,0:16:33.54,0:16:34.71,Chinese,,0,0,0,,{\pos(960,1050)}妈妈
+Dialogue: 0,0:16:34.71,0:16:36.58,English,,0,0,0,,{\pos(960,990)}No. No, Annie.
+Dialogue: 0,0:16:34.71,0:16:36.58,Chinese,,0,0,0,,{\pos(960,1050)}别说了 安妮
+Dialogue: 0,0:16:37.46,0:16:39.08,English,,0,0,0,,{\pos(960,990)}She will have the surgery.
+Dialogue: 0,0:16:37.46,0:16:39.08,Chinese,,0,0,0,,{\pos(960,1050)}她要做手术
+Dialogue: 0,0:16:44.25,0:16:45.67,English,,0,0,0,,{\pos(960,990)}I guess I'll have the surgery...
+Dialogue: 0,0:16:44.25,0:16:45.67,Chinese,,0,0,0,,{\pos(960,1050)}看来我得做手术了
+Dialogue: 0,0:16:45.79,0:16:48.08,English,,0,0,0,,{\pos(960,990)}I think that is a very wise decision.
+Dialogue: 0,0:16:45.79,0:16:48.08,Chinese,,0,0,0,,{\pos(960,1050)}这是非常明智的决定
+Dialogue: 0,0:16:48.25,0:16:50.75,English,,0,0,0,,{\pos(960,990)}On one condition. I don't want him there.
+Dialogue: 0,0:16:48.25,0:16:50.75,Chinese,,0,0,0,,{\pos(960,1050)}但我有个条件 他不能在场
+Dialogue: 0,0:16:53.00,0:16:54.67,English,,0,0,0,,{\pos(960,990)}I'm sorry, Annie.
+Dialogue: 0,0:16:53.00,0:16:54.67,Chinese,,0,0,0,,{\pos(960,1050)}安妮 不好意思？
+Dialogue: 0,0:16:54.71,0:16:56.33,English,,0,0,0,,{\pos(960,990)}Did I upset you in some way?
+Dialogue: 0,0:16:54.71,0:16:56.33,Chinese,,0,0,0,,{\pos(960,1050)}我哪里得罪你了吗？
+Dialogue: 0,0:16:56.38,0:16:58.25,English,,0,0,0,,{\pos(960,990)}If he's in the surgery, I'm not having it.
+Dialogue: 0,0:16:56.38,0:16:58.25,Chinese,,0,0,0,,{\pos(960,1050)}他如果在场 我就不做手术
+Dialogue: 0,0:17:02.08,0:17:03.42,English,,0,0,0,,{\pos(960,990)}That's how I live with myself.
+Dialogue: 0,0:17:02.08,0:17:03.42,Chinese,,0,0,0,,{\pos(960,1050)}我这人就是这样
+Dialogue: 0,0:17:05.08,0:17:06.83,English,,0,0,0,,{\pos(960,990)}OK, Ms. Connors.
+Dialogue: 0,0:17:05.08,0:17:06.83,Chinese,,0,0,0,,{\pos(960,1050)}好的 康纳斯女士
+Dialogue: 0,0:17:07.92,0:17:09.17,English,,0,0,0,,{\pos(960,990)}Dr. Karev.
+Dialogue: 0,0:17:07.92,0:17:09.17,Chinese,,0,0,0,,{\pos(960,1050)}卡瑞医生
+Dialogue: 0,0:17:19.21,0:17:20.29,English,,0,0,0,,{\pos(960,990)}What the hell did you do?
+Dialogue: 0,0:17:19.21,0:17:21.96,Chinese,,0,0,0,,{\pos(960,1050)}- 你到底做了什么？ - 没有啊 我不知道
+Dialogue: 0,0:17:20.29,0:17:22.00,English,,0,0,0,,{\pos(960,990)}Nothing. I don't know.
+Dialogue: 0,0:17:22.46,0:17:24.62,English,,0,0,0,,{\pos(960,990)}Man. The mike must have been on. I was talking to the tech guy...
+Dialogue: 0,0:17:22.46,0:17:24.62,Chinese,,0,0,0,,{\pos(960,1050)}- 天啊 - 应该是麦克风没关 我和技师聊…
+Dialogue: 0,0:17:24.62,0:17:26.21,English,,0,0,0,,{\pos(960,990)}If anything goes wrong, anything,
+Dialogue: 0,0:17:24.62,0:17:26.21,Chinese,,0,0,0,,{\pos(960,1050)}万一手术出任何差错
+Dialogue: 0,0:17:26.54,0:17:29.71,English,,0,0,0,,{\pos(960,990)}you are 60% more likely to be sued if you've offended the patient.
+Dialogue: 0,0:17:26.54,0:17:29.71,Chinese,,0,0,0,,{\pos(960,1050)}你被告的机率会多六成 因为你冒犯了患者
+Dialogue: 0,0:17:29.75,0:17:31.91,English,,0,0,0,,{\pos(960,990)}- Sixty percent. - I never would have said that stuff.
+Dialogue: 0,0:17:29.75,0:17:31.91,Chinese,,0,0,0,,{\pos(960,1050)}- 六成机率 - 我那是无心说的
+Dialogue: 0,0:17:32.12,0:17:34.96,English,,0,0,0,,{\pos(960,990)}The mike shouldn't have been on. I didn't realize she could hear me.
+Dialogue: 0,0:17:32.12,0:17:34.96,Chinese,,0,0,0,,{\pos(960,1050)}麦克风不该开着 我没想到她听得见
+Dialogue: 0,0:17:35.33,0:17:37.42,English,,0,0,0,,{\pos(960,990)}Well, now you won't realize your chance to scrub in.
+Dialogue: 0,0:17:35.33,0:17:37.42,Chinese,,0,0,0,,{\pos(960,1050)}现在你也没机会参加手术了
+Dialogue: 0,0:17:37.46,0:17:40.54,English,,0,0,0,,{\pos(960,990)}You're banned from the OR. Mine or anyone else's. All week.
+Dialogue: 0,0:17:37.46,0:17:40.54,Chinese,,0,0,0,,{\pos(960,1050)}禁止你一周不准参与 我或任何人的手术
+Dialogue: 0,0:17:40.58,0:17:43.58,English,,0,0,0,,{\pos(960,990)}I got the history on the tumor. It's been growing for a year and a half.
+Dialogue: 0,0:17:40.58,0:17:43.58,Chinese,,0,0,0,,{\pos(960,1050)}我查到肿瘤相关病史了 那颗肿瘤已经长了一年半
+Dialogue: 0,0:17:44.21,0:17:46.67,English,,0,0,0,,{\pos(960,990)}A year and a half, and it's the first time she's even had it looked at.
+Dialogue: 0,0:17:44.21,0:17:46.67,Chinese,,0,0,0,,{\pos(960,1050)}一年半 她这才第一次来检查
+Dialogue: 0,0:17:46.67,0:17:47.88,English,,0,0,0,,{\pos(960,990)}It's like she's fatally lazy.
+Dialogue: 0,0:17:46.67,0:17:47.88,Chinese,,0,0,0,,{\pos(960,1050)}简直懒得要命
+Dialogue: 0,0:17:52.42,0:17:54.21,English,,0,0,0,,{\pos(960,990)}Why doesn't she get banned?
+Dialogue: 0,0:17:52.42,0:17:54.21,Chinese,,0,0,0,,{\pos(960,1050)}她怎么没被禁止参加手术？
+Dialogue: 0,0:17:55.62,0:17:58.42,English,,0,0,0,,{\pos(960,990)}Go prep Annie Connors for surgery. You're scrubbing in with Cristina.
+Dialogue: 0,0:17:55.62,0:17:58.42,Chinese,,0,0,0,,{\pos(960,1050)}去帮安妮康纳斯准备做手术 你和克里斯廷娜要参与
+Dialogue: 0,0:17:58.42,0:17:59.83,English,,0,0,0,,{\pos(960,990)}Really? I mean, thank you.
+Dialogue: 0,0:17:58.42,0:17:59.83,Chinese,,0,0,0,,{\pos(960,1050)}真的吗？谢谢你
+Dialogue: 0,0:18:01.00,0:18:02.21,English,,0,0,0,,{\pos(960,990)}OK.
+Dialogue: 0,0:18:01.00,0:18:02.21,Chinese,,0,0,0,,{\pos(960,1050)}好的
+Dialogue: 0,0:18:02.42,0:18:03.96,English,,0,0,0,,{\pos(960,990)}We just need to recheck your labs
+Dialogue: 0,0:18:02.42,0:18:03.96,Chinese,,0,0,0,,{\pos(960,1050)}我们需要重新化验一下
+Dialogue: 0,0:18:03.96,0:18:06.42,English,,0,0,0,,{\pos(960,990)}and get an EKG, so I just need to take a little blood.
+Dialogue: 0,0:18:03.96,0:18:06.42,Chinese,,0,0,0,,{\pos(960,1050)}然后做个心电图 所以我需要抽一点血
+Dialogue: 0,0:18:07.54,0:18:08.58,English,,0,0,0,,{\pos(960,990)}Dr. Burke is great
+Dialogue: 0,0:18:07.54,0:18:08.58,Chinese,,0,0,0,,{\pos(960,1050)}柏克医生医术精湛
+Dialogue: 0,0:18:09.04,0:18:10.08,English,,0,0,0,,{\pos(960,990)}and Dr. Bailey.
+Dialogue: 0,0:18:09.04,0:18:10.08,Chinese,,0,0,0,,{\pos(960,1050)}贝利医生也是
+Dialogue: 0,0:18:10.54,0:18:11.62,English,,0,0,0,,{\pos(960,990)}I know you're probably scared.
+Dialogue: 0,0:18:10.54,0:18:11.62,Chinese,,0,0,0,,{\pos(960,1050)}我知道你可能很害怕
+Dialogue: 0,0:18:11.62,0:18:12.71,English,,0,0,0,,{\pos(960,990)}That's OK, kitten.
+Dialogue: 0,0:18:11.62,0:18:12.71,Chinese,,0,0,0,,{\pos(960,1050)}没关系 小子
+Dialogue: 0,0:18:13.08,0:18:14.12,English,,0,0,0,,{\pos(960,990)}You can just do your job.
+Dialogue: 0,0:18:13.08,0:18:14.12,Chinese,,0,0,0,,{\pos(960,1050)}你完成工作就好
+Dialogue: 0,0:18:14.71,0:18:16.88,English,,0,0,0,,{\pos(960,990)}You don't have to talk to the fat, nasty tumor lady.
+Dialogue: 0,0:18:14.71,0:18:16.88,Chinese,,0,0,0,,{\pos(960,1050)}不必和我这个 长了恶心肿瘤的胖女人聊天
+Dialogue: 0,0:18:17.58,0:18:20.17,English,,0,0,0,,{\pos(960,990)}I mean, I let it get this bad. How much sympathy do I deserve?
+Dialogue: 0,0:18:17.58,0:18:20.17,Chinese,,0,0,0,,{\pos(960,1050)}毕竟这是我自找的 我不配别人的同情吧？
+Dialogue: 0,0:18:22.67,0:18:24.17,English,,0,0,0,,{\pos(960,990)}Why did you let it get this bad?
+Dialogue: 0,0:18:22.67,0:18:24.17,Chinese,,0,0,0,,{\pos(960,1050)}你为什么让它长这么大？
+Dialogue: 0,0:18:27.08,0:18:29.33,English,,0,0,0,,{\pos(960,990)}You're the first person since I got here to ask me that.
+Dialogue: 0,0:18:27.08,0:18:29.33,Chinese,,0,0,0,,{\pos(960,1050)}你是我住院以来第一个这么问的人
+Dialogue: 0,0:18:30.12,0:18:32.25,English,,0,0,0,,{\pos(960,990)}Well, I guess it's just like the elephant in the room.
+Dialogue: 0,0:18:30.12,0:18:32.25,Chinese,,0,0,0,,{\pos(960,1050)}你可能是怕冒犯你才避而不谈
+Dialogue: 0,0:18:32.29,0:18:33.38,English,,0,0,0,,{\pos(960,990)}Elephant?
+Dialogue: 0,0:18:32.29,0:18:36.75,Chinese,,0,0,0,,{\pos(960,1050)}冒犯？ 你不觉得这根本像头大母猪吗？
+Dialogue: 0,0:18:33.38,0:18:34.21,English,,0,0,0,,{\pos(960,990)}I mean...
+Dialogue: 0,0:18:34.29,0:18:36.92,English,,0,0,0,,{\pos(960,990)}It's more like a giant sow, don't you think?
+Dialogue: 0,0:18:44.21,0:18:46.42,English,,0,0,0,,{\pos(960,990)}Every time I went to the hospital, someone died.
+Dialogue: 0,0:18:44.21,0:18:46.42,Chinese,,0,0,0,,{\pos(960,1050)}每次我去医院 都有人过世
+Dialogue: 0,0:18:47.71,0:18:49.50,English,,0,0,0,,{\pos(960,990)}All four of my grandparents,
+Dialogue: 0,0:18:47.71,0:18:49.50,Chinese,,0,0,0,,{\pos(960,1050)}我的祖父母、外公外婆
+Dialogue: 0,0:18:49.71,0:18:50.79,English,,0,0,0,,{\pos(960,990)}then my dad,
+Dialogue: 0,0:18:49.71,0:18:50.79,Chinese,,0,0,0,,{\pos(960,1050)}然后是我爸
+Dialogue: 0,0:18:51.58,0:18:52.83,English,,0,0,0,,{\pos(960,990)}my best friend's mom,
+Dialogue: 0,0:18:51.58,0:18:52.83,Chinese,,0,0,0,,{\pos(960,1050)}我闺密的妈妈
+Dialogue: 0,0:18:53.75,0:18:54.92,English,,0,0,0,,{\pos(960,990)}my baby sister.
+Dialogue: 0,0:18:53.75,0:18:54.92,Chinese,,0,0,0,,{\pos(960,1050)}我的小妹
+Dialogue: 0,0:18:55.67,0:18:58.25,English,,0,0,0,,{\pos(960,990)}They all went in. Never came out.
+Dialogue: 0,0:18:55.67,0:18:58.25,Chinese,,0,0,0,,{\pos(960,1050)}他们都进了医院 再也没出来
+Dialogue: 0,0:18:59.67,0:19:00.92,English,,0,0,0,,{\pos(960,990)}So I put it off.
+Dialogue: 0,0:18:59.67,0:19:00.92,Chinese,,0,0,0,,{\pos(960,1050)}所以我一拖再拖
+Dialogue: 0,0:19:04.79,0:19:07.46,English,,0,0,0,,{\pos(960,990)}You know, you're not the only one... to put things off.
+Dialogue: 0,0:19:04.79,0:19:07.46,Chinese,,0,0,0,,{\pos(960,1050)}其实你不是唯一会拖拖拉拉的人
+Dialogue: 0,0:19:07.46,0:19:09.74,English,,0,0,0,,{\pos(960,990)}I mean, I never do anything till the last possible minute.
+Dialogue: 0,0:19:07.46,0:19:09.74,Chinese,,0,0,0,,{\pos(960,1050)}我每次都拖到最后一刻才肯行动
+Dialogue: 0,0:19:10.08,0:19:11.17,English,,0,0,0,,{\pos(960,990)}Like what?
+Dialogue: 0,0:19:10.08,0:19:11.17,Chinese,,0,0,0,,{\pos(960,1050)}像是什么？
+Dialogue: 0,0:19:11.58,0:19:12.62,English,,0,0,0,,{\pos(960,990)}Well...
+Dialogue: 0,0:19:11.58,0:19:12.62,Chinese,,0,0,0,,{\pos(960,1050)}这个嘛…
+Dialogue: 0,0:19:14.92,0:19:18.38,English,,0,0,0,,{\pos(960,990)}I've had this thing for my roommate since, like, day one, and I just...
+Dialogue: 0,0:19:14.92,0:19:18.38,Chinese,,0,0,0,,{\pos(960,1050)}我一开始就对我的室友有好感…
+Dialogue: 0,0:19:19.88,0:19:21.33,English,,0,0,0,,{\pos(960,990)}I... can't tell her.
+Dialogue: 0,0:19:19.88,0:19:21.33,Chinese,,0,0,0,,{\pos(960,1050)}但我…不敢告诉她
+Dialogue: 0,0:19:21.58,0:19:23.71,English,,0,0,0,,{\pos(960,990)}She probably wouldn't go out with me, anyway, but...
+Dialogue: 0,0:19:21.58,0:19:23.71,Chinese,,0,0,0,,{\pos(960,1050)}虽然说了可能也没戏 但是…
+Dialogue: 0,0:19:24.38,0:19:26.58,English,,0,0,0,,{\pos(960,990)}how do I know that for sure
+Dialogue: 0,0:19:24.38,0:19:26.58,Chinese,,0,0,0,,{\pos(960,1050)}如果我连问都没问
+Dialogue: 0,0:19:26.62,0:19:28.96,English,,0,0,0,,{\pos(960,990)}if I... don't ever ask?
+Dialogue: 0,0:19:26.62,0:19:28.96,Chinese,,0,0,0,,{\pos(960,1050)}要怎么确定？
+Dialogue: 0,0:19:30.88,0:19:35.92,English,,0,0,0,,{\pos(960,990)}Seriously? You're equating your pathetic love life with my record-breaking tumor?
+Dialogue: 0,0:19:30.88,0:19:35.92,Chinese,,0,0,0,,{\pos(960,1050)}真的假的？你居然把可悲的感情生活 和我破记录的肿瘤相提并论？
+Dialogue: 0,0:19:37.38,0:19:38.42,English,,0,0,0,,{\pos(960,990)}Seriously?
+Dialogue: 0,0:19:37.38,0:19:38.42,Chinese,,0,0,0,,{\pos(960,1050)}真的假的？
+Dialogue: 0,0:19:41.71,0:19:44.79,English,,0,0,0,,{\pos(960,990)}It's just that he blatantly favors me in front of her,
+Dialogue: 0,0:19:41.71,0:19:44.79,Chinese,,0,0,0,,{\pos(960,1050)}他先是在她面前公然偏袒我
+Dialogue: 0,0:19:44.92,0:19:46.88,English,,0,0,0,,{\pos(960,990)}and then blatantly dismisses me.
+Dialogue: 0,0:19:44.92,0:19:46.88,Chinese,,0,0,0,,{\pos(960,1050)}后来又当众给我难堪
+Dialogue: 0,0:19:46.88,0:19:48.40,English,,0,0,0,,{\pos(960,990)}How do you know he was favoring you?
+Dialogue: 0,0:19:46.88,0:19:48.40,Chinese,,0,0,0,,{\pos(960,1050)}你怎么知道他之前在偏袒你？
+Dialogue: 0,0:19:50.83,0:19:52.75,English,,0,0,0,,{\pos(960,990)}Look, you've got a brain. You got into this program.
+Dialogue: 0,0:19:50.83,0:19:52.75,Chinese,,0,0,0,,{\pos(960,1050)}听着 你是靠才智得到实习机会
+Dialogue: 0,0:19:52.75,0:19:55.08,English,,0,0,0,,{\pos(960,990)}Just because Shepherd munched your cookies
+Dialogue: 0,0:19:52.75,0:19:55.08,Chinese,,0,0,0,,{\pos(960,1050)}虽然薛波想上你
+Dialogue: 0,0:19:55.08,0:19:56.92,English,,0,0,0,,{\pos(960,990)}doesn't mean that you didn't deserve what you worked for.
+Dialogue: 0,0:19:55.08,0:19:56.92,Chinese,,0,0,0,,{\pos(960,1050)}但不代表你不配拥有这些机会的实力
+Dialogue: 0,0:19:56.92,0:19:58.50,English,,0,0,0,,{\pos(960,990)}But he's making me look bad.
+Dialogue: 0,0:19:56.92,0:19:58.50,Chinese,,0,0,0,,{\pos(960,1050)}但他这样让我很为难
+Dialogue: 0,0:19:59.88,0:20:00.88,English,,0,0,0,,{\pos(960,990)}I have to end it.
+Dialogue: 0,0:19:59.88,0:20:00.88,Chinese,,0,0,0,,{\pos(960,1050)}我必须结束这一切
+Dialogue: 0,0:20:00.88,0:20:02.12,English,,0,0,0,,{\pos(960,990)}Right.
+Dialogue: 0,0:20:00.88,0:20:02.12,Chinese,,0,0,0,,{\pos(960,1050)}最好是
+Dialogue: 0,0:20:02.21,0:20:03.29,English,,0,0,0,,{\pos(960,990)}- It's over. - Uh-huh.
+Dialogue: 0,0:20:02.21,0:20:03.29,Chinese,,0,0,0,,{\pos(960,1050)}结束了
+Dialogue: 0,0:20:04.29,0:20:06.58,English,,0,0,0,,{\pos(960,990)}Is it true you get to scrub in on that tumor?
+Dialogue: 0,0:20:04.29,0:20:06.58,Chinese,,0,0,0,,{\pos(960,1050)}你真的可以参加肿瘤手术吗？
+Dialogue: 0,0:20:06.58,0:20:07.54,English,,0,0,0,,{\pos(960,990)}Don't sit here.
+Dialogue: 0,0:20:06.58,0:20:07.54,Chinese,,0,0,0,,{\pos(960,1050)}别坐这里
+Dialogue: 0,0:20:07.54,0:20:08.71,English,,0,0,0,,{\pos(960,990)}You get to scrub in?
+Dialogue: 0,0:20:07.54,0:20:08.71,Chinese,,0,0,0,,{\pos(960,1050)}你可以参加手术？
+Dialogue: 0,0:20:09.29,0:20:10.42,English,,0,0,0,,{\pos(960,990)}How psyched are you?
+Dialogue: 0,0:20:09.29,0:20:10.42,Chinese,,0,0,0,,{\pos(960,1050)}你该有多激动啊？
+Dialogue: 0,0:20:10.46,0:20:12.83,English,,0,0,0,,{\pos(960,990)}On a scale of one to ecstatic, ecstatic.
+Dialogue: 0,0:20:10.46,0:20:12.83,Chinese,,0,0,0,,{\pos(960,1050)}欣喜若狂 澎湃不已
+Dialogue: 0,0:20:12.88,0:20:14.83,English,,0,0,0,,{\pos(960,990)}That's unbelievable. You know what I think?
+Dialogue: 0,0:20:12.88,0:20:14.83,Chinese,,0,0,0,,{\pos(960,1050)}真是不敢相信 你知道我是怎么想的吗？
+Dialogue: 0,0:20:15.25,0:20:17.04,English,,0,0,0,,{\pos(960,990)}I think Burke wants to get into your scrubs.
+Dialogue: 0,0:20:15.25,0:20:17.04,Chinese,,0,0,0,,{\pos(960,1050)}我觉得柏克看上你了
+Dialogue: 0,0:20:17.04,0:20:18.29,English,,0,0,0,,{\pos(960,990)}Why are you sitting here?
+Dialogue: 0,0:20:17.04,0:20:18.29,Chinese,,0,0,0,,{\pos(960,1050)}你干嘛坐在这里？
+Dialogue: 0,0:20:18.50,0:20:21.12,English,,0,0,0,,{\pos(960,990)}He kicked me off that surgery for the same crap you pull every day.
+Dialogue: 0,0:20:18.50,0:20:21.12,Chinese,,0,0,0,,{\pos(960,1050)}我讲话毒了点他就不让我参加 但你每天都口出恶言
+Dialogue: 0,0:20:21.12,0:20:24.67,English,,0,0,0,,{\pos(960,990)}You know what? If I stuck this fork into his thigh, would I get in trouble?
+Dialogue: 0,0:20:21.12,0:20:24.67,Chinese,,0,0,0,,{\pos(960,1050)}如果我拿叉子插他大腿 我会有麻烦吗？
+Dialogue: 0,0:20:24.71,0:20:26.39,English,,0,0,0,,{\pos(960,990)}Not if you make it look like an accident.
+Dialogue: 0,0:20:24.71,0:20:26.39,Chinese,,0,0,0,,{\pos(960,1050)}布置成意外就行了
+Dialogue: 0,0:20:26.79,0:20:28.04,English,,0,0,0,,{\pos(960,990)}- Hey. - Hi.
+Dialogue: 0,0:20:26.79,0:20:28.04,Chinese,,0,0,0,,{\pos(960,1050)}- 嘿 - 你好
+Dialogue: 0,0:20:28.04,0:20:30.42,English,,0,0,0,,{\pos(960,990)}Thank God, man.
+Dialogue: 0,0:20:28.04,0:20:30.42,Chinese,,0,0,0,,{\pos(960,1050)}- 嘿 - 谢天谢地 老兄
+Dialogue: 0,0:20:30.50,0:20:32.08,English,,0,0,0,,{\pos(960,990)}I'm drowning in estrogen here.
+Dialogue: 0,0:20:30.50,0:20:32.08,Chinese,,0,0,0,,{\pos(960,1050)}我淹在女人堆里了
+Dialogue: 0,0:20:32.08,0:20:35.04,English,,0,0,0,,{\pos(960,990)}Look, is everything OK?
+Dialogue: 0,0:20:32.08,0:20:35.04,Chinese,,0,0,0,,{\pos(960,1050)}话说 你没事吧？
+Dialogue: 0,0:20:36.46,0:20:38.04,English,,0,0,0,,{\pos(960,990)}Shepherd's a jackass.
+Dialogue: 0,0:20:36.46,0:20:38.04,Chinese,,0,0,0,,{\pos(960,1050)}薛波是混蛋
+Dialogue: 0,0:20:38.17,0:20:40.08,English,,0,0,0,,{\pos(960,990)}Really? I think he's kind of great.
+Dialogue: 0,0:20:38.17,0:20:40.08,Chinese,,0,0,0,,{\pos(960,1050)}真的吗？我觉得他很好啊
+Dialogue: 0,0:20:40.96,0:20:42.33,English,,0,0,0,,{\pos(960,990)}He reamed her out in front of Bailey.
+Dialogue: 0,0:20:40.96,0:20:42.33,Chinese,,0,0,0,,{\pos(960,1050)}他在贝利面前臭骂她一顿
+Dialogue: 0,0:20:42.33,0:20:43.42,English,,0,0,0,,{\pos(960,990)}Why?
+Dialogue: 0,0:20:42.33,0:20:43.42,Chinese,,0,0,0,,{\pos(960,1050)}为什么？
+Dialogue: 0,0:20:43.58,0:20:44.62,English,,0,0,0,,{\pos(960,990)}'Cause he's a jackass.
+Dialogue: 0,0:20:43.58,0:20:44.62,Chinese,,0,0,0,,{\pos(960,1050)}因为他是混蛋
+Dialogue: 0,0:20:46.42,0:20:49.29,English,,0,0,0,,{\pos(960,990)}Well... Bad days are... bad.
+Dialogue: 0,0:20:46.42,0:20:49.29,Chinese,,0,0,0,,{\pos(960,1050)}生活难免不如意
+Dialogue: 0,0:20:49.92,0:20:54.67,English,,0,0,0,,{\pos(960,990)}Maybe tonight if, you know, if you drink alcohol, I mean,
+Dialogue: 0,0:20:49.92,0:20:54.67,Chinese,,0,0,0,,{\pos(960,1050)}不如今晚…如果你喝酒
+Dialogue: 0,0:20:54.71,0:20:58.62,English,,0,0,0,,{\pos(960,990)}we could, all of us, I mean, go out and drink alcohol...
+Dialogue: 0,0:20:54.71,0:20:58.62,Chinese,,0,0,0,,{\pos(960,1050)}我是说我们所有人都可以去喝一杯…
+Dialogue: 0,0:20:59.21,0:21:02.58,English,,0,0,0,,{\pos(960,990)}you know, because of the bad day.
+Dialogue: 0,0:20:59.21,0:21:02.58,Chinese,,0,0,0,,{\pos(960,1050)}因为今天不太顺遂…
+Dialogue: 0,0:21:06.67,0:21:07.67,English,,0,0,0,,{\pos(960,990)}I got to go.
+Dialogue: 0,0:21:06.67,0:21:07.67,Chinese,,0,0,0,,{\pos(960,1050)}我得走了
+Dialogue: 0,0:21:12.12,0:21:13.21,English,,0,0,0,,{\pos(960,990)}Dude.
+Dialogue: 0,0:21:12.12,0:21:13.21,Chinese,,0,0,0,,{\pos(960,1050)}老兄
+Dialogue: 0,0:21:13.62,0:21:14.75,English,,0,0,0,,{\pos(960,990)}Shut up.
+Dialogue: 0,0:21:13.62,0:21:14.75,Chinese,,0,0,0,,{\pos(960,1050)}闭嘴
+Dialogue: 0,0:21:27.71,0:21:29.67,English,,0,0,0,,{\pos(960,990)}- How's your back? - Still good.
+Dialogue: 0,0:21:27.71,0:21:29.67,Chinese,,0,0,0,,{\pos(960,1050)}- 你的背部感觉如何？ - 很不错
+Dialogue: 0,0:21:29.71,0:21:31.21,English,,0,0,0,,{\pos(960,990)}Good. How are you? Good?
+Dialogue: 0,0:21:29.71,0:21:31.21,Chinese,,0,0,0,,{\pos(960,1050)}你好吗？还好吧
+Dialogue: 0,0:21:31.25,0:21:33.65,English,,0,0,0,,{\pos(960,990)}Can you lean forward for me? I just want to check something.
+Dialogue: 0,0:21:31.25,0:21:33.65,Chinese,,0,0,0,,{\pos(960,1050)}身体能往前倾一点吗？我想检查一下
+Dialogue: 0,0:21:34.04,0:21:35.50,English,,0,0,0,,{\pos(960,990)}- Does that feel OK? - Yeah.
+Dialogue: 0,0:21:34.04,0:21:35.83,Chinese,,0,0,0,,{\pos(960,1050)}- 这样感觉还好吗？这里呢？ - 还好
+Dialogue: 0,0:21:35.50,0:21:36.50,English,,0,0,0,,{\pos(960,990)}Right here?
+Dialogue: 0,0:21:36.92,0:21:37.96,English,,0,0,0,,{\pos(960,990)}Did you page?
+Dialogue: 0,0:21:36.92,0:21:37.96,Chinese,,0,0,0,,{\pos(960,1050)}你呼叫我了吗？
+Dialogue: 0,0:21:39.75,0:21:41.79,English,,0,0,0,,{\pos(960,990)}Mr. Levangie, have you given any more thought
+Dialogue: 0,0:21:39.75,0:21:41.79,Chinese,,0,0,0,,{\pos(960,1050)}勒凡吉先生 我们今早谈到的
+Dialogue: 0,0:21:41.88,0:21:44.54,English,,0,0,0,,{\pos(960,990)}about the other surgical options we discussed this morning?
+Dialogue: 0,0:21:41.88,0:21:44.54,Chinese,,0,0,0,,{\pos(960,1050)}其他手术治疗方法 你是否有再考虑看看呢？
+Dialogue: 0,0:21:44.88,0:21:45.92,English,,0,0,0,,{\pos(960,990)}What?
+Dialogue: 0,0:21:44.88,0:21:45.92,Chinese,,0,0,0,,{\pos(960,1050)}什么？
+Dialogue: 0,0:21:47.12,0:21:49.83,English,,0,0,0,,{\pos(960,990)}Why would I? I already told you no.
+Dialogue: 0,0:21:47.12,0:21:49.83,Chinese,,0,0,0,,{\pos(960,1050)}还考虑什么？我已经拒绝了
+Dialogue: 0,0:21:51.04,0:21:53.25,English,,0,0,0,,{\pos(960,990)}I'm letting you cut into my back,
+Dialogue: 0,0:21:51.04,0:21:53.25,Chinese,,0,0,0,,{\pos(960,1050)}我都让你们切开背部了
+Dialogue: 0,0:21:53.79,0:21:55.33,English,,0,0,0,,{\pos(960,990)}but that's not enough for you.
+Dialogue: 0,0:21:53.79,0:21:55.33,Chinese,,0,0,0,,{\pos(960,1050)}但你却还不满足
+Dialogue: 0,0:21:55.88,0:21:57.71,English,,0,0,0,,{\pos(960,990)}All you guys ever want to do is cut.
+Dialogue: 0,0:21:55.88,0:21:57.71,Chinese,,0,0,0,,{\pos(960,1050)}你们医生满脑子想的都是动刀
+Dialogue: 0,0:21:57.75,0:21:59.21,English,,0,0,0,,{\pos(960,990)}Dad, just listen to what he has to say.
+Dialogue: 0,0:21:57.75,0:21:59.21,Chinese,,0,0,0,,{\pos(960,1050)}爸爸 你先听听他怎么说
+Dialogue: 0,0:21:59.21,0:22:00.79,English,,0,0,0,,{\pos(960,990)}I already listened.
+Dialogue: 0,0:21:59.21,0:22:00.79,Chinese,,0,0,0,,{\pos(960,1050)}我已经听过了
+Dialogue: 0,0:22:01.62,0:22:04.71,English,,0,0,0,,{\pos(960,990)}Sir, there's a very small window of opportunity here.
+Dialogue: 0,0:22:01.62,0:22:04.71,Chinese,,0,0,0,,{\pos(960,1050)}先生 做此手术的机会稍纵即逝
+Dialogue: 0,0:22:05.17,0:22:07.71,English,,0,0,0,,{\pos(960,990)}You know, once the Parkinson's progresses to a point of dementia,
+Dialogue: 0,0:22:05.17,0:22:07.71,Chinese,,0,0,0,,{\pos(960,1050)}一旦帕金森氏症发展成失智症
+Dialogue: 0,0:22:07.71,0:22:10.12,English,,0,0,0,,{\pos(960,990)}you're no longer a candidate for DBS.
+Dialogue: 0,0:22:07.71,0:22:10.12,Chinese,,0,0,0,,{\pos(960,1050)}你就不能接受脑深层刺激术了
+Dialogue: 0,0:22:10.25,0:22:12.62,English,,0,0,0,,{\pos(960,990)}And when I'm no longer a candidate,
+Dialogue: 0,0:22:10.25,0:22:12.62,Chinese,,0,0,0,,{\pos(960,1050)}等我无法接受手术时
+Dialogue: 0,0:22:13.25,0:22:17.17,English,,0,0,0,,{\pos(960,990)}is that when you people will leave me the hell alone?
+Dialogue: 0,0:22:13.25,0:22:17.17,Chinese,,0,0,0,,{\pos(960,1050)}你们才不会再来烦我吗？
+Dialogue: 0,0:22:18.79,0:22:21.33,English,,0,0,0,,{\pos(960,990)}What? Do I have to start drooling
+Dialogue: 0,0:22:18.79,0:22:21.33,Chinese,,0,0,0,,{\pos(960,1050)}是怎样？难道我得开始流口水
+Dialogue: 0,0:22:21.38,0:22:24.67,English,,0,0,0,,{\pos(960,990)}and forget my name to get a little peace and quiet?
+Dialogue: 0,0:22:21.38,0:22:24.67,Chinese,,0,0,0,,{\pos(960,1050)}忘记自己的名字 耳根子才能稍微清净一点？
+Dialogue: 0,0:22:25.42,0:22:26.46,English,,0,0,0,,{\pos(960,990)}All right.
+Dialogue: 0,0:22:25.42,0:22:26.46,Chinese,,0,0,0,,{\pos(960,1050)}好吧
+Dialogue: 0,0:22:27.12,0:22:28.46,English,,0,0,0,,{\pos(960,990)}I'll check back with you later.
+Dialogue: 0,0:22:27.12,0:22:28.46,Chinese,,0,0,0,,{\pos(960,1050)}我晚点再来看你
+Dialogue: 0,0:22:28.54,0:22:29.54,English,,0,0,0,,{\pos(960,990)}Try to get some rest.
+Dialogue: 0,0:22:28.54,0:22:29.54,Chinese,,0,0,0,,{\pos(960,1050)}好好休息
+Dialogue: 0,0:22:30.42,0:22:33.42,English,,0,0,0,,{\pos(960,990)}Dad, you're being unreasonable.
+Dialogue: 0,0:22:30.42,0:22:33.42,Chinese,,0,0,0,,{\pos(960,1050)}爸爸 你太不可理喻了
+Dialogue: 0,0:22:33.75,0:22:35.67,English,,0,0,0,,{\pos(960,990)}The doctors are only trying to help you.
+Dialogue: 0,0:22:33.75,0:22:35.67,Chinese,,0,0,0,,{\pos(960,1050)}医生们只是想帮你
+Dialogue: 0,0:22:35.71,0:22:38.08,English,,0,0,0,,{\pos(960,990)}It's my damn life, and it's my damn brain.
+Dialogue: 0,0:22:35.71,0:22:38.08,Chinese,,0,0,0,,{\pos(960,1050)}这是我自己该死的人生和脑袋
+Dialogue: 0,0:22:38.50,0:22:43.04,English,,0,0,0,,{\pos(960,990)}You want me to let them cut up my brain while I'm lying here awake. For what?
+Dialogue: 0,0:22:38.50,0:22:43.04,Chinese,,0,0,0,,{\pos(960,1050)}你要让他们在我清醒的状态下 切开我的大脑 为了什么？
+Dialogue: 0,0:22:43.04,0:22:45.12,English,,0,0,0,,{\pos(960,990)}- Dad! - I'll be at your wedding.
+Dialogue: 0,0:22:43.04,0:22:45.12,Chinese,,0,0,0,,{\pos(960,1050)}- 爸爸！ - 我会出席你的婚礼
+Dialogue: 0,0:22:46.42,0:22:49.88,English,,0,0,0,,{\pos(960,990)}I will sit in the back. Your uncle will walk you down the aisle.
+Dialogue: 0,0:22:46.42,0:22:49.88,Chinese,,0,0,0,,{\pos(960,1050)}我会坐在后排 你叔叔会挽着你进场
+Dialogue: 0,0:22:50.88,0:22:53.67,English,,0,0,0,,{\pos(960,990)}I know it's not perfect, but it's life.
+Dialogue: 0,0:22:50.88,0:22:53.67,Chinese,,0,0,0,,{\pos(960,1050)}我知道这不完美 但人生就是如此
+Dialogue: 0,0:22:54.08,0:22:56.21,English,,0,0,0,,{\pos(960,990)}Life is messy sometimes.
+Dialogue: 0,0:22:54.08,0:22:56.21,Chinese,,0,0,0,,{\pos(960,1050)}人生有时就是一团糟
+Dialogue: 0,0:22:57.62,0:22:58.67,English,,0,0,0,,{\pos(960,990)}I know that.
+Dialogue: 0,0:22:57.62,0:22:58.67,Chinese,,0,0,0,,{\pos(960,1050)}我知道
+Dialogue: 0,0:23:03.75,0:23:04.83,English,,0,0,0,,{\pos(960,990)}If she knows...
+Dialogue: 0,0:23:03.75,0:23:04.83,Chinese,,0,0,0,,{\pos(960,1050)}如果她真的知道…
+Dialogue: 0,0:23:06.04,0:23:08.92,English,,0,0,0,,{\pos(960,990)}then what the hell are we still talking for, huh?
+Dialogue: 0,0:23:06.04,0:23:08.92,Chinese,,0,0,0,,{\pos(960,1050)}我们还有什么好谈的？
+Dialogue: 0,0:23:09.88,0:23:11.88,English,,0,0,0,,{\pos(960,990)}Why in hell can't she drop it?
+Dialogue: 0,0:23:09.88,0:23:11.88,Chinese,,0,0,0,,{\pos(960,1050)}她为什么不肯放弃那念头？
+Dialogue: 0,0:23:15.88,0:23:16.92,English,,0,0,0,,{\pos(960,990)}It is your life.
+Dialogue: 0,0:23:15.88,0:23:16.92,Chinese,,0,0,0,,{\pos(960,1050)}这确实是你的人生
+Dialogue: 0,0:23:17.92,0:23:19.42,English,,0,0,0,,{\pos(960,990)}But it's her life, too.
+Dialogue: 0,0:23:17.92,0:23:19.42,Chinese,,0,0,0,,{\pos(960,1050)}但也是她的人生
+Dialogue: 0,0:23:19.92,0:23:21.67,English,,0,0,0,,{\pos(960,990)}And you have a chance to get better here.
+Dialogue: 0,0:23:19.92,0:23:21.67,Chinese,,0,0,0,,{\pos(960,1050)}现在你的病情有机会好转
+Dialogue: 0,0:23:22.46,0:23:24.50,English,,0,0,0,,{\pos(960,990)}And all she's asking you to do is try.
+Dialogue: 0,0:23:22.46,0:23:24.50,Chinese,,0,0,0,,{\pos(960,1050)}她只是希望你能试一试
+Dialogue: 0,0:23:34.58,0:23:37.38,English,,0,0,0,,{\pos(960,990)}If they pull this off, I'm totally calling Oprah.
+Dialogue: 0,0:23:34.58,0:23:37.38,Chinese,,0,0,0,,{\pos(960,1050)}如果手术成功 我一定要打给奥普拉
+Dialogue: 0,0:23:38.21,0:23:39.62,English,,0,0,0,,{\pos(960,990)}You two been working out?
+Dialogue: 0,0:23:38.21,0:23:39.62,Chinese,,0,0,0,,{\pos(960,1050)}你们俩有没有健身？
+Dialogue: 0,0:23:40.08,0:23:41.08,English,,0,0,0,,{\pos(960,990)}Um.
+Dialogue: 0,0:23:41.08,0:23:45.12,English,,0,0,0,,{\pos(960,990)}Sometimes I jog, and I try to take the stairs whenever possible.
+Dialogue: 0,0:23:41.08,0:23:45.12,Chinese,,0,0,0,,{\pos(960,1050)}有时候我会慢跑 一有机会我就走楼梯
+Dialogue: 0,0:23:45.12,0:23:46.21,English,,0,0,0,,{\pos(960,990)}Why?
+Dialogue: 0,0:23:45.12,0:23:46.21,Chinese,,0,0,0,,{\pos(960,1050)}为什么这么问？
+Dialogue: 0,0:23:46.50,0:23:48.12,English,,0,0,0,,{\pos(960,990)}See that large pile of tumor?
+Dialogue: 0,0:23:46.50,0:23:48.12,Chinese,,0,0,0,,{\pos(960,1050)}看见那个大肿瘤了吗？
+Dialogue: 0,0:23:48.54,0:23:51.42,English,,0,0,0,,{\pos(960,990)}You're gonna be retracting it for the next 14 hours,
+Dialogue: 0,0:23:48.54,0:23:51.42,Chinese,,0,0,0,,{\pos(960,1050)}接下来14小时 你们都要托住它
+Dialogue: 0,0:23:51.46,0:23:54.29,English,,0,0,0,,{\pos(960,990)}so I'm just saying I hope you have strong backs.
+Dialogue: 0,0:23:51.46,0:23:54.29,Chinese,,0,0,0,,{\pos(960,1050)}但愿你们挺得过去
+Dialogue: 0,0:23:57.54,0:23:58.54,English,,0,0,0,,{\pos(960,990)}Dr. Shepherd.
+Dialogue: 0,0:23:57.54,0:23:58.54,Chinese,,0,0,0,,{\pos(960,1050)}薛波医生
+Dialogue: 0,0:23:59.25,0:24:00.33,English,,0,0,0,,{\pos(960,990)}Yes?
+Dialogue: 0,0:23:59.25,0:24:00.33,Chinese,,0,0,0,,{\pos(960,1050)}什么事？
+Dialogue: 0,0:24:00.67,0:24:02.96,English,,0,0,0,,{\pos(960,990)}Mr. Levangie has agreed to DBS...
+Dialogue: 0,0:24:00.67,0:24:02.96,Chinese,,0,0,0,,{\pos(960,1050)}勒凡吉先生同意接受脑深层刺激术
+Dialogue: 0,0:24:03.62,0:24:04.96,English,,0,0,0,,{\pos(960,990)}if we do it today.
+Dialogue: 0,0:24:03.62,0:24:04.96,Chinese,,0,0,0,,{\pos(960,1050)}前提是今天就开刀
+Dialogue: 0,0:24:06.33,0:24:07.75,English,,0,0,0,,{\pos(960,990)}If he leaves, he won't come back.
+Dialogue: 0,0:24:06.33,0:24:07.75,Chinese,,0,0,0,,{\pos(960,1050)}他出院后就不会回来了
+Dialogue: 0,0:24:12.33,0:24:13.75,English,,0,0,0,,{\pos(960,990)}Don't worry, Dr. Shepherd.
+Dialogue: 0,0:24:12.33,0:24:13.75,Chinese,,0,0,0,,{\pos(960,1050)}别担心 薛波医生
+Dialogue: 0,0:24:14.42,0:24:16.71,English,,0,0,0,,{\pos(960,990)}It'll take hours before we get around to the spine.
+Dialogue: 0,0:24:14.42,0:24:16.71,Chinese,,0,0,0,,{\pos(960,1050)}要好几个小时后 才会进行到脊椎手术
+Dialogue: 0,0:24:17.08,0:24:18.17,English,,0,0,0,,{\pos(960,990)}I'll page you.
+Dialogue: 0,0:24:17.08,0:24:18.17,Chinese,,0,0,0,,{\pos(960,1050)}我会呼叫你
+Dialogue: 0,0:24:19.71,0:24:20.96,English,,0,0,0,,{\pos(960,990)}All right, then.
+Dialogue: 0,0:24:19.71,0:24:20.96,Chinese,,0,0,0,,{\pos(960,1050)}那好吧
+Dialogue: 0,0:24:24.08,0:24:25.25,English,,0,0,0,,{\pos(960,990)}Let's do it.
+Dialogue: 0,0:24:24.08,0:24:25.25,Chinese,,0,0,0,,{\pos(960,1050)}动手术吧
+Dialogue: 0,0:24:31.38,0:24:32.62,English,,0,0,0,,{\pos(960,990)}Dr. Bailey...
+Dialogue: 0,0:24:31.38,0:24:32.62,Chinese,,0,0,0,,{\pos(960,1050)}贝利医生
+Dialogue: 0,0:24:34.96,0:24:36.00,English,,0,0,0,,{\pos(960,990)}I didn't know...
+Dialogue: 0,0:24:34.96,0:24:36.00,Chinese,,0,0,0,,{\pos(960,1050)}我不知道…
+Dialogue: 0,0:24:37.75,0:24:39.42,English,,0,0,0,,{\pos(960,990)}that he was my boss when I met him.
+Dialogue: 0,0:24:37.75,0:24:39.42,Chinese,,0,0,0,,{\pos(960,1050)}我刚认识他时 不知道他是我上司
+Dialogue: 0,0:24:39.50,0:24:40.42,English,,0,0,0,,{\pos(960,990)}I didn't know.
+Dialogue: 0,0:24:39.50,0:24:41.25,Chinese,,0,0,0,,{\pos(960,1050)}- 我真的不知道 - 我不在乎
+Dialogue: 0,0:24:40.42,0:24:41.42,English,,0,0,0,,{\pos(960,990)}I don't care.
+Dialogue: 0,0:24:41.67,0:24:42.92,English,,0,0,0,,{\pos(960,990)}Really?
+Dialogue: 0,0:24:41.67,0:24:42.92,Chinese,,0,0,0,,{\pos(960,1050)}是吗？
+Dialogue: 0,0:24:43.21,0:24:46.38,English,,0,0,0,,{\pos(960,990)}Well, you sort of seemed to not be talking to me, so I...
+Dialogue: 0,0:24:43.21,0:24:46.38,Chinese,,0,0,0,,{\pos(960,1050)}因为你似乎不愿意和我说话…
+Dialogue: 0,0:24:46.42,0:24:48.29,English,,0,0,0,,{\pos(960,990)}You see this, what's happening right here?
+Dialogue: 0,0:24:46.42,0:24:48.29,Chinese,,0,0,0,,{\pos(960,1050)}你看出问题所在了吗？
+Dialogue: 0,0:24:48.67,0:24:51.58,English,,0,0,0,,{\pos(960,990)}This is the problem with you sleeping with my boss.
+Dialogue: 0,0:24:48.67,0:24:51.58,Chinese,,0,0,0,,{\pos(960,1050)}这就是你和我上司搞在一起的后遗症
+Dialogue: 0,0:24:51.96,0:24:56.17,English,,0,0,0,,{\pos(960,990)}Not whether or not you knew him before, but how it affects my day.
+Dialogue: 0,0:24:51.96,0:24:56.17,Chinese,,0,0,0,,{\pos(960,1050)}重点不是你之前是否认识他 而是我的生活被影响了
+Dialogue: 0,0:24:56.67,0:25:00.96,English,,0,0,0,,{\pos(960,990)}And me standing here talking to you about your sex life affects my day.
+Dialogue: 0,0:24:56.67,0:25:00.96,Chinese,,0,0,0,,{\pos(960,1050)}我站在这里聊你的性生活 影响了我
+Dialogue: 0,0:25:01.62,0:25:04.46,English,,0,0,0,,{\pos(960,990)}And the longer this little fling goes on,
+Dialogue: 0,0:25:01.62,0:25:04.46,Chinese,,0,0,0,,{\pos(960,1050)}如果你们越来越纠缠不清
+Dialogue: 0,0:25:04.54,0:25:07.38,English,,0,0,0,,{\pos(960,990)}the more favors you get over the others,
+Dialogue: 0,0:25:04.54,0:25:07.38,Chinese,,0,0,0,,{\pos(960,1050)}你就会比别人得到更多偏袒
+Dialogue: 0,0:25:07.38,0:25:08.58,English,,0,0,0,,{\pos(960,990)}who are fighting tooth and nail
+Dialogue: 0,0:25:07.38,0:25:08.58,Chinese,,0,0,0,,{\pos(960,1050)}他们可是拼尽全力
+Dialogue: 0,0:25:08.58,0:25:11.21,English,,0,0,0,,{\pos(960,990)}just to make it through this program without any assistance
+Dialogue: 0,0:25:08.58,0:25:11.21,Chinese,,0,0,0,,{\pos(960,1050)}在无人协助之下 力求完成实习
+Dialogue: 0,0:25:11.21,0:25:13.92,English,,0,0,0,,{\pos(960,990)}when those people start finding out what's going on
+Dialogue: 0,0:25:11.21,0:25:13.92,Chinese,,0,0,0,,{\pos(960,1050)}等那些人发现了你们的事情
+Dialogue: 0,0:25:13.96,0:25:17.92,English,,0,0,0,,{\pos(960,990)}and they don't want to work with you and talk to you
+Dialogue: 0,0:25:13.96,0:25:17.92,Chinese,,0,0,0,,{\pos(960,1050)}他们就不会愿意和你共事 也会不想理你
+Dialogue: 0,0:25:18.08,0:25:21.50,English,,0,0,0,,{\pos(960,990)}or look at you and they start bitching and moaning at me,
+Dialogue: 0,0:25:18.08,0:25:21.50,Chinese,,0,0,0,,{\pos(960,1050)}不想看见你 等他们开始和我抱怨你的时候
+Dialogue: 0,0:25:22.67,0:25:24.46,English,,0,0,0,,{\pos(960,990)}the more it affects my day.
+Dialogue: 0,0:25:22.67,0:25:24.46,Chinese,,0,0,0,,{\pos(960,1050)}就会更加影响我的生活
+Dialogue: 0,0:25:25.33,0:25:26.75,English,,0,0,0,,{\pos(960,990)}So, no, Dr. Grey,
+Dialogue: 0,0:25:25.33,0:25:26.75,Chinese,,0,0,0,,{\pos(960,1050)}所以那不是重点 葛蕾医生
+Dialogue: 0,0:25:27.12,0:25:29.46,English,,0,0,0,,{\pos(960,990)}I don't care what you knew or when you knew it.
+Dialogue: 0,0:25:27.12,0:25:29.46,Chinese,,0,0,0,,{\pos(960,1050)}我不在乎你当初是否知道 或何时得知的
+Dialogue: 0,0:25:30.50,0:25:31.62,English,,0,0,0,,{\pos(960,990)}Are we understood?
+Dialogue: 0,0:25:30.50,0:25:31.62,Chinese,,0,0,0,,{\pos(960,1050)}明白了吗？
+Dialogue: 0,0:25:32.88,0:25:34.42,English,,0,0,0,,{\pos(960,990)}- Yes. - Good.
+Dialogue: 0,0:25:32.88,0:25:34.42,Chinese,,0,0,0,,{\pos(960,1050)}- 明白 - 很好
+Dialogue: 0,0:25:45.25,0:25:46.92,Chinese,,0,0,0,,{\pos(960,1050)}（西雅图恩典医院）
+Dialogue: 0,0:25:47.00,0:25:48.17,English,,0,0,0,,{\pos(960,990)}This sucks.
+Dialogue: 0,0:25:47.00,0:25:48.17,Chinese,,0,0,0,,{\pos(960,1050)}感觉真糟
+Dialogue: 0,0:25:48.25,0:25:50.01,English,,0,0,0,,{\pos(960,990)}Yeah, I'm not a real fan of yours, either.
+Dialogue: 0,0:25:48.25,0:25:50.01,Chinese,,0,0,0,,{\pos(960,1050)}反正我对你也没什么好感
+Dialogue: 0,0:25:50.04,0:25:52.50,English,,0,0,0,,{\pos(960,990)}Not you. This. Everyone else is scrubbed in somewhere.
+Dialogue: 0,0:25:50.04,0:25:52.50,Chinese,,0,0,0,,{\pos(960,1050)}我不是说你 是别人都可以参加手术
+Dialogue: 0,0:25:52.67,0:25:54.35,English,,0,0,0,,{\pos(960,990)}Bright side, we have the run of the floor.
+Dialogue: 0,0:25:52.67,0:25:54.35,Chinese,,0,0,0,,{\pos(960,1050)}往好处想 这层归我们管了
+Dialogue: 0,0:25:54.38,0:25:56.08,English,,0,0,0,,{\pos(960,990)}Want to do it in the stairwell?
+Dialogue: 0,0:25:54.38,0:25:56.08,Chinese,,0,0,0,,{\pos(960,1050)}好极了 要不要去楼梯间做爱？
+Dialogue: 0,0:25:56.12,0:25:58.13,English,,0,0,0,,{\pos(960,990)}I'm just saying you never know what could happen.
+Dialogue: 0,0:25:56.12,0:25:58.13,Chinese,,0,0,0,,{\pos(960,1050)}反正未来的事都很难说
+Dialogue: 0,0:26:02.08,0:26:03.17,English,,0,0,0,,{\pos(960,990)}I'm changing.
+Dialogue: 0,0:26:02.08,0:26:03.17,Chinese,,0,0,0,,{\pos(960,1050)}我去换衣服
+Dialogue: 0,0:26:03.17,0:26:04.38,English,,0,0,0,,{\pos(960,990)}I'll page you if I need you.
+Dialogue: 0,0:26:03.17,0:26:04.38,Chinese,,0,0,0,,{\pos(960,1050)}有需要我会呼叫你
+Dialogue: 0,0:26:04.67,0:26:05.67,English,,0,0,0,,{\pos(960,990)}You do that.
+Dialogue: 0,0:26:04.67,0:26:05.67,Chinese,,0,0,0,,{\pos(960,1050)}务必叫我
+Dialogue: 0,0:26:08.04,0:26:09.96,English,,0,0,0,,{\pos(960,990)}You are so my favorite person today.
+Dialogue: 0,0:26:08.04,0:26:09.96,Chinese,,0,0,0,,{\pos(960,1050)}你是我今日最佳患者
+Dialogue: 0,0:26:15.21,0:26:16.96,English,,0,0,0,,{\pos(960,990)}We need to hang another bag of O-neg.
+Dialogue: 0,0:26:15.21,0:26:16.96,Chinese,,0,0,0,,{\pos(960,1050)}需要再一袋阴性O型血
+Dialogue: 0,0:26:18.67,0:26:22.25,English,,0,0,0,,{\pos(960,990)}Cauterizing the small bleeders to keep my visual field clean.
+Dialogue: 0,0:26:18.67,0:26:22.25,Chinese,,0,0,0,,{\pos(960,1050)}电灼这些小出血点 保持我的视野清晰
+Dialogue: 0,0:26:22.25,0:26:24.00,English,,0,0,0,,{\pos(960,990)}God, is your back killing you?
+Dialogue: 0,0:26:22.25,0:26:24.00,Chinese,,0,0,0,,{\pos(960,1050)}天啊 你的背会不会很痛？
+Dialogue: 0,0:26:24.12,0:26:25.96,English,,0,0,0,,{\pos(960,990)}George, shut up. We're in here.
+Dialogue: 0,0:26:24.12,0:26:26.75,Chinese,,0,0,0,,{\pos(960,1050)}- 乔治 闭嘴 我们在手术室 - 麻烦再抽吸
+Dialogue: 0,0:26:25.96,0:26:27.08,English,,0,0,0,,{\pos(960,990)}More suction, please.
+Dialogue: 0,0:26:33.46,0:26:35.67,English,,0,0,0,,{\pos(960,990)}Mrs. Harper, let me show you these chest films.
+Dialogue: 0,0:26:33.46,0:26:35.67,Chinese,,0,0,0,,{\pos(960,1050)}哈波太太 请过来看看这些胸片
+Dialogue: 0,0:26:38.08,0:26:40.08,English,,0,0,0,,{\pos(960,990)}We were able to relieve the obstruction of his chest tube,
+Dialogue: 0,0:26:38.08,0:26:40.08,Chinese,,0,0,0,,{\pos(960,1050)}我们成功清除胸管的阻塞情形
+Dialogue: 0,0:26:40.08,0:26:43.04,English,,0,0,0,,{\pos(960,990)}so the buildup of fluid you see here should resolve itself soon.
+Dialogue: 0,0:26:40.08,0:26:43.04,Chinese,,0,0,0,,{\pos(960,1050)}这里的积液很快就会自动排除
+Dialogue: 0,0:26:46.62,0:26:48.71,English,,0,0,0,,{\pos(960,990)}Which translates as he should be home in no time.
+Dialogue: 0,0:26:46.62,0:26:48.71,Chinese,,0,0,0,,{\pos(960,1050)}换句话说 他很快就能出院了
+Dialogue: 0,0:26:49.42,0:26:50.83,English,,0,0,0,,{\pos(960,990)}He was making waffles.
+Dialogue: 0,0:26:49.42,0:26:50.83,Chinese,,0,0,0,,{\pos(960,1050)}他在做华夫饼
+Dialogue: 0,0:26:50.88,0:26:51.92,English,,0,0,0,,{\pos(960,990)}I'm sorry?
+Dialogue: 0,0:26:50.88,0:26:51.92,Chinese,,0,0,0,,{\pos(960,1050)}你说什么？
+Dialogue: 0,0:26:52.21,0:26:53.25,English,,0,0,0,,{\pos(960,990)}He was making waffles.
+Dialogue: 0,0:26:52.21,0:26:53.25,Chinese,,0,0,0,,{\pos(960,1050)}他当时在做华夫饼
+Dialogue: 0,0:26:53.25,0:26:55.42,English,,0,0,0,,{\pos(960,990)}He was mixing the batter and...
+Dialogue: 0,0:26:53.25,0:26:55.42,Chinese,,0,0,0,,{\pos(960,1050)}他本来在搅和面团…
+Dialogue: 0,0:26:55.75,0:26:56.96,English,,0,0,0,,{\pos(960,990)}and then, he was on the floor.
+Dialogue: 0,0:26:55.75,0:26:56.96,Chinese,,0,0,0,,{\pos(960,1050)}后来他就倒在地上了
+Dialogue: 0,0:26:56.96,0:26:59.08,English,,0,0,0,,{\pos(960,990)}Izzie, we need a central line run in 204.
+Dialogue: 0,0:26:56.96,0:26:59.08,Chinese,,0,0,0,,{\pos(960,1050)}伊兹 204号病房 需要做中心静脉导管
+Dialogue: 0,0:26:59.12,0:27:01.09,English,,0,0,0,,{\pos(960,990)}- Page Dr. Karev, will you? - He's not answering.
+Dialogue: 0,0:26:59.12,0:27:01.09,Chinese,,0,0,0,,{\pos(960,1050)}- 麻烦呼叫卡瑞医生 - 他没回应
+Dialogue: 0,0:27:01.83,0:27:02.96,English,,0,0,0,,{\pos(960,990)}I'm so sorry.
+Dialogue: 0,0:27:01.83,0:27:02.96,Chinese,,0,0,0,,{\pos(960,1050)}非常抱歉
+Dialogue: 0,0:27:03.46,0:27:04.62,English,,0,0,0,,{\pos(960,990)}I'll be back.
+Dialogue: 0,0:27:03.46,0:27:04.62,Chinese,,0,0,0,,{\pos(960,1050)}我马上回来
+Dialogue: 0,0:27:15.88,0:27:17.33,English,,0,0,0,,{\pos(960,990)}Like what you see, right?
+Dialogue: 0,0:27:15.88,0:27:17.33,Chinese,,0,0,0,,{\pos(960,1050)}让你目不转睛了吧？
+Dialogue: 0,0:27:24.42,0:27:25.46,English,,0,0,0,,{\pos(960,990)}Neuro sponge.
+Dialogue: 0,0:27:24.42,0:27:25.46,Chinese,,0,0,0,,{\pos(960,1050)}医用海绵
+Dialogue: 0,0:27:27.50,0:27:28.92,English,,0,0,0,,{\pos(960,990)}How you doing, Mr. Levangie?
+Dialogue: 0,0:27:27.50,0:27:28.92,Chinese,,0,0,0,,{\pos(960,1050)}勒凡吉先生 你还好吗？
+Dialogue: 0,0:27:29.00,0:27:30.08,English,,0,0,0,,{\pos(960,990)}All right.
+Dialogue: 0,0:27:29.00,0:27:31.25,Chinese,,0,0,0,,{\pos(960,1050)}- 还行 - 钻头已充电
+Dialogue: 0,0:27:30.08,0:27:31.12,English,,0,0,0,,{\pos(960,990)}Drill bit's charged.
+Dialogue: 0,0:27:31.79,0:27:33.00,English,,0,0,0,,{\pos(960,990)}Where's blondie?
+Dialogue: 0,0:27:31.79,0:27:33.00,Chinese,,0,0,0,,{\pos(960,1050)}金发妞在哪里？
+Dialogue: 0,0:27:33.08,0:27:34.00,English,,0,0,0,,{\pos(960,990)}I'm right here.
+Dialogue: 0,0:27:33.08,0:27:34.00,Chinese,,0,0,0,,{\pos(960,1050)}我就在这里
+Dialogue: 0,0:27:34.08,0:27:35.25,English,,0,0,0,,{\pos(960,990)}Can't you see me?
+Dialogue: 0,0:27:34.08,0:27:35.25,Chinese,,0,0,0,,{\pos(960,1050)}你看不见我吗？
+Dialogue: 0,0:27:35.42,0:27:37.42,English,,0,0,0,,{\pos(960,990)}I'm shaky. I'm not blind.
+Dialogue: 0,0:27:35.42,0:27:37.42,Chinese,,0,0,0,,{\pos(960,1050)}我虽然抖个不停 但可没瞎
+Dialogue: 0,0:27:37.75,0:27:40.92,English,,0,0,0,,{\pos(960,990)}Anything goes wrong here, I'm blaming you.
+Dialogue: 0,0:27:37.75,0:27:40.92,Chinese,,0,0,0,,{\pos(960,1050)}要是出了什么差错 都怪你
+Dialogue: 0,0:27:40.92,0:27:43.83,English,,0,0,0,,{\pos(960,990)}OK, in that case, I'll stay where you can see me.
+Dialogue: 0,0:27:40.92,0:27:43.83,Chinese,,0,0,0,,{\pos(960,1050)}好 既然如此 我就站在你看得见我的地方
+Dialogue: 0,0:27:44.25,0:27:46.46,English,,0,0,0,,{\pos(960,990)}We just have to drill a hole and try
+Dialogue: 0,0:27:44.25,0:27:46.46,Chinese,,0,0,0,,{\pos(960,1050)}现在我们要钻一个孔
+Dialogue: 0,0:27:46.46,0:27:49.08,English,,0,0,0,,{\pos(960,990)}to find the spot that controls the motor function.
+Dialogue: 0,0:27:46.46,0:27:49.08,Chinese,,0,0,0,,{\pos(960,1050)}试图找到控制运动机能的部位
+Dialogue: 0,0:27:49.21,0:27:51.29,English,,0,0,0,,{\pos(960,990)}You can't see my brain from there.
+Dialogue: 0,0:27:49.21,0:27:51.29,Chinese,,0,0,0,,{\pos(960,1050)}你站那里看不见我的大脑
+Dialogue: 0,0:27:51.42,0:27:53.62,English,,0,0,0,,{\pos(960,990)}Aren't you supposed to be learning something?
+Dialogue: 0,0:27:51.42,0:27:53.62,Chinese,,0,0,0,,{\pos(960,1050)}你不是应该要趁机学习吗？
+Dialogue: 0,0:27:53.62,0:27:55.21,English,,0,0,0,,{\pos(960,990)}I'm good right here.
+Dialogue: 0,0:27:53.62,0:27:55.21,Chinese,,0,0,0,,{\pos(960,1050)}我在这里就行
+Dialogue: 0,0:27:57.17,0:27:58.42,English,,0,0,0,,{\pos(960,990)}EEG waves look good.
+Dialogue: 0,0:27:58.42,0:28:01.46,English,,0,0,0,,{\pos(960,990)}OK, Mr. Levangie, just take a couple deep breaths.
+Dialogue: 0,0:27:58.42,0:28:01.46,Chinese,,0,0,0,,{\pos(960,1050)}好 勒凡吉先生 先深呼吸几下
+Dialogue: 0,0:28:01.46,0:28:02.92,English,,0,0,0,,{\pos(960,990)}Focus on the pretty girl.
+Dialogue: 0,0:28:01.46,0:28:02.92,Chinese,,0,0,0,,{\pos(960,1050)}集中精神看美女就好
+Dialogue: 0,0:28:04.04,0:28:07.08,English,,0,0,0,,{\pos(960,990)}OK, this is gonna sound really scary, but try and relax.
+Dialogue: 0,0:28:04.04,0:28:07.08,Chinese,,0,0,0,,{\pos(960,1050)}这听上去很恐怖 但尽量放轻松
+Dialogue: 0,0:28:07.33,0:28:08.62,English,,0,0,0,,{\pos(960,990)}You shouldn't feel a thing.
+Dialogue: 0,0:28:07.33,0:28:08.62,Chinese,,0,0,0,,{\pos(960,1050)}你不会有感觉的
+Dialogue: 0,0:28:10.00,0:28:11.67,English,,0,0,0,,{\pos(960,990)}- Any pain here? - No.
+Dialogue: 0,0:28:10.00,0:28:11.67,Chinese,,0,0,0,,{\pos(960,1050)}- 这里会痛吗？ - 不会
+Dialogue: 0,0:28:11.83,0:28:12.88,English,,0,0,0,,{\pos(960,990)}Here?
+Dialogue: 0,0:28:11.83,0:28:12.88,Chinese,,0,0,0,,{\pos(960,1050)}这里呢？
+Dialogue: 0,0:28:13.62,0:28:14.50,Chinese,,0,0,0,,{\pos(960,1050)}好的
+Dialogue: 0,0:28:14.58,0:28:17.12,English,,0,0,0,,{\pos(960,990)}Dr. Stevens, I need you to check the X-ray in 2103.
+Dialogue: 0,0:28:14.58,0:28:17.12,Chinese,,0,0,0,,{\pos(960,1050)}史蒂文斯医生 2103号病房需要检查X光片
+Dialogue: 0,0:28:17.21,0:28:19.33,English,,0,0,0,,{\pos(960,990)}2118 needs post-op notes,
+Dialogue: 0,0:28:17.21,0:28:19.33,Chinese,,0,0,0,,{\pos(960,1050)}2118号病房需要术后记录 还有珍恩护士问你
+Dialogue: 0,0:28:19.33,0:28:22.04,English,,0,0,0,,{\pos(960,990)}and Jane's wondering if you want her to start feeding 2112.
+Dialogue: 0,0:28:19.33,0:28:22.04,Chinese,,0,0,0,,{\pos(960,1050)}2112号病房患者可以进食了吗？
+Dialogue: 0,0:28:22.29,0:28:23.33,English,,0,0,0,,{\pos(960,990)}I'm going on break.
+Dialogue: 0,0:28:22.29,0:28:23.33,Chinese,,0,0,0,,{\pos(960,1050)}我去休息了
+Dialogue: 0,0:28:23.33,0:28:26.42,English,,0,0,0,,{\pos(960,990)}OK, yeah, before you do that, could you page Dr. Karev again?
+Dialogue: 0,0:28:23.33,0:28:26.42,Chinese,,0,0,0,,{\pos(960,1050)}好 你休息前 可以再呼叫一次卡瑞医生吗？
+Dialogue: 0,0:28:26.50,0:28:28.06,English,,0,0,0,,{\pos(960,990)}- I already paged him. - Yeah, again?
+Dialogue: 0,0:28:26.50,0:28:28.06,Chinese,,0,0,0,,{\pos(960,1050)}- 我呼叫过了 - 好 再一次？
+Dialogue: 0,0:28:28.17,0:28:31.58,English,,0,0,0,,{\pos(960,990)}- Irrigation. - Little more pressure.
+Dialogue: 0,0:28:28.17,0:28:31.58,Chinese,,0,0,0,,{\pos(960,1050)}借过
+Dialogue: 0,0:28:32.88,0:28:35.00,English,,0,0,0,,{\pos(960,990)}- How is it? - Long and slow.
+Dialogue: 0,0:28:32.88,0:28:35.00,Chinese,,0,0,0,,{\pos(960,1050)}- 情况如何？ - 漫长又缓慢
+Dialogue: 0,0:28:35.17,0:28:36.54,English,,0,0,0,,{\pos(960,990)}I don't envy those two.
+Dialogue: 0,0:28:35.17,0:28:36.54,Chinese,,0,0,0,,{\pos(960,1050)}我可不羡慕那两人
+Dialogue: 0,0:28:36.58,0:28:38.79,English,,0,0,0,,{\pos(960,990)}They've been holding that thing for eight hours.
+Dialogue: 0,0:28:36.58,0:28:38.79,Chinese,,0,0,0,,{\pos(960,1050)}他们托着肿瘤已经八小时了
+Dialogue: 0,0:28:39.29,0:28:41.00,English,,0,0,0,,{\pos(960,990)}Their arms have to be ready to fall off.
+Dialogue: 0,0:28:39.29,0:28:41.00,Chinese,,0,0,0,,{\pos(960,1050)}他们的胳臂都快断了
+Dialogue: 0,0:28:44.12,0:28:45.96,English,,0,0,0,,{\pos(960,990)}Look at the size of this artery.
+Dialogue: 0,0:28:44.12,0:28:45.96,Chinese,,0,0,0,,{\pos(960,1050)}看看这条动脉的大小
+Dialogue: 0,0:28:46.29,0:28:47.42,English,,0,0,0,,{\pos(960,990)}My God.
+Dialogue: 0,0:28:46.29,0:28:47.42,Chinese,,0,0,0,,{\pos(960,1050)}天啊
+Dialogue: 0,0:28:47.92,0:28:49.50,English,,0,0,0,,{\pos(960,990)}It's as thick as a thumb.
+Dialogue: 0,0:28:47.92,0:28:49.50,Chinese,,0,0,0,,{\pos(960,1050)}简直和大拇指一样粗
+Dialogue: 0,0:28:50.92,0:28:52.79,English,,0,0,0,,{\pos(960,990)}You ever seen a vessel this size?
+Dialogue: 0,0:28:50.92,0:28:52.79,Chinese,,0,0,0,,{\pos(960,1050)}你见过这么粗的血管吗？
+Dialogue: 0,0:28:53.38,0:28:54.42,English,,0,0,0,,{\pos(960,990)}No.
+Dialogue: 0,0:28:53.38,0:28:54.42,Chinese,,0,0,0,,{\pos(960,1050)}没有
+Dialogue: 0,0:28:55.46,0:28:57.79,English,,0,0,0,,{\pos(960,990)}This thing's just feeding on all her blood.
+Dialogue: 0,0:28:55.46,0:28:57.79,Chinese,,0,0,0,,{\pos(960,1050)}这玩意儿简直吸光了她的血
+Dialogue: 0,0:28:58.75,0:29:00.29,English,,0,0,0,,{\pos(960,990)}We need more O-negative.
+Dialogue: 0,0:28:58.75,0:29:00.29,Chinese,,0,0,0,,{\pos(960,1050)}我们需要更多阴性O型血
+Dialogue: 0,0:29:01.33,0:29:02.38,English,,0,0,0,,{\pos(960,990)}I'll call the blood bank.
+Dialogue: 0,0:29:01.33,0:29:02.38,Chinese,,0,0,0,,{\pos(960,1050)}我去联系血库
+Dialogue: 0,0:29:05.58,0:29:06.75,English,,0,0,0,,{\pos(960,990)}Damn it, O'Malley.
+Dialogue: 0,0:29:05.58,0:29:06.75,Chinese,,0,0,0,,{\pos(960,1050)}该死 欧麦利
+Dialogue: 0,0:29:07.21,0:29:08.62,English,,0,0,0,,{\pos(960,990)}Do you want me to kill this patient?
+Dialogue: 0,0:29:07.21,0:29:08.62,Chinese,,0,0,0,,{\pos(960,1050)}你想害我杀了这患者吗？
+Dialogue: 0,0:29:08.62,0:29:09.75,English,,0,0,0,,{\pos(960,990)}No, I'm sorry.
+Dialogue: 0,0:29:08.62,0:29:09.75,Chinese,,0,0,0,,{\pos(960,1050)}没有 对不起
+Dialogue: 0,0:29:10.96,0:29:12.96,English,,0,0,0,,{\pos(960,990)}I mean, is the art of retracting just too much for you?
+Dialogue: 0,0:29:10.96,0:29:12.96,Chinese,,0,0,0,,{\pos(960,1050)}动脉拉回术对你来说太吃力了吗？
+Dialogue: 0,0:29:12.96,0:29:14.21,English,,0,0,0,,{\pos(960,990)}No, I was...
+Dialogue: 0,0:29:12.96,0:29:14.21,Chinese,,0,0,0,,{\pos(960,1050)}不是 我只是…
+Dialogue: 0,0:29:17.17,0:29:18.54,English,,0,0,0,,{\pos(960,990)}I had an itch.
+Dialogue: 0,0:29:17.17,0:29:18.54,Chinese,,0,0,0,,{\pos(960,1050)}刚才有点痒
+Dialogue: 0,0:29:20.83,0:29:22.17,English,,0,0,0,,{\pos(960,990)}Way to go, George.
+Dialogue: 0,0:29:20.83,0:29:22.17,Chinese,,0,0,0,,{\pos(960,1050)}真不赖 乔治
+Dialogue: 0,0:29:22.25,0:29:23.33,English,,0,0,0,,{\pos(960,990)}Nicely done.
+Dialogue: 0,0:29:22.25,0:29:23.33,Chinese,,0,0,0,,{\pos(960,1050)}表现可真棒
+Dialogue: 0,0:29:25.12,0:29:27.33,English,,0,0,0,,{\pos(960,990)}Just keep trying, Mr. Levangie.
+Dialogue: 0,0:29:25.12,0:29:27.33,Chinese,,0,0,0,,{\pos(960,1050)}勒凡吉先生 继续加油
+Dialogue: 0,0:29:27.33,0:29:28.92,English,,0,0,0,,{\pos(960,990)}Mimic my motions.
+Dialogue: 0,0:29:27.33,0:29:28.92,Chinese,,0,0,0,,{\pos(960,1050)}模仿我的动作
+Dialogue: 0,0:29:29.08,0:29:30.21,English,,0,0,0,,{\pos(960,990)}You can do it.
+Dialogue: 0,0:29:29.08,0:29:30.21,Chinese,,0,0,0,,{\pos(960,1050)}你行的
+Dialogue: 0,0:29:31.29,0:29:33.42,English,,0,0,0,,{\pos(960,990)}You're doing great, Mr. Levangie.
+Dialogue: 0,0:29:31.29,0:29:33.42,Chinese,,0,0,0,,{\pos(960,1050)}你做得非常好 勒凡吉先生
+Dialogue: 0,0:29:33.50,0:29:34.71,English,,0,0,0,,{\pos(960,990)}Just a little longer.
+Dialogue: 0,0:29:33.50,0:29:34.71,Chinese,,0,0,0,,{\pos(960,1050)}再撑一会儿
+Dialogue: 0,0:29:35.04,0:29:36.33,English,,0,0,0,,{\pos(960,990)}Damn it!
+Dialogue: 0,0:29:35.04,0:29:36.33,Chinese,,0,0,0,,{\pos(960,1050)}妈的！
+Dialogue: 0,0:29:38.62,0:29:40.46,English,,0,0,0,,{\pos(960,990)}Take a breath and try again.
+Dialogue: 0,0:29:38.62,0:29:40.46,Chinese,,0,0,0,,{\pos(960,1050)}深呼吸 再试一次
+Dialogue: 0,0:29:40.75,0:29:42.96,English,,0,0,0,,{\pos(960,990)}One more time, Mr. Levangie.
+Dialogue: 0,0:29:40.75,0:29:42.96,Chinese,,0,0,0,,{\pos(960,1050)}再来一遍 勒凡吉先生
+Dialogue: 0,0:29:43.67,0:29:45.25,English,,0,0,0,,{\pos(960,990)}The probe is almost in.
+Dialogue: 0,0:29:43.67,0:29:45.25,Chinese,,0,0,0,,{\pos(960,1050)}探针差不多进去了
+Dialogue: 0,0:29:45.29,0:29:47.62,English,,0,0,0,,{\pos(960,990)}You'll know it when we find the right spot.
+Dialogue: 0,0:29:45.29,0:29:47.62,Chinese,,0,0,0,,{\pos(960,1050)}我们找到正确部位后 你会知道的
+Dialogue: 0,0:29:59.25,0:30:00.96,English,,0,0,0,,{\pos(960,990)}How about that?
+Dialogue: 0,0:29:59.25,0:30:00.96,Chinese,,0,0,0,,{\pos(960,1050)}感觉如何呀？
+Dialogue: 0,0:30:01.04,0:30:02.04,English,,0,0,0,,{\pos(960,990)}There it is.
+Dialogue: 0,0:30:01.04,0:30:02.04,Chinese,,0,0,0,,{\pos(960,1050)}找到了
+Dialogue: 0,0:30:03.25,0:30:05.21,English,,0,0,0,,{\pos(960,990)}I'll be a son of a bitch.
+Dialogue: 0,0:30:03.25,0:30:05.21,Chinese,,0,0,0,,{\pos(960,1050)}我真是个老顽固
+Dialogue: 0,0:30:14.54,0:30:17.29,English,,0,0,0,,{\pos(960,990)}Bailey was on the warpath. I was trying to protect you.
+Dialogue: 0,0:30:14.54,0:30:17.29,Chinese,,0,0,0,,{\pos(960,1050)}贝利之前怒火中烧 我是想保护你
+Dialogue: 0,0:30:17.33,0:30:19.96,English,,0,0,0,,{\pos(960,990)}You trying to protect me is why she's on the warpath.
+Dialogue: 0,0:30:17.33,0:30:19.96,Chinese,,0,0,0,,{\pos(960,1050)}她不爽就是因为你想保护我
+Dialogue: 0,0:30:20.00,0:30:21.54,English,,0,0,0,,{\pos(960,990)}You can't do me favors.
+Dialogue: 0,0:30:20.00,0:30:21.54,Chinese,,0,0,0,,{\pos(960,1050)}你不能偏袒我
+Dialogue: 0,0:30:21.62,0:30:23.83,English,,0,0,0,,{\pos(960,990)}You can't ask me to scrub in when I haven't earned it.
+Dialogue: 0,0:30:21.62,0:30:23.83,Chinese,,0,0,0,,{\pos(960,1050)}我必须真凭本事 你才能让我进手术室
+Dialogue: 0,0:30:23.88,0:30:24.83,English,,0,0,0,,{\pos(960,990)}OK. OK.
+Dialogue: 0,0:30:23.88,0:30:24.83,Chinese,,0,0,0,,{\pos(960,1050)}好
+Dialogue: 0,0:30:24.83,0:30:27.56,English,,0,0,0,,{\pos(960,990)}And you can't treat me like crap when I haven't earned that either.
+Dialogue: 0,0:30:24.83,0:30:27.56,Chinese,,0,0,0,,{\pos(960,1050)}就算我实力还不够 你也不能对我那么恶劣
+Dialogue: 0,0:30:27.62,0:30:29.33,English,,0,0,0,,{\pos(960,990)}- OK. - I can take care of myself.
+Dialogue: 0,0:30:27.62,0:30:29.33,Chinese,,0,0,0,,{\pos(960,1050)}我能照顾好自己
+Dialogue: 0,0:30:29.42,0:30:31.96,English,,0,0,0,,{\pos(960,990)}I got myself into this mess, and I...
+Dialogue: 0,0:30:29.42,0:30:31.96,Chinese,,0,0,0,,{\pos(960,1050)}是我自找苦吃 所以我…
+Dialogue: 0,0:30:32.17,0:30:33.46,English,,0,0,0,,{\pos(960,990)}And you'll get yourself out?
+Dialogue: 0,0:30:32.17,0:30:33.46,Chinese,,0,0,0,,{\pos(960,1050)}你想要抽身吗？
+Dialogue: 0,0:30:33.54,0:30:36.42,English,,0,0,0,,{\pos(960,990)}I don't... know that yet.
+Dialogue: 0,0:30:33.54,0:30:36.42,Chinese,,0,0,0,,{\pos(960,1050)}我不…我还不知道
+Dialogue: 0,0:30:41.33,0:30:42.58,English,,0,0,0,,{\pos(960,990)}Don't let me keep you.
+Dialogue: 0,0:30:41.33,0:30:42.58,Chinese,,0,0,0,,{\pos(960,1050)}别因为我耽搁了
+Dialogue: 0,0:30:42.67,0:30:44.12,English,,0,0,0,,{\pos(960,990)}You did great work here today.
+Dialogue: 0,0:30:42.67,0:30:44.12,Chinese,,0,0,0,,{\pos(960,1050)}你今天表现十分出色
+Dialogue: 0,0:30:47.17,0:30:48.67,English,,0,0,0,,{\pos(960,990)}Dr. Shepherd.
+Dialogue: 0,0:30:47.17,0:30:48.67,Chinese,,0,0,0,,{\pos(960,1050)}薛波医生
+Dialogue: 0,0:30:48.75,0:30:49.79,English,,0,0,0,,{\pos(960,990)}Yeah?
+Dialogue: 0,0:30:48.75,0:30:49.79,Chinese,,0,0,0,,{\pos(960,1050)}什么事？
+Dialogue: 0,0:30:50.71,0:30:52.50,English,,0,0,0,,{\pos(960,990)}Sorry I called you a jackass.
+Dialogue: 0,0:30:50.71,0:30:52.50,Chinese,,0,0,0,,{\pos(960,1050)}抱歉我骂你是混蛋
+Dialogue: 0,0:30:52.54,0:30:53.67,English,,0,0,0,,{\pos(960,990)}You didn't.
+Dialogue: 0,0:30:52.54,0:30:53.67,Chinese,,0,0,0,,{\pos(960,1050)}你没有啊
+Dialogue: 0,0:30:53.75,0:30:55.92,English,,0,0,0,,{\pos(960,990)}I did... twice.
+Dialogue: 0,0:30:53.75,0:30:55.92,Chinese,,0,0,0,,{\pos(960,1050)}有 还骂了两次
+Dialogue: 0,0:30:58.75,0:31:00.46,English,,0,0,0,,{\pos(960,990)}Tell you what, blondie,
+Dialogue: 0,0:30:58.75,0:31:00.46,Chinese,,0,0,0,,{\pos(960,1050)}金发妞 我说啊
+Dialogue: 0,0:31:00.83,0:31:02.96,English,,0,0,0,,{\pos(960,990)}if you don't marry him, I will.
+Dialogue: 0,0:31:00.83,0:31:02.96,Chinese,,0,0,0,,{\pos(960,1050)}你不嫁给他的话 我就嫁了
+Dialogue: 0,0:31:18.42,0:31:20.92,English,,0,0,0,,{\pos(960,990)}No, no, no, Jimmy!
+Dialogue: 0,0:31:18.42,0:31:20.92,Chinese,,0,0,0,,{\pos(960,1050)}不…吉米！
+Dialogue: 0,0:31:21.00,0:31:22.71,English,,0,0,0,,{\pos(960,990)}No, no, Jimmy, no!
+Dialogue: 0,0:31:21.00,0:31:22.71,Chinese,,0,0,0,,{\pos(960,1050)}不 吉米 不要啊！
+Dialogue: 0,0:31:22.71,0:31:23.62,English,,0,0,0,,{\pos(960,990)}What we got?
+Dialogue: 0,0:31:22.71,0:31:23.62,Chinese,,0,0,0,,{\pos(960,1050)}什么情况？
+Dialogue: 0,0:31:23.71,0:31:26.88,English,,0,0,0,,{\pos(960,990)}Pressure plummeted to 64/22, and he has runs of v-tach that aren't perfusing.
+Dialogue: 0,0:31:23.71,0:31:26.88,Chinese,,0,0,0,,{\pos(960,1050)}血压骤降至64/22 伴随心室频脉 无法灌流
+Dialogue: 0,0:31:26.96,0:31:28.25,English,,0,0,0,,{\pos(960,990)}Cvp is sky-high.
+Dialogue: 0,0:31:26.96,0:31:28.25,Chinese,,0,0,0,,{\pos(960,1050)}中心静脉压高到不行
+Dialogue: 0,0:31:28.29,0:31:29.92,English,,0,0,0,,{\pos(960,990)}Give him dopamine, 10 mikes.
+Dialogue: 0,0:31:28.29,0:31:29.92,Chinese,,0,0,0,,{\pos(960,1050)}注射10微克多巴胺
+Dialogue: 0,0:31:29.96,0:31:31.21,English,,0,0,0,,{\pos(960,990)}He's already maxed out.
+Dialogue: 0,0:31:29.96,0:31:31.21,Chinese,,0,0,0,,{\pos(960,1050)}他已经用了最大剂量
+Dialogue: 0,0:31:31.29,0:31:33.00,English,,0,0,0,,{\pos(960,990)}The resident was here an hour ago, but I can't reach him now.
+Dialogue: 0,0:31:31.29,0:31:33.00,Chinese,,0,0,0,,{\pos(960,1050)}住院医生一小时前还在 现在联系不上他
+Dialogue: 0,0:31:33.00,0:31:36.21,English,,0,0,0,,{\pos(960,990)}- Of course. - What is the matter with you?
+Dialogue: 0,0:31:33.00,0:31:36.21,Chinese,,0,0,0,,{\pos(960,1050)}- 你当然找不到人 - 快想办法 你到底怎么搞的？
+Dialogue: 0,0:31:36.25,0:31:37.17,English,,0,0,0,,{\pos(960,990)}Get her out of here!
+Dialogue: 0,0:31:36.25,0:31:37.17,Chinese,,0,0,0,,{\pos(960,1050)}带家属出去！
+Dialogue: 0,0:31:37.21,0:31:39.41,English,,0,0,0,,{\pos(960,990)}- No... No! - Mrs. Harper, you have to get out of here.
+Dialogue: 0,0:31:37.21,0:31:39.41,Chinese,,0,0,0,,{\pos(960,1050)}哈波太太 你必须离开这里
+Dialogue: 0,0:31:39.58,0:31:40.58,English,,0,0,0,,{\pos(960,990)}Ma'am.
+Dialogue: 0,0:31:40.58,0:31:42.96,English,,0,0,0,,{\pos(960,990)}Does he have a myocardial ischemia?
+Dialogue: 0,0:31:40.58,0:31:42.96,Chinese,,0,0,0,,{\pos(960,1050)}他心肌缺氧吗？
+Dialogue: 0,0:31:43.00,0:31:44.54,English,,0,0,0,,{\pos(960,990)}No, it's a clot, big one.
+Dialogue: 0,0:31:43.00,0:31:44.54,Chinese,,0,0,0,,{\pos(960,1050)}不是 是很大的血栓块
+Dialogue: 0,0:31:44.54,0:31:45.92,English,,0,0,0,,{\pos(960,990)}Page someone. Page anyone.
+Dialogue: 0,0:31:44.54,0:31:45.92,Chinese,,0,0,0,,{\pos(960,1050)}快呼叫其他医生来 谁都好
+Dialogue: 0,0:31:45.92,0:31:47.79,English,,0,0,0,,{\pos(960,990)}It's tamponade. He'll be dead before they get here.
+Dialogue: 0,0:31:45.92,0:31:47.79,Chinese,,0,0,0,,{\pos(960,1050)}是心包填塞 等人来他就死了
+Dialogue: 0,0:31:47.79,0:31:49.25,English,,0,0,0,,{\pos(960,990)}- You have to do something. - Do something.
+Dialogue: 0,0:31:47.79,0:31:50.79,Chinese,,0,0,0,,{\pos(960,1050)}- 你必须帮他动手术 - 拜托快救他！
+Dialogue: 0,0:31:49.25,0:31:51.09,English,,0,0,0,,{\pos(960,990)}- Right here, right now. - Do anything, please!
+Dialogue: 0,0:31:51.46,0:31:53.88,English,,0,0,0,,{\pos(960,990)}- You said he was OK! - Get out of here now!
+Dialogue: 0,0:31:51.46,0:31:53.88,Chinese,,0,0,0,,{\pos(960,1050)}- 你明明说他没事！ - 快出去！
+Dialogue: 0,0:31:53.88,0:31:55.12,English,,0,0,0,,{\pos(960,990)}You have to cut.
+Dialogue: 0,0:31:53.88,0:31:55.12,Chinese,,0,0,0,,{\pos(960,1050)}你得动刀
+Dialogue: 0,0:31:55.67,0:31:58.54,English,,0,0,0,,{\pos(960,990)}I can't. I've never even seen it done. I could kill him.
+Dialogue: 0,0:31:55.67,0:31:58.54,Chinese,,0,0,0,,{\pos(960,1050)}我不行 我甚至没观摩过这手术 我可能会害死他
+Dialogue: 0,0:31:58.54,0:31:59.83,English,,0,0,0,,{\pos(960,990)}Do nothing, you'll kill him faster.
+Dialogue: 0,0:31:58.54,0:31:59.83,Chinese,,0,0,0,,{\pos(960,1050)}什么都不做 他会死更快
+Dialogue: 0,0:31:59.83,0:32:01.62,English,,0,0,0,,{\pos(960,990)}- What's your glove size? - Six.
+Dialogue: 0,0:31:59.83,0:32:01.62,Chinese,,0,0,0,,{\pos(960,1050)}- 你手套尺寸多少？ - 六号
+Dialogue: 0,0:32:01.62,0:32:03.58,English,,0,0,0,,{\pos(960,990)}Oh, God. Oh, God.
+Dialogue: 0,0:32:01.62,0:32:03.58,Chinese,,0,0,0,,{\pos(960,1050)}天啊
+Dialogue: 0,0:32:03.67,0:32:05.42,English,,0,0,0,,{\pos(960,990)}Take a breath, Dr. Stevens.
+Dialogue: 0,0:32:03.67,0:32:05.42,Chinese,,0,0,0,,{\pos(960,1050)}深呼吸 史蒂文斯医生
+Dialogue: 0,0:32:05.42,0:32:06.71,English,,0,0,0,,{\pos(960,990)}She has to move over there.
+Dialogue: 0,0:32:05.42,0:32:06.71,Chinese,,0,0,0,,{\pos(960,1050)}她得过去
+Dialogue: 0,0:32:06.75,0:32:08.17,English,,0,0,0,,{\pos(960,990)}Walter, move out of the way.
+Dialogue: 0,0:32:06.75,0:32:08.17,Chinese,,0,0,0,,{\pos(960,1050)}沃特 快让开
+Dialogue: 0,0:32:12.21,0:32:14.54,English,,0,0,0,,{\pos(960,990)}Cut the stitches and then the staples.
+Dialogue: 0,0:32:12.21,0:32:14.54,Chinese,,0,0,0,,{\pos(960,1050)}剪开缝合线 再拆缝钉
+Dialogue: 0,0:32:14.96,0:32:16.71,English,,0,0,0,,{\pos(960,990)}Don't let them fall into the chest cavity.
+Dialogue: 0,0:32:14.96,0:32:16.71,Chinese,,0,0,0,,{\pos(960,1050)}千万别掉进胸腔了
+Dialogue: 0,0:32:16.75,0:32:18.96,English,,0,0,0,,{\pos(960,990)}Wait. I've never cracked a chest before.
+Dialogue: 0,0:32:16.75,0:32:18.96,Chinese,,0,0,0,,{\pos(960,1050)}等等 我从来没开过胸腔
+Dialogue: 0,0:32:19.58,0:32:21.25,English,,0,0,0,,{\pos(960,990)}Oh, God. Oh, God.
+Dialogue: 0,0:32:19.58,0:32:21.25,Chinese,,0,0,0,,{\pos(960,1050)}天啊
+Dialogue: 0,0:32:27.29,0:32:29.42,English,,0,0,0,,{\pos(960,990)}No pulse. Wide complex rhythm.
+Dialogue: 0,0:32:27.29,0:32:29.42,Chinese,,0,0,0,,{\pos(960,1050)}没有脉搏 心律杂乱
+Dialogue: 0,0:32:29.50,0:32:32.17,English,,0,0,0,,{\pos(960,990)}I can't get this clot out. I need more suction. I need more.
+Dialogue: 0,0:32:29.50,0:32:32.17,Chinese,,0,0,0,,{\pos(960,1050)}我无法取出血栓块 继续抽吸
+Dialogue: 0,0:32:32.21,0:32:33.38,English,,0,0,0,,{\pos(960,990)}He's bradying down.
+Dialogue: 0,0:32:32.21,0:32:33.38,Chinese,,0,0,0,,{\pos(960,1050)}心跳越来越慢
+Dialogue: 0,0:32:33.50,0:32:35.21,English,,0,0,0,,{\pos(960,990)}You have to get the clot out.
+Dialogue: 0,0:32:33.50,0:32:35.21,Chinese,,0,0,0,,{\pos(960,1050)}你必须取出血栓块
+Dialogue: 0,0:32:37.08,0:32:38.12,English,,0,0,0,,{\pos(960,990)}I can't get it.
+Dialogue: 0,0:32:37.08,0:32:38.12,Chinese,,0,0,0,,{\pos(960,1050)}我取不出来
+Dialogue: 0,0:32:38.75,0:32:39.67,English,,0,0,0,,{\pos(960,990)}Screw it.
+Dialogue: 0,0:32:38.75,0:32:39.67,Chinese,,0,0,0,,{\pos(960,1050)}不管了
+Dialogue: 0,0:32:39.67,0:32:40.79,English,,0,0,0,,{\pos(960,990)}I'm using my hand.
+Dialogue: 0,0:32:39.67,0:32:40.79,Chinese,,0,0,0,,{\pos(960,1050)}我直接用手拿
+Dialogue: 0,0:32:43.83,0:32:46.75,English,,0,0,0,,{\pos(960,990)}Oh, God, look at the size of that clot.
+Dialogue: 0,0:32:43.83,0:32:46.75,Chinese,,0,0,0,,{\pos(960,1050)}天啊 瞧瞧那血栓块有多大
+Dialogue: 0,0:32:47.88,0:32:48.75,English,,0,0,0,,{\pos(960,990)}Anything?
+Dialogue: 0,0:32:47.88,0:32:48.75,Chinese,,0,0,0,,{\pos(960,1050)}有起色吗？
+Dialogue: 0,0:32:48.79,0:32:49.83,English,,0,0,0,,{\pos(960,990)}No.
+Dialogue: 0,0:32:48.79,0:32:49.83,Chinese,,0,0,0,,{\pos(960,1050)}没有
+Dialogue: 0,0:32:50.29,0:32:52.25,English,,0,0,0,,{\pos(960,990)}You have to massage the heart, doctor.
+Dialogue: 0,0:32:50.29,0:32:52.25,Chinese,,0,0,0,,{\pos(960,1050)}你得按摩心脏 医生
+Dialogue: 0,0:32:56.38,0:32:57.88,English,,0,0,0,,{\pos(960,990)}Come on.
+Dialogue: 0,0:32:56.38,0:32:57.88,Chinese,,0,0,0,,{\pos(960,1050)}加油
+Dialogue: 0,0:33:02.04,0:33:04.00,English,,0,0,0,,{\pos(960,990)}Come on, please.
+Dialogue: 0,0:33:02.04,0:33:04.00,Chinese,,0,0,0,,{\pos(960,1050)}拜托 加把劲
+Dialogue: 0,0:33:04.83,0:33:06.21,English,,0,0,0,,{\pos(960,990)}Come on, Mr. Harper.
+Dialogue: 0,0:33:04.83,0:33:06.21,Chinese,,0,0,0,,{\pos(960,1050)}振作点 哈波先生
+Dialogue: 0,0:33:07.75,0:33:09.12,English,,0,0,0,,{\pos(960,990)}We have a pulse.
+Dialogue: 0,0:33:07.75,0:33:09.12,Chinese,,0,0,0,,{\pos(960,1050)}有脉搏了
+Dialogue: 0,0:33:18.62,0:33:20.17,English,,0,0,0,,{\pos(960,990)}OK, follow with suction.
+Dialogue: 0,0:33:18.62,0:33:20.17,Chinese,,0,0,0,,{\pos(960,1050)}好 开始抽吸
+Dialogue: 0,0:33:20.25,0:33:21.25,English,,0,0,0,,{\pos(960,990)}How's it going?
+Dialogue: 0,0:33:20.25,0:33:21.25,Chinese,,0,0,0,,{\pos(960,1050)}情况如何？
+Dialogue: 0,0:33:22.46,0:33:24.71,English,,0,0,0,,{\pos(960,990)}It's more intertwined than the studies made it look.
+Dialogue: 0,0:33:22.46,0:33:24.71,Chinese,,0,0,0,,{\pos(960,1050)}实际情况比检查时复杂许多
+Dialogue: 0,0:33:24.79,0:33:25.88,English,,0,0,0,,{\pos(960,990)}I need another bag.
+Dialogue: 0,0:33:24.79,0:33:25.88,Chinese,,0,0,0,,{\pos(960,1050)}我还需要一袋血
+Dialogue: 0,0:33:26.42,0:33:28.75,English,,0,0,0,,{\pos(960,990)}Call the blood bank. We need more O-negative.
+Dialogue: 0,0:33:26.42,0:33:28.75,Chinese,,0,0,0,,{\pos(960,1050)}联系血库 我们需要更多阴性O型血
+Dialogue: 0,0:33:29.58,0:33:32.29,English,,0,0,0,,{\pos(960,990)}I'm down 10 units of blood, and I haven't even flipped her yet.
+Dialogue: 0,0:33:29.58,0:33:32.29,Chinese,,0,0,0,,{\pos(960,1050)}我用了10袋血 还没进行到背面
+Dialogue: 0,0:33:32.46,0:33:33.46,English,,0,0,0,,{\pos(960,990)}Oh, wow.
+Dialogue: 0,0:33:35.17,0:33:36.33,English,,0,0,0,,{\pos(960,990)}Hold it steady.
+Dialogue: 0,0:33:35.17,0:33:36.33,Chinese,,0,0,0,,{\pos(960,1050)}握稳了
+Dialogue: 0,0:33:36.83,0:33:37.88,English,,0,0,0,,{\pos(960,990)}Look at that.
+Dialogue: 0,0:33:36.83,0:33:37.88,Chinese,,0,0,0,,{\pos(960,1050)}你们瞧
+Dialogue: 0,0:33:38.21,0:33:39.25,English,,0,0,0,,{\pos(960,990)}Sponge.
+Dialogue: 0,0:33:38.21,0:33:39.25,Chinese,,0,0,0,,{\pos(960,1050)}海绵
+Dialogue: 0,0:33:41.08,0:33:43.04,English,,0,0,0,,{\pos(960,990)}Now, how am I supposed to get around that artery?
+Dialogue: 0,0:33:41.08,0:33:43.04,Chinese,,0,0,0,,{\pos(960,1050)}我该怎么绕过那条动脉？
+Dialogue: 0,0:33:48.50,0:33:49.58,English,,0,0,0,,{\pos(960,990)}All right, then.
+Dialogue: 0,0:33:48.50,0:33:49.58,Chinese,,0,0,0,,{\pos(960,1050)}好吧
+Dialogue: 0,0:33:50.00,0:33:51.08,English,,0,0,0,,{\pos(960,990)}Forceps.
+Dialogue: 0,0:33:50.00,0:33:51.08,Chinese,,0,0,0,,{\pos(960,1050)}给我手术镊
+Dialogue: 0,0:33:52.58,0:33:53.67,English,,0,0,0,,{\pos(960,990)}Here you go.
+Dialogue: 0,0:33:52.58,0:33:53.67,Chinese,,0,0,0,,{\pos(960,1050)}给你
+Dialogue: 0,0:33:55.50,0:33:56.62,English,,0,0,0,,{\pos(960,990)}Excuse me.
+Dialogue: 0,0:33:55.50,0:33:56.62,Chinese,,0,0,0,,{\pos(960,1050)}借过
+Dialogue: 0,0:33:57.50,0:33:59.29,English,,0,0,0,,{\pos(960,990)}God, it's unbelievable.
+Dialogue: 0,0:33:57.50,0:33:59.29,Chinese,,0,0,0,,{\pos(960,1050)}天啊 真令人不敢相信
+Dialogue: 0,0:33:59.42,0:34:00.50,English,,0,0,0,,{\pos(960,990)}Right.
+Dialogue: 0,0:33:59.42,0:34:00.50,Chinese,,0,0,0,,{\pos(960,1050)}是啊
+Dialogue: 0,0:34:00.88,0:34:02.79,English,,0,0,0,,{\pos(960,990)}How did she live like that?
+Dialogue: 0,0:34:00.88,0:34:02.79,Chinese,,0,0,0,,{\pos(960,1050)}她怎么有办法那样生活？
+Dialogue: 0,0:34:03.46,0:34:05.71,English,,0,0,0,,{\pos(960,990)}Watch what you say. You never know who's listening.
+Dialogue: 0,0:34:03.46,0:34:05.71,Chinese,,0,0,0,,{\pos(960,1050)}祸从口出 你最好当心隔墙有耳
+Dialogue: 0,0:34:08.17,0:34:09.21,English,,0,0,0,,{\pos(960,990)}Look at George.
+Dialogue: 0,0:34:08.17,0:34:09.21,Chinese,,0,0,0,,{\pos(960,1050)}你看乔治
+Dialogue: 0,0:34:09.25,0:34:10.83,English,,0,0,0,,{\pos(960,990)}He looks like he's about to fall in.
+Dialogue: 0,0:34:09.25,0:34:10.83,Chinese,,0,0,0,,{\pos(960,1050)}感觉他都快掉进去了
+Dialogue: 0,0:34:13.29,0:34:15.83,English,,0,0,0,,{\pos(960,990)}Are you really as shallow and callous as you seem?
+Dialogue: 0,0:34:13.29,0:34:15.83,Chinese,,0,0,0,,{\pos(960,1050)}你真如外表看上去那么肤浅无情吗？
+Dialogue: 0,0:34:16.08,0:34:17.08,English,,0,0,0,,{\pos(960,990)}Oh.
+Dialogue: 0,0:34:17.33,0:34:21.04,English,,0,0,0,,{\pos(960,990)}You want to go out for a drink later and hear about my secret pain?
+Dialogue: 0,0:34:17.33,0:34:21.04,Chinese,,0,0,0,,{\pos(960,1050)}你等下想去喝一杯 听我诉苦吗？
+Dialogue: 0,0:34:21.46,0:34:23.38,English,,0,0,0,,{\pos(960,990)}Does that line ever work for you?
+Dialogue: 0,0:34:21.46,0:34:23.38,Chinese,,0,0,0,,{\pos(960,1050)}你这句搭讪词曾经成功吗？
+Dialogue: 0,0:34:23.54,0:34:24.54,English,,0,0,0,,{\pos(960,990)}Sometimes.
+Dialogue: 0,0:34:23.54,0:34:24.54,Chinese,,0,0,0,,{\pos(960,1050)}有时候吧
+Dialogue: 0,0:34:25.08,0:34:26.08,English,,0,0,0,,{\pos(960,990)}Hmm.
+Dialogue: 0,0:34:26.46,0:34:28.33,English,,0,0,0,,{\pos(960,990)}Must be because you look like that.
+Dialogue: 0,0:34:26.46,0:34:28.33,Chinese,,0,0,0,,{\pos(960,1050)}肯定是因为你的长相
+Dialogue: 0,0:34:29.00,0:34:30.08,English,,0,0,0,,{\pos(960,990)}Like what?
+Dialogue: 0,0:34:29.00,0:34:30.08,Chinese,,0,0,0,,{\pos(960,1050)}我长怎样了？
+Dialogue: 0,0:34:32.54,0:34:33.58,English,,0,0,0,,{\pos(960,990)}So, is that a yes?
+Dialogue: 0,0:34:32.54,0:34:33.58,Chinese,,0,0,0,,{\pos(960,1050)}你这算同意了吗？
+Dialogue: 0,0:34:34.54,0:34:35.62,English,,0,0,0,,{\pos(960,990)}No.
+Dialogue: 0,0:34:34.54,0:34:35.62,Chinese,,0,0,0,,{\pos(960,1050)}并不是
+Dialogue: 0,0:34:36.33,0:34:38.12,English,,0,0,0,,{\pos(960,990)}I can't. I'm seeing someone.
+Dialogue: 0,0:34:36.33,0:34:38.12,Chinese,,0,0,0,,{\pos(960,1050)}我不行 我有对象了
+Dialogue: 0,0:34:38.67,0:34:41.71,English,,0,0,0,,{\pos(960,990)}Look, if you don't want to go out with me, just say so.
+Dialogue: 0,0:34:38.67,0:34:41.71,Chinese,,0,0,0,,{\pos(960,1050)}听着 你不想和我约会 直说就好
+Dialogue: 0,0:34:41.92,0:34:43.25,English,,0,0,0,,{\pos(960,990)}No need to lie.
+Dialogue: 0,0:34:41.92,0:34:43.25,Chinese,,0,0,0,,{\pos(960,1050)}没必要说谎
+Dialogue: 0,0:34:44.17,0:34:45.67,English,,0,0,0,,{\pos(960,990)}Oh. OK.
+Dialogue: 0,0:34:44.17,0:34:45.67,Chinese,,0,0,0,,{\pos(960,1050)}好吧
+Dialogue: 0,0:34:46.12,0:34:47.79,English,,0,0,0,,{\pos(960,990)}I don't want to go out with you.
+Dialogue: 0,0:34:46.12,0:34:47.79,Chinese,,0,0,0,,{\pos(960,1050)}我不想和你约会
+Dialogue: 0,0:34:48.83,0:34:51.83,English,,0,0,0,,{\pos(960,990)}But I think I really might be seeing someone.
+Dialogue: 0,0:34:48.83,0:34:51.83,Chinese,,0,0,0,,{\pos(960,1050)}但我认真觉得我可能有对象了
+Dialogue: 0,0:34:53.33,0:34:55.62,English,,0,0,0,,{\pos(960,990)}No, it's up here. It's up here.
+Dialogue: 0,0:34:53.33,0:34:55.62,Chinese,,0,0,0,,{\pos(960,1050)}不 是在上面
+Dialogue: 0,0:34:57.12,0:34:58.33,English,,0,0,0,,{\pos(960,990)}We're still in the middle of surgery.
+Dialogue: 0,0:34:57.12,0:34:58.33,Chinese,,0,0,0,,{\pos(960,1050)}我们这边还在动手术
+Dialogue: 0,0:34:58.33,0:35:01.38,English,,0,0,0,,{\pos(960,990)}Mr. Harper, the post-op heart patient in 2114,
+Dialogue: 0,0:34:58.33,0:35:01.38,Chinese,,0,0,0,,{\pos(960,1050)}2114号病房心脏手术的 术后患者哈波先生
+Dialogue: 0,0:35:01.71,0:35:03.75,English,,0,0,0,,{\pos(960,990)}I had to open his sternotomy bedside.
+Dialogue: 0,0:35:01.71,0:35:03.75,Chinese,,0,0,0,,{\pos(960,1050)}我不得不在病房为他进行开胸手术
+Dialogue: 0,0:35:04.62,0:35:05.88,English,,0,0,0,,{\pos(960,990)}- You what? - What?
+Dialogue: 0,0:35:04.62,0:35:05.88,Chinese,,0,0,0,,{\pos(960,1050)}- 你做了什么？ - 什么？
+Dialogue: 0,0:35:06.25,0:35:07.29,English,,0,0,0,,{\pos(960,990)}What?
+Dialogue: 0,0:35:06.25,0:35:07.29,Chinese,,0,0,0,,{\pos(960,1050)}什么？
+Dialogue: 0,0:35:08.00,0:35:09.42,English,,0,0,0,,{\pos(960,990)}He had cardiac tamponade.
+Dialogue: 0,0:35:08.00,0:35:09.42,Chinese,,0,0,0,,{\pos(960,1050)}他出现心包填塞
+Dialogue: 0,0:35:09.50,0:35:12.58,English,,0,0,0,,{\pos(960,990)}His chest films were clean this morning. It just happened fast.
+Dialogue: 0,0:35:09.50,0:35:12.58,Chinese,,0,0,0,,{\pos(960,1050)}今早他的胸片是正常的 事出突然
+Dialogue: 0,0:35:12.58,0:35:14.25,English,,0,0,0,,{\pos(960,990)}He was in PEA. There was no time.
+Dialogue: 0,0:35:12.58,0:35:14.25,Chinese,,0,0,0,,{\pos(960,1050)}呈现无脉性电气活动 情况紧急
+Dialogue: 0,0:35:16.38,0:35:17.67,English,,0,0,0,,{\pos(960,990)}Go ahead. I got it.
+Dialogue: 0,0:35:16.38,0:35:17.67,Chinese,,0,0,0,,{\pos(960,1050)}快去吧 这里交给我
+Dialogue: 0,0:35:18.71,0:35:20.33,English,,0,0,0,,{\pos(960,990)}We're OK here.
+Dialogue: 0,0:35:18.71,0:35:20.33,Chinese,,0,0,0,,{\pos(960,1050)}- 这里没问题 - 好
+Dialogue: 0,0:35:20.62,0:35:22.04,English,,0,0,0,,{\pos(960,990)}Yeah, I need some retraction.
+Dialogue: 0,0:35:20.62,0:35:22.04,Chinese,,0,0,0,,{\pos(960,1050)}稍微再拉回一点
+Dialogue: 0,0:35:22.04,0:35:23.72,English,,0,0,0,,{\pos(960,990)}- Pull back on the retractor. - I got it.
+Dialogue: 0,0:35:22.04,0:35:23.72,Chinese,,0,0,0,,{\pos(960,1050)}- 牵引器往后拉 - 没问题
+Dialogue: 0,0:35:24.67,0:35:27.46,English,,0,0,0,,{\pos(960,990)}You opened a heart bedside, and you couldn't even page me?
+Dialogue: 0,0:35:24.67,0:35:27.46,Chinese,,0,0,0,,{\pos(960,1050)}你在病房做开胸手术 居然不呼叫我？
+Dialogue: 0,0:35:27.62,0:35:29.62,English,,0,0,0,,{\pos(960,990)}Needed all the glory for yourself, right?
+Dialogue: 0,0:35:27.62,0:35:29.62,Chinese,,0,0,0,,{\pos(960,1050)}你这么想独揽功劳啊？
+Dialogue: 0,0:35:29.62,0:35:31.33,English,,0,0,0,,{\pos(960,990)}I paged you 50 times.
+Dialogue: 0,0:35:29.62,0:35:31.33,Chinese,,0,0,0,,{\pos(960,1050)}我呼叫你50次
+Dialogue: 0,0:35:31.38,0:35:33.29,English,,0,0,0,,{\pos(960,990)}Do you have any idea what I have been through?
+Dialogue: 0,0:35:31.38,0:35:33.29,Chinese,,0,0,0,,{\pos(960,1050)}你知道我经历了什么吗？
+Dialogue: 0,0:35:34.79,0:35:35.83,English,,0,0,0,,{\pos(960,990)}Oh, man...
+Dialogue: 0,0:35:34.79,0:35:35.83,Chinese,,0,0,0,,{\pos(960,1050)}天啊
+Dialogue: 0,0:35:36.46,0:35:38.00,English,,0,0,0,,{\pos(960,990)}The battery, I forgot to change it.
+Dialogue: 0,0:35:36.46,0:35:38.00,Chinese,,0,0,0,,{\pos(960,1050)}我忘记换电池了
+Dialogue: 0,0:35:38.00,0:35:39.08,English,,0,0,0,,{\pos(960,990)}You forgot?
+Dialogue: 0,0:35:38.00,0:35:39.08,Chinese,,0,0,0,,{\pos(960,1050)}你忘了？
+Dialogue: 0,0:35:39.54,0:35:41.83,English,,0,0,0,,{\pos(960,990)}You forgot? You are hateful!
+Dialogue: 0,0:35:39.54,0:35:41.83,Chinese,,0,0,0,,{\pos(960,1050)}你忘了？你太可恶了！
+Dialogue: 0,0:35:41.88,0:35:46.21,English,,0,0,0,,{\pos(960,990)}You are a hateful, hateful, lazy, arrogant, hateful man!
+Dialogue: 0,0:35:41.88,0:35:46.21,Chinese,,0,0,0,,{\pos(960,1050)}你这个可恶懒散又高傲的讨厌鬼！
+Dialogue: 0,0:35:47.08,0:35:48.17,English,,0,0,0,,{\pos(960,990)}Hateful!
+Dialogue: 0,0:35:47.08,0:35:48.17,Chinese,,0,0,0,,{\pos(960,1050)}可恶！
+Dialogue: 0,0:35:48.42,0:35:50.21,English,,0,0,0,,{\pos(960,990)}Never a dull moment here at Seattle Grace.
+Dialogue: 0,0:35:48.42,0:35:50.21,Chinese,,0,0,0,,{\pos(960,1050)}西雅图恩典医院真是欢乐无穷呢
+Dialogue: 0,0:35:50.46,0:35:51.46,English,,0,0,0,,{\pos(960,990)}Oh!
+Dialogue: 0,0:35:51.54,0:35:52.71,English,,0,0,0,,{\pos(960,990)}Oh, my God.
+Dialogue: 0,0:35:51.54,0:35:52.71,Chinese,,0,0,0,,{\pos(960,1050)}天啊
+Dialogue: 0,0:35:52.71,0:35:54.00,English,,0,0,0,,{\pos(960,990)}Get right in there. Get it.
+Dialogue: 0,0:35:52.71,0:35:54.00,Chinese,,0,0,0,,{\pos(960,1050)}快点止血 快
+Dialogue: 0,0:35:54.46,0:35:56.75,English,,0,0,0,,{\pos(960,990)}She can't afford to lose this much blood. We need more blood here.
+Dialogue: 0,0:35:54.46,0:35:56.75,Chinese,,0,0,0,,{\pos(960,1050)}她的身体无法承受大量失血 我们需要更多血袋
+Dialogue: 0,0:35:56.75,0:35:58.88,English,,0,0,0,,{\pos(960,990)}Get me some suction here. I can't see what I'm doing.
+Dialogue: 0,0:35:56.75,0:35:58.88,Chinese,,0,0,0,,{\pos(960,1050)}快抽吸 我什么都看不清
+Dialogue: 0,0:35:58.88,0:36:00.83,English,,0,0,0,,{\pos(960,990)}Clamp, clamp, clamp, please.
+Dialogue: 0,0:35:58.88,0:36:00.83,Chinese,,0,0,0,,{\pos(960,1050)}血管钳 快
+Dialogue: 0,0:36:05.58,0:36:08.63,English,,0,0,0,,{\pos(960,990)}- Is there any blood in the rapid infuser? - We're waiting on two units.
+Dialogue: 0,0:36:05.58,0:36:08.63,Chinese,,0,0,0,,{\pos(960,1050)}- 快速注射器里还有血吗？ - 有两袋正在送来
+Dialogue: 0,0:36:08.67,0:36:09.67,English,,0,0,0,,{\pos(960,990)}What do you mean you're waiting?
+Dialogue: 0,0:36:08.67,0:36:09.67,Chinese,,0,0,0,,{\pos(960,1050)}什么意思？
+Dialogue: 0,0:36:09.67,0:36:12.50,English,,0,0,0,,{\pos(960,990)}We didn't anticipate this much blood loss.
+Dialogue: 0,0:36:09.67,0:36:12.50,Chinese,,0,0,0,,{\pos(960,1050)}我们没料到失血会这么多
+Dialogue: 0,0:36:12.58,0:36:14.46,English,,0,0,0,,{\pos(960,990)}We prepped a double supply. We've used it all.
+Dialogue: 0,0:36:12.58,0:36:14.46,Chinese,,0,0,0,,{\pos(960,1050)}我们准备的双倍血量都用完了
+Dialogue: 0,0:36:14.50,0:36:15.42,English,,0,0,0,,{\pos(960,990)}- What did you cut? - Nothing.
+Dialogue: 0,0:36:14.50,0:36:15.42,Chinese,,0,0,0,,{\pos(960,1050)}- 你切开什么了？ - 没有
+Dialogue: 0,0:36:15.46,0:36:16.58,English,,0,0,0,,{\pos(960,990)}It just blew.
+Dialogue: 0,0:36:15.46,0:36:16.58,Chinese,,0,0,0,,{\pos(960,1050)}是它自己破的
+Dialogue: 0,0:36:16.58,0:36:19.00,English,,0,0,0,,{\pos(960,990)}She came in with too much damage.
+Dialogue: 0,0:36:16.58,0:36:19.00,Chinese,,0,0,0,,{\pos(960,1050)}她入院时就病情严重了
+Dialogue: 0,0:36:19.00,0:36:21.54,English,,0,0,0,,{\pos(960,990)}- The artery walls are too weak. - Take care of it.
+Dialogue: 0,0:36:19.00,0:36:21.54,Chinese,,0,0,0,,{\pos(960,1050)}- 动脉壁太脆弱了 - 处理好
+Dialogue: 0,0:36:21.54,0:36:24.12,English,,0,0,0,,{\pos(960,990)}- Annie, come on. - 10 units of O-negative.
+Dialogue: 0,0:36:21.54,0:36:24.12,Chinese,,0,0,0,,{\pos(960,1050)}- 安妮 撑住 - …十袋阴性O型血
+Dialogue: 0,0:36:24.17,0:36:26.83,English,,0,0,0,,{\pos(960,990)}I cannot see. What's this? George, give me your hand.
+Dialogue: 0,0:36:24.17,0:36:26.83,Chinese,,0,0,0,,{\pos(960,1050)}我看不清 这是什么？乔治 来帮我
+Dialogue: 0,0:36:26.83,0:36:29.67,English,,0,0,0,,{\pos(960,990)}Push right down here. Pull towards you. Suction, suction!
+Dialogue: 0,0:36:26.83,0:36:29.67,Chinese,,0,0,0,,{\pos(960,1050)}这里帮我往下压 往你的方向拉 抽吸！
+Dialogue: 0,0:36:29.75,0:36:30.75,English,,0,0,0,,{\pos(960,990)}The pressure's dropping.
+Dialogue: 0,0:36:29.75,0:36:30.75,Chinese,,0,0,0,,{\pos(960,1050)}血压下降
+Dialogue: 0,0:36:30.75,0:36:32.83,English,,0,0,0,,{\pos(960,990)}She needs blood. Where the hell is the blood?
+Dialogue: 0,0:36:30.75,0:36:32.83,Chinese,,0,0,0,,{\pos(960,1050)}她需要输血 该死的血袋在哪里？
+Dialogue: 0,0:36:37.50,0:36:39.46,English,,0,0,0,,{\pos(960,990)}Somebody grab that. Push it back, George. Come on.
+Dialogue: 0,0:36:37.50,0:36:39.46,Chinese,,0,0,0,,{\pos(960,1050)}谁拿一下 用力推 乔治 加把劲
+Dialogue: 0,0:36:43.29,0:36:45.62,English,,0,0,0,,{\pos(960,990)}Oh, God. Just squeeze it off right there.
+Dialogue: 0,0:36:43.29,0:36:45.62,Chinese,,0,0,0,,{\pos(960,1050)}天啊 快压住那里
+Dialogue: 0,0:36:45.62,0:36:47.12,English,,0,0,0,,{\pos(960,990)}Here we go.
+Dialogue: 0,0:36:45.62,0:36:47.12,Chinese,,0,0,0,,{\pos(960,1050)}好了
+Dialogue: 0,0:36:52.83,0:36:54.33,English,,0,0,0,,{\pos(960,990)}Is that O-negative for OR One?
+Dialogue: 0,0:36:52.83,0:36:54.33,Chinese,,0,0,0,,{\pos(960,1050)}给一号手术室的阴性O型血吗？
+Dialogue: 0,0:36:54.50,0:36:56.25,English,,0,0,0,,{\pos(960,990)}- OR One. Yeah. - OR One, right?
+Dialogue: 0,0:36:54.50,0:36:56.25,Chinese,,0,0,0,,{\pos(960,1050)}- 对 - 一号手术室没错吧？
+Dialogue: 0,0:36:56.29,0:36:57.42,English,,0,0,0,,{\pos(960,990)}I got it! I got it!
+Dialogue: 0,0:36:56.29,0:36:57.42,Chinese,,0,0,0,,{\pos(960,1050)}交给我！
+Dialogue: 0,0:37:01.12,0:37:02.93,English,,0,0,0,,{\pos(960,990)}Some suction, please, in here, now. Come on.
+Dialogue: 0,0:37:01.12,0:37:02.93,Chinese,,0,0,0,,{\pos(960,1050)}继续抽吸 就这里 快点
+Dialogue: 0,0:37:04.29,0:37:06.25,English,,0,0,0,,{\pos(960,990)}We're losing her now. Look at this.
+Dialogue: 0,0:37:04.29,0:37:06.25,Chinese,,0,0,0,,{\pos(960,1050)}她快不行了 看这边
+Dialogue: 0,0:37:06.71,0:37:07.71,English,,0,0,0,,{\pos(960,990)}Come on.
+Dialogue: 0,0:37:06.71,0:37:07.71,Chinese,,0,0,0,,{\pos(960,1050)}坚持住啊
+Dialogue: 0,0:37:23.38,0:37:24.50,English,,0,0,0,,{\pos(960,990)}Ah, come on!
+Dialogue: 0,0:37:23.38,0:37:24.50,Chinese,,0,0,0,,{\pos(960,1050)}加油！
+Dialogue: 0,0:37:24.83,0:37:25.96,English,,0,0,0,,{\pos(960,990)}Come on!
+Dialogue: 0,0:37:24.83,0:37:25.96,Chinese,,0,0,0,,{\pos(960,1050)}撑住！
+Dialogue: 0,0:37:55.54,0:37:58.62,English,,0,0,0,,{\pos(960,990)}Time of death is 11:42.
+Dialogue: 0,0:37:55.54,0:37:58.62,Chinese,,0,0,0,,{\pos(960,1050)}死亡时间11点42分
+Dialogue: 0,0:38:14.88,0:38:16.12,English,,0,0,0,,{\pos(960,990)}I got it!
+Dialogue: 0,0:38:14.88,0:38:16.12,Chinese,,0,0,0,,{\pos(960,1050)}我拿来了！
+Dialogue: 0,0:38:39.08,0:38:41.00,English,,0,0,0,,{\pos(960,990)}The early bird catches the worm.
+Dialogue: 0,0:38:39.08,0:38:41.00,Chinese,,0,0,0,,{\pos(960,1050)}早起的鸟儿有虫吃
+Dialogue: 0,0:38:42.42,0:38:44.92,English,,0,0,0,,{\pos(960,990)}A stitch in time saves nine.
+Dialogue: 0,0:38:42.42,0:38:44.92,Chinese,,0,0,0,,{\pos(960,1050)}要防微杜渐
+Dialogue: 0,0:38:46.50,0:38:47.75,English,,0,0,0,,{\pos(960,990)}Messy.
+Dialogue: 0,0:38:46.50,0:38:47.75,Chinese,,0,0,0,,{\pos(960,1050)}缝得真乱
+Dialogue: 0,0:38:48.04,0:38:49.12,English,,0,0,0,,{\pos(960,990)}I'm sorry.
+Dialogue: 0,0:38:48.04,0:38:49.12,Chinese,,0,0,0,,{\pos(960,1050)}对不起
+Dialogue: 0,0:38:49.33,0:38:50.46,English,,0,0,0,,{\pos(960,990)}Don't be.
+Dialogue: 0,0:38:49.33,0:38:50.46,Chinese,,0,0,0,,{\pos(960,1050)}别道歉
+Dialogue: 0,0:38:50.50,0:38:51.88,English,,0,0,0,,{\pos(960,990)}You saved his life.
+Dialogue: 0,0:38:50.50,0:38:51.88,Chinese,,0,0,0,,{\pos(960,1050)}你救了他一命
+Dialogue: 0,0:39:00.88,0:39:03.12,English,,0,0,0,,{\pos(960,990)}He who hesitates is lost.
+Dialogue: 0,0:39:00.88,0:39:03.12,Chinese,,0,0,0,,{\pos(960,1050)}犹豫者必遭失败
+Dialogue: 0,0:39:16.21,0:39:18.79,English,,0,0,0,,{\pos(960,990)}We can't pretend we haven't been told.
+Dialogue: 0,0:39:16.21,0:39:18.79,Chinese,,0,0,0,,{\pos(960,1050)}我们不能装傻
+Dialogue: 0,0:39:19.62,0:39:21.46,English,,0,0,0,,{\pos(960,990)}We've all heard the proverbs,
+Dialogue: 0,0:39:19.62,0:39:21.46,Chinese,,0,0,0,,{\pos(960,1050)}我们都听过那些谚语
+Dialogue: 0,0:39:21.79,0:39:23.21,English,,0,0,0,,{\pos(960,990)}heard the philosophers,
+Dialogue: 0,0:39:21.79,0:39:23.21,Chinese,,0,0,0,,{\pos(960,1050)}听过哲学家的名言
+Dialogue: 0,0:39:23.83,0:39:27.04,English,,0,0,0,,{\pos(960,990)}heard our grandparents warning us about wasted time,
+Dialogue: 0,0:39:23.83,0:39:27.04,Chinese,,0,0,0,,{\pos(960,1050)}还有祖父母告诫我们不要虚度光阴
+Dialogue: 0,0:39:28.38,0:39:31.25,English,,0,0,0,,{\pos(960,990)}heard the damn poets urging us to seize the day.
+Dialogue: 0,0:39:28.38,0:39:31.25,Chinese,,0,0,0,,{\pos(960,1050)}听过那些讨厌的诗词 督促我们把握时光
+Dialogue: 0,0:39:33.38,0:39:35.92,English,,0,0,0,,{\pos(960,990)}Still, sometimes,
+Dialogue: 0,0:39:33.38,0:39:35.92,Chinese,,0,0,0,,{\pos(960,1050)}然而 有时候
+Dialogue: 0,0:39:36.25,0:39:37.92,English,,0,0,0,,{\pos(960,990)}we have to see for ourselves.
+Dialogue: 0,0:39:36.25,0:39:37.92,Chinese,,0,0,0,,{\pos(960,1050)}我们就是得自己去领悟
+Dialogue: 0,0:39:51.75,0:39:53.75,English,,0,0,0,,{\pos(960,990)}I'm not doing you any more favors.
+Dialogue: 0,0:39:51.75,0:39:53.75,Chinese,,0,0,0,,{\pos(960,1050)}我不会再特别照顾你了
+Dialogue: 0,0:39:54.08,0:39:55.33,English,,0,0,0,,{\pos(960,990)}This was it.
+Dialogue: 0,0:39:54.08,0:39:55.33,Chinese,,0,0,0,,{\pos(960,1050)}最后一次
+Dialogue: 0,0:39:55.92,0:39:59.54,English,,0,0,0,,{\pos(960,990)}I've been holding 50 pounds of tumor for the past 12 hours.
+Dialogue: 0,0:39:55.92,0:39:59.54,Chinese,,0,0,0,,{\pos(960,1050)}我托着20几公斤的肿瘤12小时
+Dialogue: 0,0:39:59.67,0:40:02.62,English,,0,0,0,,{\pos(960,990)}My back's gonna need traction, and the patient died anyways.
+Dialogue: 0,0:39:59.67,0:40:02.62,Chinese,,0,0,0,,{\pos(960,1050)}我累得需要拉背 然后患者还是死了
+Dialogue: 0,0:40:02.67,0:40:04.79,English,,0,0,0,,{\pos(960,990)}And you think you did me a favor?
+Dialogue: 0,0:40:02.67,0:40:04.79,Chinese,,0,0,0,,{\pos(960,1050)}你还觉得这样是在照顾我？
+Dialogue: 0,0:40:06.17,0:40:07.21,English,,0,0,0,,{\pos(960,990)}Look, I'm just...
+Dialogue: 0,0:40:06.17,0:40:07.21,Chinese,,0,0,0,,{\pos(960,1050)}听着 我只是…
+Dialogue: 0,0:40:09.42,0:40:10.50,English,,0,0,0,,{\pos(960,990)}What is this...
+Dialogue: 0,0:40:09.42,0:40:10.50,Chinese,,0,0,0,,{\pos(960,1050)}我们这样…
+Dialogue: 0,0:40:12.46,0:40:13.54,English,,0,0,0,,{\pos(960,990)}that we're doing here?
+Dialogue: 0,0:40:12.46,0:40:13.54,Chinese,,0,0,0,,{\pos(960,1050)}到底算什么？
+Dialogue: 0,0:40:15.04,0:40:16.12,English,,0,0,0,,{\pos(960,990)}What is it?
+Dialogue: 0,0:40:15.04,0:40:16.12,Chinese,,0,0,0,,{\pos(960,1050)}算什么？
+Dialogue: 0,0:40:19.92,0:40:21.46,English,,0,0,0,,{\pos(960,990)}You need a definition?
+Dialogue: 0,0:40:19.92,0:40:21.46,Chinese,,0,0,0,,{\pos(960,1050)}你想要界定关系？
+Dialogue: 0,0:40:21.83,0:40:23.38,English,,0,0,0,,{\pos(960,990)}You really want to be that guy?
+Dialogue: 0,0:40:21.83,0:40:23.38,Chinese,,0,0,0,,{\pos(960,1050)}你真要被我绑住？
+Dialogue: 0,0:40:28.50,0:40:31.00,English,,0,0,0,,{\pos(960,990)}We have to make our own mistakes.
+Dialogue: 0,0:40:28.50,0:40:31.00,Chinese,,0,0,0,,{\pos(960,1050)}我们必须自己去犯错
+Dialogue: 0,0:40:32.71,0:40:33.75,English,,0,0,0,,{\pos(960,990)}Lock the door.
+Dialogue: 0,0:40:32.71,0:40:33.75,Chinese,,0,0,0,,{\pos(960,1050)}锁门
+Dialogue: 0,0:40:36.92,0:40:39.50,English,,0,0,0,,{\pos(960,990)}We have to learn our own lessons.
+Dialogue: 0,0:40:36.92,0:40:39.50,Chinese,,0,0,0,,{\pos(960,1050)}从中学到教训
+Dialogue: 0,0:40:39.62,0:40:40.88,English,,0,0,0,,{\pos(960,990)}Have you seen Meredith?
+Dialogue: 0,0:40:39.62,0:40:40.88,Chinese,,0,0,0,,{\pos(960,1050)}你见到梅若迪丝了吗？
+Dialogue: 0,0:40:42.04,0:40:44.79,English,,0,0,0,,{\pos(960,990)}Save yourself the misery, man. She's off the market.
+Dialogue: 0,0:40:42.04,0:40:44.79,Chinese,,0,0,0,,{\pos(960,1050)}你别自讨苦吃了 老兄 她名花有主了
+Dialogue: 0,0:40:44.83,0:40:45.71,English,,0,0,0,,{\pos(960,990)}What?
+Dialogue: 0,0:40:44.83,0:40:45.71,Chinese,,0,0,0,,{\pos(960,1050)}什么？
+Dialogue: 0,0:40:45.79,0:40:47.29,English,,0,0,0,,{\pos(960,990)}No, that's not, we're just friends.
+Dialogue: 0,0:40:45.79,0:40:47.29,Chinese,,0,0,0,,{\pos(960,1050)}不是那样 我们只是朋友
+Dialogue: 0,0:40:48.33,0:40:49.21,English,,0,0,0,,{\pos(960,990)}Whatever.
+Dialogue: 0,0:40:48.33,0:40:49.21,Chinese,,0,0,0,,{\pos(960,1050)}随便你
+Dialogue: 0,0:40:49.33,0:40:52.88,English,,0,0,0,,{\pos(960,990)}But she's not. I mean, if she was seeing someone, I live with her, I would know it.
+Dialogue: 0,0:40:49.33,0:40:52.88,Chinese,,0,0,0,,{\pos(960,1050)}但她还单身吧 不然我这室友会知道她有对象的
+Dialogue: 0,0:41:02.83,0:41:05.54,English,,0,0,0,,{\pos(960,990)}We have to sweep today's possibility
+Dialogue: 0,0:41:02.83,0:41:05.54,Chinese,,0,0,0,,{\pos(960,1050)}我们总爱把今天的事情
+Dialogue: 0,0:41:05.58,0:41:08.83,English,,0,0,0,,{\pos(960,990)}under tomorrow's rug until we can't anymore,
+Dialogue: 0,0:41:05.58,0:41:08.83,Chinese,,0,0,0,,{\pos(960,1050)}拖过一天又一天 直到非面对不可
+Dialogue: 0,0:41:09.17,0:41:14.04,English,,0,0,0,,{\pos(960,990)}until we finally understand for ourselves what Benjamin Franklin meant...
+Dialogue: 0,0:41:09.17,0:41:14.04,Chinese,,0,0,0,,{\pos(960,1050)}直到我们终于明白 班杰明富兰克林那句话的真正意涵…
+Dialogue: 0,0:41:16.96,0:41:19.88,English,,0,0,0,,{\pos(960,990)}that knowing is better than wondering...
+Dialogue: 0,0:41:16.96,0:41:19.88,Chinese,,0,0,0,,{\pos(960,1050)}清楚明白胜于疑惑不已…
+Dialogue: 0,0:41:25.00,0:41:27.58,English,,0,0,0,,{\pos(960,990)}that waking is better than sleeping...
+Dialogue: 0,0:41:25.00,0:41:27.58,Chinese,,0,0,0,,{\pos(960,1050)}清醒胜于沉睡…
+Dialogue: 0,0:41:32.33,0:41:35.33,English,,0,0,0,,{\pos(960,990)}I, um, know this place
+Dialogue: 0,0:41:32.33,0:41:35.33,Chinese,,0,0,0,,{\pos(960,1050)}我知道有个地方
+Dialogue: 0,0:41:35.92,0:41:40.96,English,,0,0,0,,{\pos(960,990)}where there's an amazing view of sunrise over the ferryboats.
+Dialogue: 0,0:41:35.92,0:41:40.96,Chinese,,0,0,0,,{\pos(960,1050)}可以坐渡轮看日出的迷人美景
+Dialogue: 0,0:41:44.33,0:41:45.96,English,,0,0,0,,{\pos(960,990)}I have a thing for ferryboats.
+Dialogue: 0,0:41:44.33,0:41:45.96,Chinese,,0,0,0,,{\pos(960,1050)}我喜欢渡轮
+Dialogue: 0,0:41:47.38,0:41:48.62,English,,0,0,0,,{\pos(960,990)}I remember.
+Dialogue: 0,0:41:47.38,0:41:48.62,Chinese,,0,0,0,,{\pos(960,1050)}我记得
+Dialogue: 0,0:42:00.71,0:42:02.71,English,,0,0,0,,{\pos(960,990)}And that even the biggest failure,
+Dialogue: 0,0:42:00.71,0:42:02.71,Chinese,,0,0,0,,{\pos(960,1050)}…还有即使遭遇重大失败
+Dialogue: 0,0:42:02.75,0:42:06.50,English,,0,0,0,,{\pos(960,990)}even the worst, most intractable mistake
+Dialogue: 0,0:42:02.75,0:42:06.50,Chinese,,0,0,0,,{\pos(960,1050)}就算是犯下最严重、无法挽回的错误
+Dialogue: 0,0:42:06.75,0:42:09.00,English,,0,0,0,,{\pos(960,990)}beats the hell out of never trying.
+Dialogue: 0,0:42:06.75,0:42:09.00,Chinese,,0,0,0,,{\pos(960,1050)}也远远胜过从未尝试
+Dialogue: 0,0:42:48.46,0:42:50.46,Chinese,,0,0,0,,{\pos(960,1050)}字幕翻译：许晨翎

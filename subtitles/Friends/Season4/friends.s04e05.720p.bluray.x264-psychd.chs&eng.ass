@@ -1,0 +1,349 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+
+Dialogue: 0,0:00:08.45,0:00:10.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}哈罗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hello!{\r}
+Dialogue: 0,0:00:10.65,0:00:11.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}这是什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What's this?{\r}
+Dialogue: 0,0:00:12.18,0:00:16.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}对了  是那个女生的电话{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Oh, right! It's that girl's phone number.{\r}
+Dialogue: 0,0:00:18.66,0:00:20.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}在这里  只是一个电话号码{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}There it is. Just a phone number...{\r}
+Dialogue: 0,0:00:21.29,0:00:25.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}一个超辣的女生给我的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}a really hot girl gave me.{\r}
+Dialogue: 0,0:00:25.92,0:00:31.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}也没什么  只是她家的电话...{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}It's no big deal. I mean, it is her home phone number, but...{\r}
+Dialogue: 0,0:00:39.74,0:00:42.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}差点就掉了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Almost lost this baby!{\r}
+Dialogue: 0,0:00:42.72,0:00:48.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}可爱的亚曼达把电话给我  我却掉了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}The lovely Amanda gives me her number, and I go and drop it.{\r}
+Dialogue: 0,0:00:56.22,0:00:57.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}谢谢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Thank you.{\r}
+Dialogue: 0,0:00:58.85,0:01:03.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs19\bord1\shad1\3c&HFF8000&\b0}《老友记》  第四季  第05集  乔伊的新女友{\r}\N{\fnTahoma\fs10\bord1\shad1\1c&HC0C0C0&\b0}Friends S04E05  The one with Joey's new girlfriend {\r}
+Dialogue: 0,0:01:08.65,0:01:12.39,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}（主演：詹妮弗·安妮斯顿）{\r}
+Dialogue: 0,0:01:12.57,0:01:16.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}（主演：柯特妮·考克斯）{\r}
+Dialogue: 0,0:01:16.36,0:01:19.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}（主演：丽莎·库卓）{\r}
+Dialogue: 0,0:01:23.70,0:01:27.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}（主演：马特·勒布朗）{\r}
+Dialogue: 0,0:01:27.62,0:01:31.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}（主演：马修·派瑞）{\r}
+Dialogue: 0,0:01:31.42,0:01:35.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}（主演：大卫·修蒙）{\r}
+Dialogue: 0,0:01:46.92,0:01:48.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}瑞秋  嗯{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Rachel? Yeah?{\r}
+Dialogue: 0,0:01:48.58,0:01:51.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你的生日是几号  5月5号  做什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}When's your birthday? May fifth, why?{\r}
+Dialogue: 0,0:01:51.57,0:01:54.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我只是在记大家的生日{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I'm just making a list of people's birthdays.{\r}
+Dialogue: 0,0:01:54.25,0:01:57.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我是12月... 随便{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Mine's December... Yeah, whatever.{\r}
+Dialogue: 0,0:02:01.58,0:02:02.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}她真漂亮{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}She's pretty!{\r}
+Dialogue: 0,0:02:02.72,0:02:06.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好漂亮  真...好...真漂亮{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Pretty, pretty girl. The pretty...She's pretty.{\r}
+Dialogue: 0,0:02:07.73,0:02:09.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}去约她嘛{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Go ask her out.{\r}
+Dialogue: 0,0:02:09.97,0:02:13.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}有什么大不了的  我搞不好会死{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What's the worst that could happen? I could die.{\r}
+Dialogue: 0,0:02:13.65,0:02:16.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}一个人的确很难熬{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yeah, it's tough being single.{\r}
+Dialogue: 0,0:02:16.20,0:02:19.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}所以我很高兴  我认识了亚曼达{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}That's why I'm so glad I found Amanda.{\r}
+Dialogue: 0,0:02:20.63,0:02:23.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}罗斯  你们只出去过一次{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Ross, you guys went out once.{\r}
+Dialogue: 0,0:02:23.42,0:02:28.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你们带小孩去游乐城  你连亲都没亲她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You took your kids to Chuck E. Cheese, and you didn't even kiss her.{\r}
+Dialogue: 0,0:02:31.19,0:02:33.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我会泄露秘密{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I tell people secrets.{\r}
+Dialogue: 0,0:02:33.89,0:02:36.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好让别人喜欢我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}It makes them like me.{\r}
+Dialogue: 0,0:02:41.89,0:02:42.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}菲比{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Phoebe.{\r}
+Dialogue: 0,0:02:42.81,0:02:46.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你生病了  别唱了  回家上床休息吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You're sick, you shouldn't play. You should just go home, get in bed, and stay there.{\r}
+Dialogue: 0,0:02:46.17,0:02:48.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}但是我失业了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}But I'm unemployed.{\r}
+Dialogue: 0,0:02:48.32,0:02:51.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}只剩下音乐{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}my music is all I really have now.{\r}
+Dialogue: 0,0:02:51.13,0:02:55.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}音乐和自己做鞋子  很美吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Well music, and making my own shoes. Pretty, huh?{\r}
+Dialogue: 0,0:03:00.15,0:03:01.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好  我去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}All right, I'm gonna do it.{\r}
+Dialogue: 0,0:03:01.83,0:03:04.43,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我去搞定她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I'm gonna go get shot down.{\r}
+Dialogue: 0,0:03:04.58,0:03:05.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}有什么建议{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Any advice?{\r}
+Dialogue: 0,0:03:05.74,0:03:07.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}展现你的本色{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Just be yourself...{\r}
+Dialogue: 0,0:03:07.34,0:03:10.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}但别过火{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}but not too much.{\r}
+Dialogue: 0,0:03:11.56,0:03:12.85,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}祝我好运{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Wish me luck.{\r}
+Dialogue: 0,0:03:13.00,0:03:15.44,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}加油{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Good luck!{\r}
+Dialogue: 0,0:03:17.76,0:03:20.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}心里念就行了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Wish it!{\r}
+Dialogue: 0,0:03:20.88,0:03:25.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你好  我坐在那里...{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hi, I was just sitting over there and...{\r}
+Dialogue: 0,0:03:25.48,0:03:27.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}钱德  我是钱德  我有说吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Chandler. My name is Chandler. Did I say that?{\r}
+Dialogue: 0,0:03:27.52,0:03:30.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}没有  你好  我是凯西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}No, you didn't. Hi, I'm Kathy.{\r}
+Dialogue: 0,0:03:30.31,0:03:32.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西是哪个  K还是C  是K{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy with a K or a C? With a K.{\r}
+Dialogue: 0,0:03:36.11,0:03:38.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你还真会搭讪{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You are really good at this!{\r}
+Dialogue: 0,0:03:38.45,0:03:39.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}别这么说  我会很尴尬的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hey, come on, give me a break, I'm out on a limb here.{\r}
+Dialogue: 0,0:03:40.27,0:03:41.94,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你说得对  我道歉{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I'm sorry, you're right, I apologize.{\r}
+Dialogue: 0,0:03:42.07,0:03:45.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}但是  我跟别人有约{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}But I should tell you, I'm waiting for a date.{\r}
+Dialogue: 0,0:03:45.54,0:03:48.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}他来了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}And there he is now!{\r}
+Dialogue: 0,0:03:51.41,0:03:53.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你们已经认识了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I see you guys already met.{\r}
+Dialogue: 0,0:03:54.22,0:03:56.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}是啊  我正在示范{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yes-yes, I was just trying to figure out a way to...{\r}
+Dialogue: 0,0:03:56.42,0:03:58.85,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}如何把我那很大的脚{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}demonstrate how I could get my exceptionally large feet...{\r}
+Dialogue: 0,0:03:59.09,0:04:02.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}塞进我那更大的嘴里{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}into my even bigger mouth.{\r}
+Dialogue: 0,0:04:02.50,0:04:04.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我没有对你说过吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Didrt I tell you?{\r}
+Dialogue: 0,0:04:04.55,0:04:07.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}他最爱表现了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Always showing off.{\r}
+Dialogue: 0,0:04:08.48,0:04:11.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}首先我要说  我感冒了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Before I start, I just wanna say that, I have a cold.{\r}
+Dialogue: 0,0:04:11.71,0:04:16.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}要是我唱到一半打喷嚏  不是故意的啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So if I sneeze in the middle of song, it's not on purpose.{\r}
+Dialogue: 0,0:04:16.49,0:04:21.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}除了"胡椒人"的最后一句{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Except the last verse of "Pepper People."{\r}
+Dialogue: 0,0:04:23.00,0:04:26.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}臭臭猫  臭臭猫{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Smelly cat, smelly cat{\r}
+Dialogue: 0,0:04:26.92,0:04:30.47,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}他们喂你吃什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What are they feeding you?{\r}
+Dialogue: 0,0:04:30.79,0:04:33.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}这声音不赖{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}This chick sounds good.{\r}
+Dialogue: 0,0:04:34.03,0:04:36.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}臭臭猫{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Smelly cat{\r}
+Dialogue: 0,0:04:36.86,0:04:40.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}甘德  乖  拿杯威士忌来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hey Gunther, be a good little boy and bring me a whiskey.{\r}
+Dialogue: 0,0:04:50.27,0:04:54.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}想不到半夜2点半  还要抢遥控器{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Jeez, at 2:30 in the morning, I didn't expect to have to fight over the remote.{\r}
+Dialogue: 0,0:04:54.15,0:04:57.44,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}对不起  我想看厄尼柯瓦克斯的重播{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I'm sorry, it's just this Ernie Cofax thing on in a few minutes I wanted to watch.{\r}
+Dialogue: 0,0:04:57.58,0:04:59.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我也要看那个{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Oh my God! That's why I got up too!{\r}
+Dialogue: 0,0:04:59.51,0:05:02.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不会吧  我爱死他了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You're kidding? I love him!{\r}
+Dialogue: 0,0:05:03.90,0:05:07.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}下午很抱歉  要是知道你们...我也不会{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hey, listen, I'm sorry about this afternoon, if I would've known you guys were...I never would've...{\r}
+Dialogue: 0,0:05:07.86,0:05:10.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}道什么歉{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Oh, please.{\r}
+Dialogue: 0,0:05:11.04,0:05:13.59,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}乔伊说  你们是在表演课认识的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So, Joey tells me you two met in acting class.{\r}
+Dialogue: 0,0:05:13.74,0:05:17.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}对  我们两个一组  乔伊选了三场戏{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yeah, they teamed us up as partners. Joey picked three scenes for us to do.{\r}
+Dialogue: 0,0:05:17.96,0:05:20.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}都是亲热戏{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}all of them had us making out.{\r}
+Dialogue: 0,0:05:21.02,0:05:25.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}太好了  他原先都是逼着我跟他练{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}That's a good thing actually, because ah, he used to have me rehearse with him.{\r}
+Dialogue: 0,0:05:27.88,0:05:32.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}开始了吗  还没  但是这个伸缩扫把很棒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Is it on? No, but this Wonder Broom is amazing!{\r}
+Dialogue: 0,0:05:34.30,0:05:36.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}就是它{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Oh, my God!{\r}
+Dialogue: 0,0:05:38.14,0:05:39.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}开始了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}It's on!{\r}
+Dialogue: 0,0:05:45.78,0:05:48.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}小不点  过来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Here we go, little fella.{\r}
+Dialogue: 0,0:05:49.71,0:05:51.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}那鸭子呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What about the duck?{\r}
+Dialogue: 0,0:05:51.21,0:05:53.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}鸭子会游泳{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}The duck can swim.{\r}
+Dialogue: 0,0:05:56.05,0:05:58.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}烂泥巴鞋{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}My sticky shoes{\r}
+Dialogue: 0,0:05:58.81,0:06:02.93,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}沾满烂泥巴的鞋{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}My sticky, sticky shoes{\r}
+Dialogue: 0,0:06:03.07,0:06:05.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你为什么揪着我不放{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Why you stick on me?{\r}
+Dialogue: 0,0:06:05.86,0:06:08.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}宝贝{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Baby{\r}
+Dialogue: 0,0:06:09.93,0:06:12.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}谢谢你的灯光{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Thanks for the lights, honey.{\r}
+Dialogue: 0,0:06:15.87,0:06:16.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}太精彩了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Way to go!{\r}
+Dialogue: 0,0:06:17.10,0:06:19.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你的声音好有磁性{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Your cold makes you sound great.{\r}
+Dialogue: 0,0:06:19.27,0:06:23.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好好玩  我真是太性感了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}It's fun. God, I love how sexy I am!{\r}
+Dialogue: 0,0:06:26.71,0:06:30.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西  该走了  我们要去买仓鼠{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kath, we should get going. We're going to buy hamsters.{\r}
+Dialogue: 0,0:06:30.52,0:06:31.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我喜欢仓鼠{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I love them.{\r}
+Dialogue: 0,0:06:31.89,0:06:37.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不是那样的  我在替一个医疗研究员工作{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}No, it's not like that. I work for a medical researcher.{\r}
+Dialogue: 0,0:06:37.69,0:06:40.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}去玩吧  好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Well, have fun. Okay.{\r}
+Dialogue: 0,0:06:40.83,0:06:47.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}总算医学界也在救助生病的仓鼠了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Well, I think it's great that the medical community is finally trying to help sick hamsters.{\r}
+Dialogue: 0,0:06:48.57,0:06:50.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}知道吗  我喜欢凯西  对啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You know what? I like Kathy. Yeah.{\r}
+Dialogue: 0,0:06:50.65,0:06:53.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我也是  她好酷好漂亮{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yeah! me too! She's so cool and pretty.{\r}
+Dialogue: 0,0:06:53.53,0:06:54.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}是啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}She is.{\r}
+Dialogue: 0,0:06:54.91,0:06:57.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}她既聪明又风趣{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}She's smart and funny.{\r}
+Dialogue: 0,0:06:57.38,0:07:01.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我们昨晚聊了一整夜  她聊到一些...{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}you know? We were up all last night talking, she said the funniest thing about...{\r}
+Dialogue: 0,0:07:01.85,0:07:02.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}怎样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What?{\r}
+Dialogue: 0,0:07:04.19,0:07:06.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你爱她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You love her.{\r}
+Dialogue: 0,0:07:07.28,0:07:08.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我没有{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}No, I don't.{\r}
+Dialogue: 0,0:07:08.59,0:07:12.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你有  钱德爱凯西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yes, you do. Chandler loves Kathy.{\r}
+Dialogue: 0,0:07:12.64,0:07:16.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}菲比  饶了他吧  谢了  罗斯{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Come on, Pheebs just lay off him. Thank you. Ross.{\r}
+Dialogue: 0,0:07:16.77,0:07:20.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}现在他有点敏感  因为他恋爱了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yeah, he's a little sensitive right now, because he's so in love.{\r}
+Dialogue: 0,0:07:20.94,0:07:22.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}All right.{\r}
+Dialogue: 0,0:07:26.14,0:07:28.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西  我爱你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy, I love you!{\r}
+Dialogue: 0,0:07:37.81,0:07:42.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我得写一些悲情的歌来配合我的新哭腔{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So, I need to write some depressing stuff to go along with my new floozy voice{\r}
+Dialogue: 0,0:07:42.36,0:07:45.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}但我没有悲惨的遭遇{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}but nothing that sad has ever really happened to me.{\r}
+Dialogue: 0,0:07:45.19,0:07:47.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你妈自杀的事呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}How about your mom dying?{\r}
+Dialogue: 0,0:07:47.43,0:07:51.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}或是你14岁时流落街头{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Or having to live on the streets when you were 14?{\r}
+Dialogue: 0,0:07:53.92,0:07:58.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我可以写头发翘起来那次{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I could write about the time my hair did that "Woo-hoo" thing.{\r}
+Dialogue: 0,0:08:02.00,0:08:04.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我晚上要去亚曼达家{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So I'm going over to Amanda's tonight!{\r}
+Dialogue: 0,0:08:04.68,0:08:07.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}瑞秋不在{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Rachel's not here.{\r}
+Dialogue: 0,0:08:09.70,0:08:10.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你跟她进展如何{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}How's it going with her?{\r}
+Dialogue: 0,0:08:11.29,0:08:15.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}很棒  搞不好今晚就有机会{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Great, actually. I'm thinking tonight may be the night.{\r}
+Dialogue: 0,0:08:15.71,0:08:19.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}两个孩子会一起玩  等他们睡了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I mean, the kids are gonna play together and then when they're asleep...{\r}
+Dialogue: 0,0:08:19.33,0:08:22.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}亚曼达和我再开一瓶酒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I'm thinking Amanda and I break open a bottle of wine...{\r}
+Dialogue: 0,0:08:22.50,0:08:26.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我们自己来玩{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}do a little playing ourselves.{\r}
+Dialogue: 0,0:08:28.03,0:08:30.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}嗨  这是贾许{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hi, guys! This is Josh.{\r}
+Dialogue: 0,0:08:30.81,0:08:32.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}贾许  她们是我的朋友{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Josh, these are my friends.{\r}
+Dialogue: 0,0:08:32.61,0:08:34.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}那是罗斯{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}And that's Ross.{\r}
+Dialogue: 0,0:08:36.04,0:08:37.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}贾许  你好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hi, Josh.{\r}
+Dialogue: 0,0:08:37.32,0:08:39.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}兄弟们{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Dudes.{\r}
+Dialogue: 0,0:08:39.21,0:08:40.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你打过校队{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So, did you play in college?{\r}
+Dialogue: 0,0:08:40.81,0:08:45.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}现在还是  明年我想进大学{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I still do. Next year, I hope to make varsity.{\r}
+Dialogue: 0,0:08:45.64,0:08:48.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}罗斯  你高中不是踢过足球{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Ross, didn't you ah, play soccer in High School?{\r}
+Dialogue: 0,0:08:48.31,0:08:53.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不对  你只是用电脑帮他们排赛程表{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}No, wait. that's right. You just organized their game schedules on your Commodore 64.{\r}
+Dialogue: 0,0:08:53.90,0:08:58.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不早了  我还有球赛  我先闪了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Well, it's getting late, I've got to get to the game, so I'm gonna...head{\r}
+Dialogue: 0,0:09:03.54,0:09:05.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我会想你的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I'll miss you.{\r}
+Dialogue: 0,0:09:05.54,0:09:07.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}爽{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Dope!{\r}
+Dialogue: 0,0:09:11.53,0:09:12.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}哇  很可爱嘛{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Wow! Cute one.{\r}
+Dialogue: 0,0:09:13.18,0:09:15.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}非常可爱  我知道  他很棒吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Very cute. I know. Isn't he great?{\r}
+Dialogue: 0,0:09:15.69,0:09:19.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}总算来了一段有趣的恋情{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So nice to finally be in a fun relationship, you know?{\r}
+Dialogue: 0,0:09:19.27,0:09:22.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}他相当有趣{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}There's nothing boring about him.{\r}
+Dialogue: 0,0:09:22.20,0:09:25.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我敢赌他一定没进过博物馆{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}and, I bet he's never set foot in a museum.{\r}
+Dialogue: 0,0:09:25.36,0:09:27.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}也许他快有机会了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Well maybe he'll get to go soon{\r}
+Dialogue: 0,0:09:27.36,0:09:30.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}像校外教学什么的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Like on a class trip or something.{\r}
+Dialogue: 0,0:09:31.67,0:09:34.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你们知道  他还有哪里好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You know what else is great about him?{\r}
+Dialogue: 0,0:09:34.37,0:09:36.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}该怎么形容呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}what is the word for the adult...{\r}
+Dialogue: 0,0:09:36.51,0:09:40.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}房间里没有恐龙玩具的男人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}that doesn't have dinosaur toys in their bedroom?{\r}
+Dialogue: 0,0:09:45.54,0:09:46.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}什么意思{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What was that?{\r}
+Dialogue: 0,0:09:47.05,0:09:48.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}莫妮卡知道{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Monica knows.{\r}
+Dialogue: 0,0:09:48.35,0:09:51.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}那是罗斯发明来吓爸妈的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}It's this dumb thing that Ross made up to try to fool our parents.{\r}
+Dialogue: 0,0:09:52.22,0:09:57.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}其实就是比中指的意思{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}It's a way of giving the finger without actually having to give it.{\r}
+Dialogue: 0,0:09:57.99,0:10:00.26,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你发明这个手势  让我哭了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I remember I cried the night you made it up.{\r}
+Dialogue: 0,0:10:00.60,0:10:05.39,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我第一次明白  我比我哥酷{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}because it was the first time that I realized that I was actually cooler than my older brother.{\r}
+Dialogue: 0,0:10:05.69,0:10:09.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我要去准备...{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Well, I'm gonna go get ready...{\r}
+Dialogue: 0,0:10:13.42,0:10:14.59,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}今晚的赴约了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}for my date tonight...{\r}
+Dialogue: 0,0:10:14.74,0:10:19.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我热血沸腾{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}so I'll just "head."{\r}
+Dialogue: 0,0:10:20.60,0:10:24.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我也该走了  1小时后要上台{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yeah, I should go too. because I'm playing in one hour.{\r}
+Dialogue: 0,0:10:27.09,0:10:29.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你们应该来听{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You guys should come hear me.{\r}
+Dialogue: 0,0:10:29.42,0:10:31.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}来听听{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hear me.{\r}
+Dialogue: 0,0:10:31.46,0:10:33.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}烂泥巴鞋...{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}My sticky shoes{\r}
+Dialogue: 0,0:10:37.51,0:10:40.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我的性感破锣嗓子没了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I lost my sexy phlegm!{\r}
+Dialogue: 0,0:10:45.91,0:10:47.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}嗨  班{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hi, Ben.{\r}
+Dialogue: 0,0:10:47.57,0:10:50.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你好性感  谢谢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You look great! Thanks.{\r}
+Dialogue: 0,0:10:51.57,0:10:53.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}嗨  汤米{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hey, Tommy!{\r}
+Dialogue: 0,0:10:53.33,0:10:55.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我好高兴你今晚能来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I am so glad that you could come over tonight.{\r}
+Dialogue: 0,0:10:55.79,0:10:59.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不  这是我的荣幸{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Oh, no. It's my pleasure.{\r}
+Dialogue: 0,0:10:59.54,0:11:01.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我的手机号码在餐台上{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay, well, my cell phone number is right here on the counter.{\r}
+Dialogue: 0,0:11:01.93,0:11:04.47,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}冰箱里的东西自己拿{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Please, help yourself to anything in the fridge.{\r}
+Dialogue: 0,0:11:04.60,0:11:07.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}真的很谢谢你  我想约这个男的想了好久{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I appreciate this so much. I have been trying to go out with...{\r}
+Dialogue: 0,0:11:07.21,0:11:10.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}有一个月了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}this guy for like a month.{\r}
+Dialogue: 0,0:11:11.19,0:11:14.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}本来不想说  但我希望你等孩子睡了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I don't mean to be a square, but I'd really appreciate it if you wait and drink your wine...{\r}
+Dialogue: 0,0:11:14.48,0:11:17.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}再喝你的红酒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}after the kids are asleep.{\r}
+Dialogue: 0,0:11:22.25,0:11:27.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}谢谢你  希望改天我也能帮你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Thanks for this. I hope I can do the same for you sometime.{\r}
+Dialogue: 0,0:11:32.76,0:11:37.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}谁想打长途{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Who wants to make some long-distance calls?{\r}
+Dialogue: 0,0:11:45.22,0:11:48.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西  凯西  喂{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy! Kathy! Hi!{\r}
+Dialogue: 0,0:11:48.35,0:11:50.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西  凯西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy! Kathy!{\r}
+Dialogue: 0,0:11:59.06,0:12:00.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy!{\r}
+Dialogue: 0,0:12:05.43,0:12:06.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}让开  让开{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Fetch! Fetch it!{\r}
+Dialogue: 0,0:12:10.07,0:12:11.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西  凯西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy! Kathy!{\r}
+Dialogue: 0,0:12:12.14,0:12:13.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy!{\r}
+Dialogue: 0,0:12:19.31,0:12:20.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy!{\r}
+Dialogue: 0,0:12:24.95,0:12:26.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy!{\r}
+Dialogue: 0,0:12:27.42,0:12:29.44,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}钱德  你怎么在这里{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Chandler, what are you doing here?{\r}
+Dialogue: 0,0:12:31.29,0:12:33.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我只是来打个招呼{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I just wanted to say, "Hey!"{\r}
+Dialogue: 0,0:12:34.12,0:12:35.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}嘿{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hey.{\r}
+Dialogue: 0,0:12:36.06,0:12:37.93,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay.{\r}
+Dialogue: 0,0:12:43.95,0:12:46.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不是吧  你说得太严重了吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Oh, You're making it sound worse than it actually was.{\r}
+Dialogue: 0,0:12:46.69,0:12:50.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}她的男伴给了我10块钱{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Her date tipped me $10{\r}
+Dialogue: 0,0:12:53.41,0:12:54.81,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}菲比  你干什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Pheebs, what are you doing?{\r}
+Dialogue: 0,0:12:55.18,0:12:58.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我想恢复性感  所以我想感冒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay, I wanna be sexy again so I'm trying to catch a cold.{\r}
+Dialogue: 0,0:12:58.85,0:13:01.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}应该很容易  感冒很常见{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Should be easy. They're pretty common.{\r}
+Dialogue: 0,0:13:01.16,0:13:04.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}菲比  你会得肺炎的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Phoebe, You'll catch pneumonia!{\r}
+Dialogue: 0,0:13:06.66,0:13:09.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}说得对  我爱上了乔伊的女朋友{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay, you were right. I'm in love with Joey's girlfriend.{\r}
+Dialogue: 0,0:13:10.20,0:13:11.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}什么  真的吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What? Are you serious?{\r}
+Dialogue: 0,0:13:11.90,0:13:14.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}怎么可能  你们根本不熟{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}How is that possible? You barely know her.{\r}
+Dialogue: 0,0:13:14.37,0:13:16.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我不知道  我就是...{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I don't know. I just...{\r}
+Dialogue: 0,0:13:16.37,0:13:18.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}无法忘记她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I can't get her out of my head.{\r}
+Dialogue: 0,0:13:18.90,0:13:22.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我很糟糕  非常非常的糟{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I'm a very bad person. I'm a very, very bad person.{\r}
+Dialogue: 0,0:13:22.24,0:13:25.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我是个烂人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I'm a horrible person.{\r}
+Dialogue: 0,0:13:26.19,0:13:30.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}"才不是呢  我们还是爱你"{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}"No you're not Chandler! We still love you Chandler!"{\r}
+Dialogue: 0,0:13:33.02,0:13:35.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}菲比  我染上你的感冒了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Oh gosh, Phoebe, I think I caught your cold.{\r}
+Dialogue: 0,0:13:35.42,0:13:39.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}是偷走才对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You mean you stole it!{\r}
+Dialogue: 0,0:13:39.52,0:13:43.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}打喷嚏不要捂嘴巴{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Don't cover your mouth when you do that!{\r}
+Dialogue: 0,0:13:46.22,0:13:48.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我们正在说你{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}We were just talking about you.{\r}
+Dialogue: 0,0:13:49.30,0:13:50.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}真的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Really?{\r}
+Dialogue: 0,0:13:51.16,0:13:53.47,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}对  就是你喝醉睡着那次{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yeah-yeah, I told her about the time you got drunk and fell asleep...{\r}
+Dialogue: 0,0:13:53.60,0:13:56.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}头泡在马桶里{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}with your head in the toilet.{\r}
+Dialogue: 0,0:13:57.19,0:13:59.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}泡得刚刚好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Right in there!{\r}
+Dialogue: 0,0:14:03.35,0:14:04.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}九十九{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Ninety-nine...{\r}
+Dialogue: 0,0:14:05.19,0:14:08.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}一百  好了没  我来了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}a hundred. Ready or not, here I come!{\r}
+Dialogue: 0,0:14:11.20,0:14:14.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好吧  我再解释一次规则{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}All right, let's go over the concept one more time.{\r}
+Dialogue: 0,0:14:16.44,0:14:21.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}伙计  晚上要不要跟我和凯西吃饭{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hey guys.  Listen, you wanna get some dinner with me and Kathy tonight?{\r}
+Dialogue: 0,0:14:21.41,0:14:24.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我已经吃饱了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You know what? I already ate.{\r}
+Dialogue: 0,0:14:25.03,0:14:26.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}才4点半{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}It's 4:30.{\r}
+Dialogue: 0,0:14:26.67,0:14:28.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我星期一吃得很饱{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You know I had a big meal on Monday.{\r}
+Dialogue: 0,0:14:28.81,0:14:32.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}可以撑一个礼拜{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So that's just gonna get me straight through the week.{\r}
+Dialogue: 0,0:14:32.31,0:14:36.39,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我知道是怎么回事{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay, I see what's going on here.{\r}
+Dialogue: 0,0:14:37.00,0:14:38.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你知道  对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You do? Yeah.{\r}
+Dialogue: 0,0:14:38.72,0:14:41.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你不喜欢凯西{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You don't like Kathy.{\r}
+Dialogue: 0,0:14:41.55,0:14:43.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}被你猜对了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You got me.{\r}
+Dialogue: 0,0:14:43.89,0:14:46.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我们交往至今  你一直在躲她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yeah, you've been avoiding her ever since we started going out.{\r}
+Dialogue: 0,0:14:46.63,0:14:48.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我曾经努力想去喜欢珍妮丝{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Look, I made an effort to like Janice,{\r}
+Dialogue: 0,0:14:49.09,0:14:53.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}现在该你去试着喜欢凯西  陪我们去吃饭了  好吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}now I think it's your turn to make an effort to like Kathy by going out to dinner with us. Right?{\r}
+Dialogue: 0,0:14:53.84,0:14:57.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}对  没错  很好  而且我请客{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Yeah, right. Good. And hey, my treat.{\r}
+Dialogue: 0,0:14:57.94,0:15:01.97,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不过你不想吃  对吧  对{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}But that's only because you're not eating anything, right? Right.{\r}
+Dialogue: 0,0:15:06.36,0:15:09.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}罗斯不在{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Ross isn't here.{\r}
+Dialogue: 0,0:15:09.64,0:15:11.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}放手{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Stop it!{\r}
+Dialogue: 0,0:15:13.99,0:15:15.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}派对上见{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So I'll see you at the party?{\r}
+Dialogue: 0,0:15:15.97,0:15:20.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}啤酒免费喝到饱  24  7{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Beer's beer man, 24, 7!{\r}
+Dialogue: 0,0:15:24.34,0:15:28.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我一定会嫁给他{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I am so gonna marry that guy.{\r}
+Dialogue: 0,0:15:30.30,0:15:31.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}怎么了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What?{\r}
+Dialogue: 0,0:15:31.28,0:15:34.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我觉得他偷我的钱  为什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I think he's stealing from me. Why?{\r}
+Dialogue: 0,0:15:34.72,0:15:38.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}因为他真的偷我的钱{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Because he's stealing from me!{\r}
+Dialogue: 0,0:15:38.39,0:15:39.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}是我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hi, it's me...{\r}
+Dialogue: 0,0:15:40.06,0:15:41.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}还有热汤{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}and soup.{\r}
+Dialogue: 0,0:15:41.46,0:15:46.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}贾许穿你的皮衣  看起来好帅{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I just saw Josh. He looked so yummy in your leather jacket.{\r}
+Dialogue: 0,0:15:49.07,0:15:53.43,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}来  我不吃鸡  所以只有汤{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Here, now I don't eat chicken, so it's just noodle soup.{\r}
+Dialogue: 0,0:15:53.56,0:15:59.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}熬汤时又没放鸡  跟水没什么两样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}And there's no chicken in the broth either, so it's really just... noodle water.{\r}
+Dialogue: 0,0:16:00.11,0:16:03.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}谢谢你菲比  当然{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Thank you so much Phoebe. Sure.{\r}
+Dialogue: 0,0:16:04.22,0:16:05.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你拿那个干嘛{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What are you doing with those?!{\r}
+Dialogue: 0,0:16:05.72,0:16:09.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}要你的病菌  我想再感冒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}But, I need your germs! I want my cold back!{\r}
+Dialogue: 0,0:16:10.42,0:16:12.22,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我怀念我的性感嗓音{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I miss my sexy voice.{\r}
+Dialogue: 0,0:16:12.52,0:16:14.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}菲比  对不起{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Sorry, Phoebe.{\r}
+Dialogue: 0,0:16:14.76,0:16:16.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}没关系{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}It's okay.{\r}
+Dialogue: 0,0:16:16.59,0:16:19.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}汤好喝吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}How's the soup?{\r}
+Dialogue: 0,0:16:35.23,0:16:38.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}天呀  那个女生的内衣都露出来了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}God, guys, check it out, you can see that girl's underwear!{\r}
+Dialogue: 0,0:16:38.35,0:16:40.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}很棒吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Is she great, or what?{\r}
+Dialogue: 0,0:16:40.63,0:16:44.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你觉得她如何{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So? Huh? What do you think?{\r}
+Dialogue: 0,0:16:44.21,0:16:45.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}她不是我的型{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}She's not really my type.{\r}
+Dialogue: 0,0:16:46.02,0:16:49.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不是你的型  大美女啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Not your type? She's gorgeous.{\r}
+Dialogue: 0,0:16:49.47,0:16:52.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}知道吗  因为她穿网袜{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You know what I think it is? It's the fishnet stockings.{\r}
+Dialogue: 0,0:16:52.56,0:16:55.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}看到女生穿网袜  我就想到...{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Whenever I see a girl in fishnet stockings it reminds me of...{\r}
+Dialogue: 0,0:16:56.10,0:16:59.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我爸穿网袜的样子{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}my father in fishnet stockings.{\r}
+Dialogue: 0,0:16:59.73,0:17:03.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我有点了解  你为何单身了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay. Understanding a little more why you're single.{\r}
+Dialogue: 0,0:17:03.64,0:17:07.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我有个很漂亮的朋友  可以一起约会{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I have a friend you would like, she's really pretty. And then we could double date!{\r}
+Dialogue: 0,0:17:07.38,0:17:09.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不必了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}No, thanks.{\r}
+Dialogue: 0,0:17:09.65,0:17:15.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我也有几个丑朋友   没有对象{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay, I've got some ugly friends, and they're all available too.{\r}
+Dialogue: 0,0:17:15.15,0:17:17.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我去叫酒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Listen, I-I'm gonna grab a beer.{\r}
+Dialogue: 0,0:17:18.09,0:17:20.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}马上回来{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I'll be right back.{\r}
+Dialogue: 0,0:17:25.39,0:17:28.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你什么意思  什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}What was that? What?{\r}
+Dialogue: 0,0:17:28.25,0:17:31.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}凯西在示好  你却掉头就走{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Kathy was being really nice and you just walked away. I thought we had a deal.{\r}
+Dialogue: 0,0:17:31.60,0:17:33.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你要我怎样{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hey, look, what do you want from me?{\r}
+Dialogue: 0,0:17:33.64,0:17:35.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我要你喜欢她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I want you to like her.{\r}
+Dialogue: 0,0:17:35.54,0:17:39.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}要是太难了  你起码可以装一下{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}But if that's too damned difficult for you, then the least you can do is pretend.{\r}
+Dialogue: 0,0:17:39.89,0:17:43.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我正在装啊  再像一点{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I am pretending. Then do it better.{\r}
+Dialogue: 0,0:17:43.30,0:17:46.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不如我过去说  很喜欢她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay, what do you saw I go over there and say how much I like her?{\r}
+Dialogue: 0,0:17:47.08,0:17:49.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不  我可以说我一直在想她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}No-no it'll be good, I can tell her much I've been thinking about her.{\r}
+Dialogue: 0,0:17:49.79,0:17:52.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}认识以后  我就一直想着她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}That I haven't stopped thinking about her since the moment I met her.{\r}
+Dialogue: 0,0:17:52.36,0:17:55.26,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我无可救药  简直想掐死自己{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}That I'm so fantastically, over-the-top, wanna-slit-my-own-throat...{\r}
+Dialogue: 0,0:17:55.53,0:17:58.49,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}每一天每一分每一秒都爱着她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}in love with her, that for every minute of every hour of every day...{\r}
+Dialogue: 0,0:17:58.73,0:18:02.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我都在怨恨  为何是你先认识她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I can't believe my own damn bad luck that you met her first!{\r}
+Dialogue: 0,0:18:03.19,0:18:06.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}很不错{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}That's pretty good.{\r}
+Dialogue: 0,0:18:07.86,0:18:11.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}但是别那么夸张{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}But you might want to tone it down a little.{\r}
+Dialogue: 0,0:18:16.89,0:18:20.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}是亚曼达载我来的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So Amanda just dropped me off.{\r}
+Dialogue: 0,0:18:20.31,0:18:22.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我就喜欢她这一点{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}That's one of the things I love about her.{\r}
+Dialogue: 0,0:18:22.87,0:18:26.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}成年人可以开车{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}She's old enough to drive.{\r}
+Dialogue: 0,0:18:26.70,0:18:30.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你晚上不去找爸妈了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So uhh, I guess you're not going to mom and dad's tonight?{\r}
+Dialogue: 0,0:18:30.30,0:18:31.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不了  对不起{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}No, sorry.{\r}
+Dialogue: 0,0:18:31.76,0:18:32.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}亚曼达呢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Well where's Amanda?{\r}
+Dialogue: 0,0:18:33.34,0:18:35.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}瑞秋  能帮我拿咳嗽药水{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Hey Rach, could you get me some cough drops?{\r}
+Dialogue: 0,0:18:35.32,0:18:37.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我在想你可以带她{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I mean you know, I'm thinking. You could bring her...{\r}
+Dialogue: 0,0:18:37.95,0:18:42.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}去你的旧房间  然后不上床{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}and you guys could go up to your old room, and not make out.{\r}
+Dialogue: 0,0:18:42.85,0:18:44.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}罗斯  给我咳嗽药水{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Ross, cough drops, please?{\r}
+Dialogue: 0,0:18:44.30,0:18:45.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}至少她跟我出去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}At least I know she's not going out with me...{\r}
+Dialogue: 0,0:18:46.08,0:18:49.39,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}不是为了看限制级电影{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}to get into R-rated movies.{\r}
+Dialogue: 0,0:18:50.35,0:18:52.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你干脆娶她算了{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Why don't you just marry her?{\r}
+Dialogue: 0,0:18:52.80,0:18:58.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我忘了  你不行  她不是同性恋{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Oh no, wait a minute you can't, I'm sorry I forgot, she's not a lesbian.{\r}
+Dialogue: 0,0:18:59.16,0:19:02.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}亚曼达和我  什么都不是{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You see Amanda and I have a very special... You have nothing!{\r}
+Dialogue: 0,0:19:02.51,0:19:05.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你们根本没在约会  你是她的保姆{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You're not even going out! You're her baby sitter!{\r}
+Dialogue: 0,0:19:06.20,0:19:10.49,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你在做小女生做的事{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You have a 12-year-old girl's job!{\r}
+Dialogue: 0,0:19:17.19,0:19:20.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}真可悲啊{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}That is so sad.{\r}
+Dialogue: 0,0:19:20.75,0:19:24.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你笑什么  你男朋友还不是爱喝酒{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}And what are you laughing at, Miss My-keg-sucking-boyfriend...{\r}
+Dialogue: 0,0:19:24.26,0:19:27.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}又偷钱{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}is-stealing-from-me?{\r}
+Dialogue: 0,0:19:29.36,0:19:31.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}他偷了几块钱{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So he stole a couple bucks from me. Big deal!{\r}
+Dialogue: 0,0:19:31.74,0:19:33.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}他买东西给我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}At least he got me something with it.{\r}
+Dialogue: 0,0:19:33.80,0:19:36.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}那是我的{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}That's mine!{\r}
+Dialogue: 0,0:19:38.11,0:19:42.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你们两个成熟一点好吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Now, would you both please start acting like adults?{\r}
+Dialogue: 0,0:19:42.32,0:19:45.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}把咳嗽药水拿给我{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}And give me my cough drops!{\r}
+Dialogue: 0,0:19:46.48,0:19:48.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好  对不起{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Fine. Sorry.{\r}
+Dialogue: 0,0:19:48.80,0:19:50.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}拿去{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Here.{\r}
+Dialogue: 0,0:19:50.14,0:19:51.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}谢谢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Thank you.{\r}
+Dialogue: 0,0:19:53.68,0:19:57.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}至少我还赚了10块钱{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}At least I made $ 10 in my relationship.{\r}
+Dialogue: 0,0:19:58.48,0:20:00.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}你知道{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}You know...?{\r}
+Dialogue: 0,0:20:06.64,0:20:08.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}游行的山羊在游行{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Parading goats are parading{\r}
+Dialogue: 0,0:20:09.30,0:20:11.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}在大街上游行{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Parading down the street{\r}
+Dialogue: 0,0:20:12.17,0:20:14.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}游行的山羊在游行{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Parading goats are parading{\r}
+Dialogue: 0,0:20:15.11,0:20:17.97,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}留下小脚印{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Leaving little treats{\r}
+Dialogue: 0,0:20:19.74,0:20:21.97,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}用这种声音唱  还能听吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Does it even work without my sexy voice?{\r}
+Dialogue: 0,0:20:22.12,0:20:24.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我喜欢{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I like it.{\r}
+Dialogue: 0,0:20:25.23,0:20:28.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}甘德  亲我  什么{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Gunther, kiss me. What?{\r}
+Dialogue: 0,0:20:35.30,0:20:38.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}副警长  快想办法{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Do it, deputy! Do something!{\r}
+Dialogue: 0,0:20:50.05,0:20:52.97,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我们没有要睡  你介意吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Now, we're not actually gonna be sleeping in her, but do you mind?{\r}
+Dialogue: 0,0:21:01.53,0:21:04.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我可以睡你的沙发吗{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Can I sleep on your couch?{\r}
+Dialogue: 0,0:21:15.39,0:21:17.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我还在等{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}And I'm still waiting{\r}
+Dialogue: 0,0:21:18.14,0:21:22.39,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我的纸黏土人{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}For my papier-mache man{\r}
+Dialogue: 0,0:21:24.07,0:21:26.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}谢谢各位{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Thank you, my babies.{\r}
+Dialogue: 0,0:21:29.32,0:21:30.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}瑞秋{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Rachel?{\r}
+Dialogue: 0,0:21:32.46,0:21:36.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我不知道你有没有听说  我和菲比的事{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I don't know if you heard about what happened between me and Phoebe the other day?{\r}
+Dialogue: 0,0:21:36.42,0:21:38.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}没{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}No.{\r}
+Dialogue: 0,0:21:38.14,0:21:43.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我们接吻了  不是我主动的  但我也没阻止{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}We kissed. I didn't initiate the kiss, but I also didn't stop it.{\r}
+Dialogue: 0,0:21:43.16,0:21:46.97,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我一直觉得很内疚{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}and I've been feeling guilty.{\r}
+Dialogue: 0,0:21:47.80,0:21:49.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay.{\r}
+Dialogue: 0,0:21:49.39,0:21:51.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}所以...{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}So...{\r}
+Dialogue: 0,0:21:51.80,0:21:54.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我们没事吧{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}are we cool?{\r}
+Dialogue: 0,0:21:56.79,0:21:58.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}好{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}Okay.{\r}
+Dialogue: 0,0:21:59.05,0:22:02.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\bord1\shad1\3c&HFF8000&\b0}我就知道你会谅解{\r}\N{\fnTahoma\fs9\bord1\shad1\1c&HC0C0C0&\b0}I knew you'd understand.{\r}

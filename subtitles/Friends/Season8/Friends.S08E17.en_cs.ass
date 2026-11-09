@@ -1,0 +1,688 @@
+﻿[Script Info]
+Title: S01E01
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: English,Arial,52,&H0062A8EB,&H000000FF,&H00000000,&H00808080,0,0,0,0,100,100,0,0,1,3,0,2,10,10,90,1
+Style: Chinese,Microsoft YaHei,56,&H00FFFFFF,&H000000FF,&H00000000,&H00808080,0,0,0,0,100,100,0,0,1,3,0,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.47,0:00:08.60,English,,0,0,0,,{\pos(960,990)}Joey? Are you in there?
+Dialogue: 0,0:00:06.47,0:00:08.60,Chinese,,0,0,0,,{\pos(960,1050)}乔伊  你在吗
+Dialogue: 0,0:00:08.70,0:00:11.09,English,,0,0,0,,{\pos(960,990)} That's Rachel.  Joey, you have to talk to her.
+Dialogue: 0,0:00:08.70,0:00:11.09,Chinese,,0,0,0,,{\pos(960,1050)}是瑞秋  乔伊  你得跟她谈一谈
+Dialogue: 0,0:00:11.09,0:00:13.21,English,,0,0,0,,{\pos(960,990)}No. I can't. I can't. Not after the other night.
+Dialogue: 0,0:00:11.09,0:00:13.21,Chinese,,0,0,0,,{\pos(960,1050)}不行  经过那晚的事之后
+Dialogue: 0,0:00:13.21,0:00:15.27,English,,0,0,0,,{\pos(960,990)}It's too weird, okay?
+Dialogue: 0,0:00:13.21,0:00:15.27,Chinese,,0,0,0,,{\pos(960,1050)}感觉太奇怪了
+Dialogue: 0,0:00:15.27,0:00:16.88,English,,0,0,0,,{\pos(960,990)}Don't tell her I'm here.
+Dialogue: 0,0:00:15.27,0:00:16.88,Chinese,,0,0,0,,{\pos(960,1050)}别告诉她我在这里
+Dialogue: 0,0:00:18.91,0:00:20.29,English,,0,0,0,,{\pos(960,990)}Don't eat that!
+Dialogue: 0,0:00:18.91,0:00:20.29,Chinese,,0,0,0,,{\pos(960,1050)}别吃那个
+Dialogue: 0,0:00:22.40,0:00:24.80,English,,0,0,0,,{\pos(960,990)} Hey, Rachel.  Is Joey here?
+Dialogue: 0,0:00:22.40,0:00:24.80,Chinese,,0,0,0,,{\pos(960,1050)}瑞秋  乔伊在吗
+Dialogue: 0,0:00:25.39,0:00:27.52,English,,0,0,0,,{\pos(960,990)} I don't see him. Do you see him?  I don't see him.
+Dialogue: 0,0:00:25.39,0:00:27.52,Chinese,,0,0,0,,{\pos(960,1050)}我没有看到他  你呢  没有
+Dialogue: 0,0:00:27.79,0:00:30.54,English,,0,0,0,,{\pos(960,990)}Maybe he's in the sugar bowl. Joey? Nope.
+Dialogue: 0,0:00:27.79,0:00:30.54,Chinese,,0,0,0,,{\pos(960,1050)}或许他在糖碗里  乔伊  没人
+Dialogue: 0,0:00:32.23,0:00:34.17,English,,0,0,0,,{\pos(960,990)}Well, at least you make each other laugh.
+Dialogue: 0,0:00:32.23,0:00:34.17,Chinese,,0,0,0,,{\pos(960,1050)}至少你们能彼此逗乐
+Dialogue: 0,0:00:35.65,0:00:37.93,English,,0,0,0,,{\pos(960,990)} What's up?  I haven't seen him since that night
+Dialogue: 0,0:00:35.65,0:00:37.93,Chinese,,0,0,0,,{\pos(960,1050)}怎么了  自从他那晚跟我坦白之后
+Dialogue: 0,0:00:37.93,0:00:40.85,English,,0,0,0,,{\pos(960,990)}that he told me how he, you know...
+Dialogue: 0,0:00:37.93,0:00:40.85,Chinese,,0,0,0,,{\pos(960,1050)}我就一直没见过他
+Dialogue: 0,0:00:41.21,0:00:43.36,English,,0,0,0,,{\pos(960,990)}I don't know, I think he's avoiding me.
+Dialogue: 0,0:00:41.21,0:00:43.36,Chinese,,0,0,0,,{\pos(960,1050)}我觉得他在躲我
+Dialogue: 0,0:00:44.10,0:00:45.85,English,,0,0,0,,{\pos(960,990)}Why is that bagel on the floor?
+Dialogue: 0,0:00:44.10,0:00:45.85,Chinese,,0,0,0,,{\pos(960,1050)}为什么地板上会有百吉饼
+Dialogue: 0,0:00:48.11,0:00:50.88,English,,0,0,0,,{\pos(960,990)} We were playing a game. Was Chandler naked?
+Dialogue: 0,0:00:48.11,0:00:50.88,Chinese,,0,0,0,,{\pos(960,1050)}我们在玩游戏  钱德勒脱了衣服玩的吗
+Dialogue: 0,0:00:53.16,0:00:55.88,English,,0,0,0,,{\pos(960,990)}Sort of like a ringtoss kind of situation?
+Dialogue: 0,0:00:53.16,0:00:55.88,Chinese,,0,0,0,,{\pos(960,1050)}像是套圈圈之类的游戏吗
+Dialogue: 0,0:00:57.08,0:00:59.82,English,,0,0,0,,{\pos(960,990)} Sure!  What? No! No!
+Dialogue: 0,0:00:57.08,0:00:59.82,Chinese,,0,0,0,,{\pos(960,1050)}没错  什么  不是
+Dialogue: 0,0:01:00.89,0:01:02.63,English,,0,0,0,,{\pos(960,990)}All right, listen. If you see Joey,
+Dialogue: 0,0:01:00.89,0:01:02.63,Chinese,,0,0,0,,{\pos(960,1050)}好吧  如果你们看到乔伊
+Dialogue: 0,0:01:02.64,0:01:04.58,English,,0,0,0,,{\pos(960,990)}will you just tell him that...?
+Dialogue: 0,0:01:02.64,0:01:04.58,Chinese,,0,0,0,,{\pos(960,1050)}能不能告诉他...
+Dialogue: 0,0:01:06.18,0:01:07.54,English,,0,0,0,,{\pos(960,990)}Tell him I miss him.
+Dialogue: 0,0:01:06.18,0:01:07.54,Chinese,,0,0,0,,{\pos(960,1050)}告诉他我很想他
+Dialogue: 0,0:01:13.07,0:01:15.14,English,,0,0,0,,{\pos(960,990)}Okay. Did you hear that?
+Dialogue: 0,0:01:13.07,0:01:15.14,Chinese,,0,0,0,,{\pos(960,1050)}好吧  你听到了吗
+Dialogue: 0,0:01:15.15,0:01:17.56,English,,0,0,0,,{\pos(960,990)}Yeah. That naked bagel game?
+Dialogue: 0,0:01:15.15,0:01:17.56,Chinese,,0,0,0,,{\pos(960,1050)}是啊  裸体百吉饼游戏
+Dialogue: 0,0:01:19.99,0:01:22.14,English,,0,0,0,,{\pos(960,990)}Dude, I don't know. That's a pretty small hole.
+Dialogue: 0,0:01:19.99,0:01:22.14,Chinese,,0,0,0,,{\pos(960,1050)}我很怀疑  这个洞很小的
+Dialogue: 0,0:01:25.30,0:01:27.93,English,,0,0,0,,{\pos(960,990)} Honey, you've gotta talk to her.  I can't.
+Dialogue: 0,0:01:25.30,0:01:27.93,Chinese,,0,0,0,,{\pos(960,1050)}你得跟她谈一谈  我做不到
+Dialogue: 0,0:01:27.93,0:01:29.49,English,,0,0,0,,{\pos(960,990)}You guys don't know what it's like
+Dialogue: 0,0:01:27.93,0:01:29.49,Chinese,,0,0,0,,{\pos(960,1050)}你们不知道真情告白之后
+Dialogue: 0,0:01:29.49,0:01:32.37,English,,0,0,0,,{\pos(960,990)}to put yourself out there like that and just get shot down.
+Dialogue: 0,0:01:29.49,0:01:32.37,Chinese,,0,0,0,,{\pos(960,1050)}却被拒绝的感觉有多难受
+Dialogue: 0,0:01:32.37,0:01:34.04,English,,0,0,0,,{\pos(960,990)}I don't know what that's like?
+Dialogue: 0,0:01:32.37,0:01:34.04,Chinese,,0,0,0,,{\pos(960,1050)}我不知道那种感觉
+Dialogue: 0,0:01:34.82,0:01:36.92,English,,0,0,0,,{\pos(960,990)}Until I was 25, I thought the response
+Dialogue: 0,0:01:34.82,0:01:36.92,Chinese,,0,0,0,,{\pos(960,1050)}我在25岁前一直以为
+Dialogue: 0,0:01:36.92,0:01:39.08,English,,0,0,0,,{\pos(960,990)}to "I love you" was "Oh, crap."
+Dialogue: 0,0:01:36.92,0:01:39.08,Chinese,,0,0,0,,{\pos(960,1050)}对"我爱你"的回应是"真糟糕"
+Dialogue: 0,0:01:40.22,0:01:41.47,English,,0,0,0,,{\pos(960,990)}No rejection?
+Dialogue: 0,0:01:40.22,0:01:41.47,Chinese,,0,0,0,,{\pos(960,1050)}我没有被拒绝过
+Dialogue: 0,0:01:41.47,0:01:43.62,English,,0,0,0,,{\pos(960,990)}I got shot down at fat camp.
+Dialogue: 0,0:01:41.47,0:01:43.62,Chinese,,0,0,0,,{\pos(960,1050)}我连在减肥营都被拒绝过
+Dialogue: 0,0:01:45.81,0:01:47.96,English,,0,0,0,,{\pos(960,990)}Boy, kids are mean when they're hungry.
+Dialogue: 0,0:01:45.81,0:01:47.96,Chinese,,0,0,0,,{\pos(960,1050)}天啊  饿肚子的孩子可真恶毒
+Dialogue: 0,0:01:50.74,0:01:52.64,English,,0,0,0,,{\pos(960,990)}So, what do I do?
+Dialogue: 0,0:01:50.74,0:01:52.64,Chinese,,0,0,0,,{\pos(960,1050)}我该怎么办
+Dialogue: 0,0:01:52.64,0:01:55.69,English,,0,0,0,,{\pos(960,990)}This Rachel. You're gonna never talk to her again?
+Dialogue: 0,0:01:52.64,0:01:55.69,Chinese,,0,0,0,,{\pos(960,1050)}她是瑞秋  难道你永远都不跟她说话了吗
+Dialogue: 0,0:01:55.95,0:01:59.07,English,,0,0,0,,{\pos(960,990)}I know it's weird and it's awkward, but you gotta at least try.
+Dialogue: 0,0:01:55.95,0:01:59.07,Chinese,,0,0,0,,{\pos(960,1050)}那很奇怪  也很尴尬  但至少你得试试看
+Dialogue: 0,0:02:00.37,0:02:02.71,English,,0,0,0,,{\pos(960,990)}Yeah, okay.
+Dialogue: 0,0:02:00.37,0:02:02.71,Chinese,,0,0,0,,{\pos(960,1050)}好吧
+Dialogue: 0,0:02:05.07,0:02:06.20,English,,0,0,0,,{\pos(960,990)}I almost forgot this was on your...
+Dialogue: 0,0:02:05.07,0:02:06.20,Chinese,,0,0,0,,{\pos(960,1050)}我忘了这个曾套在你的...
+Dialogue: 0,0:02:06.21,0:02:07.86,English,,0,0,0,,{\pos(960,990)}We didn't play it!
+Dialogue: 0,0:02:06.21,0:02:07.86,Chinese,,0,0,0,,{\pos(960,1050)}我们根本就没玩
+Dialogue: 0,0:02:09.37,0:02:11.72,English,,0,0,0,,{\pos(960,990)}Friends S08E17 The One With The Tea Leaves
+Dialogue: 0,0:02:09.37,0:02:11.72,Chinese,,0,0,0,,{\pos(960,1050)}《老友记》  第八季  第17集  茶叶
+Dialogue: 0,0:02:49.29,0:02:51.00,English,,0,0,0,,{\pos(960,990)}Okay, so when you're done with your tea,
+Dialogue: 0,0:02:49.29,0:02:51.00,Chinese,,0,0,0,,{\pos(960,1050)}等你们喝完茶之后
+Dialogue: 0,0:02:51.00,0:02:52.85,English,,0,0,0,,{\pos(960,990)}I'll look at the leaves and tell your fortune.
+Dialogue: 0,0:02:51.00,0:02:52.85,Chinese,,0,0,0,,{\pos(960,1050)}我可以看茶叶帮你们算命
+Dialogue: 0,0:02:52.86,0:02:55.93,English,,0,0,0,,{\pos(960,990)} You didn't know read tea leaves?  I've done it for years.
+Dialogue: 0,0:02:52.86,0:02:55.93,Chinese,,0,0,0,,{\pos(960,1050)}你会茶叶算命法吗  我做过好几年了
+Dialogue: 0,0:02:55.93,0:02:58.67,English,,0,0,0,,{\pos(960,990)}I actually stopped because I was so accurate.
+Dialogue: 0,0:02:55.93,0:02:58.67,Chinese,,0,0,0,,{\pos(960,1050)}我后来放弃是因为我算得太难了
+Dialogue: 0,0:02:58.76,0:03:01.73,English,,0,0,0,,{\pos(960,990)}And one of the great joys of life...
+Dialogue: 0,0:02:58.76,0:03:01.73,Chinese,,0,0,0,,{\pos(960,1050)}生命最大的乐趣之一
+Dialogue: 0,0:03:01.73,0:03:05.41,English,,0,0,0,,{\pos(960,990)}...is its wondrous unpredictability, you know?
+Dialogue: 0,0:03:01.73,0:03:05.41,Chinese,,0,0,0,,{\pos(960,1050)}就在于其神奇的不可预测性
+Dialogue: 0,0:03:05.41,0:03:07.92,English,,0,0,0,,{\pos(960,990)}And also, tea tends to give me the trots.
+Dialogue: 0,0:03:05.41,0:03:07.92,Chinese,,0,0,0,,{\pos(960,1050)}而且我喝茶会拉肚子
+Dialogue: 0,0:03:09.12,0:03:11.83,English,,0,0,0,,{\pos(960,990)} Okay. I'm done. Read mine.  Okay.
+Dialogue: 0,0:03:09.12,0:03:11.83,Chinese,,0,0,0,,{\pos(960,1050)}我喝完了  帮我算吧  好的
+Dialogue: 0,0:03:13.23,0:03:14.70,English,,0,0,0,,{\pos(960,990)}I see a ladder.
+Dialogue: 0,0:03:13.23,0:03:14.70,Chinese,,0,0,0,,{\pos(960,1050)}我看到一个梯子
+Dialogue: 0,0:03:15.83,0:03:20.12,English,,0,0,0,,{\pos(960,990)}Which can mean either a promotion or a violent death.
+Dialogue: 0,0:03:15.83,0:03:20.12,Chinese,,0,0,0,,{\pos(960,1050)}代表的要么是升职  要么是暴力性死亡
+Dialogue: 0,0:03:23.62,0:03:26.72,English,,0,0,0,,{\pos(960,990)}I'm the head chef. I can't get promoted.
+Dialogue: 0,0:03:23.62,0:03:26.72,Chinese,,0,0,0,,{\pos(960,1050)}我是主厨  不可能再升职了
+Dialogue: 0,0:03:27.66,0:03:28.88,English,,0,0,0,,{\pos(960,990)}Who's next?
+Dialogue: 0,0:03:27.66,0:03:28.88,Chinese,,0,0,0,,{\pos(960,1050)}下一个是谁
+Dialogue: 0,0:03:30.49,0:03:33.02,English,,0,0,0,,{\pos(960,990)} Okay. I'm done. Do mine.  Okay.
+Dialogue: 0,0:03:30.49,0:03:33.02,Chinese,,0,0,0,,{\pos(960,1050)}我喝完了  帮我算  好吧
+Dialogue: 0,0:03:34.44,0:03:36.86,English,,0,0,0,,{\pos(960,990)}Oh! Okay, I see a circle.
+Dialogue: 0,0:03:34.44,0:03:36.86,Chinese,,0,0,0,,{\pos(960,1050)}好吧  我看到一个圈圈
+Dialogue: 0,0:03:37.76,0:03:40.72,English,,0,0,0,,{\pos(960,990)}Which can either mean you're having a baby...
+Dialogue: 0,0:03:37.76,0:03:40.72,Chinese,,0,0,0,,{\pos(960,1050)}那表示你要么怀了孩子
+Dialogue: 0,0:03:41.31,0:03:44.33,English,,0,0,0,,{\pos(960,990)}...or you'll make a scientific discovery!
+Dialogue: 0,0:03:41.31,0:03:44.33,Chinese,,0,0,0,,{\pos(960,1050)}要么会做出科学发现
+Dialogue: 0,0:03:44.33,0:03:47.87,English,,0,0,0,,{\pos(960,990)}Well, I have been spending a lot of time in the lab.
+Dialogue: 0,0:03:44.33,0:03:47.87,Chinese,,0,0,0,,{\pos(960,1050)}我确实经常在实验室待着
+Dialogue: 0,0:03:49.29,0:03:50.92,English,,0,0,0,,{\pos(960,990)}What does yours say, Pheebs?
+Dialogue: 0,0:03:49.29,0:03:50.92,Chinese,,0,0,0,,{\pos(960,1050)}你的茶叶又预示着什么呢  菲比
+Dialogue: 0,0:03:51.31,0:03:52.70,English,,0,0,0,,{\pos(960,990)}All right.
+Dialogue: 0,0:03:51.31,0:03:52.70,Chinese,,0,0,0,,{\pos(960,1050)}好吧
+Dialogue: 0,0:03:56.02,0:04:00.29,English,,0,0,0,,{\pos(960,990)}Oh, I'm gonna meet a guy! And really soon!
+Dialogue: 0,0:03:56.02,0:04:00.29,Chinese,,0,0,0,,{\pos(960,1050)}我会认识一个男人  而且很快
+Dialogue: 0,0:04:00.38,0:04:02.39,English,,0,0,0,,{\pos(960,990)}He's gonna be the man of my dreams.
+Dialogue: 0,0:04:00.38,0:04:02.39,Chinese,,0,0,0,,{\pos(960,1050)}他会是我的梦中情人
+Dialogue: 0,0:04:02.97,0:04:05.73,English,,0,0,0,,{\pos(960,990)}Probably not the guy I had a dream about last night.
+Dialogue: 0,0:04:02.97,0:04:05.73,Chinese,,0,0,0,,{\pos(960,1050)}或许不是我昨晚梦到的那个男人
+Dialogue: 0,0:04:10.91,0:04:12.94,English,,0,0,0,,{\pos(960,990)}Has anyone seen my shirt?
+Dialogue: 0,0:04:10.91,0:04:12.94,Chinese,,0,0,0,,{\pos(960,1050)}有人看到我的衬衫吗
+Dialogue: 0,0:04:12.94,0:04:16.86,English,,0,0,0,,{\pos(960,990)}It's a buttondown, like a faded salmon color?
+Dialogue: 0,0:04:12.94,0:04:16.86,Chinese,,0,0,0,,{\pos(960,1050)}是前开式的淡鲑鱼色衬衫
+Dialogue: 0,0:04:16.86,0:04:18.49,English,,0,0,0,,{\pos(960,990)}You mean your pink shirt?
+Dialogue: 0,0:04:16.86,0:04:18.49,Chinese,,0,0,0,,{\pos(960,1050)}你是说那件粉红色衬衫吗
+Dialogue: 0,0:04:19.82,0:04:21.94,English,,0,0,0,,{\pos(960,990)}Faded salmon color?
+Dialogue: 0,0:04:19.82,0:04:21.94,Chinese,,0,0,0,,{\pos(960,1050)}淡鲑鱼色
+Dialogue: 0,0:04:22.21,0:04:24.13,English,,0,0,0,,{\pos(960,990)}No, I haven't seen your pink shirt.
+Dialogue: 0,0:04:22.21,0:04:24.13,Chinese,,0,0,0,,{\pos(960,1050)}不  我没看到你的粉红色衬衫
+Dialogue: 0,0:04:25.33,0:04:28.69,English,,0,0,0,,{\pos(960,990)}Great. I must have left it at Mona's. I knew it!
+Dialogue: 0,0:04:25.33,0:04:28.69,Chinese,,0,0,0,,{\pos(960,1050)}我一定把它落在蒙娜家了  我就知道
+Dialogue: 0,0:04:28.69,0:04:31.11,English,,0,0,0,,{\pos(960,990)}I'm sure you can get another one at Ann Taylor's.
+Dialogue: 0,0:04:28.69,0:04:31.11,Chinese,,0,0,0,,{\pos(960,1050)}你可以到安·泰勒的专卖店再买一件
+Dialogue: 0,0:04:33.63,0:04:36.49,English,,0,0,0,,{\pos(960,990)}That's my favorite shirt. I love that shirt.
+Dialogue: 0,0:04:33.63,0:04:36.49,Chinese,,0,0,0,,{\pos(960,1050)}那是我最爱的衬衫  我超喜欢
+Dialogue: 0,0:04:36.49,0:04:38.81,English,,0,0,0,,{\pos(960,990)}Just ask Mona to give it back.
+Dialogue: 0,0:04:36.49,0:04:38.81,Chinese,,0,0,0,,{\pos(960,1050)}那就让蒙娜还给你啊
+Dialogue: 0,0:04:38.81,0:04:40.77,English,,0,0,0,,{\pos(960,990)}I don't know. I guess could.
+Dialogue: 0,0:04:38.81,0:04:40.77,Chinese,,0,0,0,,{\pos(960,1050)}我不知道  或许可以吧
+Dialogue: 0,0:04:40.77,0:04:44.03,English,,0,0,0,,{\pos(960,990)}It's just we didn't really end things on such good terms.
+Dialogue: 0,0:04:40.77,0:04:44.03,Chinese,,0,0,0,,{\pos(960,1050)}只是我们最后闹得不太愉快
+Dialogue: 0,0:04:44.24,0:04:45.32,English,,0,0,0,,{\pos(960,990)}And if I went over there,
+Dialogue: 0,0:04:44.24,0:04:45.32,Chinese,,0,0,0,,{\pos(960,1050)}如果我去她家
+Dialogue: 0,0:04:45.32,0:04:48.71,English,,0,0,0,,{\pos(960,990)}I'd be ignoring the one thing she asked me to do when we broke up.
+Dialogue: 0,0:04:45.32,0:04:48.71,Chinese,,0,0,0,,{\pos(960,1050)}就等于无视她分手时对我提出的唯一要求
+Dialogue: 0,0:04:48.71,0:04:50.88,English,,0,0,0,,{\pos(960,990)}Jump up my own ass and die.
+Dialogue: 0,0:04:48.71,0:04:50.88,Chinese,,0,0,0,,{\pos(960,1050)}她要我去跳楼自杀
+Dialogue: 0,0:04:55.20,0:04:57.05,English,,0,0,0,,{\pos(960,990)}Oh, wait a second, you guys?
+Dialogue: 0,0:04:55.20,0:04:57.05,Chinese,,0,0,0,,{\pos(960,1050)}等一下
+Dialogue: 0,0:04:58.04,0:04:59.14,English,,0,0,0,,{\pos(960,990)}For the last couple weeks,
+Dialogue: 0,0:04:58.04,0:04:59.14,Chinese,,0,0,0,,{\pos(960,1050)}这几周以来
+Dialogue: 0,0:04:59.14,0:05:01.11,English,,0,0,0,,{\pos(960,990)}I've been seeing that guy everywhere I go.
+Dialogue: 0,0:04:59.14,0:05:01.11,Chinese,,0,0,0,,{\pos(960,1050)}我走到哪里都会看到那个男人
+Dialogue: 0,0:05:01.11,0:05:03.68,English,,0,0,0,,{\pos(960,990)}We take the same bus, we go to the same bookstore,
+Dialogue: 0,0:05:01.11,0:05:03.68,Chinese,,0,0,0,,{\pos(960,1050)}我们搭同一班公车  去同一家书店
+Dialogue: 0,0:05:03.68,0:05:06.50,English,,0,0,0,,{\pos(960,990)}and the same dry cleaners. Maybe he's the tea guy.
+Dialogue: 0,0:05:03.68,0:05:06.50,Chinese,,0,0,0,,{\pos(960,1050)}同一家干洗店  或许他就是我的真命天子
+Dialogue: 0,0:05:10.28,0:05:11.36,English,,0,0,0,,{\pos(960,990)}Phoebe, did you see that?
+Dialogue: 0,0:05:10.28,0:05:11.36,Chinese,,0,0,0,,{\pos(960,1050)}菲比  你们看到了吗
+Dialogue: 0,0:05:11.36,0:05:14.42,English,,0,0,0,,{\pos(960,990)}He totally checked you out! And he is so cute!
+Dialogue: 0,0:05:11.36,0:05:14.42,Chinese,,0,0,0,,{\pos(960,1050)}他绝对是在打量你  而且他超帅的
+Dialogue: 0,0:05:18.83,0:05:21.46,English,,0,0,0,,{\pos(960,990)}Mine is a picture of the Village People. What does that mean?
+Dialogue: 0,0:05:18.83,0:05:21.46,Chinese,,0,0,0,,{\pos(960,1050)}我的茶叶像是乡巴佬  那是什么意思
+Dialogue: 0,0:05:53.04,0:05:54.88,English,,0,0,0,,{\pos(960,990)}Tea gives Phoebe the trots!
+Dialogue: 0,0:05:53.04,0:05:54.88,Chinese,,0,0,0,,{\pos(960,1050)}菲比喝茶会拉肚子
+Dialogue: 0,0:06:02.52,0:06:05.36,English,,0,0,0,,{\pos(960,990)}I thought Joey and I would be okay once we hung out,
+Dialogue: 0,0:06:02.52,0:06:05.36,Chinese,,0,0,0,,{\pos(960,1050)}我以为乔伊跟我待在一起就不会尴尬了
+Dialogue: 0,0:06:05.37,0:06:08.14,English,,0,0,0,,{\pos(960,990)}but it's like we don't even know how to be with each other any more.
+Dialogue: 0,0:06:05.37,0:06:08.14,Chinese,,0,0,0,,{\pos(960,1050)}但现在我们都不知道该怎么相处
+Dialogue: 0,0:06:08.14,0:06:10.47,English,,0,0,0,,{\pos(960,990)}I konw, it's tough now, but things will get better.
+Dialogue: 0,0:06:08.14,0:06:10.47,Chinese,,0,0,0,,{\pos(960,1050)}虽说你们现在很难相处  但情况会改善的
+Dialogue: 0,0:06:10.47,0:06:12.16,English,,0,0,0,,{\pos(960,990)}How do you know that?
+Dialogue: 0,0:06:10.47,0:06:12.16,Chinese,,0,0,0,,{\pos(960,1050)}你怎么知道
+Dialogue: 0,0:06:12.16,0:06:14.71,English,,0,0,0,,{\pos(960,990)}What if it gets worse and worse and worse,
+Dialogue: 0,0:06:12.16,0:06:14.71,Chinese,,0,0,0,,{\pos(960,1050)}如果情况不断恶化...
+Dialogue: 0,0:06:14.71,0:06:17.58,English,,0,0,0,,{\pos(960,990)}to the point where we can't be in the same room with each other?
+Dialogue: 0,0:06:14.71,0:06:17.58,Chinese,,0,0,0,,{\pos(960,1050)}我们都无法共处一室了该怎么办呢
+Dialogue: 0,0:06:18.74,0:06:20.47,English,,0,0,0,,{\pos(960,990)}I'm not great at the advice.
+Dialogue: 0,0:06:18.74,0:06:20.47,Chinese,,0,0,0,,{\pos(960,1050)}我不善于给人提建议
+Dialogue: 0,0:06:21.15,0:06:23.51,English,,0,0,0,,{\pos(960,990)}Can I interest you in a sarcastic comment?
+Dialogue: 0,0:06:21.15,0:06:23.51,Chinese,,0,0,0,,{\pos(960,1050)}我能讽刺你一番吗
+Dialogue: 0,0:06:25.59,0:06:26.88,English,,0,0,0,,{\pos(960,990)}Some cheese?
+Dialogue: 0,0:06:25.59,0:06:26.88,Chinese,,0,0,0,,{\pos(960,1050)}要奶酪吗
+Dialogue: 0,0:06:30.73,0:06:33.11,English,,0,0,0,,{\pos(960,990)}Honey, why is the Bruce Springsteen CD
+Dialogue: 0,0:06:30.73,0:06:33.11,Chinese,,0,0,0,,{\pos(960,1050)}老公  为什么布鲁斯·史普林斯汀的CD
+Dialogue: 0,0:06:33.11,0:06:35.13,English,,0,0,0,,{\pos(960,990)}in the Cat Stevens case?
+Dialogue: 0,0:06:33.11,0:06:35.13,Chinese,,0,0,0,,{\pos(960,1050)}会放在凯特·史帝文斯的盒子里
+Dialogue: 0,0:06:35.13,0:06:37.06,English,,0,0,0,,{\pos(960,990)}Let's just say if I can't find the right CD case,
+Dialogue: 0,0:06:35.13,0:06:37.06,Chinese,,0,0,0,,{\pos(960,1050)}如果我找不到正确的盒子
+Dialogue: 0,0:06:37.06,0:06:38.89,English,,0,0,0,,{\pos(960,990)}I just put it in the nearest one.
+Dialogue: 0,0:06:37.06,0:06:38.89,Chinese,,0,0,0,,{\pos(960,1050)}我就会随手拿个盒子来装
+Dialogue: 0,0:06:39.46,0:06:41.60,English,,0,0,0,,{\pos(960,990)}Okay. Where is the Cat Stevens CD?
+Dialogue: 0,0:06:39.46,0:06:41.60,Chinese,,0,0,0,,{\pos(960,1050)}那凯特·史帝文斯的CD在哪里
+Dialogue: 0,0:06:41.60,0:06:43.11,English,,0,0,0,,{\pos(960,990)}In the James Taylor case.
+Dialogue: 0,0:06:41.60,0:06:43.11,Chinese,,0,0,0,,{\pos(960,1050)}在詹姆士·泰勒的盒子里
+Dialogue: 0,0:06:43.11,0:06:45.99,English,,0,0,0,,{\pos(960,990)} Where is James Taylor CD?  Honey, I'll save you some time.
+Dialogue: 0,0:06:43.11,0:06:45.99,Chinese,,0,0,0,,{\pos(960,1050)}那张CD在哪里  我帮你节省些时间吧
+Dialogue: 0,0:06:46.00,0:06:48.58,English,,0,0,0,,{\pos(960,990)}Two hundred CDs, not one of them in the right case.
+Dialogue: 0,0:06:46.00,0:06:48.58,Chinese,,0,0,0,,{\pos(960,1050)}那200张CD没有一张是放在正确盒子里的
+Dialogue: 0,0:06:50.57,0:06:54.62,English,,0,0,0,,{\pos(960,990)}Okay. No need to panic. Deep breaths, everyone.
+Dialogue: 0,0:06:50.57,0:06:54.62,Chinese,,0,0,0,,{\pos(960,1050)}好吧  不需要慌张  大家深呼吸
+Dialogue: 0,0:06:55.42,0:06:57.38,English,,0,0,0,,{\pos(960,990)}Okay, we're just gonna have to spend some time
+Dialogue: 0,0:06:55.42,0:06:57.38,Chinese,,0,0,0,,{\pos(960,1050)}我们只需要花些时间
+Dialogue: 0,0:06:57.38,0:06:59.06,English,,0,0,0,,{\pos(960,990)}and put the CDs in the right cases.
+Dialogue: 0,0:06:57.38,0:06:59.06,Chinese,,0,0,0,,{\pos(960,1050)}把CD放在正确的盒子里
+Dialogue: 0,0:06:59.06,0:07:01.27,English,,0,0,0,,{\pos(960,990)}If we do that, we should come up with some kind of order.
+Dialogue: 0,0:06:59.06,0:07:01.27,Chinese,,0,0,0,,{\pos(960,1050)}如果要整理的话  那就应该按某种顺序排好
+Dialogue: 0,0:07:01.28,0:07:03.67,English,,0,0,0,,{\pos(960,990)}You know, alphabetically or by genre?
+Dialogue: 0,0:07:01.28,0:07:03.67,Chinese,,0,0,0,,{\pos(960,1050)}按字母顺序或音乐风格
+Dialogue: 0,0:07:03.67,0:07:06.20,English,,0,0,0,,{\pos(960,990)}I don't know. We have to talk this through.
+Dialogue: 0,0:07:03.67,0:07:06.20,Chinese,,0,0,0,,{\pos(960,1050)}我不知道  这件事我们得好好商量
+Dialogue: 0,0:07:06.20,0:07:09.31,English,,0,0,0,,{\pos(960,990)}Oh, my God, you guys have such problems!
+Dialogue: 0,0:07:06.20,0:07:09.31,Chinese,,0,0,0,,{\pos(960,1050)}天啊  你们有什么毛病啊
+Dialogue: 0,0:07:09.31,0:07:11.32,English,,0,0,0,,{\pos(960,990)}I feel so terrible for you!
+Dialogue: 0,0:07:09.31,0:07:11.32,Chinese,,0,0,0,,{\pos(960,1050)}我真为你们感到难过
+Dialogue: 0,0:07:12.96,0:07:15.47,English,,0,0,0,,{\pos(960,990)}All right. Okay, I'm sorry.
+Dialogue: 0,0:07:12.96,0:07:15.47,Chinese,,0,0,0,,{\pos(960,1050)}好吧  对不起
+Dialogue: 0,0:07:15.47,0:07:17.22,English,,0,0,0,,{\pos(960,990)}Look, you and Joey, you're both focusing
+Dialogue: 0,0:07:15.47,0:07:17.22,Chinese,,0,0,0,,{\pos(960,1050)}你和乔伊两个人满脑子
+Dialogue: 0,0:07:17.22,0:07:18.94,English,,0,0,0,,{\pos(960,990)}on this uncomfortable thing.
+Dialogue: 0,0:07:17.22,0:07:18.94,Chinese,,0,0,0,,{\pos(960,1050)}都是这件烦人的事
+Dialogue: 0,0:07:18.94,0:07:21.16,English,,0,0,0,,{\pos(960,990)}What you need to do is to change the subject.
+Dialogue: 0,0:07:18.94,0:07:21.16,Chinese,,0,0,0,,{\pos(960,1050)}你们需要改变一下话题
+Dialogue: 0,0:07:21.20,0:07:23.93,English,,0,0,0,,{\pos(960,990)}Next time you see him try to get him talking about something else.
+Dialogue: 0,0:07:21.20,0:07:23.93,Chinese,,0,0,0,,{\pos(960,1050)}下次见面  跟他谈谈别的事情
+Dialogue: 0,0:07:23.93,0:07:25.41,English,,0,0,0,,{\pos(960,990)}Yeah, that makes sense.
+Dialogue: 0,0:07:23.93,0:07:25.41,Chinese,,0,0,0,,{\pos(960,1050)}对  那挺有道理的
+Dialogue: 0,0:07:25.41,0:07:27.76,English,,0,0,0,,{\pos(960,990)}Yeah. I don't know, maybe you have a work problem
+Dialogue: 0,0:07:25.41,0:07:27.76,Chinese,,0,0,0,,{\pos(960,1050)}或许你在工作上有问题
+Dialogue: 0,0:07:27.76,0:07:29.30,English,,0,0,0,,{\pos(960,990)}that you need his advice on.
+Dialogue: 0,0:07:27.76,0:07:29.30,Chinese,,0,0,0,,{\pos(960,1050)}需要他的建议...
+Dialogue: 0,0:07:29.31,0:07:31.59,English,,0,0,0,,{\pos(960,990)} I could do that.  Good.
+Dialogue: 0,0:07:29.31,0:07:31.59,Chinese,,0,0,0,,{\pos(960,1050)}我可以用这招  很好
+Dialogue: 0,0:07:32.45,0:07:35.19,English,,0,0,0,,{\pos(960,990)}Honey, the Miami Vice soundtrack? Really?
+Dialogue: 0,0:07:32.45,0:07:35.19,Chinese,,0,0,0,,{\pos(960,1050)}你连迈阿密天龙的原声带都有吗
+Dialogue: 0,0:07:35.19,0:07:37.35,English,,0,0,0,,{\pos(960,990)}They were just giving those away at the store.
+Dialogue: 0,0:07:35.19,0:07:37.35,Chinese,,0,0,0,,{\pos(960,1050)}那只是唱片行的赠品
+Dialogue: 0,0:07:38.71,0:07:40.46,English,,0,0,0,,{\pos(960,990)}In exchange for money.
+Dialogue: 0,0:07:38.71,0:07:40.46,Chinese,,0,0,0,,{\pos(960,1050)}我得拿钱去换
+Dialogue: 0,0:07:50.57,0:07:52.61,English,,0,0,0,,{\pos(960,990)}I really don't know what to tell you, Rach, I really don't.
+Dialogue: 0,0:07:50.57,0:07:52.61,Chinese,,0,0,0,,{\pos(960,1050)}我真的不知道该给你什么建议  瑞秋
+Dialogue: 0,0:07:52.62,0:07:56.69,English,,0,0,0,,{\pos(960,990)}Maybe Joey could help you out with your big work problem.
+Dialogue: 0,0:07:52.62,0:07:56.69,Chinese,,0,0,0,,{\pos(960,1050)}或许乔伊可以帮你解决工作上的这个大问题
+Dialogue: 0,0:07:59.15,0:08:01.19,English,,0,0,0,,{\pos(960,990)} What?  Yeah, Joey, she's...
+Dialogue: 0,0:07:59.15,0:08:01.19,Chinese,,0,0,0,,{\pos(960,1050)}什么  对  乔伊  她...
+Dialogue: 0,0:08:01.19,0:08:03.30,English,,0,0,0,,{\pos(960,990)}Rachel's got this big work problem.
+Dialogue: 0,0:08:01.19,0:08:03.30,Chinese,,0,0,0,,{\pos(960,1050)}瑞秋工作上碰到一个大问题
+Dialogue: 0,0:08:03.30,0:08:05.49,English,,0,0,0,,{\pos(960,990)}It is a headscratcher.
+Dialogue: 0,0:08:03.30,0:08:05.49,Chinese,,0,0,0,,{\pos(960,1050)}真的很伤脑筋
+Dialogue: 0,0:08:07.29,0:08:08.26,English,,0,0,0,,{\pos(960,990)}You know what? If we're gonna make dinner,
+Dialogue: 0,0:08:07.29,0:08:08.26,Chinese,,0,0,0,,{\pos(960,1050)}我们想赶上晚餐预约
+Dialogue: 0,0:08:08.26,0:08:09.76,English,,0,0,0,,{\pos(960,990)}we're gonna have to leave.
+Dialogue: 0,0:08:08.26,0:08:09.76,Chinese,,0,0,0,,{\pos(960,1050)}就得马上出发了
+Dialogue: 0,0:08:15.28,0:08:18.60,English,,0,0,0,,{\pos(960,990)}So you have a big work problem?
+Dialogue: 0,0:08:15.28,0:08:18.60,Chinese,,0,0,0,,{\pos(960,1050)}你工作上出了大问题
+Dialogue: 0,0:08:19.61,0:08:21.26,English,,0,0,0,,{\pos(960,990)}Yeah. It's, uh...
+Dialogue: 0,0:08:19.61,0:08:21.26,Chinese,,0,0,0,,{\pos(960,1050)}对  那是...
+Dialogue: 0,0:08:22.04,0:08:23.72,English,,0,0,0,,{\pos(960,990)}Yeah, it's, uh...
+Dialogue: 0,0:08:22.04,0:08:23.72,Chinese,,0,0,0,,{\pos(960,1050)}对  那是...
+Dialogue: 0,0:08:26.98,0:08:29.16,English,,0,0,0,,{\pos(960,990)}You know, it's nothing.
+Dialogue: 0,0:08:26.98,0:08:29.16,Chinese,,0,0,0,,{\pos(960,1050)}真的没什么
+Dialogue: 0,0:08:30.28,0:08:31.35,English,,0,0,0,,{\pos(960,990)}Okay.
+Dialogue: 0,0:08:30.28,0:08:31.35,Chinese,,0,0,0,,{\pos(960,1050)}好吧
+Dialogue: 0,0:08:35.39,0:08:37.76,English,,0,0,0,,{\pos(960,990)}So I think I'm gonna take off.
+Dialogue: 0,0:08:35.39,0:08:37.76,Chinese,,0,0,0,,{\pos(960,1050)}我想我该走了
+Dialogue: 0,0:08:38.35,0:08:41.77,English,,0,0,0,,{\pos(960,990)}No, wait, Joey, it is. It's something. It's...
+Dialogue: 0,0:08:38.35,0:08:41.77,Chinese,,0,0,0,,{\pos(960,1050)}不  乔伊  等等  我确实有问题
+Dialogue: 0,0:08:43.08,0:08:44.78,English,,0,0,0,,{\pos(960,990)}It's my boss.
+Dialogue: 0,0:08:43.08,0:08:44.78,Chinese,,0,0,0,,{\pos(960,1050)}是我的老板
+Dialogue: 0,0:08:45.36,0:08:47.84,English,,0,0,0,,{\pos(960,990)} Yeah?  Yeah. And, uh...
+Dialogue: 0,0:08:45.36,0:08:47.84,Chinese,,0,0,0,,{\pos(960,1050)}是吗  对  跟...
+Dialogue: 0,0:08:49.50,0:08:50.85,English,,0,0,0,,{\pos(960,990)}And my baby.
+Dialogue: 0,0:08:49.50,0:08:50.85,Chinese,,0,0,0,,{\pos(960,1050)}跟我的宝宝
+Dialogue: 0,0:08:52.23,0:08:53.39,English,,0,0,0,,{\pos(960,990)}Yeah?
+Dialogue: 0,0:08:52.23,0:08:53.39,Chinese,,0,0,0,,{\pos(960,1050)}是吗
+Dialogue: 0,0:08:54.51,0:08:56.30,English,,0,0,0,,{\pos(960,990)}My boss wants to buy my baby.
+Dialogue: 0,0:08:54.51,0:08:56.30,Chinese,,0,0,0,,{\pos(960,1050)}我老板想买我的宝宝
+Dialogue: 0,0:08:59.12,0:09:02.50,English,,0,0,0,,{\pos(960,990)}What? Oh, my God!
+Dialogue: 0,0:08:59.12,0:09:02.50,Chinese,,0,0,0,,{\pos(960,1050)}什么  我的天啊
+Dialogue: 0,0:09:02.51,0:09:05.05,English,,0,0,0,,{\pos(960,990)}I know, I told you, it's a really big problem!
+Dialogue: 0,0:09:02.51,0:09:05.05,Chinese,,0,0,0,,{\pos(960,1050)}我跟你说过了  这真的是个大问题
+Dialogue: 0,0:09:06.59,0:09:10.11,English,,0,0,0,,{\pos(960,990)} He wants to buy your baby?  Can you believe that?
+Dialogue: 0,0:09:06.59,0:09:10.11,Chinese,,0,0,0,,{\pos(960,1050)}他要买你的宝宝  你能相信吗
+Dialogue: 0,0:09:10.11,0:09:12.38,English,,0,0,0,,{\pos(960,990)} That's crazy.  That's what I told him!
+Dialogue: 0,0:09:10.11,0:09:12.38,Chinese,,0,0,0,,{\pos(960,1050)}那太疯狂了  我就是那么跟他说的
+Dialogue: 0,0:09:12.39,0:09:15.64,English,,0,0,0,,{\pos(960,990)} How did this even happen?  Well, I'll tell you.
+Dialogue: 0,0:09:12.39,0:09:15.64,Chinese,,0,0,0,,{\pos(960,1050)}怎么会发生这种事  我会告诉你的
+Dialogue: 0,0:09:19.66,0:09:25.37,English,,0,0,0,,{\pos(960,990)}See, my boss and his wife, they can't have children, so...
+Dialogue: 0,0:09:19.66,0:09:25.37,Chinese,,0,0,0,,{\pos(960,1050)}我老板跟他太太  他们不孕  所以...
+Dialogue: 0,0:09:25.37,0:09:28.24,English,,0,0,0,,{\pos(960,990)}And then when we were at the Christmas party...
+Dialogue: 0,0:09:25.37,0:09:28.24,Chinese,,0,0,0,,{\pos(960,1050)}我们在圣诞派对上碰了面...
+Dialogue: 0,0:09:28.48,0:09:30.44,English,,0,0,0,,{\pos(960,990)}...he got drunk and said to me,
+Dialogue: 0,0:09:28.48,0:09:30.44,Chinese,,0,0,0,,{\pos(960,1050)}他喝醉了  跟我说
+Dialogue: 0,0:09:30.44,0:09:32.63,English,,0,0,0,,{\pos(960,990)}"Rachel, I want to buy your baby."
+Dialogue: 0,0:09:30.44,0:09:32.63,Chinese,,0,0,0,,{\pos(960,1050)}"瑞秋  我要买下你的宝宝"
+Dialogue: 0,0:09:33.53,0:09:34.77,English,,0,0,0,,{\pos(960,990)}Man!
+Dialogue: 0,0:09:33.53,0:09:34.77,Chinese,,0,0,0,,{\pos(960,1050)}天啊
+Dialogue: 0,0:09:35.46,0:09:38.26,English,,0,0,0,,{\pos(960,990)}When you said it was a problem about your boss and the baby...
+Dialogue: 0,0:09:35.46,0:09:38.26,Chinese,,0,0,0,,{\pos(960,1050)}你说问题出在老板跟宝宝身上的时候...
+Dialogue: 0,0:09:38.26,0:09:41.22,English,,0,0,0,,{\pos(960,990)}...I figured it was about maternity leave.
+Dialogue: 0,0:09:38.26,0:09:41.22,Chinese,,0,0,0,,{\pos(960,1050)}我以为你是指产假的问题
+Dialogue: 0,0:09:42.13,0:09:43.57,English,,0,0,0,,{\pos(960,990)}Yeah.
+Dialogue: 0,0:09:42.13,0:09:43.57,Chinese,,0,0,0,,{\pos(960,1050)}对啊
+Dialogue: 0,0:09:53.85,0:09:56.89,English,,0,0,0,,{\pos(960,990)}Yeah, that would have been a much simpler problem.
+Dialogue: 0,0:09:53.85,0:09:56.89,Chinese,,0,0,0,,{\pos(960,1050)}对  那样子问题就简单多了
+Dialogue: 0,0:10:04.31,0:10:09.10,English,,0,0,0,,{\pos(960,990)} Oh, hello.  Oh, it's you. I see you everywhere.
+Dialogue: 0,0:10:04.31,0:10:09.10,Chinese,,0,0,0,,{\pos(960,1050)}你好  是你  我走到哪里都会碰到你
+Dialogue: 0,0:10:09.10,0:10:10.48,English,,0,0,0,,{\pos(960,990)}I'm Jim. Jim Nelson.
+Dialogue: 0,0:10:09.10,0:10:10.48,Chinese,,0,0,0,,{\pos(960,1050)}我是吉米  吉米·尼尔森
+Dialogue: 0,0:10:10.49,0:10:11.69,English,,0,0,0,,{\pos(960,990)}Hi, JimJim Nelson.
+Dialogue: 0,0:10:10.49,0:10:11.69,Chinese,,0,0,0,,{\pos(960,1050)}嗨  吉米  吉米·尼尔森
+Dialogue: 0,0:10:11.69,0:10:13.78,English,,0,0,0,,{\pos(960,990)}I'm PhoebePhoebe Buffay.
+Dialogue: 0,0:10:11.69,0:10:13.78,Chinese,,0,0,0,,{\pos(960,1050)}我是菲比  菲比·布非
+Dialogue: 0,0:10:14.96,0:10:17.05,English,,0,0,0,,{\pos(960,990)}We certainly have been seeing a lot of each other lately.
+Dialogue: 0,0:10:14.96,0:10:17.05,Chinese,,0,0,0,,{\pos(960,1050)}我们最近经常见面
+Dialogue: 0,0:10:17.05,0:10:19.13,English,,0,0,0,,{\pos(960,990)}We have. Maybe we'll be seeing each other
+Dialogue: 0,0:10:17.05,0:10:19.13,Chinese,,0,0,0,,{\pos(960,1050)}没错  或许明天晚餐时
+Dialogue: 0,0:10:19.13,0:10:22.09,English,,0,0,0,,{\pos(960,990)}at dinner tomorrow night, say around 8 o'clock?
+Dialogue: 0,0:10:19.13,0:10:22.09,Chinese,,0,0,0,,{\pos(960,1050)}我们也能碰面  八点可以吗
+Dialogue: 0,0:10:22.98,0:10:24.46,English,,0,0,0,,{\pos(960,990)}Well, maybe we will.
+Dialogue: 0,0:10:22.98,0:10:24.46,Chinese,,0,0,0,,{\pos(960,1050)}我们或许会碰面吧
+Dialogue: 0,0:10:33.90,0:10:34.99,English,,0,0,0,,{\pos(960,990)}Mona?
+Dialogue: 0,0:10:33.90,0:10:34.99,Chinese,,0,0,0,,{\pos(960,1050)}蒙娜
+Dialogue: 0,0:10:59.52,0:11:03.70,English,,0,0,0,,{\pos(960,990)}Okay, if I were a salmon shirt, where would I be?
+Dialogue: 0,0:10:59.52,0:11:03.70,Chinese,,0,0,0,,{\pos(960,1050)}如果我是件鲑鱼色衬衫  我会在哪里呢
+Dialogue: 0,0:11:10.22,0:11:14.29,English,,0,0,0,,{\pos(960,990)}I am so sorry I spilled wine all over your shirt.
+Dialogue: 0,0:11:10.22,0:11:14.29,Chinese,,0,0,0,,{\pos(960,1050)}抱歉  我把酒洒到你的衬衫上了
+Dialogue: 0,0:11:14.82,0:11:16.96,English,,0,0,0,,{\pos(960,990)} It's okay.  No, it's still wet.
+Dialogue: 0,0:11:14.82,0:11:16.96,Chinese,,0,0,0,,{\pos(960,1050)}没关系  不  还是湿的
+Dialogue: 0,0:11:16.97,0:11:18.47,English,,0,0,0,,{\pos(960,990)}Let me get it out before it sets.
+Dialogue: 0,0:11:16.97,0:11:18.47,Chinese,,0,0,0,,{\pos(960,1050)}我拿去洗干净  免得留下印子
+Dialogue: 0,0:11:18.47,0:11:20.55,English,,0,0,0,,{\pos(960,990)}I have something you could wear.
+Dialogue: 0,0:11:18.47,0:11:20.55,Chinese,,0,0,0,,{\pos(960,1050)}我这里有件衣服你可以穿
+Dialogue: 0,0:11:24.48,0:11:25.61,English,,0,0,0,,{\pos(960,990)}Here.
+Dialogue: 0,0:11:24.48,0:11:25.61,Chinese,,0,0,0,,{\pos(960,1050)}拿去吧
+Dialogue: 0,0:11:27.20,0:11:29.53,English,,0,0,0,,{\pos(960,990)}I don't know if I want to wear a woman's shirt.
+Dialogue: 0,0:11:27.20,0:11:29.53,Chinese,,0,0,0,,{\pos(960,1050)}我真的不想穿女式衬衫
+Dialogue: 0,0:11:31.52,0:11:34.10,English,,0,0,0,,{\pos(960,990)} No, no, that's a man's shirt.  Awfully pink.
+Dialogue: 0,0:11:31.52,0:11:34.10,Chinese,,0,0,0,,{\pos(960,1050)}那是男式衬衫  可怕的粉红色
+Dialogue: 0,0:11:34.10,0:11:36.03,English,,0,0,0,,{\pos(960,990)}It's not pink!
+Dialogue: 0,0:11:34.10,0:11:36.03,Chinese,,0,0,0,,{\pos(960,1050)}那不是粉红色
+Dialogue: 0,0:11:39.69,0:11:42.21,English,,0,0,0,,{\pos(960,990)}Oh, my god. Honey, we are so meant to be together.
+Dialogue: 0,0:11:39.69,0:11:42.21,Chinese,,0,0,0,,{\pos(960,1050)}天啊  老婆  我们注定要在一起
+Dialogue: 0,0:11:42.22,0:11:45.07,English,,0,0,0,,{\pos(960,990)}Look, we both have the copies of Annie soundtrack.
+Dialogue: 0,0:11:42.22,0:11:45.07,Chinese,,0,0,0,,{\pos(960,1050)}我们都有安妮的原声带
+Dialogue: 0,0:11:45.07,0:11:46.91,English,,0,0,0,,{\pos(960,990)}Honey, both yours.
+Dialogue: 0,0:11:45.07,0:11:46.91,Chinese,,0,0,0,,{\pos(960,1050)}老公  两张都是你买的
+Dialogue: 0,0:11:48.80,0:11:52.37,English,,0,0,0,,{\pos(960,990)}Hey, great advice on that Joey thing.
+Dialogue: 0,0:11:48.80,0:11:52.37,Chinese,,0,0,0,,{\pos(960,1050)}谢谢你给我关于乔伊的建议
+Dialogue: 0,0:11:52.38,0:11:53.71,English,,0,0,0,,{\pos(960,990)}Yeah? The work problem?
+Dialogue: 0,0:11:52.38,0:11:53.71,Chinese,,0,0,0,,{\pos(960,1050)}工作的问题吗
+Dialogue: 0,0:11:53.71,0:11:54.74,English,,0,0,0,,{\pos(960,990)}It was perfect.
+Dialogue: 0,0:11:53.71,0:11:54.74,Chinese,,0,0,0,,{\pos(960,1050)}感觉太棒了
+Dialogue: 0,0:11:54.74,0:11:57.13,English,,0,0,0,,{\pos(960,990)}It really felt like he was my friend again.
+Dialogue: 0,0:11:54.74,0:11:57.13,Chinese,,0,0,0,,{\pos(960,1050)}我又在他身上找回了朋友的感觉
+Dialogue: 0,0:11:57.13,0:11:58.73,English,,0,0,0,,{\pos(960,990)}What problem did you say you have?
+Dialogue: 0,0:11:57.13,0:11:58.73,Chinese,,0,0,0,,{\pos(960,1050)}你说你遇到了什么问题
+Dialogue: 0,0:11:58.88,0:12:01.04,English,,0,0,0,,{\pos(960,990)}Oh, that's not important.
+Dialogue: 0,0:11:58.88,0:12:01.04,Chinese,,0,0,0,,{\pos(960,1050)}那不重要
+Dialogue: 0,0:12:02.29,0:12:06.48,English,,0,0,0,,{\pos(960,990)}The point is, I really... I think everything's gonna be okay.
+Dialogue: 0,0:12:02.29,0:12:06.48,Chinese,,0,0,0,,{\pos(960,1050)}重点是我觉得一切都会没事
+Dialogue: 0,0:12:08.18,0:12:09.42,English,,0,0,0,,{\pos(960,990)}May I help you?
+Dialogue: 0,0:12:08.18,0:12:09.42,Chinese,,0,0,0,,{\pos(960,1050)}需要我效劳吗
+Dialogue: 0,0:12:09.79,0:12:12.66,English,,0,0,0,,{\pos(960,990)}You think you can just buy my friend's baby?
+Dialogue: 0,0:12:09.79,0:12:12.66,Chinese,,0,0,0,,{\pos(960,1050)}你觉得你可以随便买走我朋友的宝宝吗
+Dialogue: 0,0:12:21.33,0:12:24.08,English,,0,0,0,,{\pos(960,990)}Isn't it funny how we kept running into each other?
+Dialogue: 0,0:12:21.33,0:12:24.08,Chinese,,0,0,0,,{\pos(960,1050)}我们一直巧遇  真是有缘啊
+Dialogue: 0,0:12:24.20,0:12:26.56,English,,0,0,0,,{\pos(960,990)}It's as if someone really wants us to be together.
+Dialogue: 0,0:12:24.20,0:12:26.56,Chinese,,0,0,0,,{\pos(960,1050)}就像是有人想把我们撮合到一起
+Dialogue: 0,0:12:26.56,0:12:28.88,English,,0,0,0,,{\pos(960,990)}Someone does. Me.
+Dialogue: 0,0:12:26.56,0:12:28.88,Chinese,,0,0,0,,{\pos(960,1050)}没错  那就是我
+Dialogue: 0,0:12:29.54,0:12:31.32,English,,0,0,0,,{\pos(960,990)}Witty banter. Well done.
+Dialogue: 0,0:12:29.54,0:12:31.32,Chinese,,0,0,0,,{\pos(960,1050)}聪明的家伙  做得好
+Dialogue: 0,0:12:32.37,0:12:34.46,English,,0,0,0,,{\pos(960,990)} Good.  So tell me a little bit about yourself.
+Dialogue: 0,0:12:32.37,0:12:34.46,Chinese,,0,0,0,,{\pos(960,1050)}不错  跟我谈谈你自己
+Dialogue: 0,0:12:34.46,0:12:36.99,English,,0,0,0,,{\pos(960,990)}Okay. I'm a masseuse.
+Dialogue: 0,0:12:34.46,0:12:36.99,Chinese,,0,0,0,,{\pos(960,1050)}好吧  我是按摩师
+Dialogue: 0,0:12:36.99,0:12:38.62,English,,0,0,0,,{\pos(960,990)}And I used to work at this place...
+Dialogue: 0,0:12:36.99,0:12:38.62,Chinese,,0,0,0,,{\pos(960,1050)}我以前在这个地方工作
+Dialogue: 0,0:12:38.62,0:12:41.35,English,,0,0,0,,{\pos(960,990)}Do you like to party?
+Dialogue: 0,0:12:38.62,0:12:41.35,Chinese,,0,0,0,,{\pos(960,1050)}你喜欢参加派对吗
+Dialogue: 0,0:12:43.64,0:12:45.91,English,,0,0,0,,{\pos(960,990)}I like parties.
+Dialogue: 0,0:12:43.64,0:12:45.91,Chinese,,0,0,0,,{\pos(960,1050)}我喜欢派对
+Dialogue: 0,0:12:45.91,0:12:47.73,English,,0,0,0,,{\pos(960,990)}You're wild, aren't you?
+Dialogue: 0,0:12:45.91,0:12:47.73,Chinese,,0,0,0,,{\pos(960,1050)}你很狂野  对吧
+Dialogue: 0,0:12:49.85,0:12:51.10,English,,0,0,0,,{\pos(960,990)}Yeah, I guess. A little.
+Dialogue: 0,0:12:49.85,0:12:51.10,Chinese,,0,0,0,,{\pos(960,1050)}对  我猜是有一点
+Dialogue: 0,0:12:51.10,0:12:53.54,English,,0,0,0,,{\pos(960,990)}Ain't no thing. I'm wild too.
+Dialogue: 0,0:12:51.10,0:12:53.54,Chinese,,0,0,0,,{\pos(960,1050)}那没有什么  我也很狂野
+Dialogue: 0,0:12:58.17,0:13:00.33,English,,0,0,0,,{\pos(960,990)}So anyway...
+Dialogue: 0,0:12:58.17,0:13:00.33,Chinese,,0,0,0,,{\pos(960,1050)}总之...
+Dialogue: 0,0:13:00.77,0:13:04.92,English,,0,0,0,,{\pos(960,990)}...I've lived in New York, somewhat wildly, I guess...
+Dialogue: 0,0:13:00.77,0:13:04.92,Chinese,,0,0,0,,{\pos(960,1050)}我住在纽约  生活方式有点狂野
+Dialogue: 0,0:13:04.93,0:13:07.27,English,,0,0,0,,{\pos(960,990)}...for, well, since I was 14.
+Dialogue: 0,0:13:04.93,0:13:07.27,Chinese,,0,0,0,,{\pos(960,1050)}我从14岁就住在这里
+Dialogue: 0,0:13:08.34,0:13:10.20,English,,0,0,0,,{\pos(960,990)}I'm sorry. I'm staring.
+Dialogue: 0,0:13:08.34,0:13:10.20,Chinese,,0,0,0,,{\pos(960,1050)}抱歉我盯着你不放
+Dialogue: 0,0:13:10.77,0:13:15.16,English,,0,0,0,,{\pos(960,990)}It's just that you have the most beautiful eyes.
+Dialogue: 0,0:13:10.77,0:13:15.16,Chinese,,0,0,0,,{\pos(960,1050)}因为你有双非常漂亮的眼睛
+Dialogue: 0,0:13:15.16,0:13:18.40,English,,0,0,0,,{\pos(960,990)} Oh, stop it.  And your breasts!
+Dialogue: 0,0:13:15.16,0:13:18.40,Chinese,,0,0,0,,{\pos(960,1050)}别说了  还有你的胸部
+Dialogue: 0,0:13:21.88,0:13:22.99,English,,0,0,0,,{\pos(960,990)}Okay.
+Dialogue: 0,0:13:21.88,0:13:22.99,Chinese,,0,0,0,,{\pos(960,1050)}好吧
+Dialogue: 0,0:13:23.61,0:13:26.62,English,,0,0,0,,{\pos(960,990)}Look, you're coming on a little strong.
+Dialogue: 0,0:13:23.61,0:13:26.62,Chinese,,0,0,0,,{\pos(960,1050)}听着  你的攻势有点太猛了
+Dialogue: 0,0:13:26.62,0:13:28.78,English,,0,0,0,,{\pos(960,990)}I'll give you the benefit of the doubt.
+Dialogue: 0,0:13:26.62,0:13:28.78,Chinese,,0,0,0,,{\pos(960,1050)}但我暂且认为你没有恶意
+Dialogue: 0,0:13:28.86,0:13:32.04,English,,0,0,0,,{\pos(960,990)}Because since the universe really wants us to be together.
+Dialogue: 0,0:13:28.86,0:13:32.04,Chinese,,0,0,0,,{\pos(960,1050)}因为宇宙中有股力量将我们牵引到一起
+Dialogue: 0,0:13:32.04,0:13:33.59,English,,0,0,0,,{\pos(960,990)}So why don't we start over?
+Dialogue: 0,0:13:32.04,0:13:33.59,Chinese,,0,0,0,,{\pos(960,1050)}我们为何不重新来过呢
+Dialogue: 0,0:13:33.59,0:13:35.86,English,,0,0,0,,{\pos(960,990)}You can tell me about yourself.
+Dialogue: 0,0:13:33.59,0:13:35.86,Chinese,,0,0,0,,{\pos(960,1050)}你可以跟我谈谈你自己
+Dialogue: 0,0:13:36.68,0:13:38.48,English,,0,0,0,,{\pos(960,990)} All right.  Okay.
+Dialogue: 0,0:13:36.68,0:13:38.48,Chinese,,0,0,0,,{\pos(960,1050)}好吧  好吧
+Dialogue: 0,0:13:38.90,0:13:41.78,English,,0,0,0,,{\pos(960,990)}I write erotic novels...
+Dialogue: 0,0:13:38.90,0:13:41.78,Chinese,,0,0,0,,{\pos(960,1050)}我写给小孩子看的...
+Dialogue: 0,0:13:41.88,0:13:43.18,English,,0,0,0,,{\pos(960,990)}...for children.
+Dialogue: 0,0:13:41.88,0:13:43.18,Chinese,,0,0,0,,{\pos(960,1050)}色情小说
+Dialogue: 0,0:13:46.09,0:13:48.67,English,,0,0,0,,{\pos(960,990)} What?  They're wildly unpopular.
+Dialogue: 0,0:13:46.09,0:13:48.67,Chinese,,0,0,0,,{\pos(960,1050)}什么  我的书非常不受欢迎
+Dialogue: 0,0:13:49.69,0:13:50.95,English,,0,0,0,,{\pos(960,990)}Oh, my God!
+Dialogue: 0,0:13:49.69,0:13:50.95,Chinese,,0,0,0,,{\pos(960,1050)}我的天啊
+Dialogue: 0,0:13:51.08,0:13:54.40,English,,0,0,0,,{\pos(960,990)}Also, you might be interested to know that I have a Ph.D.
+Dialogue: 0,0:13:51.08,0:13:54.40,Chinese,,0,0,0,,{\pos(960,1050)}有件事你可能会感兴趣  我是个博士
+Dialogue: 0,0:13:54.40,0:13:55.33,English,,0,0,0,,{\pos(960,990)}Wow! You do?
+Dialogue: 0,0:13:54.40,0:13:55.33,Chinese,,0,0,0,,{\pos(960,1050)}真的吗
+Dialogue: 0,0:13:55.33,0:13:58.24,English,,0,0,0,,{\pos(960,990)}Yep. A pretty huge...  All right.[Ph.D.=pretty huge dick]
+Dialogue: 0,0:13:55.33,0:13:58.24,Chinese,,0,0,0,,{\pos(960,1050)}对  我的老二超大  够了
+Dialogue: 0,0:14:02.09,0:14:05.93,English,,0,0,0,,{\pos(960,990)}The sun'll come out...tomorrow! Bet...
+Dialogue: 0,0:14:02.09,0:14:05.93,Chinese,,0,0,0,,{\pos(960,1050)}明天太阳将会升起
+Dialogue: 0,0:14:05.93,0:14:09.66,English,,0,0,0,,{\pos(960,990)}your bottom dollar that tomorrow...
+Dialogue: 0,0:14:05.93,0:14:09.66,Chinese,,0,0,0,,{\pos(960,1050)}拿全部家当打赌
+Dialogue: 0,0:14:11.04,0:14:13.04,English,,0,0,0,,{\pos(960,990)}There'll be sun.
+Dialogue: 0,0:14:11.04,0:14:13.04,Chinese,,0,0,0,,{\pos(960,1050)}明天会是晴天
+Dialogue: 0,0:14:16.38,0:14:18.61,English,,0,0,0,,{\pos(960,990)}Joey, honey, listen. Thank you for talking to my yesterday
+Dialogue: 0,0:14:16.38,0:14:18.61,Chinese,,0,0,0,,{\pos(960,1050)}乔伊  听我说  谢谢你昨天
+Dialogue: 0,0:14:18.62,0:14:20.78,English,,0,0,0,,{\pos(960,990)}about that thing with my boss. That really means a lot.
+Dialogue: 0,0:14:18.62,0:14:20.78,Chinese,,0,0,0,,{\pos(960,1050)}陪我聊我老板的问题  那对我来说意义重大
+Dialogue: 0,0:14:20.78,0:14:23.30,English,,0,0,0,,{\pos(960,990)}Not a problem. Just so you know...
+Dialogue: 0,0:14:20.78,0:14:23.30,Chinese,,0,0,0,,{\pos(960,1050)}别客气  我得告诉你
+Dialogue: 0,0:14:23.30,0:14:26.34,English,,0,0,0,,{\pos(960,990)}...that guy won't be bothering you about that baby thing anymore.
+Dialogue: 0,0:14:23.30,0:14:26.34,Chinese,,0,0,0,,{\pos(960,1050)}那家伙不会再为了宝宝的事来烦你了
+Dialogue: 0,0:14:29.85,0:14:32.27,English,,0,0,0,,{\pos(960,990)} What?  Let's just say I took care of it.
+Dialogue: 0,0:14:29.85,0:14:32.27,Chinese,,0,0,0,,{\pos(960,1050)}什么  就说我已经帮你解决了
+Dialogue: 0,0:14:33.15,0:14:34.65,English,,0,0,0,,{\pos(960,990)}Let's say more.
+Dialogue: 0,0:14:33.15,0:14:34.65,Chinese,,0,0,0,,{\pos(960,1050)}我们得谈一谈
+Dialogue: 0,0:14:35.72,0:14:38.99,English,,0,0,0,,{\pos(960,990)}Don't worry. Don't worry. I just told him, very nicely:
+Dialogue: 0,0:14:35.72,0:14:38.99,Chinese,,0,0,0,,{\pos(960,1050)}别担心  我平心静气地跟他谈过
+Dialogue: 0,0:14:38.99,0:14:42.13,English,,0,0,0,,{\pos(960,990)}"You don't go buying people's babies! So back off!"
+Dialogue: 0,0:14:38.99,0:14:42.13,Chinese,,0,0,0,,{\pos(960,1050)}"你不能随便买别人的宝宝  放弃吧"
+Dialogue: 0,0:14:43.05,0:14:45.18,English,,0,0,0,,{\pos(960,990)} What?  What?
+Dialogue: 0,0:14:43.05,0:14:45.18,Chinese,,0,0,0,,{\pos(960,1050)}什么  什么
+Dialogue: 0,0:14:45.48,0:14:46.92,English,,0,0,0,,{\pos(960,990)}No, no, no!
+Dialogue: 0,0:14:45.48,0:14:46.92,Chinese,,0,0,0,,{\pos(960,1050)}不要啊
+Dialogue: 0,0:14:46.92,0:14:50.15,English,,0,0,0,,{\pos(960,990)}Joey, he doesn't want to buy my baby! I made that up!
+Dialogue: 0,0:14:46.92,0:14:50.15,Chinese,,0,0,0,,{\pos(960,1050)}乔伊  他不想买我的宝宝  那是我编出来的
+Dialogue: 0,0:14:50.15,0:14:52.50,English,,0,0,0,,{\pos(960,990)}What? Why?
+Dialogue: 0,0:14:50.15,0:14:52.50,Chinese,,0,0,0,,{\pos(960,1050)}什么  为什么
+Dialogue: 0,0:14:52.61,0:14:54.51,English,,0,0,0,,{\pos(960,990)}So we would have something to talk about!
+Dialogue: 0,0:14:52.61,0:14:54.51,Chinese,,0,0,0,,{\pos(960,1050)}那样我们才有话题可聊嘛
+Dialogue: 0,0:14:54.51,0:14:55.70,English,,0,0,0,,{\pos(960,990)}So it wouldn't be awkward!
+Dialogue: 0,0:14:54.51,0:14:55.70,Chinese,,0,0,0,,{\pos(960,1050)}才不会显得尴尬
+Dialogue: 0,0:14:55.71,0:14:57.83,English,,0,0,0,,{\pos(960,990)}And you couldn't think of anything else?
+Dialogue: 0,0:14:55.71,0:14:57.83,Chinese,,0,0,0,,{\pos(960,1050)}你想不出来别的借口吗
+Dialogue: 0,0:14:58.88,0:15:01.90,English,,0,0,0,,{\pos(960,990)}You said your boss wants to buy your baby?
+Dialogue: 0,0:14:58.88,0:15:01.90,Chinese,,0,0,0,,{\pos(960,1050)}你说你老板要买你的宝宝
+Dialogue: 0,0:15:02.39,0:15:04.80,English,,0,0,0,,{\pos(960,990)}I can't believe you yelled at my boss!
+Dialogue: 0,0:15:02.39,0:15:04.80,Chinese,,0,0,0,,{\pos(960,1050)}真不敢相信你对我老板大叫
+Dialogue: 0,0:15:04.80,0:15:07.26,English,,0,0,0,,{\pos(960,990)}I'll lose my job! What am I gonna do?
+Dialogue: 0,0:15:04.80,0:15:07.26,Chinese,,0,0,0,,{\pos(960,1050)}我会被开除  我该怎么办
+Dialogue: 0,0:15:07.26,0:15:08.98,English,,0,0,0,,{\pos(960,990)}You could always sell your baby.
+Dialogue: 0,0:15:07.26,0:15:08.98,Chinese,,0,0,0,,{\pos(960,1050)}你可以卖掉你的宝宝
+Dialogue: 0,0:15:11.60,0:15:13.97,English,,0,0,0,,{\pos(960,990)}Joey, I can't believe you brought my boss into this!
+Dialogue: 0,0:15:11.60,0:15:13.97,Chinese,,0,0,0,,{\pos(960,1050)}我不敢相信你会去找我老板
+Dialogue: 0,0:15:13.97,0:15:15.20,English,,0,0,0,,{\pos(960,990)}I'll be fired!
+Dialogue: 0,0:15:13.97,0:15:15.20,Chinese,,0,0,0,,{\pos(960,1050)}我会被开除的
+Dialogue: 0,0:15:15.20,0:15:18.15,English,,0,0,0,,{\pos(960,990)} You lied to me!  Well, she told me to!
+Dialogue: 0,0:15:15.20,0:15:18.15,Chinese,,0,0,0,,{\pos(960,1050)}你骗我  是她要我那么做的
+Dialogue: 0,0:15:19.78,0:15:21.94,English,,0,0,0,,{\pos(960,990)}Chandler has two copies of Annie!
+Dialogue: 0,0:15:19.78,0:15:21.94,Chinese,,0,0,0,,{\pos(960,1050)}钱德勒有两张安妮的原声带
+Dialogue: 0,0:16:02.62,0:16:04.28,English,,0,0,0,,{\pos(960,990)}Oh, my God!
+Dialogue: 0,0:16:02.62,0:16:04.28,Chinese,,0,0,0,,{\pos(960,1050)}我的天啊
+Dialogue: 0,0:16:04.73,0:16:07.78,English,,0,0,0,,{\pos(960,990)} Ross!  Hello!
+Dialogue: 0,0:16:04.73,0:16:07.78,Chinese,,0,0,0,,{\pos(960,1050)}罗斯  你们好啊
+Dialogue: 0,0:16:09.11,0:16:10.85,English,,0,0,0,,{\pos(960,990)}Ross, what are you doing?
+Dialogue: 0,0:16:09.11,0:16:10.85,Chinese,,0,0,0,,{\pos(960,1050)}罗斯  你在这里干什么
+Dialogue: 0,0:16:10.85,0:16:12.62,English,,0,0,0,,{\pos(960,990)}Not touching myself,
+Dialogue: 0,0:16:10.85,0:16:12.62,Chinese,,0,0,0,,{\pos(960,1050)}我没在自摸
+Dialogue: 0,0:16:12.62,0:16:15.54,English,,0,0,0,,{\pos(960,990)}if that makes anyone less uncomfortable.
+Dialogue: 0,0:16:12.62,0:16:15.54,Chinese,,0,0,0,,{\pos(960,1050)}希望你们听了能放心一点
+Dialogue: 0,0:16:21.12,0:16:23.59,English,,0,0,0,,{\pos(960,990)}Morning. You wanted to see me?
+Dialogue: 0,0:16:21.12,0:16:23.59,Chinese,,0,0,0,,{\pos(960,1050)}早安  您找我吗
+Dialogue: 0,0:16:23.60,0:16:26.86,English,,0,0,0,,{\pos(960,990)}Please, come in. Have a seat.
+Dialogue: 0,0:16:23.60,0:16:26.86,Chinese,,0,0,0,,{\pos(960,1050)}请进  坐下
+Dialogue: 0,0:16:28.91,0:16:29.86,English,,0,0,0,,{\pos(960,990)}Look, Mr. Zelner...
+Dialogue: 0,0:16:28.91,0:16:29.86,Chinese,,0,0,0,,{\pos(960,1050)}听着  佐纳先生
+Dialogue: 0,0:16:29.86,0:16:32.78,English,,0,0,0,,{\pos(960,990)} I think it's best that I speak first.  Yeah.
+Dialogue: 0,0:16:29.86,0:16:32.78,Chinese,,0,0,0,,{\pos(960,1050)}让我先说吧  好吧
+Dialogue: 0,0:16:35.07,0:16:37.28,English,,0,0,0,,{\pos(960,990)}I've asked Lee from human resources to be here
+Dialogue: 0,0:16:35.07,0:16:37.28,Chinese,,0,0,0,,{\pos(960,1050)}我请了人事部的李
+Dialogue: 0,0:16:37.28,0:16:40.33,English,,0,0,0,,{\pos(960,990)}as a witness to our conversation.
+Dialogue: 0,0:16:37.28,0:16:40.33,Chinese,,0,0,0,,{\pos(960,1050)}作为我们谈话的见证人
+Dialogue: 0,0:16:40.33,0:16:41.59,English,,0,0,0,,{\pos(960,990)}Oh, God.
+Dialogue: 0,0:16:40.33,0:16:41.59,Chinese,,0,0,0,,{\pos(960,1050)}天啊
+Dialogue: 0,0:16:42.69,0:16:44.91,English,,0,0,0,,{\pos(960,990)}If I in any way
+Dialogue: 0,0:16:42.69,0:16:44.91,Chinese,,0,0,0,,{\pos(960,1050)}如果我有暗示过你
+Dialogue: 0,0:16:44.92,0:16:48.99,English,,0,0,0,,{\pos(960,990)}implied that I wanted to buy your baby...
+Dialogue: 0,0:16:44.92,0:16:48.99,Chinese,,0,0,0,,{\pos(960,1050)}我想买你的宝宝...
+Dialogue: 0,0:16:51.19,0:16:53.51,English,,0,0,0,,{\pos(960,990)}...I am sorry. Okay?
+Dialogue: 0,0:16:51.19,0:16:53.51,Chinese,,0,0,0,,{\pos(960,1050)}我很抱歉  好吗
+Dialogue: 0,0:16:53.51,0:16:56.65,English,,0,0,0,,{\pos(960,990)}Last week, when I asked you when your due date was...
+Dialogue: 0,0:16:53.51,0:16:56.65,Chinese,,0,0,0,,{\pos(960,1050)}上星期我问你  你的预产期是什么时候
+Dialogue: 0,0:16:57.30,0:16:58.94,English,,0,0,0,,{\pos(960,990)}...I certainly did not mean that
+Dialogue: 0,0:16:57.30,0:16:58.94,Chinese,,0,0,0,,{\pos(960,1050)}我并没有暗示你
+Dialogue: 0,0:16:58.94,0:17:02.66,English,,0,0,0,,{\pos(960,990)}I felt that I was "due" your baby.
+Dialogue: 0,0:16:58.94,0:17:02.66,Chinese,,0,0,0,,{\pos(960,1050)}我想"买"你的宝宝
+Dialogue: 0,0:17:04.73,0:17:06.82,English,,0,0,0,,{\pos(960,990)}I want to be very clear...
+Dialogue: 0,0:17:04.73,0:17:06.82,Chinese,,0,0,0,,{\pos(960,1050)}我希望清楚地告诉你...
+Dialogue: 0,0:17:07.77,0:17:10.72,English,,0,0,0,,{\pos(960,990)}...that I understand that it's your baby...
+Dialogue: 0,0:17:07.77,0:17:10.72,Chinese,,0,0,0,,{\pos(960,1050)}我了解  那是你的宝宝
+Dialogue: 0,0:17:11.05,0:17:14.62,English,,0,0,0,,{\pos(960,990)}...and it is not mine to purchase.
+Dialogue: 0,0:17:11.05,0:17:14.62,Chinese,,0,0,0,,{\pos(960,1050)}我不能买下它
+Dialogue: 0,0:17:20.52,0:17:23.44,English,,0,0,0,,{\pos(960,990)}Well, as long as we are clear about that.
+Dialogue: 0,0:17:20.52,0:17:23.44,Chinese,,0,0,0,,{\pos(960,1050)}只要把话说清楚就好了
+Dialogue: 0,0:17:34.65,0:17:35.82,English,,0,0,0,,{\pos(960,990)}There it is.
+Dialogue: 0,0:17:34.65,0:17:35.82,Chinese,,0,0,0,,{\pos(960,1050)}到了
+Dialogue: 0,0:17:35.89,0:17:38.17,English,,0,0,0,,{\pos(960,990)} That's not your regular cleaners.  I know.
+Dialogue: 0,0:17:35.89,0:17:38.17,Chinese,,0,0,0,,{\pos(960,1050)}这不是你常去的洗衣店  我知道
+Dialogue: 0,0:17:38.17,0:17:40.18,English,,0,0,0,,{\pos(960,990)}but that creep that I went on that date with goes to there,
+Dialogue: 0,0:17:38.17,0:17:40.18,Chinese,,0,0,0,,{\pos(960,1050)}但和我约会的那个怪胎会去那里
+Dialogue: 0,0:17:40.19,0:17:41.60,English,,0,0,0,,{\pos(960,990)}so I have to find a new one.
+Dialogue: 0,0:17:40.19,0:17:41.60,Chinese,,0,0,0,,{\pos(960,1050)}我得找家新的洗衣店
+Dialogue: 0,0:17:41.60,0:17:43.35,English,,0,0,0,,{\pos(960,990)}I also have to find a new video store,
+Dialogue: 0,0:17:41.60,0:17:43.35,Chinese,,0,0,0,,{\pos(960,1050)}我还得找新的音像店
+Dialogue: 0,0:17:43.35,0:17:46.73,English,,0,0,0,,{\pos(960,990)}a new bank, a new adult bookstore, a new grocery store...
+Dialogue: 0,0:17:43.35,0:17:46.73,Chinese,,0,0,0,,{\pos(960,1050)}银行  成人书店  杂货店...
+Dialogue: 0,0:17:46.73,0:17:50.28,English,,0,0,0,,{\pos(960,990)} What?  A new grocery store.
+Dialogue: 0,0:17:46.73,0:17:50.28,Chinese,,0,0,0,,{\pos(960,1050)}什么  新的杂货店
+Dialogue: 0,0:17:52.02,0:17:53.77,English,,0,0,0,,{\pos(960,990)}The universe said I'd meet a nice guy.
+Dialogue: 0,0:17:52.02,0:17:53.77,Chinese,,0,0,0,,{\pos(960,1050)}宇宙预示我会认识一个好男人
+Dialogue: 0,0:17:53.77,0:17:55.47,English,,0,0,0,,{\pos(960,990)}And that's what they gave me?
+Dialogue: 0,0:17:53.77,0:17:55.47,Chinese,,0,0,0,,{\pos(960,1050)}结果就给我这么一个货色
+Dialogue: 0,0:17:55.49,0:17:58.45,English,,0,0,0,,{\pos(960,990)}When I get up there, I'm gonna kick some ass.
+Dialogue: 0,0:17:55.49,0:17:58.45,Chinese,,0,0,0,,{\pos(960,1050)}我上天堂后  一定要痛扁某人
+Dialogue: 0,0:17:58.68,0:18:00.68,English,,0,0,0,,{\pos(960,990)}Don't worry Phoebe, You'll meet someone.
+Dialogue: 0,0:17:58.68,0:18:00.68,Chinese,,0,0,0,,{\pos(960,1050)}别着急  菲比  你会遇到梦中情人的
+Dialogue: 0,0:18:00.76,0:18:02.95,English,,0,0,0,,{\pos(960,990)}If I can meet a great guy, so can you.
+Dialogue: 0,0:18:00.76,0:18:02.95,Chinese,,0,0,0,,{\pos(960,1050)}如果我能找到好男人  你也可以
+Dialogue: 0,0:18:02.95,0:18:06.10,English,,0,0,0,,{\pos(960,990)}Yeah, we both can. And we both will.
+Dialogue: 0,0:18:02.95,0:18:06.10,Chinese,,0,0,0,,{\pos(960,1050)}对  我们都可以  也都会找到的
+Dialogue: 0,0:18:10.73,0:18:13.27,English,,0,0,0,,{\pos(960,990)} You didn't have to come in with me.  Are you kidding?
+Dialogue: 0,0:18:10.73,0:18:13.27,Chinese,,0,0,0,,{\pos(960,1050)}你不必进来  开什么玩笑
+Dialogue: 0,0:18:13.27,0:18:15.28,English,,0,0,0,,{\pos(960,990)}This is where they get out stains.
+Dialogue: 0,0:18:13.27,0:18:15.28,Chinese,,0,0,0,,{\pos(960,1050)}这里是给衣物去污的地方
+Dialogue: 0,0:18:15.28,0:18:17.64,English,,0,0,0,,{\pos(960,990)}This is like Disneyland for me.
+Dialogue: 0,0:18:15.28,0:18:17.64,Chinese,,0,0,0,,{\pos(960,1050)}对我来说这就像是迪士尼乐园
+Dialogue: 0,0:18:18.58,0:18:22.01,English,,0,0,0,,{\pos(960,990)}I'm gonna be over here watching the dance of the clean shirts.
+Dialogue: 0,0:18:18.58,0:18:22.01,Chinese,,0,0,0,,{\pos(960,1050)}我要到这里欣赏干净的衬衫跳舞
+Dialogue: 0,0:18:27.09,0:18:29.63,English,,0,0,0,,{\pos(960,990)}Excuse me. I think you dropped...
+Dialogue: 0,0:18:27.09,0:18:29.63,Chinese,,0,0,0,,{\pos(960,1050)}对不起  你掉了...
+Dialogue: 0,0:18:31.08,0:18:33.12,English,,0,0,0,,{\pos(960,990)} Wow!  What?
+Dialogue: 0,0:18:31.08,0:18:33.12,Chinese,,0,0,0,,{\pos(960,1050)}哇  怎么了
+Dialogue: 0,0:18:33.12,0:18:35.98,English,,0,0,0,,{\pos(960,990)}I'm sorry. It's just that you're so incredibly beautiful.
+Dialogue: 0,0:18:33.12,0:18:35.98,Chinese,,0,0,0,,{\pos(960,1050)}抱歉  你真的是美得不可思议
+Dialogue: 0,0:18:36.02,0:18:39.43,English,,0,0,0,,{\pos(960,990)}Well, I'm sorry about that too. But what are you gonna do?
+Dialogue: 0,0:18:36.02,0:18:39.43,Chinese,,0,0,0,,{\pos(960,1050)}我也这么觉得  但又能怎么办呢
+Dialogue: 0,0:18:40.51,0:18:41.58,English,,0,0,0,,{\pos(960,990)}I hope you don't think I'm crazy,
+Dialogue: 0,0:18:40.51,0:18:41.58,Chinese,,0,0,0,,{\pos(960,1050)}希望你别觉得我疯了
+Dialogue: 0,0:18:41.58,0:18:43.85,English,,0,0,0,,{\pos(960,990)}but I feel like I was meant to pick this up,
+Dialogue: 0,0:18:41.58,0:18:43.85,Chinese,,0,0,0,,{\pos(960,1050)}我觉得帮你捡东西算是命中注定
+Dialogue: 0,0:18:43.85,0:18:47.21,English,,0,0,0,,{\pos(960,990)} Do you believe in that kind of thing?  A little.
+Dialogue: 0,0:18:43.85,0:18:47.21,Chinese,,0,0,0,,{\pos(960,1050)}你相信那种事吗  有一点
+Dialogue: 0,0:18:48.41,0:18:49.63,English,,0,0,0,,{\pos(960,990)}Now you're talking.
+Dialogue: 0,0:18:48.41,0:18:49.63,Chinese,,0,0,0,,{\pos(960,1050)}你终于靠谱了
+Dialogue: 0,0:18:51.19,0:18:52.33,English,,0,0,0,,{\pos(960,990)}Would you like to go out and have a cup of coffee?
+Dialogue: 0,0:18:51.19,0:18:52.33,Chinese,,0,0,0,,{\pos(960,1050)}你想去喝杯咖啡吗
+Dialogue: 0,0:18:52.33,0:18:54.93,English,,0,0,0,,{\pos(960,990)}I'd love to. Let me tell my friend.
+Dialogue: 0,0:18:52.33,0:18:54.93,Chinese,,0,0,0,,{\pos(960,1050)}我很乐意  我去跟我朋友打个招呼
+Dialogue: 0,0:18:55.34,0:18:58.28,English,,0,0,0,,{\pos(960,990)}An ink stain! Can I watch how you get this out?
+Dialogue: 0,0:18:55.34,0:18:58.28,Chinese,,0,0,0,,{\pos(960,1050)}是墨水印子  我能看你把它洗干净吗
+Dialogue: 0,0:19:00.14,0:19:01.56,English,,0,0,0,,{\pos(960,990)}She must have left.
+Dialogue: 0,0:19:00.14,0:19:01.56,Chinese,,0,0,0,,{\pos(960,1050)}她一定是先走了
+Dialogue: 0,0:19:05.68,0:19:09.46,English,,0,0,0,,{\pos(960,990)} So? What happened?  It's all gonna be okay.
+Dialogue: 0,0:19:05.68,0:19:09.46,Chinese,,0,0,0,,{\pos(960,1050)}所以呢  发生了什么事  没事了
+Dialogue: 0,0:19:09.46,0:19:11.17,English,,0,0,0,,{\pos(960,990)}They're so happy I'm not suing them,
+Dialogue: 0,0:19:09.46,0:19:11.17,Chinese,,0,0,0,,{\pos(960,1050)}他们很高兴我不会告他们
+Dialogue: 0,0:19:11.17,0:19:14.66,English,,0,0,0,,{\pos(960,990)}that they gave me one extra month paid maternity leave.
+Dialogue: 0,0:19:11.17,0:19:14.66,Chinese,,0,0,0,,{\pos(960,1050)}我还能多放一个月的带薪产假
+Dialogue: 0,0:19:14.66,0:19:16.52,English,,0,0,0,,{\pos(960,990)}So long as I understand the money
+Dialogue: 0,0:19:14.66,0:19:16.52,Chinese,,0,0,0,,{\pos(960,1050)}只要我明白那些薪水
+Dialogue: 0,0:19:16.52,0:19:18.66,English,,0,0,0,,{\pos(960,990)}should not be construed as a down payment
+Dialogue: 0,0:19:16.52,0:19:18.66,Chinese,,0,0,0,,{\pos(960,1050)}并不是购买这个宝宝
+Dialogue: 0,0:19:18.66,0:19:21.89,English,,0,0,0,,{\pos(960,990)}on this or any other child that I may bear.
+Dialogue: 0,0:19:18.66,0:19:21.89,Chinese,,0,0,0,,{\pos(960,1050)}或其他宝宝的订金
+Dialogue: 0,0:19:23.59,0:19:24.99,English,,0,0,0,,{\pos(960,990)}Ralph Lauren is going out of their way
+Dialogue: 0,0:19:23.59,0:19:24.99,Chinese,,0,0,0,,{\pos(960,1050)}拉夫罗兰真的想尽办法...
+Dialogue: 0,0:19:24.99,0:19:27.63,English,,0,0,0,,{\pos(960,990)}to show they're not in the babybuying business.
+Dialogue: 0,0:19:24.99,0:19:27.63,Chinese,,0,0,0,,{\pos(960,1050)}要证明他们不是贩婴集团
+Dialogue: 0,0:19:29.58,0:19:30.95,English,,0,0,0,,{\pos(960,990)}Chandler, can you give us a minute?
+Dialogue: 0,0:19:29.58,0:19:30.95,Chinese,,0,0,0,,{\pos(960,1050)}钱德勒  能让我们独处一下吗
+Dialogue: 0,0:19:30.95,0:19:33.35,English,,0,0,0,,{\pos(960,990)}Oh I'm sorry, you're kicking me out of my own living room?
+Dialogue: 0,0:19:30.95,0:19:33.35,Chinese,,0,0,0,,{\pos(960,1050)}你这是要把我踢出自家客厅吗
+Dialogue: 0,0:19:33.35,0:19:34.55,English,,0,0,0,,{\pos(960,990)}Yeah.
+Dialogue: 0,0:19:33.35,0:19:34.55,Chinese,,0,0,0,,{\pos(960,1050)}对
+Dialogue: 0,0:19:35.78,0:19:37.05,English,,0,0,0,,{\pos(960,990)}I'll be in there.
+Dialogue: 0,0:19:35.78,0:19:37.05,Chinese,,0,0,0,,{\pos(960,1050)}我去里面待着
+Dialogue: 0,0:19:42.37,0:19:44.81,English,,0,0,0,,{\pos(960,990)}Joey, I'm really sorry I lied to you.
+Dialogue: 0,0:19:42.37,0:19:44.81,Chinese,,0,0,0,,{\pos(960,1050)}乔伊  抱歉我骗了你
+Dialogue: 0,0:19:44.81,0:19:46.27,English,,0,0,0,,{\pos(960,990)}I was just trying to make things...
+Dialogue: 0,0:19:44.81,0:19:46.27,Chinese,,0,0,0,,{\pos(960,1050)}我只是希望解决我们...
+Dialogue: 0,0:19:46.28,0:19:49.20,English,,0,0,0,,{\pos(960,990)}I know. I know.
+Dialogue: 0,0:19:46.28,0:19:49.20,Chinese,,0,0,0,,{\pos(960,1050)}我知道
+Dialogue: 0,0:19:50.19,0:19:51.60,English,,0,0,0,,{\pos(960,990)}It kind of worked.
+Dialogue: 0,0:19:50.19,0:19:51.60,Chinese,,0,0,0,,{\pos(960,1050)}这个方法的确有效
+Dialogue: 0,0:19:51.76,0:19:53.34,English,,0,0,0,,{\pos(960,990)}I mean, you know, I don't know about you,
+Dialogue: 0,0:19:51.76,0:19:53.34,Chinese,,0,0,0,,{\pos(960,1050)}我不知道你是怎么想的
+Dialogue: 0,0:19:53.34,0:19:56.06,English,,0,0,0,,{\pos(960,990)}but I haven't thought about our thing since all this.
+Dialogue: 0,0:19:53.34,0:19:56.06,Chinese,,0,0,0,,{\pos(960,1050)}但出了这档子事之后  我就没想过咱们的问题
+Dialogue: 0,0:19:56.44,0:19:57.75,English,,0,0,0,,{\pos(960,990)}Yeah, you're right.
+Dialogue: 0,0:19:56.44,0:19:57.75,Chinese,,0,0,0,,{\pos(960,1050)}对  你说得对
+Dialogue: 0,0:19:59.08,0:20:02.85,English,,0,0,0,,{\pos(960,990)}Yeah. It's kind of been like "us" again, a little bit.
+Dialogue: 0,0:19:59.08,0:20:02.85,Chinese,,0,0,0,,{\pos(960,1050)}对  我们又恢复了"朋友"的样子
+Dialogue: 0,0:20:02.85,0:20:06.00,English,,0,0,0,,{\pos(960,990)} Yeah, I know. I've missed that.  Me too.
+Dialogue: 0,0:20:02.85,0:20:06.00,Chinese,,0,0,0,,{\pos(960,1050)}对啊  我很想念那段时光  我也是
+Dialogue: 0,0:20:06.00,0:20:09.57,English,,0,0,0,,{\pos(960,990)}I haven't thought about how I put myself out there...
+Dialogue: 0,0:20:06.00,0:20:09.57,Chinese,,0,0,0,,{\pos(960,1050)}我也没再去想  自己对你敞开心扉
+Dialogue: 0,0:20:09.58,0:20:13.05,English,,0,0,0,,{\pos(960,990)}and said that stuff. How you didn't feel the same way about me
+Dialogue: 0,0:20:09.58,0:20:13.05,Chinese,,0,0,0,,{\pos(960,1050)}跟你说过那些话  你跟我的感觉不同
+Dialogue: 0,0:20:13.05,0:20:17.09,English,,0,0,0,,{\pos(960,990)}and how it was really awkward.
+Dialogue: 0,0:20:13.05,0:20:17.09,Chinese,,0,0,0,,{\pos(960,1050)}还有这一切有多尴尬
+Dialogue: 0,0:20:25.61,0:20:27.75,English,,0,0,0,,{\pos(960,990)}My gynecologist tried to kill me.
+Dialogue: 0,0:20:25.61,0:20:27.75,Chinese,,0,0,0,,{\pos(960,1050)}我的妇产科医生想杀我
+Dialogue: 0,0:20:35.17,0:20:39.07,English,,0,0,0,,{\pos(960,990)}Item J437A.
+Dialogue: 0,0:20:35.17,0:20:39.07,Chinese,,0,0,0,,{\pos(960,1050)}编号是J437A
+Dialogue: 0,0:20:39.07,0:20:41.42,English,,0,0,0,,{\pos(960,990)}Color: Winterberry.
+Dialogue: 0,0:20:39.07,0:20:41.42,Chinese,,0,0,0,,{\pos(960,1050)}颜色  冬莓色
+Dialogue: 0,0:20:51.05,0:20:52.54,English,,0,0,0,,{\pos(960,990)}Hi, listen. Come here. Come...
+Dialogue: 0,0:20:51.05,0:20:52.54,Chinese,,0,0,0,,{\pos(960,1050)}进来吧
+Dialogue: 0,0:20:52.54,0:20:55.84,English,,0,0,0,,{\pos(960,990)}I'm so, so sorry about yesterday.
+Dialogue: 0,0:20:52.54,0:20:55.84,Chinese,,0,0,0,,{\pos(960,1050)}关于昨天的事我很抱歉
+Dialogue: 0,0:20:55.88,0:20:58.30,English,,0,0,0,,{\pos(960,990)}I'm really, really sorry. It's just...
+Dialogue: 0,0:20:55.88,0:20:58.30,Chinese,,0,0,0,,{\pos(960,1050)}我真的很抱歉  那只是...
+Dialogue: 0,0:20:58.30,0:21:00.91,English,,0,0,0,,{\pos(960,990)}Listen, Ross, you don't have to apologize.
+Dialogue: 0,0:20:58.30,0:21:00.91,Chinese,,0,0,0,,{\pos(960,1050)}听着  罗斯  你不必道歉
+Dialogue: 0,0:21:00.92,0:21:03.28,English,,0,0,0,,{\pos(960,990)}I understand why you were there.
+Dialogue: 0,0:21:00.92,0:21:03.28,Chinese,,0,0,0,,{\pos(960,1050)}我知道你为什么会跑去我家
+Dialogue: 0,0:21:03.43,0:21:06.79,English,,0,0,0,,{\pos(960,990)} You do?  Yeah. You still have feelings for me.
+Dialogue: 0,0:21:03.43,0:21:06.79,Chinese,,0,0,0,,{\pos(960,1050)}真的吗  对  你还对我有感觉
+Dialogue: 0,0:21:07.78,0:21:10.51,English,,0,0,0,,{\pos(960,990)}To be honest, I still have feelings for you, too.
+Dialogue: 0,0:21:07.78,0:21:10.51,Chinese,,0,0,0,,{\pos(960,1050)}老实说  我对你也还有感觉
+Dialogue: 0,0:21:10.52,0:21:13.22,English,,0,0,0,,{\pos(960,990)}I wish we could work it out, Ross, but we can't.
+Dialogue: 0,0:21:10.52,0:21:13.22,Chinese,,0,0,0,,{\pos(960,1050)}我希望我们能复合  但那是不可能的
+Dialogue: 0,0:21:13.23,0:21:16.15,English,,0,0,0,,{\pos(960,990)}It's too complicated with you and Rachel and the baby.
+Dialogue: 0,0:21:13.23,0:21:16.15,Chinese,,0,0,0,,{\pos(960,1050)}你跟瑞秋还有宝宝的事太复杂了
+Dialogue: 0,0:21:16.15,0:21:17.65,English,,0,0,0,,{\pos(960,990)}I just...
+Dialogue: 0,0:21:16.15,0:21:17.65,Chinese,,0,0,0,,{\pos(960,1050)}我只是...
+Dialogue: 0,0:21:18.90,0:21:20.93,English,,0,0,0,,{\pos(960,990)}It just wasn't meant to be.
+Dialogue: 0,0:21:18.90,0:21:20.93,Chinese,,0,0,0,,{\pos(960,1050)}我们并不属于彼此
+Dialogue: 0,0:21:22.49,0:21:24.16,English,,0,0,0,,{\pos(960,990)}Oh, God. You're right.
+Dialogue: 0,0:21:22.49,0:21:24.16,Chinese,,0,0,0,,{\pos(960,1050)}天啊  你说得对
+Dialogue: 0,0:21:25.85,0:21:28.67,English,,0,0,0,,{\pos(960,990)}Ross, we have to be strong.
+Dialogue: 0,0:21:25.85,0:21:28.67,Chinese,,0,0,0,,{\pos(960,1050)}罗斯  我们得坚强
+Dialogue: 0,0:21:31.83,0:21:33.59,English,,0,0,0,,{\pos(960,990)}Okay, I'm gonna go.
+Dialogue: 0,0:21:31.83,0:21:33.59,Chinese,,0,0,0,,{\pos(960,1050)}好吧  我得走了
+Dialogue: 0,0:21:36.59,0:21:40.10,English,,0,0,0,,{\pos(960,990)}Can I? To remember you?
+Dialogue: 0,0:21:36.59,0:21:40.10,Chinese,,0,0,0,,{\pos(960,1050)}我能留这件衣服来怀念你吗
+Dialogue: 0,0:21:44.21,0:21:45.44,English,,0,0,0,,{\pos(960,990)}No.
+Dialogue: 0,0:21:44.21,0:21:45.44,Chinese,,0,0,0,,{\pos(960,1050)}不行

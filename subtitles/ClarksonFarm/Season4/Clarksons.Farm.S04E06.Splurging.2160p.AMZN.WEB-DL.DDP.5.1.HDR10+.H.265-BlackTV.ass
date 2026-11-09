@@ -1,0 +1,1944 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: English,Arial,64,&H0062A8EB,&H000000FF,&H00000000,&H00808080,0,0,0,0,100,100,0,0,1,3,0,2,10,10,80,1
+Style: Chinese,Microsoft YaHei,70,&H00FFFFFF,&H000000FF,&H00000000,&H00808080,0,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.12,0:00:05.12,Chinese,,0,0,0,0,{\pos(960,1070)}克拉克森的农场 
+Dialogue: 0,0:00:07.40,0:00:12.40,Chinese,,0,0,0,0,{\pos(960,1070)}第30集 挥霍
+Dialogue: 0,0:00:38.72,0:00:41.40,Chinese,,0,0,0,0,{\pos(960,1070)}时间来到了七月中旬
+Dialogue: 0,0:00:38.72,0:00:41.40,English,,0,0,0,0,{\pos(960,1000)}We had now reached the middle of July.
+Dialogue: 0,0:00:42.92,0:00:45.52,Chinese,,0,0,0,0,{\pos(960,1070)}在蔚蓝的天空下
+Dialogue: 0,0:00:42.92,0:00:45.52,English,,0,0,0,0,{\pos(960,1000)}And under a canopy of blue skies,
+Dialogue: 0,0:00:45.72,0:00:48.56,Chinese,,0,0,0,0,{\pos(960,1070)}作物看起来长势良好
+Dialogue: 0,0:00:45.72,0:00:48.56,English,,0,0,0,0,{\pos(960,1000)}the crops appeared to be coming along nicely.
+Dialogue: 0,0:00:49.92,0:00:52.84,Chinese,,0,0,0,0,{\pos(960,1070)}过不了多久 我们就要
+Dialogue: 0,0:00:49.92,0:00:52.84,English,,0,0,0,0,{\pos(960,1000)}Soon then, we'd all be rolling up our sleeves
+Dialogue: 0,0:00:53.04,0:00:56.24,Chinese,,0,0,0,0,{\pos(960,1070)}卷起袖子 开始收割了
+Dialogue: 0,0:00:53.04,0:00:56.24,English,,0,0,0,0,{\pos(960,1000)}and getting down to the job of harvesting them.
+Dialogue: 0,0:01:05.60,0:01:07.56,Chinese,,0,0,0,0,{\pos(960,1070)}但我无法期待收割季的到来
+Dialogue: 0,0:01:05.60,0:01:07.56,English,,0,0,0,0,{\pos(960,1000)}I couldn't look forward to that, though,
+Dialogue: 0,0:01:07.72,0:01:11.60,Chinese,,0,0,0,0,{\pos(960,1070)}因为我得集中精力把酒吧开起来
+Dialogue: 0,0:01:07.72,0:01:11.60,English,,0,0,0,0,{\pos(960,1000)}because I had to focus on getting the pub open.
+Dialogue: 0,0:01:14.12,0:01:15.12,Chinese,,0,0,0,0,{\pos(960,1070)}右边 伙计
+Dialogue: 0,0:01:14.12,0:01:15.12,English,,0,0,0,0,{\pos(960,1000)}Right, mate.
+Dialogue: 0,0:01:15.28,0:01:18.00,Chinese,,0,0,0,0,{\pos(960,1070)}右边 工作 对
+Dialogue: 0,0:01:15.28,0:01:18.00,English,,0,0,0,0,{\pos(960,1000)}Right: jobs. Yes.
+Dialogue: 0,0:01:18.60,0:01:21.28,Chinese,,0,0,0,0,{\pos(960,1070)}我希望在八月银行假期前开张
+Dialogue: 0,0:01:18.60,0:01:21.28,English,,0,0,0,0,{\pos(960,1000)}I wanna get it open by the August Bank Holiday,
+Dialogue: 0,0:01:21.44,0:01:22.92,Chinese,,0,0,0,0,{\pos(960,1070)}八月底 好的
+Dialogue: 0,0:01:21.44,0:01:22.92,English,,0,0,0,0,{\pos(960,1000)}-end of August. Yeah.
+Dialogue: 0,0:01:23.12,0:01:25.40,Chinese,,0,0,0,0,{\pos(960,1070)}好吗 如果工期是六个礼拜
+Dialogue: 0,0:01:23.12,0:01:25.40,English,,0,0,0,0,{\pos(960,1000)}All right? So if we keep six weeks in our head.
+Dialogue: 0,0:01:25.60,0:01:26.52,Chinese,,0,0,0,0,{\pos(960,1070)}有一些东西
+Dialogue: 0,0:01:25.60,0:01:26.52,English,,0,0,0,0,{\pos(960,1000)}And there are certain things.
+Dialogue: 0,0:01:26.68,0:01:28.64,Chinese,,0,0,0,0,{\pos(960,1070)}我们不会大规模翻修 好
+Dialogue: 0,0:01:26.68,0:01:28.64,English,,0,0,0,0,{\pos(960,1000)}We're not gonna do much... No.
+Dialogue: 0,0:01:28.80,0:01:29.96,Chinese,,0,0,0,0,{\pos(960,1070)}但有些地方必须翻修
+Dialogue: 0,0:01:28.80,0:01:29.96,English,,0,0,0,0,{\pos(960,1000)}But there are certain things we've gotta do.
+Dialogue: 0,0:01:30.12,0:01:31.96,Chinese,,0,0,0,0,{\pos(960,1070)}比如我们现在站的地方
+Dialogue: 0,0:01:30.12,0:01:31.96,English,,0,0,0,0,{\pos(960,1000)}For example, what we're standing on.
+Dialogue: 0,0:01:32.16,0:01:33.52,Chinese,,0,0,0,0,{\pos(960,1070)}翻修木平台 我希望它漂漂亮亮的
+Dialogue: 0,0:01:32.16,0:01:33.52,English,,0,0,0,0,{\pos(960,1000)}Repair the decking. I want it to look good.
+Dialogue: 0,0:01:33.68,0:01:34.52,Chinese,,0,0,0,0,{\pos(960,1070)}会的
+Dialogue: 0,0:01:33.68,0:01:34.52,English,,0,0,0,0,{\pos(960,1000)}Yeah, it'll look brilliant.
+Dialogue: 0,0:01:34.72,0:01:37.20,Chinese,,0,0,0,0,{\pos(960,1070)}是吗 这一块很不错
+Dialogue: 0,0:01:34.72,0:01:37.20,English,,0,0,0,0,{\pos(960,1000)}Yeah. So we've got a nice area out here.
+Dialogue: 0,0:01:37.36,0:01:38.44,Chinese,,0,0,0,0,{\pos(960,1070)}是的
+Dialogue: 0,0:01:37.36,0:01:38.44,English,,0,0,0,0,{\pos(960,1000)}Yes.
+Dialogue: 0,0:01:39.20,0:01:41.24,Chinese,,0,0,0,0,{\pos(960,1070)}接下来要解决的是供水问题
+Dialogue: 0,0:01:39.20,0:01:41.24,English,,0,0,0,0,{\pos(960,1000)}The next job was water.
+Dialogue: 0,0:01:41.40,0:01:44.32,Chinese,,0,0,0,0,{\pos(960,1070)}因为勘查结果表明 喝了这里的水
+Dialogue: 0,0:01:41.40,0:01:44.32,English,,0,0,0,0,{\pos(960,1000)}Because the survey had revealed that if you drank it,
+Dialogue: 0,0:01:44.48,0:01:47.76,Chinese,,0,0,0,0,{\pos(960,1070)}你很快就会呕吐至死
+Dialogue: 0,0:01:44.48,0:01:47.76,English,,0,0,0,0,{\pos(960,1000)}you'd very quickly vomit yourself to death.
+Dialogue: 0,0:01:48.04,0:01:50.32,Chinese,,0,0,0,0,{\pos(960,1070)}井眼就在这里 是的
+Dialogue: 0,0:01:48.04,0:01:50.32,English,,0,0,0,0,{\pos(960,1000)}This is where the borehole is. Yeah, there's a borehole down there.
+Dialogue: 0,0:01:50.48,0:01:53.56,Chinese,,0,0,0,0,{\pos(960,1070)}我们被告知 这个水有毒
+Dialogue: 0,0:01:50.48,0:01:53.56,English,,0,0,0,0,{\pos(960,1000)}And this is water, we've been told, is poisonous.
+Dialogue: 0,0:01:53.72,0:01:55.88,Chinese,,0,0,0,0,{\pos(960,1070)}水里有病菌
+Dialogue: 0,0:01:53.72,0:01:55.88,English,,0,0,0,0,{\pos(960,1000)}Yeah, it's not... Well, it's got some disease in, ain't it?
+Dialogue: 0,0:01:56.04,0:01:56.88,Chinese,,0,0,0,0,{\pos(960,1070)}对 不能喝
+Dialogue: 0,0:01:56.04,0:01:56.88,English,,0,0,0,0,{\pos(960,1000)}Yeah. It's not drinkable.
+Dialogue: 0,0:01:57.08,0:01:59.20,Chinese,,0,0,0,0,{\pos(960,1070)}开张之前 必须把这个问题解决了
+Dialogue: 0,0:01:57.08,0:01:59.20,English,,0,0,0,0,{\pos(960,1000)}We have to get the water sorted before we can open the pub.
+Dialogue: 0,0:01:59.40,0:02:00.48,Chinese,,0,0,0,0,{\pos(960,1070)}是的 这个水不能用
+Dialogue: 0,0:01:59.40,0:02:00.48,English,,0,0,0,0,{\pos(960,1000)}Yeah, you can't use that.
+Dialogue: 0,0:02:01.36,0:02:03.20,Chinese,,0,0,0,0,{\pos(960,1070)}阿兰建议
+Dialogue: 0,0:02:01.36,0:02:03.20,English,,0,0,0,0,{\pos(960,1000)}Alan suggested that instead,
+Dialogue: 0,0:02:03.40,0:02:07.64,Chinese,,0,0,0,0,{\pos(960,1070)}我们应当 接入马路对面为农场供水的供水主管道
+Dialogue: 0,0:02:03.40,0:02:07.64,English,,0,0,0,0,{\pos(960,1000)}we should tap into the main's pipe that fed the farm across the road.
+Dialogue: 0,0:02:08.56,0:02:10.32,Chinese,,0,0,0,0,{\pos(960,1070)}主管道就在那块地里
+Dialogue: 0,0:02:08.56,0:02:10.32,English,,0,0,0,0,{\pos(960,1000)}That's where the water main is, in that field.
+Dialogue: 0,0:02:10.48,0:02:12.12,Chinese,,0,0,0,0,{\pos(960,1070)}是吗 在这里 是的
+Dialogue: 0,0:02:10.48,0:02:12.12,English,,0,0,0,0,{\pos(960,1000)}Oh, is it? In here? Yes.
+Dialogue: 0,0:02:12.32,0:02:13.64,Chinese,,0,0,0,0,{\pos(960,1070)}应该不难找
+Dialogue: 0,0:02:12.32,0:02:13.64,English,,0,0,0,0,{\pos(960,1000)}Oh, well, that's not gonna be difficult to find.
+Dialogue: 0,0:02:14.16,0:02:15.72,Chinese,,0,0,0,0,{\pos(960,1070)}很容易 两分钟就能搞定
+Dialogue: 0,0:02:14.16,0:02:15.72,English,,0,0,0,0,{\pos(960,1000)}No. Easy. Two-minute job.
+Dialogue: 0,0:02:15.92,0:02:18.48,Chinese,,0,0,0,0,{\pos(960,1070)}这里是残疾人厕所 是的
+Dialogue: 0,0:02:15.92,0:02:18.48,English,,0,0,0,0,{\pos(960,1000)}Disabled loos here. Yeah.
+Dialogue: 0,0:02:18.64,0:02:20.28,Chinese,,0,0,0,0,{\pos(960,1070)}就在丙烷罐的前方
+Dialogue: 0,0:02:18.64,0:02:20.28,English,,0,0,0,0,{\pos(960,1000)}In front of the propane tank.
+Dialogue: 0,0:02:22.36,0:02:24.76,Chinese,,0,0,0,0,{\pos(960,1070)}讨论完室内装修
+Dialogue: 0,0:02:22.36,0:02:24.76,English,,0,0,0,0,{\pos(960,1000)}After going through the interior jobs...
+Dialogue: 0,0:02:24.96,0:02:27.36,Chinese,,0,0,0,0,{\pos(960,1070)}隔墙 小吧台
+Dialogue: 0,0:02:24.96,0:02:27.36,English,,0,0,0,0,{\pos(960,1000)}Stud wall. Little bar.
+Dialogue: 0,0:02:28.32,0:02:30.32,Chinese,,0,0,0,0,{\pos(960,1070)}换掉那个吧台 对
+Dialogue: 0,0:02:28.32,0:02:30.32,English,,0,0,0,0,{\pos(960,1000)}Change that bar. Yes.
+Dialogue: 0,0:02:30.48,0:02:33.20,Chinese,,0,0,0,0,{\pos(960,1070)}然后我们谈到了最关键的问题
+Dialogue: 0,0:02:30.48,0:02:33.20,English,,0,0,0,0,{\pos(960,1000)}We then got down to brass tacks.
+Dialogue: 0,0:02:33.40,0:02:35.72,Chinese,,0,0,0,0,{\pos(960,1070)}你要问"多少钱"了吧 是的
+Dialogue: 0,0:02:33.40,0:02:35.72,English,,0,0,0,0,{\pos(960,1000)}Oh no, you're gonna say "how much" now, ain't ya?
+Dialogue: 0,0:02:35.92,0:02:38.48,Chinese,,0,0,0,0,{\pos(960,1070)}我不担心这个 小菜一碟
+Dialogue: 0,0:02:35.92,0:02:38.48,English,,0,0,0,0,{\pos(960,1000)}Well, I'm not worried about this. This is peanuts.
+Dialogue: 0,0:02:38.64,0:02:39.96,Chinese,,0,0,0,0,{\pos(960,1070)}"小菜一碟"是多少钱
+Dialogue: 0,0:02:38.64,0:02:39.96,English,,0,0,0,0,{\pos(960,1000)}What do you call "peanuts"?
+Dialogue: 0,0:02:40.16,0:02:41.68,Chinese,,0,0,0,0,{\pos(960,1070)}这么说吧 新搭一个木平台
+Dialogue: 0,0:02:40.16,0:02:41.68,English,,0,0,0,0,{\pos(960,1000)}Well, let's just say, let's just say...
+Dialogue: 0,0:02:42.00,0:02:45.24,Chinese,,0,0,0,0,{\pos(960,1070)}把它弄得更牢靠 一万到一万五
+Dialogue: 0,0:02:42.00,0:02:45.24,English,,0,0,0,0,{\pos(960,1000)}10,000 to 15,000 to put a brand-new decking down here and tighten it up.
+Dialogue: 0,0:02:45.44,0:02:46.24,Chinese,,0,0,0,0,{\pos(960,1070)}好的
+Dialogue: 0,0:02:45.44,0:02:46.24,English,,0,0,0,0,{\pos(960,1000)}Okay.
+Dialogue: 0,0:02:46.40,0:02:47.64,Chinese,,0,0,0,0,{\pos(960,1070)}下一项是什么 供水
+Dialogue: 0,0:02:46.40,0:02:47.64,English,,0,0,0,0,{\pos(960,1000)}Next? Water.
+Dialogue: 0,0:02:47.80,0:02:50.48,Chinese,,0,0,0,0,{\pos(960,1070)}供水主管道 这个需要几天时间
+Dialogue: 0,0:02:47.80,0:02:50.48,English,,0,0,0,0,{\pos(960,1000)}The water main, we're gonna piss about that for a couple of days.
+Dialogue: 0,0:02:50.64,0:02:53.40,Chinese,,0,0,0,0,{\pos(960,1070)}把水接过来大概要一千英镑
+Dialogue: 0,0:02:50.64,0:02:53.40,English,,0,0,0,0,{\pos(960,1000)}Let's just say £1,000 to get your water up here properly.
+Dialogue: 0,0:02:53.56,0:02:55.44,Chinese,,0,0,0,0,{\pos(960,1070)}不算太贵 不贵吧
+Dialogue: 0,0:02:53.56,0:02:55.44,English,,0,0,0,0,{\pos(960,1000)}-Oh, that's not so bad. Not a big deal, is it?
+Dialogue: 0,0:02:55.64,0:02:58.64,Chinese,,0,0,0,0,{\pos(960,1070)}下一项是什么 隔墙 以及楼上的吧台
+Dialogue: 0,0:02:55.64,0:02:58.64,English,,0,0,0,0,{\pos(960,1000)}-Next? Stud wall. And bar upstairs.
+Dialogue: 0,0:02:58.84,0:03:02.04,Chinese,,0,0,0,0,{\pos(960,1070)}吧台和隔墙 我看大约要五千英镑 还有管道
+Dialogue: 0,0:02:58.84,0:03:02.04,English,,0,0,0,0,{\pos(960,1000)}The bar and that stud wall, I think it's about five grand up there.
+Dialogue: 0,0:03:02.56,0:03:03.36,Chinese,,0,0,0,0,{\pos(960,1070)}这个简单
+Dialogue: 0,0:03:02.56,0:03:03.36,English,,0,0,0,0,{\pos(960,1000)}That's easy.
+Dialogue: 0,0:03:03.56,0:03:05.08,Chinese,,0,0,0,0,{\pos(960,1070)}下一项是什么 楼下的吧台
+Dialogue: 0,0:03:03.56,0:03:05.08,English,,0,0,0,0,{\pos(960,1000)}Next? Bar downstairs.
+Dialogue: 0,0:03:05.80,0:03:06.68,Chinese,,0,0,0,0,{\pos(960,1070)}那就有所不同了
+Dialogue: 0,0:03:05.80,0:03:06.68,English,,0,0,0,0,{\pos(960,1000)}That's a bit different.
+Dialogue: 0,0:03:06.88,0:03:08.48,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 在楼下弄个漂亮的吧台
+Dialogue: 0,0:03:06.88,0:03:08.48,English,,0,0,0,0,{\pos(960,1000)}Yeah. What? Make a nice bar down there,
+Dialogue: 0,0:03:08.64,0:03:09.76,Chinese,,0,0,0,0,{\pos(960,1070)}你得给我一个预算才行
+Dialogue: 0,0:03:08.64,0:03:09.76,English,,0,0,0,0,{\pos(960,1000)}you wanna give me a budget on that really.
+Dialogue: 0,0:03:09.92,0:03:11.92,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 我可以做一个预算
+Dialogue: 0,0:03:09.92,0:03:11.92,English,,0,0,0,0,{\pos(960,1000)}-If you wanted to spend six, seven... Yeah, no, exactly.
+Dialogue: 0,0:03:12.12,0:03:12.96,Chinese,,0,0,0,0,{\pos(960,1070)}对 好的
+Dialogue: 0,0:03:12.12,0:03:12.96,English,,0,0,0,0,{\pos(960,1000)}I can work that one out. Yeah.
+Dialogue: 0,0:03:13.12,0:03:16.68,Chinese,,0,0,0,0,{\pos(960,1070)}所以总共是大约两万到两万五
+Dialogue: 0,0:03:13.12,0:03:16.68,English,,0,0,0,0,{\pos(960,1000)}So really, it's sort of twenty to twenty-five.
+Dialogue: 0,0:03:16.88,0:03:19.04,Chinese,,0,0,0,0,{\pos(960,1070)}是的 两万五 就能让这个酒吧
+Dialogue: 0,0:03:16.88,0:03:19.04,English,,0,0,0,0,{\pos(960,1000)}Yeah, 25,000. We can make this pub...
+Dialogue: 0,0:03:19.20,0:03:20.80,Chinese,,0,0,0,0,{\pos(960,1070)}达到开业条件 对
+Dialogue: 0,0:03:19.20,0:03:20.80,English,,0,0,0,0,{\pos(960,1000)}Workable, yeah.
+Dialogue: 0,0:03:26.92,0:03:31.04,Chinese,,0,0,0,0,{\pos(960,1070)}阿兰的工人开始拆除朽烂的木平台
+Dialogue: 0,0:03:26.92,0:03:31.04,English,,0,0,0,0,{\pos(960,1000)}Whilst Alan's lads set about demolishing the rotten decking,
+Dialogue: 0,0:03:33.60,0:03:36.88,Chinese,,0,0,0,0,{\pos(960,1070)}我和他则去考察 是否有别的地方需要翻修
+Dialogue: 0,0:03:33.60,0:03:36.88,English,,0,0,0,0,{\pos(960,1000)}He and I went to see if any other jobs needed doing.
+Dialogue: 0,0:03:37.20,0:03:40.76,Chinese,,0,0,0,0,{\pos(960,1070)}刚出发 我们就遇到了 一张令人愉快的面孔
+Dialogue: 0,0:03:37.20,0:03:40.76,English,,0,0,0,0,{\pos(960,1000)}And instantly, we ran into a welcome face.
+Dialogue: 0,0:03:41.28,0:03:42.32,Chinese,,0,0,0,0,{\pos(960,1070)}杰哥
+Dialogue: 0,0:03:41.28,0:03:42.32,English,,0,0,0,0,{\pos(960,1000)}G-Dog!
+Dialogue: 0,0:03:42.48,0:03:43.36,Chinese,,0,0,0,0,{\pos(960,1070)}杰里米
+Dialogue: 0,0:03:42.48,0:03:43.36,English,,0,0,0,0,{\pos(960,1000)}Jeremy!
+Dialogue: 0,0:03:44.04,0:03:44.84,Chinese,,0,0,0,0,{\pos(960,1070)}阿兰
+Dialogue: 0,0:03:44.04,0:03:44.84,English,,0,0,0,0,{\pos(960,1000)}Alan!
+Dialogue: 0,0:03:45.20,0:03:46.68,Chinese,,0,0,0,0,{\pos(960,1070)}老将军又回来了
+Dialogue: 0,0:03:45.20,0:03:46.68,English,,0,0,0,0,{\pos(960,1000)}The old general's back!
+Dialogue: 0,0:03:46.88,0:03:48.56,Chinese,,0,0,0,0,{\pos(960,1070)}你的头发是怎么回事
+Dialogue: 0,0:03:46.88,0:03:48.56,English,,0,0,0,0,{\pos(960,1000)}What have you done to your hair?
+Dialogue: 0,0:03:49.72,0:03:52.04,Chinese,,0,0,0,0,{\pos(960,1070)}是啊 你是只有五英镑理发吗
+Dialogue: 0,0:03:49.72,0:03:52.04,English,,0,0,0,0,{\pos(960,1000)}Did you only have five quid?
+Dialogue: 0,0:03:52.52,0:03:55.08,Chinese,,0,0,0,0,{\pos(960,1070)}不是 花了我十英镑
+Dialogue: 0,0:03:52.52,0:03:55.08,English,,0,0,0,0,{\pos(960,1000)}No, I got it done for ten.
+Dialogue: 0,0:03:55.24,0:03:57.20,Chinese,,0,0,0,0,{\pos(960,1070)}我有钱 但是后面没剪
+Dialogue: 0,0:03:55.24,0:03:57.20,English,,0,0,0,0,{\pos(960,1000)}I have it, I have it...
+Dialogue: 0,0:03:57.60,0:03:59.32,Chinese,,0,0,0,0,{\pos(960,1070)}是的 弄了一下头顶
+Dialogue: 0,0:03:57.60,0:03:59.32,English,,0,0,0,0,{\pos(960,1000)}But they didn't do the back. No.
+Dialogue: 0,0:03:59.52,0:04:02.20,Chinese,,0,0,0,0,{\pos(960,1070)}然后又这样弄了一下 懂吗
+Dialogue: 0,0:03:59.52,0:04:02.20,English,,0,0,0,0,{\pos(960,1000)}No, over the top with the whole thing and then the whole thing on...
+Dialogue: 0,0:04:02.40,0:04:04.36,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 你知道
+Dialogue: 0,0:04:02.40,0:04:04.36,English,,0,0,0,0,{\pos(960,1000)}On the top of that, yeah? Yeah!
+Dialogue: 0,0:04:04.52,0:04:07.84,Chinese,,0,0,0,0,{\pos(960,1070)}就像我五岁时的发型
+Dialogue: 0,0:04:04.52,0:04:07.84,English,,0,0,0,0,{\pos(960,1000)}You know, this one's like the age when I was about five years old.
+Dialogue: 0,0:04:08.04,0:04:10.52,Chinese,,0,0,0,0,{\pos(960,1070)}嘿 听着 你来得正好 因为这个
+Dialogue: 0,0:04:08.04,0:04:10.52,English,,0,0,0,0,{\pos(960,1000)}Hey, listen, I'm glad you're here, because this...
+Dialogue: 0,0:04:10.72,0:04:11.80,Chinese,,0,0,0,0,{\pos(960,1070)}嗯
+Dialogue: 0,0:04:10.72,0:04:11.80,English,,0,0,0,0,{\pos(960,1000)}Yeah?
+Dialogue: 0,0:04:11.96,0:04:13.84,Chinese,,0,0,0,0,{\pos(960,1070)}这个需要重建
+Dialogue: 0,0:04:11.96,0:04:13.84,English,,0,0,0,0,{\pos(960,1000)}We just need to get this rebuilt.
+Dialogue: 0,0:04:14.00,0:04:17.20,Chinese,,0,0,0,0,{\pos(960,1070)}是啊 我不知道你们 怎么才能让它固定不动
+Dialogue: 0,0:04:14.00,0:04:17.20,English,,0,0,0,0,{\pos(960,1000)}Yeah. I dunno. The old 'n' still like that, though.
+Dialogue: 0,0:04:17.40,0:04:18.24,Chinese,,0,0,0,0,{\pos(960,1070)}你还记得这个
+Dialogue: 0,0:04:17.40,0:04:18.24,English,,0,0,0,0,{\pos(960,1000)}Do you remember this--
+Dialogue: 0,0:04:18.36,0:04:21.76,Chinese,,0,0,0,0,{\pos(960,1070)}如果这堵墙在这里 他们可能还会撞到墙上
+Dialogue: 0,0:04:21.76,0:04:23.52,Chinese,,0,0,0,0,{\pos(960,1070)}你知道 让人上当什么的
+Dialogue: 0,0:04:21.76,0:04:23.52,English,,0,0,0,0,{\pos(960,1000)}You know, tricks you or something.
+Dialogue: 0,0:04:23.72,0:04:26.08,Chinese,,0,0,0,0,{\pos(960,1070)}从查德灵顿到这里要走很远的路
+Dialogue: 0,0:04:23.72,0:04:26.08,English,,0,0,0,0,{\pos(960,1000)}That's a long way from Chadlington to here.
+Dialogue: 0,0:04:26.24,0:04:28.52,Chinese,,0,0,0,0,{\pos(960,1070)}我想说 这些事都是有可能的 还有松果
+Dialogue: 0,0:04:26.24,0:04:28.52,English,,0,0,0,0,{\pos(960,1000)}'Cause I was gonna say, you can have everything from that in the cove,
+Dialogue: 0,0:04:28.68,0:04:30.24,Chinese,,0,0,0,0,{\pos(960,1070)}我每次都能避开
+Dialogue: 0,0:04:28.68,0:04:30.24,English,,0,0,0,0,{\pos(960,1000)}I can always get 'em right.
+Dialogue: 0,0:04:30.60,0:04:32.92,Chinese,,0,0,0,0,{\pos(960,1070)}因为上面有洞 所以我可以告诉你
+Dialogue: 0,0:04:30.60,0:04:32.92,English,,0,0,0,0,{\pos(960,1000)}They got an hole in it so I could tell you perhaps.
+Dialogue: 0,0:04:33.40,0:04:36.56,Chinese,,0,0,0,0,{\pos(960,1070)}我是说 如果它在这里 我可以在它上面 对吧
+Dialogue: 0,0:04:33.40,0:04:36.56,English,,0,0,0,0,{\pos(960,1000)}I mean, I can't be on it as well, can I?
+Dialogue: 0,0:04:38.84,0:04:40.84,Chinese,,0,0,0,0,{\pos(960,1070)}是的 那样很好 对
+Dialogue: 0,0:04:38.84,0:04:40.84,English,,0,0,0,0,{\pos(960,1000)}Yeah. That would be good.
+Dialogue: 0,0:04:42.08,0:04:44.60,Chinese,,0,0,0,0,{\pos(960,1070)}所以这就是我们需要做的 对
+Dialogue: 0,0:04:42.08,0:04:44.60,English,,0,0,0,0,{\pos(960,1000)}So that's what we've gotta get done. Yeah.
+Dialogue: 0,0:04:44.80,0:04:45.60,Chinese,,0,0,0,0,{\pos(960,1070)}我们去一下那边 回见
+Dialogue: 0,0:04:44.80,0:04:45.60,English,,0,0,0,0,{\pos(960,1000)}We're just popping down there. We'll be back in a minute.
+Dialogue: 0,0:04:45.76,0:04:46.76,Chinese,,0,0,0,0,{\pos(960,1070)}回见
+Dialogue: 0,0:04:45.76,0:04:46.76,English,,0,0,0,0,{\pos(960,1000)}-Yeah, okay. I'll see you in a bit.
+Dialogue: 0,0:04:46.92,0:04:48.32,Chinese,,0,0,0,0,{\pos(960,1070)}好了 我们很快就回来
+Dialogue: 0,0:04:46.92,0:04:48.32,English,,0,0,0,0,{\pos(960,1000)}-Lovely. Won't be long.
+Dialogue: 0,0:04:51.32,0:04:53.68,Chinese,,0,0,0,0,{\pos(960,1070)}酒吧这边正在翻修
+Dialogue: 0,0:04:51.32,0:04:53.68,English,,0,0,0,0,{\pos(960,1000)}With the pub renovation underway,
+Dialogue: 0,0:04:54.96,0:04:58.40,Chinese,,0,0,0,0,{\pos(960,1070)}我回去张罗为酒吧供应食物的事了
+Dialogue: 0,0:04:54.96,0:04:58.40,English,,0,0,0,0,{\pos(960,1000)}I got back to the business of providing it with food.
+Dialogue: 0,0:04:59.28,0:05:02.36,Chinese,,0,0,0,0,{\pos(960,1070)}"终局"迟早会有自己的小牛
+Dialogue: 0,0:04:59.28,0:05:02.36,English,,0,0,0,0,{\pos(960,1000)}Endgame would eventually have his own production line,
+Dialogue: 0,0:05:02.52,0:05:05.36,Chinese,,0,0,0,0,{\pos(960,1070)}但我等不了那么久
+Dialogue: 0,0:05:02.52,0:05:05.36,English,,0,0,0,0,{\pos(960,1000)}but I couldn't wait for that to come on stream.
+Dialogue: 0,0:05:05.52,0:05:09.16,Chinese,,0,0,0,0,{\pos(960,1070)}于是我决定参加生平第一场牛拍卖会
+Dialogue: 0,0:05:05.52,0:05:09.16,English,,0,0,0,0,{\pos(960,1000)}So I decided to go to my first-ever cattle auction
+Dialogue: 0,0:05:09.32,0:05:11.48,Chinese,,0,0,0,0,{\pos(960,1070)}买几头母牛回来
+Dialogue: 0,0:05:09.32,0:05:11.48,English,,0,0,0,0,{\pos(960,1000)}and buy some cows.
+Dialogue: 0,0:05:10.72,0:05:12.24,Chinese,,0,0,0,0,{\pos(960,1070)}（沃里克 利明顿）
+Dialogue: 0,0:05:14.68,0:05:15.72,Chinese,,0,0,0,0,{\pos(960,1070)}喂 查理
+Dialogue: 0,0:05:14.68,0:05:15.72,English,,0,0,0,0,{\pos(960,1000)}Hello? Charlie?
+Dialogue: 0,0:05:15.88,0:05:16.68,Chinese,,0,0,0,0,{\pos(960,1070)}嗨
+Dialogue: 0,0:05:15.88,0:05:16.68,English,,0,0,0,0,{\pos(960,1000)}Hi.
+Dialogue: 0,0:05:16.84,0:05:20.36,Chinese,,0,0,0,0,{\pos(960,1070)}我在想 你觉得我应当买几头母牛
+Dialogue: 0,0:05:16.84,0:05:20.36,English,,0,0,0,0,{\pos(960,1000)}I'm just wondering, how many cows do you think I should buy?
+Dialogue: 0,0:05:20.52,0:05:23.96,Chinese,,0,0,0,0,{\pos(960,1070)}我们需要六七头 也许要八头
+Dialogue: 0,0:05:20.52,0:05:23.96,English,,0,0,0,0,{\pos(960,1000)}We need between six and seven. Maybe eight.
+Dialogue: 0,0:05:24.12,0:05:26.48,Chinese,,0,0,0,0,{\pos(960,1070)}好的 所以我要买八头母牛
+Dialogue: 0,0:05:24.12,0:05:26.48,English,,0,0,0,0,{\pos(960,1000)}Okay. Erm, so I'll get eight cows...
+Dialogue: 0,0:05:26.64,0:05:28.88,Chinese,,0,0,0,0,{\pos(960,1070)}是买育肥牛吗
+Dialogue: 0,0:05:26.64,0:05:28.88,English,,0,0,0,0,{\pos(960,1000)}And these are store cows? People will--
+Dialogue: 0,0:05:29.04,0:05:32.88,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 不要买育肥牛
+Dialogue: 0,0:05:29.04,0:05:32.88,English,,0,0,0,0,{\pos(960,1000)}Yeah, you don't want to buy store-store.
+Dialogue: 0,0:05:33.04,0:05:36.44,Chinese,,0,0,0,0,{\pos(960,1070)}要买那种很快就可以备宰的牛
+Dialogue: 0,0:05:33.04,0:05:36.44,English,,0,0,0,0,{\pos(960,1000)}You wanna buy something that actually, we can finish fairly quickly.
+Dialogue: 0,0:05:38.32,0:05:41.64,Chinese,,0,0,0,0,{\pos(960,1070)}什么 我完全没听懂你在说什么 什么意思
+Dialogue: 0,0:05:38.32,0:05:41.64,English,,0,0,0,0,{\pos(960,1000)}What? I literally don't know what you mean. What does that mean?
+Dialogue: 0,0:05:42.24,0:05:47.08,Chinese,,0,0,0,0,{\pos(960,1070)}我们需要那种两个月后
+Dialogue: 0,0:05:42.24,0:05:47.08,English,,0,0,0,0,{\pos(960,1000)}We want something that's only about two months away
+Dialogue: 0,0:05:47.24,0:05:49.92,Chinese,,0,0,0,0,{\pos(960,1070)}就能育肥和宰杀的牛 嗯
+Dialogue: 0,0:05:47.24,0:05:49.92,English,,0,0,0,0,{\pos(960,1000)}-from being fat to slaughter. Right.
+Dialogue: 0,0:05:50.08,0:05:53.52,Chinese,,0,0,0,0,{\pos(960,1070)}因为 所以肥牛是马上可以宰杀的牛
+Dialogue: 0,0:05:50.08,0:05:53.52,English,,0,0,0,0,{\pos(960,1000)}-Because, erm... So a fat cow is ready to go?
+Dialogue: 0,0:05:54.32,0:05:56.24,Chinese,,0,0,0,0,{\pos(960,1070)}是的 而育肥牛是过段时间
+Dialogue: 0,0:05:54.32,0:05:56.24,English,,0,0,0,0,{\pos(960,1000)}-Yeah. A store cow is on its way
+Dialogue: 0,0:05:56.40,0:05:58.60,Chinese,,0,0,0,0,{\pos(960,1070)}才能宰杀的牛 没错
+Dialogue: 0,0:05:56.40,0:05:58.60,English,,0,0,0,0,{\pos(960,1000)}-to being ready to go? Correct.
+Dialogue: 0,0:05:58.80,0:06:00.44,Chinese,,0,0,0,0,{\pos(960,1070)}好的 谢谢 查理 祝你好运
+Dialogue: 0,0:05:58.80,0:06:00.44,English,,0,0,0,0,{\pos(960,1000)}-All right, thanks, Charlie. Good luck.
+Dialogue: 0,0:06:00.60,0:06:01.68,Chinese,,0,0,0,0,{\pos(960,1070)}再见 谢谢
+Dialogue: 0,0:06:00.60,0:06:01.68,English,,0,0,0,0,{\pos(960,1000)}Bye. Thank you.
+Dialogue: 0,0:06:03.76,0:06:07.08,Chinese,,0,0,0,0,{\pos(960,1070)}我还是不大明白查理在说什么
+Dialogue: 0,0:06:03.76,0:06:07.08,English,,0,0,0,0,{\pos(960,1000)}I still wasn't totally sure what Charlie was on about,
+Dialogue: 0,0:06:07.24,0:06:09.12,Chinese,,0,0,0,0,{\pos(960,1070)}不过无需惊慌
+Dialogue: 0,0:06:07.24,0:06:09.12,English,,0,0,0,0,{\pos(960,1000)}but there was no need to panic,
+Dialogue: 0,0:06:09.76,0:06:14.56,Chinese,,0,0,0,0,{\pos(960,1070)}因为哈莉特已经慷慨应允过来帮我了
+Dialogue: 0,0:06:09.76,0:06:14.56,English,,0,0,0,0,{\pos(960,1000)}because Harriet had kindly agreed to come along and hold my hand.
+Dialogue: 0,0:06:15.36,0:06:16.56,Chinese,,0,0,0,0,{\pos(960,1070)}你不喝咖啡
+Dialogue: 0,0:06:15.36,0:06:16.56,English,,0,0,0,0,{\pos(960,1000)}But you don't drink coffee.
+Dialogue: 0,0:06:16.76,0:06:17.68,Chinese,,0,0,0,0,{\pos(960,1070)}不喝 我只喝茶
+Dialogue: 0,0:06:16.76,0:06:17.68,English,,0,0,0,0,{\pos(960,1000)}No. Tea.
+Dialogue: 0,0:06:17.84,0:06:19.48,Chinese,,0,0,0,0,{\pos(960,1070)}我不敢相信 一个约克郡的男人竟然不喝茶
+Dialogue: 0,0:06:17.84,0:06:19.48,English,,0,0,0,0,{\pos(960,1000)}I can't believe a Yorkshireman doesn't drink tea.
+Dialogue: 0,0:06:19.64,0:06:20.96,Chinese,,0,0,0,0,{\pos(960,1070)}我喝茶啊 好吧 你
+Dialogue: 0,0:06:19.64,0:06:20.96,English,,0,0,0,0,{\pos(960,1000)}I do drink tea.
+Dialogue: 0,0:06:21.12,0:06:25.08,Chinese,,0,0,0,0,{\pos(960,1070)}我们先了解了拍卖的品种
+Dialogue: 0,0:06:21.12,0:06:25.08,English,,0,0,0,0,{\pos(960,1000)}And we started by going through the breeds on sale.
+Dialogue: 0,0:06:25.28,0:06:27.36,Chinese,,0,0,0,0,{\pos(960,1070)}夏洛莱牛和安格斯牛 对
+Dialogue: 0,0:06:25.28,0:06:27.36,English,,0,0,0,0,{\pos(960,1000)}Charolais and Angus. Yeah.
+Dialogue: 0,0:06:27.52,0:06:29.04,Chinese,,0,0,0,0,{\pos(960,1070)}可以吗 可以
+Dialogue: 0,0:06:27.52,0:06:29.04,English,,0,0,0,0,{\pos(960,1000)}That any good? Yeah.
+Dialogue: 0,0:06:29.20,0:06:31.72,Chinese,,0,0,0,0,{\pos(960,1070)}这些牛是在高海拔荒原上放养的 对
+Dialogue: 0,0:06:29.20,0:06:31.72,English,,0,0,0,0,{\pos(960,1000)}These were run on moorland at altitude. Yeah.
+Dialogue: 0,0:06:31.92,0:06:34.08,Chinese,,0,0,0,0,{\pos(960,1070)}意思是这些牛是从高海拔地区下来的
+Dialogue: 0,0:06:31.92,0:06:34.08,English,,0,0,0,0,{\pos(960,1000)}So it's telling you they're coming down, aren't they?
+Dialogue: 0,0:06:34.56,0:06:38.20,Chinese,,0,0,0,0,{\pos(960,1070)}牲畜只能从高海拔下到低海拔 反过来就不行
+Dialogue: 0,0:06:34.56,0:06:38.20,English,,0,0,0,0,{\pos(960,1000)}So you always want animals to come down in altitude rather than going up.
+Dialogue: 0,0:06:38.40,0:06:42.24,Chinese,,0,0,0,0,{\pos(960,1070)}因为 比如说你的羊 一直是在高海拔地区饲养的
+Dialogue: 0,0:06:38.40,0:06:42.24,English,,0,0,0,0,{\pos(960,1000)}Because say if you've got sheep and it's been bred on high altitude,
+Dialogue: 0,0:06:42.40,0:06:43.36,Chinese,,0,0,0,0,{\pos(960,1070)}那么它们可以下到低海拔地区
+Dialogue: 0,0:06:42.40,0:06:43.36,English,,0,0,0,0,{\pos(960,1000)}it could go to lower altitude.
+Dialogue: 0,0:06:43.52,0:06:44.88,Chinese,,0,0,0,0,{\pos(960,1070)}但是在低海拔地区饲养的羊
+Dialogue: 0,0:06:43.52,0:06:44.88,English,,0,0,0,0,{\pos(960,1000)}But if you had a lower-altitude sheep,
+Dialogue: 0,0:06:45.08,0:06:47.04,Chinese,,0,0,0,0,{\pos(960,1070)}就不能送到高海拔地区
+Dialogue: 0,0:06:45.08,0:06:47.04,English,,0,0,0,0,{\pos(960,1000)}you wouldn't want to put it on high altitude.
+Dialogue: 0,0:06:48.04,0:06:50.20,Chinese,,0,0,0,0,{\pos(960,1070)}为什么不能 因为羊会无法存活
+Dialogue: 0,0:06:48.04,0:06:50.20,English,,0,0,0,0,{\pos(960,1000)}-Why not? Because it wouldn't survive.
+Dialogue: 0,0:06:50.36,0:06:52.44,Chinese,,0,0,0,0,{\pos(960,1070)}它适应不了高海拔
+Dialogue: 0,0:06:50.36,0:06:52.44,English,,0,0,0,0,{\pos(960,1000)}It's not used to that altitude.
+Dialogue: 0,0:06:52.60,0:06:53.92,Chinese,,0,0,0,0,{\pos(960,1070)}因为空气稀薄
+Dialogue: 0,0:06:52.60,0:06:53.92,English,,0,0,0,0,{\pos(960,1000)}What, because the air is thin?
+Dialogue: 0,0:06:54.08,0:06:56.56,Chinese,,0,0,0,0,{\pos(960,1070)}是的 就是适应不了 羊会死掉
+Dialogue: 0,0:06:54.08,0:06:56.56,English,,0,0,0,0,{\pos(960,1000)}Yeah. It's just not used to it. So sheep just die, don't they?
+Dialogue: 0,0:06:56.72,0:07:00.52,Chinese,,0,0,0,0,{\pos(960,1070)}如果你把它送到海拔较高的地方 它八成会死掉
+Dialogue: 0,0:06:56.72,0:07:00.52,English,,0,0,0,0,{\pos(960,1000)}So if you put it somewhere with a higher altitude it'll probably just drop dead.
+Dialogue: 0,0:07:01.28,0:07:03.36,Chinese,,0,0,0,0,{\pos(960,1070)}比利时蓝牛 我上个礼拜读到过
+Dialogue: 0,0:07:01.28,0:07:03.36,English,,0,0,0,0,{\pos(960,1000)}Belgian Blues, I read about those. Yes.
+Dialogue: 0,0:07:03.52,0:07:06.24,Chinese,,0,0,0,0,{\pos(960,1070)}这个品种 说这种牛有问题
+Dialogue: 0,0:07:03.52,0:07:06.24,English,,0,0,0,0,{\pos(960,1000)}Last week. There's something wrong with them.
+Dialogue: 0,0:07:06.44,0:07:07.76,Chinese,,0,0,0,0,{\pos(960,1070)}有什么问题
+Dialogue: 0,0:07:06.44,0:07:07.76,English,,0,0,0,0,{\pos(960,1000)}What's wrong with them?
+Dialogue: 0,0:07:07.96,0:07:09.08,Chinese,,0,0,0,0,{\pos(960,1070)}《泰晤士报》说的
+Dialogue: 0,0:07:07.96,0:07:09.08,English,,0,0,0,0,{\pos(960,1000)}It was in The Times.
+Dialogue: 0,0:07:11.44,0:07:14.20,Chinese,,0,0,0,0,{\pos(960,1070)}口蹄疫回来了
+Dialogue: 0,0:07:11.44,0:07:14.20,English,,0,0,0,0,{\pos(960,1000)}Foot and mouth, that's coming back round. I don't know.
+Dialogue: 0,0:07:14.40,0:07:15.60,Chinese,,0,0,0,0,{\pos(960,1070)}但是感染这种病的不只是比利时蓝牛
+Dialogue: 0,0:07:14.40,0:07:15.60,English,,0,0,0,0,{\pos(960,1000)}But that wouldn't just be in Belgian Blues.
+Dialogue: 0,0:07:15.76,0:07:16.56,Chinese,,0,0,0,0,{\pos(960,1070)}找到了
+Dialogue: 0,0:07:15.76,0:07:16.56,English,,0,0,0,0,{\pos(960,1000)}Oh, here we are.
+Dialogue: 0,0:07:16.76,0:07:20.04,Chinese,,0,0,0,0,{\pos(960,1070)}它们被称作"恶霸牛"
+Dialogue: 0,0:07:16.76,0:07:20.04,English,,0,0,0,0,{\pos(960,1000)}They're called XL Bully cows.
+Dialogue: 0,0:07:20.24,0:07:23.84,Chinese,,0,0,0,0,{\pos(960,1070)}"一种肌肉发达 号称恶霸的外国牛
+Dialogue: 0,0:07:20.24,0:07:23.84,English,,0,0,0,0,{\pos(960,1000)}"A muscle-bound foreign cow, dubbed the XL Bully,
+Dialogue: 0,0:07:24.44,0:07:28.28,Chinese,,0,0,0,0,{\pos(960,1070)}根据秘密研究计划 有可能取代英国的品种"
+Dialogue: 0,0:07:24.44,0:07:28.28,English,,0,0,0,0,{\pos(960,1000)}could replace UK breeds under secret research plans.
+Dialogue: 0,0:07:28.48,0:07:31.48,Chinese,,0,0,0,0,{\pos(960,1070)}"比利时蓝牛的体重 最高可达1250公斤
+Dialogue: 0,0:07:28.48,0:07:31.48,English,,0,0,0,0,{\pos(960,1000)}Belgian Blues can weigh up to a 197 stone,
+Dialogue: 0,0:07:31.64,0:07:33.88,Chinese,,0,0,0,0,{\pos(960,1070)}相当于一头小犀牛的体重
+Dialogue: 0,0:07:31.64,0:07:33.88,English,,0,0,0,0,{\pos(960,1000)}equal to a small rhino,
+Dialogue: 0,0:07:34.04,0:07:35.76,Chinese,,0,0,0,0,{\pos(960,1070)}养殖它是为了得到更多牛肉"
+Dialogue: 0,0:07:34.04,0:07:35.76,English,,0,0,0,0,{\pos(960,1000)}and are bred for extra meat.
+Dialogue: 0,0:07:35.96,0:07:38.04,Chinese,,0,0,0,0,{\pos(960,1070)}"然而比利时蓝牛
+Dialogue: 0,0:07:35.96,0:07:38.04,English,,0,0,0,0,{\pos(960,1000)}But Belgian Blues have also been behind
+Dialogue: 0,0:07:38.24,0:07:40.32,Chinese,,0,0,0,0,{\pos(960,1070)}也曾造成一系列野蛮袭击事件"
+Dialogue: 0,0:07:38.24,0:07:40.32,English,,0,0,0,0,{\pos(960,1000)}a series of savage attacks.
+Dialogue: 0,0:07:41.04,0:07:43.20,Chinese,,0,0,0,0,{\pos(960,1070)}"双目失明的前内政大臣 大卫·布伦基特
+Dialogue: 0,0:07:41.04,0:07:43.20,English,,0,0,0,0,{\pos(960,1000)}Ex-Home Secretary David Blunkett, who's blind,
+Dialogue: 0,0:07:43.40,0:07:45.20,Chinese,,0,0,0,0,{\pos(960,1070)}被撞断了三根肋骨
+Dialogue: 0,0:07:43.40,0:07:45.20,English,,0,0,0,0,{\pos(960,1000)}suffered three broken ribs..."
+Dialogue: 0,0:07:45.36,0:07:47.00,Chinese,,0,0,0,0,{\pos(960,1070)}原因是为了保护自己的导盲犬
+Dialogue: 0,0:07:45.36,0:07:47.00,English,,0,0,0,0,{\pos(960,1000)}"... as he protected his guide dog
+Dialogue: 0,0:07:47.00,0:07:49.04,Chinese,,0,0,0,0,{\pos(960,1070)}不被一头横冲直撞的母牛所伤害"
+Dialogue: 0,0:07:47.00,0:07:49.04,English,,0,0,0,0,{\pos(960,1000)}from a charging cow in the Peak District.
+Dialogue: 0,0:07:49.24,0:07:52.44,Chinese,,0,0,0,0,{\pos(960,1070)}"那是一头体型巨大的欧洲牛 我差点丢了性命"
+Dialogue: 0,0:07:49.24,0:07:52.44,English,,0,0,0,0,{\pos(960,1000)}'It was a massive European breed, I could have been killed.'"
+Dialogue: 0,0:07:52.64,0:07:54.40,Chinese,,0,0,0,0,{\pos(960,1070)}所以比利时蓝牛很危险
+Dialogue: 0,0:07:52.64,0:07:54.40,English,,0,0,0,0,{\pos(960,1000)}So Belgian Blues are dangerous.
+Dialogue: 0,0:07:54.60,0:07:57.32,Chinese,,0,0,0,0,{\pos(960,1070)}反正你也不会买任何凶恶的东西
+Dialogue: 0,0:07:54.60,0:07:57.32,English,,0,0,0,0,{\pos(960,1000)}You're not gonna buy in anything nasty anyway.
+Dialogue: 0,0:07:57.52,0:08:01.56,Chinese,,0,0,0,0,{\pos(960,1070)}然后我们来到牛棚 亲眼看看那些母牛
+Dialogue: 0,0:07:57.52,0:08:01.56,English,,0,0,0,0,{\pos(960,1000)}We then went to the pens to look at the cows themselves.
+Dialogue: 0,0:08:01.88,0:08:02.76,Chinese,,0,0,0,0,{\pos(960,1070)}早上好 你好
+Dialogue: 0,0:08:01.88,0:08:02.76,English,,0,0,0,0,{\pos(960,1000)}Morning. Hiya.
+Dialogue: 0,0:08:04.12,0:08:07.40,Chinese,,0,0,0,0,{\pos(960,1070)}我喜欢这些广告 "移动式羊药浴池"
+Dialogue: 0,0:08:04.12,0:08:07.40,English,,0,0,0,0,{\pos(960,1000)}I love the adverts. "Mobile sheep dipping."
+Dialogue: 0,0:08:05.88,0:08:08.40,Chinese,,0,0,0,0,{\pos(960,1070)}（《农民卫报》 飞行贸易 移动式羊药浴池）
+Dialogue: 0,0:08:08.72,0:08:10.56,Chinese,,0,0,0,0,{\pos(960,1070)}"粪肥系统"
+Dialogue: 0,0:08:08.72,0:08:10.56,English,,0,0,0,0,{\pos(960,1000)}"Slurry systems."
+Dialogue: 0,0:08:10.44,0:08:12.36,Chinese,,0,0,0,0,{\pos(960,1070)}（米德兰粪肥系统有限公司）
+Dialogue: 0,0:08:13.24,0:08:14.08,Chinese,,0,0,0,0,{\pos(960,1070)}所以
+Dialogue: 0,0:08:13.24,0:08:14.08,English,,0,0,0,0,{\pos(960,1000)}So...
+Dialogue: 0,0:08:15.28,0:08:16.92,Chinese,,0,0,0,0,{\pos(960,1070)}看看后面那几头
+Dialogue: 0,0:08:15.28,0:08:16.92,English,,0,0,0,0,{\pos(960,1000)}Look at the back on that, right?
+Dialogue: 0,0:08:17.08,0:08:18.60,Chinese,,0,0,0,0,{\pos(960,1070)}那就是我们想要的
+Dialogue: 0,0:08:17.08,0:08:18.60,English,,0,0,0,0,{\pos(960,1000)}That's what you're looking for.
+Dialogue: 0,0:08:18.76,0:08:21.20,Chinese,,0,0,0,0,{\pos(960,1070)}背脊像桌面一样平
+Dialogue: 0,0:08:18.76,0:08:21.20,English,,0,0,0,0,{\pos(960,1000)}It's a flat back like a tabletop, ain't it?
+Dialogue: 0,0:08:21.40,0:08:23.76,Chinese,,0,0,0,0,{\pos(960,1070)}所以不要那种 能看到脊柱或任何骨头的
+Dialogue: 0,0:08:21.40,0:08:23.76,English,,0,0,0,0,{\pos(960,1000)}So we don't wanna see a spine. We don't wanna see any bones.
+Dialogue: 0,0:08:23.96,0:08:28.32,Chinese,,0,0,0,0,{\pos(960,1070)}不要找那种肚子圆鼓鼓的 那种牛最差劲了
+Dialogue: 0,0:08:23.96,0:08:28.32,English,,0,0,0,0,{\pos(960,1000)}You don't want them to be pot-bellied. Urgh, that's the worst.
+Dialogue: 0,0:08:28.48,0:08:31.40,Chinese,,0,0,0,0,{\pos(960,1070)}对 不要找那种肚子圆鼓鼓的
+Dialogue: 0,0:08:28.48,0:08:31.40,English,,0,0,0,0,{\pos(960,1000)}Yeah. You don't want them to be pot-bellied.
+Dialogue: 0,0:08:31.56,0:08:33.56,Chinese,,0,0,0,0,{\pos(960,1070)}要找那种肌肉发达的
+Dialogue: 0,0:08:31.56,0:08:33.56,English,,0,0,0,0,{\pos(960,1000)}You just want them to look muscley.
+Dialogue: 0,0:08:33.76,0:08:35.92,Chinese,,0,0,0,0,{\pos(960,1070)}那头吗 对 它的整条背脊都能做成牛排
+Dialogue: 0,0:08:33.76,0:08:35.92,English,,0,0,0,0,{\pos(960,1000)}There? Yeah. So you're gonna get your steaks throughout it.
+Dialogue: 0,0:08:36.08,0:08:40.04,Chinese,,0,0,0,0,{\pos(960,1070)}所以要看肌肉和脂肪的比例
+Dialogue: 0,0:08:36.08,0:08:40.04,English,,0,0,0,0,{\pos(960,1000)}So what you want to be looking at is the meat-to-fat ratio.
+Dialogue: 0,0:08:42.48,0:08:44.60,Chinese,,0,0,0,0,{\pos(960,1070)}按照哈莉特的建议
+Dialogue: 0,0:08:42.48,0:08:44.60,English,,0,0,0,0,{\pos(960,1000)}Following Harriet's advice,
+Dialogue: 0,0:08:44.80,0:08:46.42,Chinese,,0,0,0,0,{\pos(960,1070)}我拟定了一份长长的候选清单
+Dialogue: 0,0:08:44.80,0:08:46.42,English,,0,0,0,0,{\pos(960,1000)}I made a long shortlist of the cows
+Dialogue: 0,0:08:46.42,0:08:48.74,Chinese,,0,0,0,0,{\pos(960,1070)}我觉得查理会希望我买下这些牛
+Dialogue: 0,0:08:46.42,0:08:48.74,English,,0,0,0,0,{\pos(960,1000)}I thought Charlie would want me to get.
+Dialogue: 0,0:08:48.88,0:08:50.00,Chinese,,0,0,0,0,{\pos(960,1070)}三 六
+Dialogue: 0,0:08:48.88,0:08:50.00,English,,0,0,0,0,{\pos(960,1000)}Three, six...
+Dialogue: 0,0:08:50.16,0:08:54.08,Chinese,,0,0,0,0,{\pos(960,1070)}然后我上了一堂竞拍速成课
+Dialogue: 0,0:08:50.16,0:08:54.08,English,,0,0,0,0,{\pos(960,1000)}And then, I was given a crash course in how to bid.
+Dialogue: 0,0:08:55.00,0:08:58.76,Chinese,,0,0,0,0,{\pos(960,1070)}你要见机行事 比如说起拍价是一千二百英镑
+Dialogue: 0,0:08:55.00,0:08:58.76,English,,0,0,0,0,{\pos(960,1000)}You need to play it by ear. You know, say he's starting off at £1,200,
+Dialogue: 0,0:08:58.96,0:09:01.56,Chinese,,0,0,0,0,{\pos(960,1070)}那就不要出价 因为别人会出更高的价格
+Dialogue: 0,0:08:58.96,0:09:01.56,English,,0,0,0,0,{\pos(960,1000)}don't bid, because then they'll bid you up.
+Dialogue: 0,0:09:01.72,0:09:03.68,Chinese,,0,0,0,0,{\pos(960,1070)}谁会出更高价格 其他买家
+Dialogue: 0,0:09:01.72,0:09:03.68,English,,0,0,0,0,{\pos(960,1000)}Who will? The other buyers.
+Dialogue: 0,0:09:03.88,0:09:06.68,Chinese,,0,0,0,0,{\pos(960,1070)}因为他们知道你想要那头牛 因为你出价了
+Dialogue: 0,0:09:03.88,0:09:06.68,English,,0,0,0,0,{\pos(960,1000)}'Cause they'll know you want them cows 'cause you've put in your bid.
+Dialogue: 0,0:09:06.84,0:09:08.80,Chinese,,0,0,0,0,{\pos(960,1070)}所以要等到最后一刻
+Dialogue: 0,0:09:06.84,0:09:08.80,English,,0,0,0,0,{\pos(960,1000)}So you wanna wait until the last minute to put in your bid.
+Dialogue: 0,0:09:08.96,0:09:10.32,Chinese,,0,0,0,0,{\pos(960,1070)}我怎么知道最后一刻快到了
+Dialogue: 0,0:09:08.96,0:09:10.32,English,,0,0,0,0,{\pos(960,1000)}How do I know when the last minute's coming?
+Dialogue: 0,0:09:10.48,0:09:12.72,Chinese,,0,0,0,0,{\pos(960,1070)}当没有人加价时
+Dialogue: 0,0:09:10.48,0:09:12.72,English,,0,0,0,0,{\pos(960,1000)}'Cause when he's stuck at a number,
+Dialogue: 0,0:09:12.88,0:09:14.44,Chinese,,0,0,0,0,{\pos(960,1070)}你就知道价格不会更高了
+Dialogue: 0,0:09:12.88,0:09:14.44,English,,0,0,0,0,{\pos(960,1000)}you'll know that it's not going any further.
+Dialogue: 0,0:09:14.64,0:09:16.20,Chinese,,0,0,0,0,{\pos(960,1070)}这时候就可以出手了
+Dialogue: 0,0:09:14.64,0:09:16.20,English,,0,0,0,0,{\pos(960,1000)}That's when you'll go...
+Dialogue: 0,0:09:17.52,0:09:18.32,Chinese,,0,0,0,0,{\pos(960,1070)}怎么出手
+Dialogue: 0,0:09:17.52,0:09:18.32,English,,0,0,0,0,{\pos(960,1000)}How do I go?
+Dialogue: 0,0:09:19.76,0:09:20.56,Chinese,,0,0,0,0,{\pos(960,1070)}就像这样
+Dialogue: 0,0:09:19.76,0:09:20.56,English,,0,0,0,0,{\pos(960,1000)}That?
+Dialogue: 0,0:09:22.40,0:09:25.40,Chinese,,0,0,0,0,{\pos(960,1070)}眉毛 但是不要竞拍我们不想要的牛
+Dialogue: 0,0:09:22.40,0:09:25.40,English,,0,0,0,0,{\pos(960,1000)}-Eyebrows. Don't bid on anything we don't want.
+Dialogue: 0,0:09:25.56,0:09:27.96,Chinese,,0,0,0,0,{\pos(960,1070)}不然拍卖师会以为你在出价
+Dialogue: 0,0:09:25.56,0:09:27.96,English,,0,0,0,0,{\pos(960,1000)}Because he'll take this as a gesture.
+Dialogue: 0,0:09:28.12,0:09:32.72,Chinese,,0,0,0,0,{\pos(960,1070)}所以不要抬手或者挠鼻子
+Dialogue: 0,0:09:28.12,0:09:32.72,English,,0,0,0,0,{\pos(960,1000)}So you can't be going, like, putting your hand up or itching your nose.
+Dialogue: 0,0:09:33.52,0:09:34.32,Chinese,,0,0,0,0,{\pos(960,1070)}拍卖师会以为
+Dialogue: 0,0:09:33.52,0:09:34.32,English,,0,0,0,0,{\pos(960,1000)}Oh, he'll think that's a...?
+Dialogue: 0,0:09:34.48,0:09:36.92,Chinese,,0,0,0,0,{\pos(960,1070)}他会以为你想出价 好的
+Dialogue: 0,0:09:34.48,0:09:36.92,English,,0,0,0,0,{\pos(960,1000)}He'll take that as you wanting to buy it. All right.
+Dialogue: 0,0:09:37.08,0:09:39.72,Chinese,,0,0,0,0,{\pos(960,1070)}结果就是我们买了 二十头不想要的母牛回去
+Dialogue: 0,0:09:37.08,0:09:39.72,English,,0,0,0,0,{\pos(960,1000)}And then we'll be going home with twenty of the wrong cows.
+Dialogue: 0,0:09:49.28,0:09:50.48,Chinese,,0,0,0,0,{\pos(960,1070)}女士们先生们 开始吧
+Dialogue: 0,0:09:49.28,0:09:50.48,English,,0,0,0,0,{\pos(960,1000)}All right, ladies and gentlemen, make a start.
+Dialogue: 0,0:09:51.12,0:09:52.92,Chinese,,0,0,0,0,{\pos(960,1070)}看见上面那台电视了吗 嗯
+Dialogue: 0,0:09:51.12,0:09:52.92,English,,0,0,0,0,{\pos(960,1000)}-You see that TV up there? Yeah.
+Dialogue: 0,0:09:53.12,0:09:55.40,Chinese,,0,0,0,0,{\pos(960,1070)}上面显示了正在拍卖的牛的编号
+Dialogue: 0,0:09:53.12,0:09:55.40,English,,0,0,0,0,{\pos(960,1000)}That's gonna tell you what lot number you're on.
+Dialogue: 0,0:09:55.56,0:09:57.52,Chinese,,0,0,0,0,{\pos(960,1070)}好的 这个很有用
+Dialogue: 0,0:09:55.56,0:09:57.52,English,,0,0,0,0,{\pos(960,1000)}Okay, good. That's useful to know.
+Dialogue: 0,0:09:57.96,0:10:00.84,Chinese,,0,0,0,0,{\pos(960,1070)}那是我最后听懂的几句话
+Dialogue: 0,0:09:57.96,0:10:00.84,English,,0,0,0,0,{\pos(960,1000)}And that was the last thing I understood,
+Dialogue: 0,0:10:01.04,0:10:04.80,Chinese,,0,0,0,0,{\pos(960,1070)}因为拍卖师开始说话了
+Dialogue: 0,0:10:01.04,0:10:04.80,English,,0,0,0,0,{\pos(960,1000)}because at that moment, the auctioneer started speaking.
+Dialogue: 0,0:10:05.00,0:10:08.28,Chinese,,0,0,0,0,{\pos(960,1070)}1060 1070 1080 1090
+Dialogue: 0,0:10:05.00,0:10:08.28,English,,0,0,0,0,{\pos(960,1000)}1,060, 1,060, 1,070, 1,070, 1,080, 1,090, 1,100 for the bid,
+Dialogue: 0,0:10:08.44,0:10:09.56,Chinese,,0,0,0,0,{\pos(960,1070)}1100
+Dialogue: 0,0:10:08.44,0:10:09.56,English,,0,0,0,0,{\pos(960,1000)}1,100 for the bid, for the bid.
+Dialogue: 0,0:10:09.72,0:10:11.80,Chinese,,0,0,0,0,{\pos(960,1070)}1120 1130 1140
+Dialogue: 0,0:10:09.72,0:10:11.80,English,,0,0,0,0,{\pos(960,1000)}1,120, 1,120 for the bid, 1,130, 1,140, 1,140.
+Dialogue: 0,0:10:11.96,0:10:14.96,Chinese,,0,0,0,0,{\pos(960,1070)}1140 1150 1155 1160
+Dialogue: 0,0:10:11.96,0:10:14.96,English,,0,0,0,0,{\pos(960,1000)}1,140, 1,150, 1,155. 1,155, 1,160 for the bid, 1,160 for the bid.
+Dialogue: 0,0:10:15.16,0:10:18.04,Chinese,,0,0,0,0,{\pos(960,1070)}有人出价1180 1185 现在是1205 1210
+Dialogue: 0,0:10:15.16,0:10:18.04,English,,0,0,0,0,{\pos(960,1000)}At 1,180 for the bid, 1,185, going now at 1,210.
+Dialogue: 0,0:10:18.20,0:10:22.52,Chinese,,0,0,0,0,{\pos(960,1070)}1215 1225 成交 先生 您的姓名
+Dialogue: 0,0:10:18.20,0:10:22.52,English,,0,0,0,0,{\pos(960,1000)}1,215, 1,225, at 1,220 for the bid, sold, sir. Name?
+Dialogue: 0,0:10:23.68,0:10:24.80,Chinese,,0,0,0,0,{\pos(960,1070)}一个字都没听清
+Dialogue: 0,0:10:23.68,0:10:24.80,English,,0,0,0,0,{\pos(960,1000)}Not one word.
+Dialogue: 0,0:10:26.68,0:10:29.80,Chinese,,0,0,0,0,{\pos(960,1070)}一个字都没听清 1225英镑
+Dialogue: 0,0:10:26.68,0:10:29.80,English,,0,0,0,0,{\pos(960,1000)}Not one word. Twelve twenty-five, £1,225.
+Dialogue: 0,0:10:30.00,0:10:33.68,Chinese,,0,0,0,0,{\pos(960,1070)}尤托克西特出价1160
+Dialogue: 0,0:10:30.00,0:10:33.68,English,,0,0,0,0,{\pos(960,1000)}1,160 for the bid in Uttoxeter, 1,160 for the bid.
+Dialogue: 0,0:10:33.84,0:10:36.00,Chinese,,0,0,0,0,{\pos(960,1070)}他找他老婆要柑橘酱时 也是这样说话吗
+Dialogue: 0,0:10:33.84,0:10:36.00,English,,0,0,0,0,{\pos(960,1000)}Does he talk like this to his wife when he wants her to pass the marmalade?
+Dialogue: 0,0:10:36.16,0:10:37.64,Chinese,,0,0,0,0,{\pos(960,1070)}你应该去问他老婆
+Dialogue: 0,0:10:36.16,0:10:37.64,English,,0,0,0,0,{\pos(960,1000)}I don't know. You should ask her.
+Dialogue: 0,0:10:37.80,0:10:40.48,Chinese,,0,0,0,0,{\pos(960,1070)}你 把柑橘酱递给我
+Dialogue: 0,0:10:37.80,0:10:40.48,English,,0,0,0,0,{\pos(960,1000)}You there, pass the marmalade.
+Dialogue: 0,0:10:40.64,0:10:42.48,Chinese,,0,0,0,0,{\pos(960,1070)}孩子们 去做作业
+Dialogue: 0,0:10:40.64,0:10:42.48,English,,0,0,0,0,{\pos(960,1000)}Children, do your homework.
+Dialogue: 0,0:10:42.68,0:10:44.80,Chinese,,0,0,0,0,{\pos(960,1070)}我要去楼上拉屎 然后擦屁股
+Dialogue: 0,0:10:42.68,0:10:44.80,English,,0,0,0,0,{\pos(960,1000)}I'm going upstairs for a shit now, and then I'm gonna wipe my bottom,
+Dialogue: 0,0:10:44.96,0:10:47.40,Chinese,,0,0,0,0,{\pos(960,1070)}然后我会下楼来 我们吃晚饭
+Dialogue: 0,0:10:44.96,0:10:47.40,English,,0,0,0,0,{\pos(960,1000)}and then I'm gonna come downstairs, and then we'll have our supper,
+Dialogue: 0,0:10:47.56,0:10:49.92,Chinese,,0,0,0,0,{\pos(960,1070)}然后我要看《东区人》 然后
+Dialogue: 0,0:10:47.56,0:10:49.92,English,,0,0,0,0,{\pos(960,1000)}and then I'm gonna watch EastEnders, and then I'm gonna...
+Dialogue: 0,0:10:50.12,0:10:52.32,Chinese,,0,0,0,0,{\pos(960,1070)}40 成交 肖比 1240
+Dialogue: 0,0:10:50.12,0:10:52.32,English,,0,0,0,0,{\pos(960,1000)}For the bid, 40 for the bid. Sell, Showby, 1,240.
+Dialogue: 0,0:10:53.44,0:10:54.92,Chinese,,0,0,0,0,{\pos(960,1070)}好 这 这两头不错
+Dialogue: 0,0:10:53.44,0:10:54.92,English,,0,0,0,0,{\pos(960,1000)}Right, these are good.
+Dialogue: 0,0:10:55.12,0:10:57.08,Chinese,,0,0,0,0,{\pos(960,1070)}有人出价1320
+Dialogue: 0,0:10:55.12,0:10:57.08,English,,0,0,0,0,{\pos(960,1000)}That's the bid for 1,320.
+Dialogue: 0,0:10:57.28,0:10:59.92,Chinese,,0,0,0,0,{\pos(960,1070)}现在是1350 1600
+Dialogue: 0,0:10:57.28,0:10:59.92,Chinese,,0,0,0,0,{\pos(960,1070)}1,350, 1,350, 1,350...
+Dialogue: 0,0:11:01.52,0:11:02.68,Chinese,,0,0,0,0,{\pos(960,1070)}你在出价吗
+Dialogue: 0,0:11:01.52,0:11:02.68,English,,0,0,0,0,{\pos(960,1000)}Are you bidding?
+Dialogue: 0,0:11:02.84,0:11:04.60,Chinese,,0,0,0,0,{\pos(960,1070)}现在是1600
+Dialogue: 0,0:11:02.84,0:11:04.60,English,,0,0,0,0,{\pos(960,1000)}A hundred bid, a hundred bid, at 1,600 now, ten!
+Dialogue: 0,0:11:04.76,0:11:07.48,Chinese,,0,0,0,0,{\pos(960,1070)}1620 出价
+Dialogue: 0,0:11:04.76,0:11:07.48,English,,0,0,0,0,{\pos(960,1000)}1,610, 1,620, 1,620 bid, 1,620.
+Dialogue: 0,0:11:07.64,0:11:11.40,Chinese,,0,0,0,0,{\pos(960,1070)}那位女士出价1620 成交
+Dialogue: 0,0:11:07.64,0:11:11.40,English,,0,0,0,0,{\pos(960,1000)}1,620, 1,620, bidding, and going, the lady's bidding, sell away at 1,620.
+Dialogue: 0,0:11:11.56,0:11:13.76,Chinese,,0,0,0,0,{\pos(960,1070)}我们买到了 1620 迪丽斯库阿特 1620
+Dialogue: 0,0:11:11.56,0:11:13.76,English,,0,0,0,0,{\pos(960,1000)}We got them. 1,620.
+Dialogue: 0,0:11:14.12,0:11:16.28,Chinese,,0,0,0,0,{\pos(960,1070)}不好意思 你刚刚买下来了 是的
+Dialogue: 0,0:11:14.12,0:11:16.28,English,,0,0,0,0,{\pos(960,1000)}I'm sorry, did you just buy them? Yeah.
+Dialogue: 0,0:11:16.44,0:11:17.28,Chinese,,0,0,0,0,{\pos(960,1070)}可是
+Dialogue: 0,0:11:16.44,0:11:17.28,English,,0,0,0,0,{\pos(960,1000)}Well...
+Dialogue: 0,0:11:17.44,0:11:20.16,Chinese,,0,0,0,0,{\pos(960,1070)}1620 你用1620英镑买了两头
+Dialogue: 0,0:11:17.44,0:11:20.16,English,,0,0,0,0,{\pos(960,1000)}1,620. So you've got two at 1,620.
+Dialogue: 0,0:11:20.80,0:11:22.64,Chinese,,0,0,0,0,{\pos(960,1070)}234号 1620
+Dialogue: 0,0:11:20.80,0:11:22.64,Chinese,,0,0,0,0,{\pos(960,1070)}234, 1,620.
+Dialogue: 0,0:11:22.84,0:11:23.68,Chinese,,0,0,0,0,{\pos(960,1070)}你是怎么出价的
+Dialogue: 0,0:11:22.84,0:11:23.68,English,,0,0,0,0,{\pos(960,1000)}How were you bidding?
+Dialogue: 0,0:11:23.84,0:11:25.92,Chinese,,0,0,0,0,{\pos(960,1070)}就让你的脚趾甲 长长一点 他就看见了
+Dialogue: 0,0:11:23.84,0:11:25.92,English,,0,0,0,0,{\pos(960,1000)}Were you just letting your toenails grow and he saw it?
+Dialogue: 0,0:11:26.08,0:11:27.84,Chinese,,0,0,0,0,{\pos(960,1070)}我是说 我没看见 你好
+Dialogue: 0,0:11:26.08,0:11:27.84,English,,0,0,0,0,{\pos(960,1000)}I mean, I didn't see... Oh, hello.
+Dialogue: 0,0:11:28.48,0:11:30.08,Chinese,,0,0,0,0,{\pos(960,1070)}这头牛不错
+Dialogue: 0,0:11:28.48,0:11:30.08,English,,0,0,0,0,{\pos(960,1000)}That's a nice beast.
+Dialogue: 0,0:11:31.16,0:11:34.72,Chinese,,0,0,0,0,{\pos(960,1070)}这个时候 我认为 是时候摆出老板的架子
+Dialogue: 0,0:11:31.16,0:11:34.72,English,,0,0,0,0,{\pos(960,1000)}At this point, I decided it was time to pull rank...
+Dialogue: 0,0:11:34.88,0:11:36.64,Chinese,,0,0,0,0,{\pos(960,1070)}应该是我出价才对
+Dialogue: 0,0:11:34.88,0:11:36.64,English,,0,0,0,0,{\pos(960,1000)}I'm supposed to be bidding.
+Dialogue: 0,0:11:36.84,0:11:39.12,Chinese,,0,0,0,0,{\pos(960,1070)}亲自买上几头牛了
+Dialogue: 0,0:11:36.84,0:11:39.12,English,,0,0,0,0,{\pos(960,1000)}And do some buying myself.
+Dialogue: 0,0:11:39.32,0:11:43.16,Chinese,,0,0,0,0,{\pos(960,1070)}1110 1120 1130 所以你
+Dialogue: 0,0:11:39.32,0:11:43.16,English,,0,0,0,0,{\pos(960,1000)}1,120. 1,130. 1,130 for the bid.
+Dialogue: 0,0:11:43.32,0:11:44.64,Chinese,,0,0,0,0,{\pos(960,1070)}那就交给你了
+Dialogue: 0,0:11:43.32,0:11:44.64,English,,0,0,0,0,{\pos(960,1000)}I'm leaving you to it.
+Dialogue: 0,0:11:44.80,0:11:46.16,Chinese,,0,0,0,0,{\pos(960,1070)}1150
+Dialogue: 0,0:11:44.80,0:11:46.16,Chinese,,0,0,0,0,{\pos(960,1070)}£1,150.
+Dialogue: 0,0:11:46.32,0:11:48.40,Chinese,,0,0,0,0,{\pos(960,1070)}1150
+Dialogue: 0,0:11:46.32,0:11:48.40,English,,0,0,0,0,{\pos(960,1000)}1,150. 1,150 for the bid.
+Dialogue: 0,0:11:48.56,0:11:51.32,Chinese,,0,0,0,0,{\pos(960,1070)}别把手举着 成交 1150
+Dialogue: 0,0:11:48.56,0:11:51.32,English,,0,0,0,0,{\pos(960,1000)}Stop putting your hand up! 1,150.
+Dialogue: 0,0:11:51.48,0:11:53.36,Chinese,,0,0,0,0,{\pos(960,1070)}将近两倍
+Dialogue: 0,0:11:51.48,0:11:53.36,English,,0,0,0,0,{\pos(960,1000)}Nearly twice, nearly twice.
+Dialogue: 0,0:11:53.80,0:11:56.48,Chinese,,0,0,0,0,{\pos(960,1070)}被我买下来了 你以两倍价格买下来了 是的
+Dialogue: 0,0:11:53.80,0:11:56.48,English,,0,0,0,0,{\pos(960,1000)}Did I buy that? You bought it twice, yeah.
+Dialogue: 0,0:11:56.64,0:11:58.64,Chinese,,0,0,0,0,{\pos(960,1070)}我买下来了 你自己跟自己抬价
+Dialogue: 0,0:11:56.64,0:11:58.64,English,,0,0,0,0,{\pos(960,1000)}You bid yourself up.
+Dialogue: 0,0:11:58.96,0:11:59.76,Chinese,,0,0,0,0,{\pos(960,1070)}该死
+Dialogue: 0,0:11:58.96,0:11:59.76,English,,0,0,0,0,{\pos(960,1000)}Shit.
+Dialogue: 0,0:12:01.72,0:12:03.40,Chinese,,0,0,0,0,{\pos(960,1070)}1170
+Dialogue: 0,0:12:01.72,0:12:03.40,English,,0,0,0,0,{\pos(960,1000)}Seventy bid, seventy bid, seventy bid fifty...
+Dialogue: 0,0:12:03.56,0:12:06.48,Chinese,,0,0,0,0,{\pos(960,1070)}尽管如此 我还是坚持自己出价
+Dialogue: 0,0:12:03.56,0:12:06.48,English,,0,0,0,0,{\pos(960,1000)}Nevertheless, I continued on my own.
+Dialogue: 0,0:12:06.64,0:12:08.56,Chinese,,0,0,0,0,{\pos(960,1070)}一次 两次 成交 迪丽斯库阿特
+Dialogue: 0,0:12:06.64,0:12:08.56,English,,0,0,0,0,{\pos(960,1000)}1,270, Diddly Squat.
+Dialogue: 0,0:12:08.76,0:12:11.08,Chinese,,0,0,0,0,{\pos(960,1070)}我很满意 这头牛很帅
+Dialogue: 0,0:12:08.76,0:12:11.08,English,,0,0,0,0,{\pos(960,1000)}I'm pleased with that. He's a good-looking cow.
+Dialogue: 0,0:12:11.28,0:12:13.72,Chinese,,0,0,0,0,{\pos(960,1070)}10 9 10 20
+Dialogue: 0,0:12:11.28,0:12:13.72,English,,0,0,0,0,{\pos(960,1000)}10, 9, 10, 20 bid. 50 bid, 40 bid, and £940.
+Dialogue: 0,0:12:13.92,0:12:15.60,Chinese,,0,0,0,0,{\pos(960,1070)}60
+Dialogue: 0,0:12:13.92,0:12:15.60,English,,0,0,0,0,{\pos(960,1000)}And 60...
+Dialogue: 0,0:12:15.80,0:12:16.76,Chinese,,0,0,0,0,{\pos(960,1070)}那几头被我买下来了
+Dialogue: 0,0:12:15.80,0:12:16.76,English,,0,0,0,0,{\pos(960,1000)}Did I buy those?
+Dialogue: 0,0:12:16.96,0:12:17.80,Chinese,,0,0,0,0,{\pos(960,1070)}是的
+Dialogue: 0,0:12:16.96,0:12:17.80,English,,0,0,0,0,{\pos(960,1000)}Yeah.
+Dialogue: 0,0:12:19.24,0:12:20.68,Chinese,,0,0,0,0,{\pos(960,1070)}20 80 90
+Dialogue: 0,0:12:19.24,0:12:20.68,English,,0,0,0,0,{\pos(960,1000)}20 bid, 80 bid, and 90 bid,
+Dialogue: 0,0:12:20.88,0:12:22.96,Chinese,,0,0,0,0,{\pos(960,1070)}100
+Dialogue: 0,0:12:20.88,0:12:22.96,English,,0,0,0,0,{\pos(960,1000)}and 90 bid, and 90, and 100 bid, and 100 bid...
+Dialogue: 0,0:12:23.16,0:12:24.80,Chinese,,0,0,0,0,{\pos(960,1070)}直到最后
+Dialogue: 0,0:12:23.16,0:12:24.80,English,,0,0,0,0,{\pos(960,1000)}Until eventually...
+Dialogue: 0,0:12:24.96,0:12:27.64,Chinese,,0,0,0,0,{\pos(960,1070)}成交 迪丽斯库阿特 1260
+Dialogue: 0,0:12:24.96,0:12:27.64,English,,0,0,0,0,{\pos(960,1000)}60, Diddly Squat, 1,260.
+Dialogue: 0,0:12:28.60,0:12:32.32,Chinese,,0,0,0,0,{\pos(960,1070)}所以你买了 一 二 三 四 五 六
+Dialogue: 0,0:12:28.60,0:12:32.32,English,,0,0,0,0,{\pos(960,1000)}So, you've got one, two, three, four, five, six...
+Dialogue: 0,0:12:32.48,0:12:33.28,Chinese,,0,0,0,0,{\pos(960,1070)}你买了八头
+Dialogue: 0,0:12:32.48,0:12:33.28,English,,0,0,0,0,{\pos(960,1000)}You've got eight.
+Dialogue: 0,0:12:33.48,0:12:35.40,Chinese,,0,0,0,0,{\pos(960,1070)}所以任务完成了 完成了
+Dialogue: 0,0:12:33.48,0:12:35.40,English,,0,0,0,0,{\pos(960,1000)}So we're done. We're done.
+Dialogue: 0,0:12:36.44,0:12:39.96,Chinese,,0,0,0,0,{\pos(960,1070)}等到交完钱 我的牛上了车
+Dialogue: 0,0:12:36.44,0:12:39.96,English,,0,0,0,0,{\pos(960,1000)}With the money handed over and my cows being loaded,
+Dialogue: 0,0:12:40.12,0:12:43.80,Chinese,,0,0,0,0,{\pos(960,1070)}我向哈莉特请教了最后一个问题
+Dialogue: 0,0:12:40.12,0:12:43.80,English,,0,0,0,0,{\pos(960,1000)}I asked Harriet to explain one last thing.
+Dialogue: 0,0:12:44.20,0:12:46.32,Chinese,,0,0,0,0,{\pos(960,1070)}刚才我买下其中一头牛时
+Dialogue: 0,0:12:44.20,0:12:46.32,English,,0,0,0,0,{\pos(960,1000)}When I bought one of those cows,
+Dialogue: 0,0:12:46.48,0:12:50.16,Chinese,,0,0,0,0,{\pos(960,1070)}一个男的走过来 给了我四十英镑
+Dialogue: 0,0:12:46.48,0:12:50.16,English,,0,0,0,0,{\pos(960,1000)}-a man came over and gave me forty quid. Hm.
+Dialogue: 0,0:12:50.32,0:12:52.28,Chinese,,0,0,0,0,{\pos(960,1070)}他为什么要这样做 这是彩头
+Dialogue: 0,0:12:50.32,0:12:52.28,English,,0,0,0,0,{\pos(960,1000)}-Why did he do that? It's "luck money".
+Dialogue: 0,0:12:53.28,0:12:54.60,Chinese,,0,0,0,0,{\pos(960,1070)}你买下别人的牛时
+Dialogue: 0,0:12:53.28,0:12:54.60,English,,0,0,0,0,{\pos(960,1000)}So when you buy someone's cows,
+Dialogue: 0,0:12:54.76,0:12:57.44,Chinese,,0,0,0,0,{\pos(960,1070)}这个人会赠送你彩头 作为你买牛的奖励
+Dialogue: 0,0:12:54.76,0:12:57.44,English,,0,0,0,0,{\pos(960,1000)}they give you "luck money" as an incentive to buy them.
+Dialogue: 0,0:12:57.64,0:12:59.44,Chinese,,0,0,0,0,{\pos(960,1070)}所以是现金 他给我现金
+Dialogue: 0,0:12:57.64,0:12:59.44,English,,0,0,0,0,{\pos(960,1000)}So it's cash money he's just given me?
+Dialogue: 0,0:12:59.60,0:13:01.72,Chinese,,0,0,0,0,{\pos(960,1070)}是的 不用交税 我喜欢他
+Dialogue: 0,0:12:59.60,0:13:01.72,English,,0,0,0,0,{\pos(960,1000)}-Yeah. No tax. I like him.
+Dialogue: 0,0:13:02.20,0:13:04.60,Chinese,,0,0,0,0,{\pos(960,1070)}现在要交了 因为上电视了
+Dialogue: 0,0:13:02.20,0:13:04.60,English,,0,0,0,0,{\pos(960,1000)}Well, there is now, 'cause I've just put it on television.
+Dialogue: 0,0:13:04.76,0:13:07.36,Chinese,,0,0,0,0,{\pos(960,1070)}税务海关总署在看着呢 我们会把钱还给他
+Dialogue: 0,0:13:04.76,0:13:07.36,English,,0,0,0,0,{\pos(960,1000)}-HMRC are watching. We'll give it him back.
+Dialogue: 0,0:13:08.16,0:13:11.56,Chinese,,0,0,0,0,{\pos(960,1070)}告别了迪丽斯库阿特的兼职员工
+Dialogue: 0,0:13:08.16,0:13:11.56,English,,0,0,0,0,{\pos(960,1000)}Having said goodbye to our part-time Diddly Squatter...
+Dialogue: 0,0:13:11.72,0:13:13.28,Chinese,,0,0,0,0,{\pos(960,1070)}多保重 好的 再见
+Dialogue: 0,0:13:11.72,0:13:13.28,English,,0,0,0,0,{\pos(960,1000)}Take care of yourself. Yeah. See you later.
+Dialogue: 0,0:13:15.96,0:13:19.20,Chinese,,0,0,0,0,{\pos(960,1070)}我带着新买的牛回到了农场
+Dialogue: 0,0:13:15.96,0:13:19.20,English,,0,0,0,0,{\pos(960,1000)}I headed back to the farm with my new cows...
+Dialogue: 0,0:13:19.36,0:13:20.92,Chinese,,0,0,0,0,{\pos(960,1070)}来吧 新来的母牛
+Dialogue: 0,0:13:19.36,0:13:20.92,English,,0,0,0,0,{\pos(960,1000)}Come on, new cows.
+Dialogue: 0,0:13:21.92,0:13:26.88,Chinese,,0,0,0,0,{\pos(960,1070)}同时等着查理 热烈表扬我圆满完成任务
+Dialogue: 0,0:13:21.92,0:13:26.88,English,,0,0,0,0,{\pos(960,1000)}...and waited for Charlie to shower me with praise for a job well done.
+Dialogue: 0,0:13:27.28,0:13:28.36,Chinese,,0,0,0,0,{\pos(960,1070)}你看
+Dialogue: 0,0:13:27.28,0:13:28.36,English,,0,0,0,0,{\pos(960,1000)}Check 'em out.
+Dialogue: 0,0:13:29.32,0:13:31.68,Chinese,,0,0,0,0,{\pos(960,1070)}那两头利穆赞牛不错 非常好
+Dialogue: 0,0:13:29.32,0:13:31.68,English,,0,0,0,0,{\pos(960,1000)}Those two limousines are cracking. They're really good.
+Dialogue: 0,0:13:31.88,0:13:34.24,Chinese,,0,0,0,0,{\pos(960,1070)}很快就能备宰了 那是哈莉特买的
+Dialogue: 0,0:13:31.88,0:13:34.24,English,,0,0,0,0,{\pos(960,1000)}They'll finish quite quickly. They're the ones Harriet bought.
+Dialogue: 0,0:13:34.44,0:13:37.24,Chinese,,0,0,0,0,{\pos(960,1070)}剩下的都是你挑的吧 是的
+Dialogue: 0,0:13:34.44,0:13:37.24,English,,0,0,0,0,{\pos(960,1000)}Who chose the other ones? Harriet? I did.
+Dialogue: 0,0:13:37.96,0:13:39.56,Chinese,,0,0,0,0,{\pos(960,1070)}你不觉得这头很不错吗
+Dialogue: 0,0:13:37.96,0:13:39.56,English,,0,0,0,0,{\pos(960,1000)}Don't you think this one's pretty cool?
+Dialogue: 0,0:13:40.00,0:13:42.80,Chinese,,0,0,0,0,{\pos(960,1070)}不觉得 它的屁股不够丰满 没有肉
+Dialogue: 0,0:13:40.00,0:13:42.80,English,,0,0,0,0,{\pos(960,1000)}No, it hasn't got a round rump on the back. It's bare.
+Dialogue: 0,0:13:43.20,0:13:44.08,Chinese,,0,0,0,0,{\pos(960,1070)}噢
+Dialogue: 0,0:13:43.20,0:13:44.08,English,,0,0,0,0,{\pos(960,1000)}Oh.
+Dialogue: 0,0:13:44.28,0:13:45.28,Chinese,,0,0,0,0,{\pos(960,1070)}那头怎么样
+Dialogue: 0,0:13:44.28,0:13:45.28,English,,0,0,0,0,{\pos(960,1000)}What about that one?
+Dialogue: 0,0:13:45.44,0:13:47.44,Chinese,,0,0,0,0,{\pos(960,1070)}同样的问题 那头有什么问题
+Dialogue: 0,0:13:45.44,0:13:47.44,English,,0,0,0,0,{\pos(960,1000)}Again. What's the matter with that one?
+Dialogue: 0,0:13:47.64,0:13:48.80,Chinese,,0,0,0,0,{\pos(960,1070)}还不够大
+Dialogue: 0,0:13:47.64,0:13:48.80,English,,0,0,0,0,{\pos(960,1000)}They're not big enough yet.
+Dialogue: 0,0:13:48.96,0:13:51.52,Chinese,,0,0,0,0,{\pos(960,1070)}它们的骨架不错 但是需要增肥
+Dialogue: 0,0:13:48.96,0:13:51.52,English,,0,0,0,0,{\pos(960,1000)}They've got good frames, but they need to pack some weight on.
+Dialogue: 0,0:13:52.60,0:13:53.40,Chinese,,0,0,0,0,{\pos(960,1070)}噢
+Dialogue: 0,0:13:52.60,0:13:53.40,English,,0,0,0,0,{\pos(960,1000)}Oh.
+Dialogue: 0,0:13:53.56,0:13:54.76,Chinese,,0,0,0,0,{\pos(960,1070)}市场上有肥牛
+Dialogue: 0,0:13:53.56,0:13:54.76,English,,0,0,0,0,{\pos(960,1000)}There were some fat cattle at the market.
+Dialogue: 0,0:13:54.92,0:13:57.72,Chinese,,0,0,0,0,{\pos(960,1070)}是你说别买肥的 我是让你买肥的
+Dialogue: 0,0:13:54.92,0:13:57.72,English,,0,0,0,0,{\pos(960,1000)}-Yeah, but you said don't get fat ones. I said buy fat ones to you on the phone.
+Dialogue: 0,0:13:57.88,0:14:01.24,Chinese,,0,0,0,0,{\pos(960,1070)}你让我买育肥牛 没让我买肥牛
+Dialogue: 0,0:13:57.88,0:14:01.24,English,,0,0,0,0,{\pos(960,1000)}You said: "Get store-store cattle, late store, not fat."
+Dialogue: 0,0:14:01.40,0:14:04.92,Chinese,,0,0,0,0,{\pos(960,1070)}我说的是 第一批牛 需要在一个月后备宰
+Dialogue: 0,0:14:01.40,0:14:04.92,English,,0,0,0,0,{\pos(960,1000)}I said the first couple need to be a month from being finished.
+Dialogue: 0,0:14:05.12,0:14:07.32,Chinese,,0,0,0,0,{\pos(960,1070)}所以如果是肥牛 就已经被宰了
+Dialogue: 0,0:14:05.12,0:14:07.32,English,,0,0,0,0,{\pos(960,1000)}So if they'd have been fat, they'd have been finished?
+Dialogue: 0,0:14:07.80,0:14:09.52,Chinese,,0,0,0,0,{\pos(960,1070)}我是不是搞错了 也不是
+Dialogue: 0,0:14:07.80,0:14:09.52,English,,0,0,0,0,{\pos(960,1000)}Oh, God, have I done it wrong?
+Dialogue: 0,0:14:10.24,0:14:12.24,Chinese,,0,0,0,0,{\pos(960,1070)}反正我们没搞对
+Dialogue: 0,0:14:10.24,0:14:12.24,English,,0,0,0,0,{\pos(960,1000)}Well, we've not done it right.
+Dialogue: 0,0:14:12.44,0:14:16.52,Chinese,,0,0,0,0,{\pos(960,1070)}如果运气好 那两头棕色的 也许八月底就能备宰了
+Dialogue: 0,0:14:12.44,0:14:16.52,English,,0,0,0,0,{\pos(960,1000)}So we might be lucky to finish those brown ones by the end of August.
+Dialogue: 0,0:14:18.00,0:14:20.12,Chinese,,0,0,0,0,{\pos(960,1070)}这头大概要六个月
+Dialogue: 0,0:14:18.00,0:14:20.12,English,,0,0,0,0,{\pos(960,1000)}This one, probably six months.
+Dialogue: 0,0:14:20.28,0:14:22.48,Chinese,,0,0,0,0,{\pos(960,1070)}不会吧 六个月
+Dialogue: 0,0:14:20.28,0:14:22.48,English,,0,0,0,0,{\pos(960,1000)}No? Six months?
+Dialogue: 0,0:14:23.44,0:14:27.68,Chinese,,0,0,0,0,{\pos(960,1070)}查理说 要想在更短时间内 让它们达到为酒吧供肉的体重
+Dialogue: 0,0:14:23.44,0:14:27.68,English,,0,0,0,0,{\pos(960,1000)}Charlie said the only way to get them ready for the pub more quickly
+Dialogue: 0,0:14:27.84,0:14:31.88,Chinese,,0,0,0,0,{\pos(960,1070)}就必须让它们吃强化增肥饲料
+Dialogue: 0,0:14:27.84,0:14:31.88,English,,0,0,0,0,{\pos(960,1000)}was to put them on a high-intensity bulking-up diet.
+Dialogue: 0,0:14:32.36,0:14:33.84,Chinese,,0,0,0,0,{\pos(960,1070)}这个得换换
+Dialogue: 0,0:14:32.36,0:14:33.84,English,,0,0,0,0,{\pos(960,1000)}You need to change this.
+Dialogue: 0,0:14:34.32,0:14:37.88,Chinese,,0,0,0,0,{\pos(960,1070)}好 我们会让你们变得又大又肥的
+Dialogue: 0,0:14:34.32,0:14:37.88,English,,0,0,0,0,{\pos(960,1000)}Okay. We're going to make you big, fat cows.
+Dialogue: 0,0:14:40.40,0:14:43.04,Chinese,,0,0,0,0,{\pos(960,1070)}查理去张罗这件事了
+Dialogue: 0,0:14:40.40,0:14:43.04,English,,0,0,0,0,{\pos(960,1000)}While Charlie went off to organise that,
+Dialogue: 0,0:14:43.20,0:14:45.12,Chinese,,0,0,0,0,{\pos(960,1070)}我回到了风车餐厅
+Dialogue: 0,0:14:43.20,0:14:45.12,English,,0,0,0,0,{\pos(960,1000)}I headed back to The Windmill...
+Dialogue: 0,0:14:47.00,0:14:49.44,Chinese,,0,0,0,0,{\pos(960,1070)}第一次与苏和瑞秋见面
+Dialogue: 0,0:14:47.00,0:14:49.44,English,,0,0,0,0,{\pos(960,1000)}for my first meeting with Sue and Rachel.
+Dialogue: 0,0:14:50.36,0:14:53.16,Chinese,,0,0,0,0,{\pos(960,1070)}你得把这里看作一台机器
+Dialogue: 0,0:14:50.36,0:14:53.16,English,,0,0,0,0,{\pos(960,1000)}You've got to look at it as a machine here.
+Dialogue: 0,0:14:53.32,0:14:56.52,Chinese,,0,0,0,0,{\pos(960,1070)}我们非常希望它看起来很棒 我们还想
+Dialogue: 0,0:14:53.32,0:14:56.52,English,,0,0,0,0,{\pos(960,1000)}And we definitely want it to look great.
+Dialogue: 0,0:14:56.72,0:14:59.72,Chinese,,0,0,0,0,{\pos(960,1070)}她俩是搭档 专门在科茨沃尔德从事酒吧筹备工作
+Dialogue: 0,0:14:56.72,0:14:59.72,English,,0,0,0,0,{\pos(960,1000)}Together, they specialise in setting up pubs in the Cotswolds
+Dialogue: 0,0:14:59.92,0:15:03.96,Chinese,,0,0,0,0,{\pos(960,1070)}现在 我需要她们帮我把酒吧开起来
+Dialogue: 0,0:14:59.92,0:15:03.96,English,,0,0,0,0,{\pos(960,1000)}and now I needed them to get mine off the ground.
+Dialogue: 0,0:15:04.12,0:15:07.48,Chinese,,0,0,0,0,{\pos(960,1070)}还有一个更紧迫的问题 我希望酒吧在五周后开张
+Dialogue: 0,0:15:04.12,0:15:07.48,English,,0,0,0,0,{\pos(960,1000)}A much more immediate problem: I want to get this place open in five weeks.
+Dialogue: 0,0:15:09.48,0:15:10.92,Chinese,,0,0,0,0,{\pos(960,1070)}好的 显然难度很大
+Dialogue: 0,0:15:09.48,0:15:10.92,English,,0,0,0,0,{\pos(960,1000)}Well, obviously it's quite daunting.
+Dialogue: 0,0:15:11.36,0:15:13.80,Chinese,,0,0,0,0,{\pos(960,1070)}时间不够充裕 不过我们能做到
+Dialogue: 0,0:15:11.36,0:15:13.80,English,,0,0,0,0,{\pos(960,1000)}It's not ideal, is it? But we'll do it.
+Dialogue: 0,0:15:14.00,0:15:18.32,Chinese,,0,0,0,0,{\pos(960,1070)}然后苏简单介绍了对经营效率的要求
+Dialogue: 0,0:15:14.00,0:15:18.32,English,,0,0,0,0,{\pos(960,1000)}Sue then outlined how efficient the operation would have to be.
+Dialogue: 0,0:15:18.84,0:15:22.72,Chinese,,0,0,0,0,{\pos(960,1070)}你知道 到时候这里会有150人用餐
+Dialogue: 0,0:15:18.84,0:15:22.72,English,,0,0,0,0,{\pos(960,1000)}You know, we're gonna seat or serve 150 people in here.
+Dialogue: 0,0:15:22.88,0:15:24.88,Chinese,,0,0,0,0,{\pos(960,1070)}露台还有一百人 是的
+Dialogue: 0,0:15:22.88,0:15:24.88,English,,0,0,0,0,{\pos(960,1000)}A hundred on the terrace. Yeah.
+Dialogue: 0,0:15:25.04,0:15:27.00,Chinese,,0,0,0,0,{\pos(960,1070)}每天两到四次 对
+Dialogue: 0,0:15:25.04,0:15:27.00,English,,0,0,0,0,{\pos(960,1000)}Two, three, four times a day. Yeah.
+Dialogue: 0,0:15:27.20,0:15:29.60,Chinese,,0,0,0,0,{\pos(960,1070)}所以从那个厨房出来的每一道菜
+Dialogue: 0,0:15:27.20,0:15:29.60,English,,0,0,0,0,{\pos(960,1000)}So for every meal that's coming out of that kitchen,
+Dialogue: 0,0:15:29.80,0:15:33.12,Chinese,,0,0,0,0,{\pos(960,1070)}必须要有一台高效的机器 因为食物必须嗖地一下进来
+Dialogue: 0,0:15:29.80,0:15:33.12,English,,0,0,0,0,{\pos(960,1000)}there's gotta be an efficient machine, because the food has gotta whiz in,
+Dialogue: 0,0:15:33.28,0:15:35.76,Chinese,,0,0,0,0,{\pos(960,1070)}每个人都要下意识地 知道自己该做什么
+Dialogue: 0,0:15:33.28,0:15:35.76,English,,0,0,0,0,{\pos(960,1000)}everyone knows what they're instantly doing with it, do it,
+Dialogue: 0,0:15:36.44,0:15:37.88,Chinese,,0,0,0,0,{\pos(960,1070)}食物从前门送出去
+Dialogue: 0,0:15:36.44,0:15:37.88,English,,0,0,0,0,{\pos(960,1000)}shove it out the front door.
+Dialogue: 0,0:15:38.68,0:15:40.72,Chinese,,0,0,0,0,{\pos(960,1070)}然后我带她们看了厨房
+Dialogue: 0,0:15:38.68,0:15:40.72,English,,0,0,0,0,{\pos(960,1000)}I then showed them the kitchen,
+Dialogue: 0,0:15:41.24,0:15:45.04,Chinese,,0,0,0,0,{\pos(960,1070)}我以为厨房已经什么都不缺了
+Dialogue: 0,0:15:41.24,0:15:45.04,English,,0,0,0,0,{\pos(960,1000)}which, I assumed, was already full of everything we'd need.
+Dialogue: 0,0:15:45.24,0:15:48.72,Chinese,,0,0,0,0,{\pos(960,1070)}要想接待那么多顾客 后厨这条线
+Dialogue: 0,0:15:45.24,0:15:48.72,English,,0,0,0,0,{\pos(960,1000)}This back cook line, I think to do the numbers that we're talking about,
+Dialogue: 0,0:15:48.88,0:15:51.12,Chinese,,0,0,0,0,{\pos(960,1070)}必须大加改进
+Dialogue: 0,0:15:48.88,0:15:51.12,English,,0,0,0,0,{\pos(960,1000)}needs to be vastly improved.
+Dialogue: 0,0:15:51.32,0:15:53.72,Chinese,,0,0,0,0,{\pos(960,1070)}一个新的六灶炉 一个碳烤炉
+Dialogue: 0,0:15:51.32,0:15:53.72,English,,0,0,0,0,{\pos(960,1000)}A new six burner. A chargrill.
+Dialogue: 0,0:15:53.92,0:15:55.68,Chinese,,0,0,0,0,{\pos(960,1070)}可能还要在墙上装个顶置烤架
+Dialogue: 0,0:15:53.92,0:15:55.68,English,,0,0,0,0,{\pos(960,1000)}Probably a salamander grill on the wall.
+Dialogue: 0,0:15:55.84,0:15:57.36,Chinese,,0,0,0,0,{\pos(960,1070)}绝对需要一个顶置烤架
+Dialogue: 0,0:15:55.84,0:15:57.36,English,,0,0,0,0,{\pos(960,1000)}Definitely a salamander grill.
+Dialogue: 0,0:15:57.56,0:16:01.24,Chinese,,0,0,0,0,{\pos(960,1070)}这种烤箱 厨房的另一头也需要一台
+Dialogue: 0,0:15:57.56,0:16:01.24,English,,0,0,0,0,{\pos(960,1000)}This Rational, we need another one of at the other end of the kitchen.
+Dialogue: 0,0:16:01.40,0:16:02.68,Chinese,,0,0,0,0,{\pos(960,1070)}需要两台 是的
+Dialogue: 0,0:16:01.40,0:16:02.68,English,,0,0,0,0,{\pos(960,1000)}So you need two of those?
+Dialogue: 0,0:16:02.88,0:16:05.00,Chinese,,0,0,0,0,{\pos(960,1070)}就像一台超级烤箱 这台要多少钱
+Dialogue: 0,0:16:02.88,0:16:05.00,English,,0,0,0,0,{\pos(960,1000)}-How much is this? That's like a mega oven.
+Dialogue: 0,0:16:05.16,0:16:07.52,Chinese,,0,0,0,0,{\pos(960,1070)}多少钱 七千
+Dialogue: 0,0:16:05.16,0:16:07.52,English,,0,0,0,0,{\pos(960,1000)}How much is it? Seven grand?
+Dialogue: 0,0:16:07.72,0:16:09.72,Chinese,,0,0,0,0,{\pos(960,1070)}什么 一台烤箱要七千 但是真的很好用
+Dialogue: 0,0:16:07.72,0:16:09.72,English,,0,0,0,0,{\pos(960,1000)}-What? For an oven? But it's a really amazing oven.
+Dialogue: 0,0:16:09.88,0:16:11.68,Chinese,,0,0,0,0,{\pos(960,1070)}怎么可能花七千英镑买台烤炉
+Dialogue: 0,0:16:09.88,0:16:11.68,English,,0,0,0,0,{\pos(960,1000)}How can you possibly spend seven thousand
+Dialogue: 0,0:16:11.84,0:16:12.92,Chinese,,0,0,0,0,{\pos(960,1070)}这是主厨最爱的玩具
+Dialogue: 0,0:16:11.84,0:16:12.92,English,,0,0,0,0,{\pos(960,1000)}-on an oven? It's a chef's favourite toy.
+Dialogue: 0,0:16:14.00,0:16:16.20,Chinese,,0,0,0,0,{\pos(960,1070)}你们觉得这里需要花多少钱
+Dialogue: 0,0:16:14.00,0:16:16.20,English,,0,0,0,0,{\pos(960,1000)}How much do you think we'd need to spend in here?
+Dialogue: 0,0:16:16.84,0:16:19.08,Chinese,,0,0,0,0,{\pos(960,1070)}如果买全新的设备
+Dialogue: 0,0:16:16.84,0:16:19.08,English,,0,0,0,0,{\pos(960,1000)}Well, if we're having brand-new kit...
+Dialogue: 0,0:16:19.84,0:16:21.68,Chinese,,0,0,0,0,{\pos(960,1070)}七万五到十万吧 很多钱
+Dialogue: 0,0:16:19.84,0:16:21.68,English,,0,0,0,0,{\pos(960,1000)}-Seventy-five to a hundred grand. A lot of money.
+Dialogue: 0,0:16:22.64,0:16:24.12,Chinese,,0,0,0,0,{\pos(960,1070)}抱歉 我的耳朵好像
+Dialogue: 0,0:16:22.64,0:16:24.12,English,,0,0,0,0,{\pos(960,1000)}Sorry, my ear's like... Slash a bit of rented...
+Dialogue: 0,0:16:24.28,0:16:26.84,Chinese,,0,0,0,0,{\pos(960,1070)}没错 挺惊人的 七万五
+Dialogue: 0,0:16:24.28,0:16:26.84,English,,0,0,0,0,{\pos(960,1000)}Yeah! It is a surprise, I know that.
+Dialogue: 0,0:16:27.00,0:16:29.16,Chinese,,0,0,0,0,{\pos(960,1070)}现在的国际行情对耳朵不大友好
+Dialogue: 0,0:16:27.00,0:16:29.16,English,,0,0,0,0,{\pos(960,1000)}Seventy-five to a hundred... It's a bad time for ears!
+Dialogue: 0,0:16:29.32,0:16:31.68,Chinese,,0,0,0,0,{\pos(960,1070)}我很确定你说的是十万
+Dialogue: 0,0:16:29.32,0:16:31.68,English,,0,0,0,0,{\pos(960,1000)}I'm sure you said a hundred thousand.
+Dialogue: 0,0:16:32.44,0:16:35.04,Chinese,,0,0,0,0,{\pos(960,1070)}不过如果买二手的 费用应该可以减半
+Dialogue: 0,0:16:32.44,0:16:35.04,English,,0,0,0,0,{\pos(960,1000)}But we could probably halve that for reconditioned.
+Dialogue: 0,0:16:35.24,0:16:38.32,Chinese,,0,0,0,0,{\pos(960,1070)}不到五万 三万五到四万
+Dialogue: 0,0:16:35.24,0:16:38.32,English,,0,0,0,0,{\pos(960,1000)}Less than fifty. Thirty-five to forty.
+Dialogue: 0,0:16:39.60,0:16:42.00,Chinese,,0,0,0,0,{\pos(960,1070)}通过买一些二手设备 好 一些非标准规格的设备
+Dialogue: 0,0:16:39.60,0:16:42.00,English,,0,0,0,0,{\pos(960,1000)}With a bit of reconditioned, a little bit of not-of-spec.
+Dialogue: 0,0:16:42.16,0:16:45.44,Chinese,,0,0,0,0,{\pos(960,1070)}那样的话 周末可以做烤肉吗
+Dialogue: 0,0:16:42.16,0:16:45.44,English,,0,0,0,0,{\pos(960,1000)}And will that be able to do carvery cooking at weekends?
+Dialogue: 0,0:16:45.60,0:16:46.40,Chinese,,0,0,0,0,{\pos(960,1070)}可以
+Dialogue: 0,0:16:45.60,0:16:46.40,English,,0,0,0,0,{\pos(960,1000)}Yeah.
+Dialogue: 0,0:16:46.60,0:16:47.76,Chinese,,0,0,0,0,{\pos(960,1070)}那么那间屋放什么
+Dialogue: 0,0:16:46.60,0:16:47.76,English,,0,0,0,0,{\pos(960,1000)}So what goes in here then?
+Dialogue: 0,0:16:49.04,0:16:50.68,Chinese,,0,0,0,0,{\pos(960,1070)}显然 这间屋要留着 这是备餐间
+Dialogue: 0,0:16:49.04,0:16:50.68,English,,0,0,0,0,{\pos(960,1000)}We'd keep this, obviously. This is prep, yeah.
+Dialogue: 0,0:16:50.84,0:16:52.56,Chinese,,0,0,0,0,{\pos(960,1070)}所以这是备餐间 是的
+Dialogue: 0,0:16:50.84,0:16:52.56,English,,0,0,0,0,{\pos(960,1000)}Oh, so this is food prep? Yeah.
+Dialogue: 0,0:16:52.72,0:16:54.96,Chinese,,0,0,0,0,{\pos(960,1070)}真够恶心的 你看地板
+Dialogue: 0,0:16:52.72,0:16:54.96,English,,0,0,0,0,{\pos(960,1000)}It's really disgusting. Look at this floor.
+Dialogue: 0,0:16:55.12,0:16:57.76,Chinese,,0,0,0,0,{\pos(960,1070)}这是陈年老垢了 不是新的
+Dialogue: 0,0:16:55.12,0:16:57.76,English,,0,0,0,0,{\pos(960,1000)}This is not new dirt, this is old dirt.
+Dialogue: 0,0:16:57.92,0:17:00.20,Chinese,,0,0,0,0,{\pos(960,1070)}太脏了 你看冰箱里面 好恶心
+Dialogue: 0,0:16:57.92,0:17:00.20,English,,0,0,0,0,{\pos(960,1000)}It's filthy. Look in that fridge. It is disgusting.
+Dialogue: 0,0:17:00.36,0:17:01.40,Chinese,,0,0,0,0,{\pos(960,1070)}太脏了
+Dialogue: 0,0:17:00.36,0:17:01.40,English,,0,0,0,0,{\pos(960,1000)}Filthy.
+Dialogue: 0,0:17:01.60,0:17:03.48,Chinese,,0,0,0,0,{\pos(960,1070)}这些墙太脏了 必须粉刷一遍
+Dialogue: 0,0:17:01.60,0:17:03.48,English,,0,0,0,0,{\pos(960,1000)}We've got to line all these filthy walls.
+Dialogue: 0,0:17:03.64,0:17:05.20,Chinese,,0,0,0,0,{\pos(960,1070)}很便宜的 遮住脏东西就行了
+Dialogue: 0,0:17:03.64,0:17:05.20,English,,0,0,0,0,{\pos(960,1000)}It's cheap and cheerful. It's just cladding.
+Dialogue: 0,0:17:05.36,0:17:06.36,Chinese,,0,0,0,0,{\pos(960,1070)}有个问题
+Dialogue: 0,0:17:05.36,0:17:06.36,English,,0,0,0,0,{\pos(960,1000)}You need to get a new fridge.
+Dialogue: 0,0:17:06.56,0:17:09.48,Chinese,,0,0,0,0,{\pos(960,1070)}你们知道 我们打算把商店开在这里面吧
+Dialogue: 0,0:17:06.56,0:17:09.48,English,,0,0,0,0,{\pos(960,1000)}I mean, one of the things, you know we're gonna put the shop in here.
+Dialogue: 0,0:17:10.44,0:17:11.80,Chinese,,0,0,0,0,{\pos(960,1070)}什么 丽莎的商店
+Dialogue: 0,0:17:10.44,0:17:11.80,English,,0,0,0,0,{\pos(960,1000)}What? Lisa's shop.
+Dialogue: 0,0:17:12.00,0:17:15.44,Chinese,,0,0,0,0,{\pos(960,1070)}我们需要那块空间 有很多东西要储藏
+Dialogue: 0,0:17:12.00,0:17:15.44,English,,0,0,0,0,{\pos(960,1000)}We need that area. We've got so much to store.
+Dialogue: 0,0:17:15.60,0:17:17.64,Chinese,,0,0,0,0,{\pos(960,1070)}那是备用家具 备用的玻璃器皿
+Dialogue: 0,0:17:15.60,0:17:17.64,English,,0,0,0,0,{\pos(960,1000)}There's spare furniture, spare glassware.
+Dialogue: 0,0:17:17.84,0:17:19.40,Chinese,,0,0,0,0,{\pos(960,1070)}不 她不能把商店开在这里
+Dialogue: 0,0:17:17.84,0:17:19.40,English,,0,0,0,0,{\pos(960,1000)}No, no, no, she can't have a shop in here.
+Dialogue: 0,0:17:19.56,0:17:22.40,Chinese,,0,0,0,0,{\pos(960,1070)}问题在于 我们需要很大的储藏空间
+Dialogue: 0,0:17:19.56,0:17:22.40,English,,0,0,0,0,{\pos(960,1000)}The thing is, we do need a lot of storage. We've got...
+Dialogue: 0,0:17:22.60,0:17:25.04,Chinese,,0,0,0,0,{\pos(960,1070)}我们有餐巾纸 薯片 储藏什么
+Dialogue: 0,0:17:22.60,0:17:25.04,English,,0,0,0,0,{\pos(960,1000)}What storage? Napkins, crisps.
+Dialogue: 0,0:17:25.20,0:17:26.88,Chinese,,0,0,0,0,{\pos(960,1070)}货架 备用的餐具 干货
+Dialogue: 0,0:17:25.20,0:17:26.88,English,,0,0,0,0,{\pos(960,1000)}Spare crockery, dry store.
+Dialogue: 0,0:17:27.04,0:17:31.52,Chinese,,0,0,0,0,{\pos(960,1070)}不计其数的杯子 餐巾纸 厕纸 百洁布
+Dialogue: 0,0:17:27.04,0:17:31.52,English,,0,0,0,0,{\pos(960,1000)}Millions of glasses, stacks of blue roll, loo rolls. Millions of things.
+Dialogue: 0,0:17:31.68,0:17:32.96,Chinese,,0,0,0,0,{\pos(960,1070)}你需要储藏空间
+Dialogue: 0,0:17:31.68,0:17:32.96,English,,0,0,0,0,{\pos(960,1000)}You need storage.
+Dialogue: 0,0:17:33.12,0:17:35.08,Chinese,,0,0,0,0,{\pos(960,1070)}这是酒吧顾客看不到的地方 没错
+Dialogue: 0,0:17:33.12,0:17:35.08,English,,0,0,0,0,{\pos(960,1000)}-This is what people don't see in pubs. No.
+Dialogue: 0,0:17:35.24,0:17:38.08,Chinese,,0,0,0,0,{\pos(960,1070)}顾客只会看到 面带微笑的女服务员斟啤酒
+Dialogue: 0,0:17:35.24,0:17:38.08,English,,0,0,0,0,{\pos(960,1000)}You see sort of a smiley waitress pulling a pint.
+Dialogue: 0,0:17:38.28,0:17:39.68,Chinese,,0,0,0,0,{\pos(960,1070)}那只占整个酒吧的百分之一
+Dialogue: 0,0:17:38.28,0:17:39.68,English,,0,0,0,0,{\pos(960,1000)}That is about one per cent of it.
+Dialogue: 0,0:17:40.56,0:17:41.48,Chinese,,0,0,0,0,{\pos(960,1070)}剩下的大多是
+Dialogue: 0,0:17:40.56,0:17:41.48,English,,0,0,0,0,{\pos(960,1000)}And the rest is mostly--
+Dialogue: 0,0:17:41.64,0:17:44.60,Chinese,,0,0,0,0,{\pos(960,1070)}该死 丽莎不会 堆积如山的化学品
+Dialogue: 0,0:17:41.64,0:17:44.60,English,,0,0,0,0,{\pos(960,1000)}Shit. Lisa's not gonna be... Stacking chemicals!
+Dialogue: 0,0:17:44.80,0:17:45.92,Chinese,,0,0,0,0,{\pos(960,1070)}头疼
+Dialogue: 0,0:17:44.80,0:17:45.92,English,,0,0,0,0,{\pos(960,1000)}Shit.
+Dialogue: 0,0:17:46.52,0:17:48.72,Chinese,,0,0,0,0,{\pos(960,1070)}你打算怎么跟她说 我觉得
+Dialogue: 0,0:17:46.52,0:17:48.72,English,,0,0,0,0,{\pos(960,1000)}How are you gonna break it to her? 'Cause I don't think...
+Dialogue: 0,0:17:49.24,0:17:50.72,Chinese,,0,0,0,0,{\pos(960,1070)}老办法
+Dialogue: 0,0:17:49.24,0:17:50.72,English,,0,0,0,0,{\pos(960,1000)}I'll do what I always do.
+Dialogue: 0,0:17:50.88,0:17:54.16,Chinese,,0,0,0,0,{\pos(960,1070)}想一个解决办法 然后把解决办法告诉她
+Dialogue: 0,0:17:50.88,0:17:54.16,English,,0,0,0,0,{\pos(960,1000)}I think of a solution and then tell her the solution.
+Dialogue: 0,0:17:54.68,0:17:56.36,Chinese,,0,0,0,0,{\pos(960,1070)}如果直接把问题告诉她
+Dialogue: 0,0:17:54.68,0:17:56.36,English,,0,0,0,0,{\pos(960,1000)}If I tell her the problem,
+Dialogue: 0,0:17:56.52,0:17:59.52,Chinese,,0,0,0,0,{\pos(960,1070)}我的脑袋和脖子会被钝器重击
+Dialogue: 0,0:17:56.52,0:17:59.52,English,,0,0,0,0,{\pos(960,1000)}I'm beaten about the head and neck with blunt instruments.
+Dialogue: 0,0:18:01.48,0:18:05.32,Chinese,,0,0,0,0,{\pos(960,1070)}我一边想着如何解决这个问题
+Dialogue: 0,0:18:01.48,0:18:05.32,English,,0,0,0,0,{\pos(960,1000)}After slotting that problem into my mental microwave,
+Dialogue: 0,0:18:05.88,0:18:07.48,Chinese,,0,0,0,0,{\pos(960,1070)}一边去找阿兰
+Dialogue: 0,0:18:05.88,0:18:07.48,English,,0,0,0,0,{\pos(960,1000)}I went to find Alan...
+Dialogue: 0,0:18:08.04,0:18:10.72,Chinese,,0,0,0,0,{\pos(960,1070)}我的天 老天爷
+Dialogue: 0,0:18:08.04,0:18:10.72,English,,0,0,0,0,{\pos(960,1000)}Oh, man. God Almighty. Urgh.
+Dialogue: 0,0:18:10.84,0:18:12.86,Chinese,,0,0,0,0,{\pos(960,1070)}（德丁顿液体废物处理车）
+Dialogue: 0,0:18:11.92,0:18:15.40,Chinese,,0,0,0,0,{\pos(960,1070)}他跟我发短信说 酒吧的化粪池装满了
+Dialogue: 0,0:18:11.92,0:18:15.40,English,,0,0,0,0,{\pos(960,1000)}...who'd messaged me to say the pub's septic tank was full
+Dialogue: 0,0:18:16.60,0:18:18.36,Chinese,,0,0,0,0,{\pos(960,1070)}而且坏掉了
+Dialogue: 0,0:18:16.60,0:18:18.36,English,,0,0,0,0,{\pos(960,1000)}and also broken.
+Dialogue: 0,0:18:19.04,0:18:21.00,Chinese,,0,0,0,0,{\pos(960,1070)}你们好 你好 杰里米
+Dialogue: 0,0:18:19.04,0:18:21.00,English,,0,0,0,0,{\pos(960,1000)}All right, chaps? All right, Jeremy.
+Dialogue: 0,0:18:21.20,0:18:22.20,Chinese,,0,0,0,0,{\pos(960,1070)}你们好
+Dialogue: 0,0:18:21.20,0:18:22.20,English,,0,0,0,0,{\pos(960,1000)}Hello, lads.
+Dialogue: 0,0:18:23.16,0:18:24.44,Chinese,,0,0,0,0,{\pos(960,1070)}这是什么鬼东西
+Dialogue: 0,0:18:23.16,0:18:24.44,English,,0,0,0,0,{\pos(960,1000)}What is all this shit?
+Dialogue: 0,0:18:24.64,0:18:26.08,Chinese,,0,0,0,0,{\pos(960,1070)}那是纤维玻璃罐
+Dialogue: 0,0:18:24.64,0:18:26.08,English,,0,0,0,0,{\pos(960,1000)}That's the fibreglass tank.
+Dialogue: 0,0:18:26.24,0:18:28.20,Chinese,,0,0,0,0,{\pos(960,1070)}那是罐内塌掉的隔板
+Dialogue: 0,0:18:26.24,0:18:28.20,English,,0,0,0,0,{\pos(960,1000)}That's the baffle that has collapsed inside.
+Dialogue: 0,0:18:28.80,0:18:30.36,Chinese,,0,0,0,0,{\pos(960,1070)}过来 杰里米 看看下面那些洞
+Dialogue: 0,0:18:28.80,0:18:30.36,English,,0,0,0,0,{\pos(960,1000)}Go on over, Jeremy, and have a look down 'em holes.
+Dialogue: 0,0:18:30.88,0:18:32.04,Chinese,,0,0,0,0,{\pos(960,1070)}看下面
+Dialogue: 0,0:18:30.88,0:18:32.04,English,,0,0,0,0,{\pos(960,1000)}You have a look down there.
+Dialogue: 0,0:18:33.72,0:18:36.92,Chinese,,0,0,0,0,{\pos(960,1070)}我的天 我知道
+Dialogue: 0,0:18:33.72,0:18:36.92,English,,0,0,0,0,{\pos(960,1000)}Oh my fucking... I know!
+Dialogue: 0,0:18:47.80,0:18:49.48,Chinese,,0,0,0,0,{\pos(960,1070)}难以置信 天哪
+Dialogue: 0,0:18:47.80,0:18:49.48,English,,0,0,0,0,{\pos(960,1000)}Unbelievable. Oh, God.
+Dialogue: 0,0:18:51.08,0:18:52.08,Chinese,,0,0,0,0,{\pos(960,1070)}我操 伙计
+Dialogue: 0,0:18:51.08,0:18:52.08,English,,0,0,0,0,{\pos(960,1000)}Fuck me, man.
+Dialogue: 0,0:18:53.12,0:18:56.16,Chinese,,0,0,0,0,{\pos(960,1070)}我去 问题主要出在油脂身上
+Dialogue: 0,0:18:53.12,0:18:56.16,English,,0,0,0,0,{\pos(960,1000)}A lot of the problem with this is grease.
+Dialogue: 0,0:18:57.16,0:18:58.72,Chinese,,0,0,0,0,{\pos(960,1070)}你闻到的就是油脂的气味
+Dialogue: 0,0:18:57.16,0:18:58.72,English,,0,0,0,0,{\pos(960,1000)}That's what you can smell, grease.
+Dialogue: 0,0:18:58.88,0:19:00.80,Chinese,,0,0,0,0,{\pos(960,1070)}那股刺鼻的气味 对
+Dialogue: 0,0:18:58.88,0:19:00.80,English,,0,0,0,0,{\pos(960,1000)}Is that what that is, that sharpness?
+Dialogue: 0,0:19:00.96,0:19:03.44,Chinese,,0,0,0,0,{\pos(960,1070)}油脂 我闻着像是屎味
+Dialogue: 0,0:19:00.96,0:19:03.44,English,,0,0,0,0,{\pos(960,1000)}Grease? That smells like shit to me.
+Dialogue: 0,0:19:03.64,0:19:05.84,Chinese,,0,0,0,0,{\pos(960,1070)}很可能就是油脂的重量压塌了
+Dialogue: 0,0:19:03.64,0:19:05.84,English,,0,0,0,0,{\pos(960,1000)}That's probably what's collapsed the baffle inside, the weight.
+Dialogue: 0,0:19:06.00,0:19:07.80,Chinese,,0,0,0,0,{\pos(960,1070)}里面的隔板 隔板是什么
+Dialogue: 0,0:19:06.00,0:19:07.80,English,,0,0,0,0,{\pos(960,1000)}What's a baffle? The weight of it.
+Dialogue: 0,0:19:08.48,0:19:09.84,Chinese,,0,0,0,0,{\pos(960,1070)}将粪便和水隔开的板子
+Dialogue: 0,0:19:08.48,0:19:09.84,English,,0,0,0,0,{\pos(960,1000)}It separates the shit from the water.
+Dialogue: 0,0:19:10.00,0:19:11.84,Chinese,,0,0,0,0,{\pos(960,1070)}他在把油脂抽出来吗 是的
+Dialogue: 0,0:19:10.00,0:19:11.84,English,,0,0,0,0,{\pos(960,1000)}Is he pumping it out now? Yeah.
+Dialogue: 0,0:19:12.00,0:19:13.76,Chinese,,0,0,0,0,{\pos(960,1070)}抽到你们的罐车里 是的
+Dialogue: 0,0:19:12.00,0:19:13.76,English,,0,0,0,0,{\pos(960,1000)}And that's going in your wagon up there? Yeah.
+Dialogue: 0,0:19:13.92,0:19:17.08,Chinese,,0,0,0,0,{\pos(960,1070)}我们得在里面铺设新的管道 让它恢复正常使用
+Dialogue: 0,0:19:13.92,0:19:17.08,English,,0,0,0,0,{\pos(960,1000)}We're gonna put some new pipes in it to make it work again.
+Dialogue: 0,0:19:17.84,0:19:18.64,Chinese,,0,0,0,0,{\pos(960,1070)}好的
+Dialogue: 0,0:19:17.84,0:19:18.64,English,,0,0,0,0,{\pos(960,1000)}Okay.
+Dialogue: 0,0:19:19.96,0:19:22.16,Chinese,,0,0,0,0,{\pos(960,1070)}别忘了 这是上世纪 60或70年代修建的
+Dialogue: 0,0:19:19.96,0:19:22.16,English,,0,0,0,0,{\pos(960,1000)}You gotta bear in mind this was the sixties or seventies.
+Dialogue: 0,0:19:22.32,0:19:23.56,Chinese,,0,0,0,0,{\pos(960,1070)}建成之后从未清理过
+Dialogue: 0,0:19:22.32,0:19:23.56,English,,0,0,0,0,{\pos(960,1000)}Never been cleaned out a touch.
+Dialogue: 0,0:19:23.72,0:19:25.84,Chinese,,0,0,0,0,{\pos(960,1070)}也就是说 油脂和粪便已经堆积了
+Dialogue: 0,0:19:23.72,0:19:25.84,English,,0,0,0,0,{\pos(960,1000)}That's been collecting grease and shit for...
+Dialogue: 0,0:19:26.00,0:19:28.92,Chinese,,0,0,0,0,{\pos(960,1070)}自从80年代酒吧开张以来 但罐子的年代更久远
+Dialogue: 0,0:19:26.00,0:19:28.92,English,,0,0,0,0,{\pos(960,1000)}Since the pub opened in the eighties. But the tank was here beforehand.
+Dialogue: 0,0:19:29.08,0:19:30.64,Chinese,,0,0,0,0,{\pos(960,1070)}五十多年了 是的
+Dialogue: 0,0:19:29.08,0:19:30.64,English,,0,0,0,0,{\pos(960,1000)}Fifty-odd years. Yeah.
+Dialogue: 0,0:19:31.16,0:19:34.64,Chinese,,0,0,0,0,{\pos(960,1070)}看 有人把这个掉进去了 有人把这个掉进厕所了
+Dialogue: 0,0:19:31.16,0:19:34.64,English,,0,0,0,0,{\pos(960,1000)}Oh, look. Somebody's dropped it down the bog.
+Dialogue: 0,0:19:34.84,0:19:37.32,Chinese,,0,0,0,0,{\pos(960,1070)}说不定还能用 他说"说不定还能用"
+Dialogue: 0,0:19:34.84,0:19:37.32,English,,0,0,0,0,{\pos(960,1000)}It might still work. "It might still work," he said!
+Dialogue: 0,0:19:37.48,0:19:40.92,Chinese,,0,0,0,0,{\pos(960,1070)}我们有新手机了 我的老天爷
+Dialogue: 0,0:19:37.48,0:19:40.92,English,,0,0,0,0,{\pos(960,1000)}We've got a new telephone! Oh my fucking God.
+Dialogue: 0,0:19:42.28,0:19:44.48,Chinese,,0,0,0,0,{\pos(960,1070)}不 我不信
+Dialogue: 0,0:19:42.28,0:19:44.48,English,,0,0,0,0,{\pos(960,1000)}No, no, no, I don't believe it.
+Dialogue: 0,0:19:45.04,0:19:46.04,Chinese,,0,0,0,0,{\pos(960,1070)}我去
+Dialogue: 0,0:19:45.04,0:19:46.04,English,,0,0,0,0,{\pos(960,1000)}Shit.
+Dialogue: 0,0:19:46.20,0:19:48.52,Chinese,,0,0,0,0,{\pos(960,1070)}他在那里面 那个人在那里面
+Dialogue: 0,0:19:46.20,0:19:48.52,English,,0,0,0,0,{\pos(960,1000)}He's in there. That man is in there.
+Dialogue: 0,0:19:48.68,0:19:49.48,Chinese,,0,0,0,0,{\pos(960,1070)}是的
+Dialogue: 0,0:19:48.68,0:19:49.48,English,,0,0,0,0,{\pos(960,1000)}Yes!
+Dialogue: 0,0:19:49.68,0:19:51.88,Chinese,,0,0,0,0,{\pos(960,1070)}他怎么呼吸 他明天要去度假
+Dialogue: 0,0:19:49.68,0:19:51.88,English,,0,0,0,0,{\pos(960,1000)}How does he breathe? He's going on holiday tomorrow.
+Dialogue: 0,0:19:53.80,0:19:56.08,Chinese,,0,0,0,0,{\pos(960,1070)}明天他要去希腊
+Dialogue: 0,0:19:53.80,0:19:56.08,English,,0,0,0,0,{\pos(960,1000)}He's going to Greece tomorrow.
+Dialogue: 0,0:19:56.24,0:19:58.20,Chinese,,0,0,0,0,{\pos(960,1070)}但麻烦的是 他明天要去希腊
+Dialogue: 0,0:19:56.24,0:19:58.20,English,,0,0,0,0,{\pos(960,1000)}-But the trouble is- He's going to Greece tomorrow!
+Dialogue: 0,0:19:58.36,0:20:01.12,Chinese,,0,0,0,0,{\pos(960,1070)}对 他身上的油脂臭味会持续一个礼拜 会被人嘲笑的
+Dialogue: 0,0:19:58.36,0:20:01.12,English,,0,0,0,0,{\pos(960,1000)}Yeah, and he'll stink of grease for a week now.
+Dialogue: 0,0:20:01.32,0:20:03.48,Chinese,,0,0,0,0,{\pos(960,1070)}他本来可以干任何一行
+Dialogue: 0,0:20:01.32,0:20:03.48,English,,0,0,0,0,{\pos(960,1000)}So he could have done any job in the world.
+Dialogue: 0,0:20:03.88,0:20:05.52,Chinese,,0,0,0,0,{\pos(960,1070)}是的 但他偏偏选了这一行
+Dialogue: 0,0:20:03.88,0:20:05.52,English,,0,0,0,0,{\pos(960,1000)}Yeah. But he went, "No."
+Dialogue: 0,0:20:05.72,0:20:07.40,Chinese,,0,0,0,0,{\pos(960,1070)}我们跟大粪打了一辈子交道了
+Dialogue: 0,0:20:05.72,0:20:07.40,English,,0,0,0,0,{\pos(960,1000)}But we've been in the shit all our life.
+Dialogue: 0,0:20:08.80,0:20:10.20,Chinese,,0,0,0,0,{\pos(960,1070)}嗨 你好吗
+Dialogue: 0,0:20:08.80,0:20:10.20,English,,0,0,0,0,{\pos(960,1000)}Hi. You all right?
+Dialogue: 0,0:20:10.36,0:20:11.56,Chinese,,0,0,0,0,{\pos(960,1070)}我的处境比你好多了
+Dialogue: 0,0:20:10.36,0:20:11.56,English,,0,0,0,0,{\pos(960,1000)}Well, I'm better than you.
+Dialogue: 0,0:20:11.72,0:20:12.96,Chinese,,0,0,0,0,{\pos(960,1070)}要不要进来看看 不要
+Dialogue: 0,0:20:11.72,0:20:12.96,English,,0,0,0,0,{\pos(960,1000)}Coming in? Yeah, yeah...
+Dialogue: 0,0:20:13.12,0:20:14.56,Chinese,,0,0,0,0,{\pos(960,1070)}幸亏我太胖了 嗯
+Dialogue: 0,0:20:13.12,0:20:14.56,English,,0,0,0,0,{\pos(960,1000)}I'm too fat, mercifully.
+Dialogue: 0,0:20:14.76,0:20:15.92,Chinese,,0,0,0,0,{\pos(960,1070)}难以置信
+Dialogue: 0,0:20:14.76,0:20:15.92,English,,0,0,0,0,{\pos(960,1000)}Unbelievable.
+Dialogue: 0,0:20:16.52,0:20:19.44,Chinese,,0,0,0,0,{\pos(960,1070)}伙计们 你们太棒了 非常了不起的工作
+Dialogue: 0,0:20:16.52,0:20:19.44,English,,0,0,0,0,{\pos(960,1000)}Guys, you're amazing. Amazing, amazing work.
+Dialogue: 0,0:20:22.96,0:20:24.28,Chinese,,0,0,0,0,{\pos(960,1070)}很好 老大
+Dialogue: 0,0:20:22.96,0:20:24.28,English,,0,0,0,0,{\pos(960,1000)}There you go, boss.
+Dialogue: 0,0:20:24.48,0:20:25.56,Chinese,,0,0,0,0,{\pos(960,1070)}接下来的几天
+Dialogue: 0,0:20:24.48,0:20:25.56,English,,0,0,0,0,{\pos(960,1000)}Over the following days,
+Dialogue: 0,0:20:25.76,0:20:29.48,Chinese,,0,0,0,0,{\pos(960,1070)}酒吧的工地上 都是一派热火朝天的景象
+Dialogue: 0,0:20:25.76,0:20:29.48,English,,0,0,0,0,{\pos(960,1000)}work on the pub continued at an industrious pace.
+Dialogue: 0,0:20:35.56,0:20:38.32,Chinese,,0,0,0,0,{\pos(960,1070)}但现在这里又脏又破 不是吗
+Dialogue: 0,0:20:35.56,0:20:38.32,English,,0,0,0,0,{\pos(960,1000)}But it is a shitty shithole at the moment, isn't it?
+Dialogue: 0,0:20:43.44,0:20:46.08,Chinese,,0,0,0,0,{\pos(960,1070)}在各种各样的工人当中
+Dialogue: 0,0:20:43.44,0:20:46.08,English,,0,0,0,0,{\pos(960,1000)}And in amongst all the manual labour,
+Dialogue: 0,0:20:46.24,0:20:50.00,Chinese,,0,0,0,0,{\pos(960,1070)}苏在试着找一个主厨 好的 如果工人还在的话
+Dialogue: 0,0:20:46.24,0:20:50.00,English,,0,0,0,0,{\pos(960,1000)}Sue tried to find a chef... Cooking...
+Dialogue: 0,0:20:50.20,0:20:52.48,Chinese,,0,0,0,0,{\pos(960,1070)}而丽莎去买家具了
+Dialogue: 0,0:20:50.20,0:20:52.48,English,,0,0,0,0,{\pos(960,1000)}And Lisa went shopping for furniture.
+Dialogue: 0,0:20:53.40,0:20:55.92,Chinese,,0,0,0,0,{\pos(960,1070)}我超级喜欢法国小酒馆的桌子
+Dialogue: 0,0:20:53.40,0:20:55.92,English,,0,0,0,0,{\pos(960,1000)}I'm a big fan of the French bistrot table.
+Dialogue: 0,0:20:56.60,0:20:59.56,Chinese,,0,0,0,0,{\pos(960,1070)}这个基座不错 可以在上面放一块大理石
+Dialogue: 0,0:20:56.60,0:20:59.56,English,,0,0,0,0,{\pos(960,1000)}This is a nice base as well. We could get a piece of marble on there, couldn't we?
+Dialogue: 0,0:20:59.76,0:21:03.84,Chinese,,0,0,0,0,{\pos(960,1070)}天哪 你太宠我了 看看这个
+Dialogue: 0,0:20:59.76,0:21:03.84,English,,0,0,0,0,{\pos(960,1000)}Gosh, what are you doing to me? Look at this.
+Dialogue: 0,0:21:04.72,0:21:08.96,Chinese,,0,0,0,0,{\pos(960,1070)}与此同时 我得为 新买的母牛准备增肥饲料
+Dialogue: 0,0:21:04.72,0:21:08.96,English,,0,0,0,0,{\pos(960,1000)}I, meanwhile, had to prepare the bulking-up diet for the new cows,
+Dialogue: 0,0:21:11.44,0:21:15.40,Chinese,,0,0,0,0,{\pos(960,1070)}这意味着 我得先去一趟豪客斯通啤酒厂
+Dialogue: 0,0:21:11.44,0:21:15.40,English,,0,0,0,0,{\pos(960,1000)}which first of all meant a trip over to the Hawkstone brewery.
+Dialogue: 0,0:21:16.24,0:21:17.68,Chinese,,0,0,0,0,{\pos(960,1070)}这些有多重
+Dialogue: 0,0:21:16.24,0:21:17.68,English,,0,0,0,0,{\pos(960,1000)}And how much do these weigh?
+Dialogue: 0,0:21:17.88,0:21:19.00,Chinese,,0,0,0,0,{\pos(960,1070)}将近一吨
+Dialogue: 0,0:21:17.88,0:21:19.00,English,,0,0,0,0,{\pos(960,1000)}Nearly a ton.
+Dialogue: 0,0:21:19.80,0:21:24.36,Chinese,,0,0,0,0,{\pos(960,1070)}酿酒师马克 已将一些适用的原料装箱了
+Dialogue: 0,0:21:19.80,0:21:24.36,English,,0,0,0,0,{\pos(960,1000)}...where Mark the brewer had boxed up some suitable ingredients.
+Dialogue: 0,0:21:26.00,0:21:28.12,Chinese,,0,0,0,0,{\pos(960,1070)}这些箱子中装的东西
+Dialogue: 0,0:21:26.00,0:21:28.12,English,,0,0,0,0,{\pos(960,1000)}So what we've got in each of these
+Dialogue: 0,0:21:28.76,0:21:30.40,Chinese,,0,0,0,0,{\pos(960,1070)}叫做酒糟
+Dialogue: 0,0:21:28.76,0:21:30.40,English,,0,0,0,0,{\pos(960,1000)}is what's called brewer's grain.
+Dialogue: 0,0:21:30.96,0:21:32.88,Chinese,,0,0,0,0,{\pos(960,1070)}这是酿酒过程中产生的废料
+Dialogue: 0,0:21:30.96,0:21:32.88,English,,0,0,0,0,{\pos(960,1000)}And that's a waste product from the brewery.
+Dialogue: 0,0:21:34.12,0:21:36.28,Chinese,,0,0,0,0,{\pos(960,1070)}这箱有半吨 那箱也是半吨
+Dialogue: 0,0:21:34.12,0:21:36.28,English,,0,0,0,0,{\pos(960,1000)}Half a ton in this one, half a ton in that one.
+Dialogue: 0,0:21:37.44,0:21:40.36,Chinese,,0,0,0,0,{\pos(960,1070)}然后把酒糟拿去喂母牛
+Dialogue: 0,0:21:37.44,0:21:40.36,English,,0,0,0,0,{\pos(960,1000)}And then you take that over and feed it to the cows.
+Dialogue: 0,0:21:40.52,0:21:41.88,Chinese,,0,0,0,0,{\pos(960,1070)}这就形成了一种循环
+Dialogue: 0,0:21:40.52,0:21:41.88,English,,0,0,0,0,{\pos(960,1000)}And there's a circularity then.
+Dialogue: 0,0:21:42.04,0:21:44.96,Chinese,,0,0,0,0,{\pos(960,1070)}拿废料喂母牛
+Dialogue: 0,0:21:42.04,0:21:44.96,English,,0,0,0,0,{\pos(960,1000)}So waste product feeds cows,
+Dialogue: 0,0:21:45.12,0:21:47.76,Chinese,,0,0,0,0,{\pos(960,1070)}母牛长胖 母牛在地里大便
+Dialogue: 0,0:21:45.12,0:21:47.76,English,,0,0,0,0,{\pos(960,1000)}cows get fat, cows shit on field,
+Dialogue: 0,0:21:47.96,0:21:50.68,Chinese,,0,0,0,0,{\pos(960,1070)}地里种植大麦 再将大麦运回这里酿成啤酒
+Dialogue: 0,0:21:47.96,0:21:50.68,English,,0,0,0,0,{\pos(960,1000)}grow barley in field, bring it back here, make it into beer.
+Dialogue: 0,0:21:51.80,0:21:53.24,Chinese,,0,0,0,0,{\pos(960,1070)}太有可持续性了
+Dialogue: 0,0:21:51.80,0:21:53.24,English,,0,0,0,0,{\pos(960,1000)}It's just so sustainable.
+Dialogue: 0,0:21:53.44,0:21:56.40,Chinese,,0,0,0,0,{\pos(960,1070)}我简直就是 穿着长筒雨靴的格蕾塔·通贝里
+Dialogue: 0,0:21:53.44,0:21:56.40,English,,0,0,0,0,{\pos(960,1000)}I'm basically Greta Thunberg but in wellies.
+Dialogue: 0,0:21:59.80,0:22:03.16,Chinese,,0,0,0,0,{\pos(960,1070)}回到农场 我跟副主厨卡莱布会合
+Dialogue: 0,0:21:59.80,0:22:03.16,English,,0,0,0,0,{\pos(960,1000)}Back at the farm, I met up with sous-chef Kaleb,
+Dialogue: 0,0:22:03.32,0:22:07.40,Chinese,,0,0,0,0,{\pos(960,1070)}开始为母牛们制作大餐
+Dialogue: 0,0:22:03.32,0:22:07.40,English,,0,0,0,0,{\pos(960,1000)}so we could start making the cows their mega meals.
+Dialogue: 0,0:22:07.88,0:22:11.08,Chinese,,0,0,0,0,{\pos(960,1070)}将这个跟去年由于品质不够好
+Dialogue: 0,0:22:07.88,0:22:11.08,English,,0,0,0,0,{\pos(960,1000)}So this mixed up with the barley
+Dialogue: 0,0:22:11.28,0:22:13.04,Chinese,,0,0,0,0,{\pos(960,1070)}没卖出去的大麦混合 然后搅拌
+Dialogue: 0,0:22:11.28,0:22:13.04,English,,0,0,0,0,{\pos(960,1000)}that we couldn't sell last year 'cause it wasn't good enough for beer.
+Dialogue: 0,0:22:13.20,0:22:16.84,Chinese,,0,0,0,0,{\pos(960,1070)}搅拌 然后加入糖蜜 对
+Dialogue: 0,0:22:13.20,0:22:16.84,English,,0,0,0,0,{\pos(960,1000)}Literally roll that, though. Roll it. And then molasses. Yeah.
+Dialogue: 0,0:22:17.00,0:22:20.04,Chinese,,0,0,0,0,{\pos(960,1070)}为了增加甜味 为了让它们觉得好吃
+Dialogue: 0,0:22:17.00,0:22:20.04,English,,0,0,0,0,{\pos(960,1000)}For that treacly taste. To make this stuff palatable for them. Yeah.
+Dialogue: 0,0:22:20.24,0:22:24.28,Chinese,,0,0,0,0,{\pos(960,1070)}然后加入制作植物油时产生的废料
+Dialogue: 0,0:22:20.24,0:22:24.28,English,,0,0,0,0,{\pos(960,1000)}And then the waste product from making our vegetable oil.
+Dialogue: 0,0:22:24.44,0:22:25.24,Chinese,,0,0,0,0,{\pos(960,1070)}对
+Dialogue: 0,0:22:24.44,0:22:25.24,English,,0,0,0,0,{\pos(960,1000)}Yeah.
+Dialogue: 0,0:22:25.44,0:22:27.64,Chinese,,0,0,0,0,{\pos(960,1070)}或者 你听听这个主意怎么样
+Dialogue: 0,0:22:25.44,0:22:27.64,English,,0,0,0,0,{\pos(960,1000)}Or... How's this for an idea:
+Dialogue: 0,0:22:27.84,0:22:31.00,Chinese,,0,0,0,0,{\pos(960,1070)}何不每天为它们买威瑟斯本的早餐
+Dialogue: 0,0:22:27.84,0:22:31.00,English,,0,0,0,0,{\pos(960,1000)}why don't we just buy them a Wetherspoons' breakfast every day?
+Dialogue: 0,0:22:33.36,0:22:36.48,Chinese,,0,0,0,0,{\pos(960,1070)}为了把奶牛餐饮服务办起来
+Dialogue: 0,0:22:33.36,0:22:36.48,English,,0,0,0,0,{\pos(960,1000)}In order to get the cow catering underway,
+Dialogue: 0,0:22:36.68,0:22:40.24,Chinese,,0,0,0,0,{\pos(960,1070)}查理预订了一台超级大的 乡村版Magimix食品加工机
+Dialogue: 0,0:22:36.68,0:22:40.24,English,,0,0,0,0,{\pos(960,1000)}Charlie had ordered in a giant rural Magimix.
+Dialogue: 0,0:22:41.00,0:22:42.04,Chinese,,0,0,0,0,{\pos(960,1070)}你好
+Dialogue: 0,0:22:41.00,0:22:42.04,English,,0,0,0,0,{\pos(960,1000)}Hiya. How're you doing, mate?
+Dialogue: 0,0:22:42.20,0:22:43.40,Chinese,,0,0,0,0,{\pos(960,1070)}你好 我叫詹姆斯
+Dialogue: 0,0:22:42.20,0:22:43.40,English,,0,0,0,0,{\pos(960,1000)}Yeah, good. How are you? James.
+Dialogue: 0,0:22:43.56,0:22:46.20,Chinese,,0,0,0,0,{\pos(960,1070)}嗨 我叫杰里米 你好 我叫詹姆斯 你好
+Dialogue: 0,0:22:43.56,0:22:46.20,English,,0,0,0,0,{\pos(960,1000)}-Hi, there. Jeremy. How are you? James. How are you doing?
+Dialogue: 0,0:22:46.40,0:22:48.20,Chinese,,0,0,0,0,{\pos(960,1070)}它就像一台巨型吸尘器
+Dialogue: 0,0:22:46.40,0:22:48.20,English,,0,0,0,0,{\pos(960,1000)}So it's like a big hoover.
+Dialogue: 0,0:22:48.40,0:22:50.28,Chinese,,0,0,0,0,{\pos(960,1070)}把大麦吸进去
+Dialogue: 0,0:22:48.40,0:22:50.28,English,,0,0,0,0,{\pos(960,1000)}Suck your barley in,
+Dialogue: 0,0:22:50.92,0:22:53.68,Chinese,,0,0,0,0,{\pos(960,1070)}把油菜籽吸进去 嗯 搅拌均匀 全都进到中央
+Dialogue: 0,0:22:50.92,0:22:53.68,English,,0,0,0,0,{\pos(960,1000)}suck your rape meal in, mixes it all up, then it all goes in the centre.
+Dialogue: 0,0:22:53.84,0:22:54.92,Chinese,,0,0,0,0,{\pos(960,1070)}在那里面搅拌
+Dialogue: 0,0:22:53.84,0:22:54.92,English,,0,0,0,0,{\pos(960,1000)}Oh, it mixes it in there?
+Dialogue: 0,0:22:55.08,0:22:55.92,Chinese,,0,0,0,0,{\pos(960,1070)}是的
+Dialogue: 0,0:22:55.08,0:22:55.92,English,,0,0,0,0,{\pos(960,1000)}Yeah, yeah, yeah.
+Dialogue: 0,0:22:56.08,0:22:58.56,Chinese,,0,0,0,0,{\pos(960,1070)}我还准备了矿物质和糖蜜 一起加进去
+Dialogue: 0,0:22:56.08,0:22:58.56,English,,0,0,0,0,{\pos(960,1000)}And then I've got minerals and molasses to go in as well.
+Dialogue: 0,0:23:05.72,0:23:07.52,Chinese,,0,0,0,0,{\pos(960,1070)}看着好有满足感
+Dialogue: 0,0:23:05.72,0:23:07.52,English,,0,0,0,0,{\pos(960,1000)}That is so satisfying.
+Dialogue: 0,0:23:08.16,0:23:09.44,Chinese,,0,0,0,0,{\pos(960,1070)}我可以玩上一天
+Dialogue: 0,0:23:08.16,0:23:09.44,English,,0,0,0,0,{\pos(960,1000)}I could do this all day.
+Dialogue: 0,0:23:14.68,0:23:16.48,Chinese,,0,0,0,0,{\pos(960,1070)}要不要拿开一点 好的
+Dialogue: 0,0:23:14.68,0:23:16.48,English,,0,0,0,0,{\pos(960,1000)}Shall I break it up a bit? Yeah.
+Dialogue: 0,0:23:18.28,0:23:21.56,Chinese,,0,0,0,0,{\pos(960,1070)}我好喜欢用罐车做饭这个点子
+Dialogue: 0,0:23:18.28,0:23:21.56,English,,0,0,0,0,{\pos(960,1000)}I love the idea of cooking with a lorry.
+Dialogue: 0,0:23:22.36,0:23:25.60,Chinese,,0,0,0,0,{\pos(960,1070)}戈登·拉姆齐 马可·皮尔·怀特
+Dialogue: 0,0:23:22.36,0:23:25.60,English,,0,0,0,0,{\pos(960,1000)}Gordon Ramsay, Marco Pierre White,
+Dialogue: 0,0:23:25.80,0:23:28.44,Chinese,,0,0,0,0,{\pos(960,1070)}安格斯牛排馆 他们不会用罐车做饭
+Dialogue: 0,0:23:25.80,0:23:28.44,English,,0,0,0,0,{\pos(960,1000)}Angus Steakhouse, they don't cook with lorries.
+Dialogue: 0,0:23:33.84,0:23:34.72,Chinese,,0,0,0,0,{\pos(960,1070)}做好了
+Dialogue: 0,0:23:33.84,0:23:34.72,English,,0,0,0,0,{\pos(960,1000)}And there it is.
+Dialogue: 0,0:23:35.76,0:23:36.64,Chinese,,0,0,0,0,{\pos(960,1070)}牛饲料
+Dialogue: 0,0:23:35.76,0:23:36.64,English,,0,0,0,0,{\pos(960,1000)}Cow food.
+Dialogue: 0,0:23:39.28,0:23:43.96,Chinese,,0,0,0,0,{\pos(960,1070)}到了下午晚些时候的喂牛时间 我们加入酒糟
+Dialogue: 0,0:23:39.28,0:23:43.96,English,,0,0,0,0,{\pos(960,1000)}At feeding time, later that afternoon, we added in the brewer's grain...
+Dialogue: 0,0:23:44.12,0:23:46.00,Chinese,,0,0,0,0,{\pos(960,1070)}像这样撒在上面
+Dialogue: 0,0:23:44.12,0:23:46.00,English,,0,0,0,0,{\pos(960,1000)}You just sprinkle that over the top like this.
+Dialogue: 0,0:23:46.88,0:23:48.64,Chinese,,0,0,0,0,{\pos(960,1070)}晚餐上桌了
+Dialogue: 0,0:23:46.88,0:23:48.64,English,,0,0,0,0,{\pos(960,1000)}And dinner was served.
+Dialogue: 0,0:23:52.44,0:23:54.88,Chinese,,0,0,0,0,{\pos(960,1070)}你们好 奶牛们 来吧
+Dialogue: 0,0:23:52.44,0:23:54.88,English,,0,0,0,0,{\pos(960,1000)}Moo cows! This is it.
+Dialogue: 0,0:23:55.96,0:23:58.32,Chinese,,0,0,0,0,{\pos(960,1070)}香喷喷
+Dialogue: 0,0:23:55.96,0:23:58.32,English,,0,0,0,0,{\pos(960,1000)}Mmm! Delicious!
+Dialogue: 0,0:23:59.04,0:23:59.84,Chinese,,0,0,0,0,{\pos(960,1070)}你看
+Dialogue: 0,0:23:59.04,0:23:59.84,English,,0,0,0,0,{\pos(960,1000)}Look!
+Dialogue: 0,0:24:00.60,0:24:02.48,Chinese,,0,0,0,0,{\pos(960,1070)}没错 看啊 吃光它
+Dialogue: 0,0:24:00.60,0:24:02.48,English,,0,0,0,0,{\pos(960,1000)}Yes, look at that. Eat it up.
+Dialogue: 0,0:24:02.64,0:24:04.12,Chinese,,0,0,0,0,{\pos(960,1070)}你看
+Dialogue: 0,0:24:02.64,0:24:04.12,English,,0,0,0,0,{\pos(960,1000)}Look! Look!
+Dialogue: 0,0:24:04.32,0:24:06.64,Chinese,,0,0,0,0,{\pos(960,1070)}加了糖蜜之后 多好吃啊
+Dialogue: 0,0:24:04.32,0:24:06.64,English,,0,0,0,0,{\pos(960,1000)}How delicious is that with the molasses in it?
+Dialogue: 0,0:24:06.80,0:24:09.40,Chinese,,0,0,0,0,{\pos(960,1070)}我已经看到它们越长越肥了
+Dialogue: 0,0:24:06.80,0:24:09.40,English,,0,0,0,0,{\pos(960,1000)}I can see them getting fatter and fatter.
+Dialogue: 0,0:24:09.76,0:24:12.16,Chinese,,0,0,0,0,{\pos(960,1070)}它们很爱吃 你看 它们确实非常爱吃
+Dialogue: 0,0:24:09.76,0:24:12.16,English,,0,0,0,0,{\pos(960,1000)}They love it, look. They really do love it.
+Dialogue: 0,0:24:19.28,0:24:24.20,Chinese,,0,0,0,0,{\pos(960,1070)}酒吧那边 几乎所有 能走的地方都无处落脚
+Dialogue: 0,0:24:19.28,0:24:24.20,English,,0,0,0,0,{\pos(960,1000)}Over at the pub, nearly every surface you could walk on was out of bounds.
+Dialogue: 0,0:24:27.56,0:24:30.04,Chinese,,0,0,0,0,{\pos(960,1070)}于是我出去清理灌木丛了
+Dialogue: 0,0:24:27.56,0:24:30.04,English,,0,0,0,0,{\pos(960,1000)}So I headed outside to clear the undergrowth
+Dialogue: 0,0:24:30.20,0:24:32.20,Chinese,,0,0,0,0,{\pos(960,1070)}和我最喜爱的同伴一起
+Dialogue: 0,0:24:30.20,0:24:32.20,English,,0,0,0,0,{\pos(960,1000)}with my favourite companion.
+Dialogue: 0,0:24:34.64,0:24:36.24,Chinese,,0,0,0,0,{\pos(960,1070)}好样的
+Dialogue: 0,0:24:34.64,0:24:36.24,English,,0,0,0,0,{\pos(960,1000)}There you go!
+Dialogue: 0,0:24:38.44,0:24:41.88,Chinese,,0,0,0,0,{\pos(960,1070)}没错 情绪抚慰组又回来了
+Dialogue: 0,0:24:38.44,0:24:41.88,English,,0,0,0,0,{\pos(960,1000)}Yes! The emotional support unit is back!
+Dialogue: 0,0:24:42.72,0:24:44.00,Chinese,,0,0,0,0,{\pos(960,1070)}而且它饿了
+Dialogue: 0,0:24:42.72,0:24:44.00,English,,0,0,0,0,{\pos(960,1000)}And he's hungry.
+Dialogue: 0,0:24:47.24,0:24:51.80,Chinese,,0,0,0,0,{\pos(960,1070)}只可惜我的心理治疗 被苏和瑞秋打断了
+Dialogue: 0,0:24:47.24,0:24:51.80,English,,0,0,0,0,{\pos(960,1000)}Sadly though, my therapy session was cut short by Sue and Rachel
+Dialogue: 0,0:24:52.36,0:24:55.16,Chinese,,0,0,0,0,{\pos(960,1070)}她们说有急事要找我谈
+Dialogue: 0,0:24:52.36,0:24:55.16,English,,0,0,0,0,{\pos(960,1000)}who called me in for an urgent chat.
+Dialogue: 0,0:24:56.16,0:24:58.24,Chinese,,0,0,0,0,{\pos(960,1070)}任务清单的第一项
+Dialogue: 0,0:24:56.16,0:24:58.24,English,,0,0,0,0,{\pos(960,1000)}Well, first on our list,
+Dialogue: 0,0:24:58.64,0:25:01.76,Chinese,,0,0,0,0,{\pos(960,1070)}用遮阳伞把木平台遮住
+Dialogue: 0,0:24:58.64,0:25:01.76,English,,0,0,0,0,{\pos(960,1000)}covering the deck with some jumbrellas.
+Dialogue: 0,0:25:02.12,0:25:05.36,Chinese,,0,0,0,0,{\pos(960,1070)}大约40分钟之前就该下订单了
+Dialogue: 0,0:25:02.12,0:25:05.36,English,,0,0,0,0,{\pos(960,1000)}We needed to sign it off about forty minutes ago
+Dialogue: 0,0:25:05.52,0:25:08.08,Chinese,,0,0,0,0,{\pos(960,1070)}这样才能保证遮阳伞及时
+Dialogue: 0,0:25:05.52,0:25:08.08,English,,0,0,0,0,{\pos(960,1000)}to guarantee the jumbrellas arriving in time.
+Dialogue: 0,0:25:08.24,0:25:10.52,Chinese,,0,0,0,0,{\pos(960,1070)}送达 要多少钱 是那种巨型遮阳伞吗
+Dialogue: 0,0:25:08.24,0:25:10.52,English,,0,0,0,0,{\pos(960,1000)}How much are the jumbrellas? These are the big umbrellas, yeah?
+Dialogue: 0,0:25:10.68,0:25:13.64,Chinese,,0,0,0,0,{\pos(960,1070)}是的 用三把超大的遮阳伞 遮住整个木平台
+Dialogue: 0,0:25:10.68,0:25:13.64,English,,0,0,0,0,{\pos(960,1000)}Yeah, three enormous umbrellas to cover the entire deck.
+Dialogue: 0,0:25:13.80,0:25:14.72,Chinese,,0,0,0,0,{\pos(960,1070)}嗯
+Dialogue: 0,0:25:13.80,0:25:14.72,English,,0,0,0,0,{\pos(960,1000)}Yeah?
+Dialogue: 0,0:25:14.88,0:25:16.72,Chinese,,0,0,0,0,{\pos(960,1070)}大约要四万英镑
+Dialogue: 0,0:25:14.88,0:25:16.72,English,,0,0,0,0,{\pos(960,1000)}Approximately £40,000.
+Dialogue: 0,0:25:16.88,0:25:19.52,Chinese,,0,0,0,0,{\pos(960,1070)}包括电动配件 照明
+Dialogue: 0,0:25:16.88,0:25:19.52,English,,0,0,0,0,{\pos(960,1000)}Including electrics, lighting,
+Dialogue: 0,0:25:20.28,0:25:23.04,Chinese,,0,0,0,0,{\pos(960,1070)}如果未来用上三相电 也不会过时
+Dialogue: 0,0:25:20.28,0:25:23.04,English,,0,0,0,0,{\pos(960,1000)}future proofing, ready for three-phase if we ever get it.
+Dialogue: 0,0:25:23.20,0:25:26.04,Chinese,,0,0,0,0,{\pos(960,1070)}我们跟阿兰谈过了 但是没谈安装的事
+Dialogue: 0,0:25:23.20,0:25:26.04,English,,0,0,0,0,{\pos(960,1000)}We have spoken to Alan about it, but not installation.
+Dialogue: 0,0:25:26.20,0:25:28.24,Chinese,,0,0,0,0,{\pos(960,1070)}不好意思 你们把我说糊涂了
+Dialogue: 0,0:25:26.20,0:25:28.24,English,,0,0,0,0,{\pos(960,1000)}Sorry. You're saying words.
+Dialogue: 0,0:25:29.12,0:25:31.28,Chinese,,0,0,0,0,{\pos(960,1070)}三把遮阳伞要四万英镑
+Dialogue: 0,0:25:29.12,0:25:31.28,English,,0,0,0,0,{\pos(960,1000)}Forty thousand for three umbrellas?
+Dialogue: 0,0:25:31.44,0:25:35.28,Chinese,,0,0,0,0,{\pos(960,1070)}对 伞很大 直径八米 三把遮阳伞要四万英镑
+Dialogue: 0,0:25:31.44,0:25:35.28,English,,0,0,0,0,{\pos(960,1000)}-Yeah. They're massive. Eight metres. £40,000 for three umbrellas?
+Dialogue: 0,0:25:35.44,0:25:36.24,Chinese,,0,0,0,0,{\pos(960,1070)}是的
+Dialogue: 0,0:25:35.44,0:25:36.24,English,,0,0,0,0,{\pos(960,1000)}Yeah.
+Dialogue: 0,0:25:36.44,0:25:40.24,Chinese,,0,0,0,0,{\pos(960,1070)}如果不把木平台遮住 遇到下雨天没人能在那里用餐
+Dialogue: 0,0:25:36.44,0:25:40.24,English,,0,0,0,0,{\pos(960,1000)}If you didn't cover the terrace and it was raining, no one can eat there.
+Dialogue: 0,0:25:40.44,0:25:42.20,Chinese,,0,0,0,0,{\pos(960,1070)}我很清楚我们需要遮阳伞
+Dialogue: 0,0:25:40.44,0:25:42.20,English,,0,0,0,0,{\pos(960,1000)}No, I'm well aware that we need umbrellas, I know that,
+Dialogue: 0,0:25:42.36,0:25:46.16,Chinese,,0,0,0,0,{\pos(960,1070)}但我发自内心地认为 这个价格太离谱了
+Dialogue: 0,0:25:42.36,0:25:46.16,English,,0,0,0,0,{\pos(960,1000)}but I really genuinely believe that's nuts.
+Dialogue: 0,0:25:46.68,0:25:49.04,Chinese,,0,0,0,0,{\pos(960,1070)}我们是想避免
+Dialogue: 0,0:25:46.68,0:25:49.04,English,,0,0,0,0,{\pos(960,1000)}What we were trying to avoid was having....
+Dialogue: 0,0:25:49.20,0:25:51.80,Chinese,,0,0,0,0,{\pos(960,1070)}其实可以用 便宜得多的方法遮住木平台
+Dialogue: 0,0:25:49.20,0:25:51.80,English,,0,0,0,0,{\pos(960,1000)}Because we could cover that deck a lot more cheaply
+Dialogue: 0,0:25:51.96,0:25:53.64,Chinese,,0,0,0,0,{\pos(960,1070)}改用小遮阳伞就行了
+Dialogue: 0,0:25:51.96,0:25:53.64,English,,0,0,0,0,{\pos(960,1000)}with more of a parasol-type situation.
+Dialogue: 0,0:25:53.84,0:25:57.28,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 但是酒吧位于山顶上 考虑到木平台的面积
+Dialogue: 0,0:25:53.84,0:25:57.28,English,,0,0,0,0,{\pos(960,1000)}Yeah. But given the size of the deck,
+Dialogue: 0,0:25:57.44,0:26:00.04,Chinese,,0,0,0,0,{\pos(960,1070)}我们需要大概五十把小遮阳伞
+Dialogue: 0,0:25:57.44,0:26:00.04,English,,0,0,0,0,{\pos(960,1000)}we would need probably fifty.
+Dialogue: 0,0:26:00.20,0:26:02.44,Chinese,,0,0,0,0,{\pos(960,1070)}这会让木平台变成一片伞的海洋
+Dialogue: 0,0:26:00.20,0:26:02.44,English,,0,0,0,0,{\pos(960,1000)}So it would sort of just look like a sea of umbrellas.
+Dialogue: 0,0:26:02.60,0:26:05.68,Chinese,,0,0,0,0,{\pos(960,1070)}而且桌子可能是那种形状
+Dialogue: 0,0:26:02.60,0:26:05.68,English,,0,0,0,0,{\pos(960,1000)}Plus the table's probably that shape.
+Dialogue: 0,0:26:05.84,0:26:07.96,Chinese,,0,0,0,0,{\pos(960,1070)}伞是圆的 放在中间 如果有点阳光 问题不大
+Dialogue: 0,0:26:05.84,0:26:07.96,English,,0,0,0,0,{\pos(960,1000)}The brolly's round in the middle. A lovely bit of sun, no probs.
+Dialogue: 0,0:26:08.12,0:26:09.84,Chinese,,0,0,0,0,{\pos(960,1070)}苏会被淋成落汤鸡 我就没事
+Dialogue: 0,0:26:08.12,0:26:09.84,English,,0,0,0,0,{\pos(960,1000)}So Sue's getting soaking wet. I'm okay.
+Dialogue: 0,0:26:10.00,0:26:12.48,Chinese,,0,0,0,0,{\pos(960,1070)}瑞秋在里面 你会被淋湿 是啊
+Dialogue: 0,0:26:10.00,0:26:12.48,English,,0,0,0,0,{\pos(960,1000)}-Rachel's in. You're wet. Yeah.
+Dialogue: 0,0:26:12.68,0:26:14.60,Chinese,,0,0,0,0,{\pos(960,1070)}就是这样 我的人生怎么会搞成这样
+Dialogue: 0,0:26:12.68,0:26:14.60,English,,0,0,0,0,{\pos(960,1000)}End of. How have I reached this point in life?
+Dialogue: 0,0:26:14.76,0:26:17.12,Chinese,,0,0,0,0,{\pos(960,1070)}你这样说 是不是表示 同意买巨型遮阳伞了
+Dialogue: 0,0:26:14.76,0:26:17.12,English,,0,0,0,0,{\pos(960,1000)}Have you come round to the brollies now you've said it?
+Dialogue: 0,0:26:17.28,0:26:21.64,Chinese,,0,0,0,0,{\pos(960,1070)}不是 我只是无法相信 我活了64岁了 竟然会有人
+Dialogue: 0,0:26:17.28,0:26:21.64,English,,0,0,0,0,{\pos(960,1000)}No, I just cannot believe I'm 64 and somebody's just said to me,
+Dialogue: 0,0:26:21.80,0:26:22.72,Chinese,,0,0,0,0,{\pos(960,1070)}一本正经地对我说
+Dialogue: 0,0:26:21.80,0:26:22.72,English,,0,0,0,0,{\pos(960,1000)}in all seriousness:
+Dialogue: 0,0:26:22.88,0:26:25.64,Chinese,,0,0,0,0,{\pos(960,1070)}"对了 那些伞要四万英镑"
+Dialogue: 0,0:26:22.88,0:26:25.64,English,,0,0,0,0,{\pos(960,1000)}"Oh, by the way, the umbrellas are forty thousand."
+Dialogue: 0,0:26:25.80,0:26:28.08,Chinese,,0,0,0,0,{\pos(960,1070)}这么多钱都够买一辆高尔夫GTI了
+Dialogue: 0,0:26:25.80,0:26:28.08,English,,0,0,0,0,{\pos(960,1000)}You can buy a fucking Golf GTI for that. Did you sort of hope
+Dialogue: 0,0:26:28.28,0:26:31.24,Chinese,,0,0,0,0,{\pos(960,1070)}你原本希望买酒吧的钱 占开支的大头吗
+Dialogue: 0,0:26:28.28,0:26:31.24,English,,0,0,0,0,{\pos(960,1000)}that the purchase of the pub might be the big one?
+Dialogue: 0,0:26:31.44,0:26:33.88,Chinese,,0,0,0,0,{\pos(960,1070)}我原本想的是 弄个新吧台就可以开张了
+Dialogue: 0,0:26:31.44,0:26:33.88,English,,0,0,0,0,{\pos(960,1000)}I just thought I'd put a new bar in and open it up.
+Dialogue: 0,0:26:34.08,0:26:37.12,Chinese,,0,0,0,0,{\pos(960,1070)}这恰恰是你不需要的 现在这个吧台就挺好的
+Dialogue: 0,0:26:34.08,0:26:37.12,English,,0,0,0,0,{\pos(960,1000)}That's probably the one thing you don't really need. That bar's fine.
+Dialogue: 0,0:26:37.92,0:26:38.76,Chinese,,0,0,0,0,{\pos(960,1070)}额
+Dialogue: 0,0:26:37.92,0:26:38.76,English,,0,0,0,0,{\pos(960,1000)}Erm...
+Dialogue: 0,0:26:38.96,0:26:40.72,Chinese,,0,0,0,0,{\pos(960,1070)}我们还没告诉你买家具要多少钱呢
+Dialogue: 0,0:26:38.96,0:26:40.72,English,,0,0,0,0,{\pos(960,1000)}We haven't told you how much the furniture is yet.
+Dialogue: 0,0:26:41.56,0:26:43.56,Chinese,,0,0,0,0,{\pos(960,1070)}是啊 丽莎看了一些很漂亮的家具
+Dialogue: 0,0:26:41.56,0:26:43.56,English,,0,0,0,0,{\pos(960,1000)}-Yeah. Lisa saw some lovely stuff.
+Dialogue: 0,0:26:44.32,0:26:46.00,Chinese,,0,0,0,0,{\pos(960,1070)}非常不错的选择 多少钱
+Dialogue: 0,0:26:44.32,0:26:46.00,English,,0,0,0,0,{\pos(960,1000)}Really good choices. Yeah, and how much?
+Dialogue: 0,0:26:46.20,0:26:47.72,Chinese,,0,0,0,0,{\pos(960,1070)}四万英镑 对
+Dialogue: 0,0:26:46.20,0:26:47.72,English,,0,0,0,0,{\pos(960,1000)}-Forty thousand. Yeah.
+Dialogue: 0,0:26:49.40,0:26:52.12,Chinese,,0,0,0,0,{\pos(960,1070)}好吧 遮阳伞的事怎么定
+Dialogue: 0,0:26:49.40,0:26:52.12,English,,0,0,0,0,{\pos(960,1000)}Okay, where are we on the umbrellas?
+Dialogue: 0,0:26:54.80,0:26:57.16,Chinese,,0,0,0,0,{\pos(960,1070)}你们得给我一个小时考虑一下
+Dialogue: 0,0:26:54.80,0:26:57.16,English,,0,0,0,0,{\pos(960,1000)}You're gonna have to give me an hour to think about it.
+Dialogue: 0,0:26:57.32,0:26:58.44,Chinese,,0,0,0,0,{\pos(960,1070)}好的
+Dialogue: 0,0:26:57.32,0:26:58.44,English,,0,0,0,0,{\pos(960,1000)}Okay, fine.
+Dialogue: 0,0:27:00.36,0:27:03.16,Chinese,,0,0,0,0,{\pos(960,1070)}预算严重超支
+Dialogue: 0,0:27:00.36,0:27:03.16,English,,0,0,0,0,{\pos(960,1000)}With the budget being blown to smithereens,
+Dialogue: 0,0:27:03.36,0:27:06.56,Chinese,,0,0,0,0,{\pos(960,1070)}我出去跟阿兰聊了聊
+Dialogue: 0,0:27:03.36,0:27:06.56,English,,0,0,0,0,{\pos(960,1000)}I went outside to have a catch-up with Alan.
+Dialogue: 0,0:27:08.80,0:27:10.36,Chinese,,0,0,0,0,{\pos(960,1070)}这东西太棒了 很棒吧
+Dialogue: 0,0:27:08.80,0:27:10.36,English,,0,0,0,0,{\pos(960,1000)}This is amazing this stuff, isn't it? It's brilliant, innit?
+Dialogue: 0,0:27:10.52,0:27:12.48,Chinese,,0,0,0,0,{\pos(960,1070)}你可以走两步试试 你看
+Dialogue: 0,0:27:10.52,0:27:12.48,English,,0,0,0,0,{\pos(960,1000)}And you try it, look.
+Dialogue: 0,0:27:12.64,0:27:16.52,Chinese,,0,0,0,0,{\pos(960,1070)}绝对不会有人摔倒 是吧 是的 除非你喝得烂醉
+Dialogue: 0,0:27:12.64,0:27:16.52,English,,0,0,0,0,{\pos(960,1000)}You really can't fall over, can you? No. Well, unless you're pissed.
+Dialogue: 0,0:27:17.96,0:27:21.04,Chinese,,0,0,0,0,{\pos(960,1070)}你想听好消息还是坏消息 好消息是这里景色很好
+Dialogue: 0,0:27:17.96,0:27:21.04,English,,0,0,0,0,{\pos(960,1000)}Right, do you want the good news or the bad? I know it's a beautiful view.
+Dialogue: 0,0:27:22.20,0:27:23.08,Chinese,,0,0,0,0,{\pos(960,1070)}什么坏消息
+Dialogue: 0,0:27:22.20,0:27:23.08,English,,0,0,0,0,{\pos(960,1000)}What?
+Dialogue: 0,0:27:23.24,0:27:25.04,Chinese,,0,0,0,0,{\pos(960,1070)}成本翻了一倍
+Dialogue: 0,0:27:23.24,0:27:25.04,English,,0,0,0,0,{\pos(960,1000)}It's fucking gone up double, ain't it?
+Dialogue: 0,0:27:26.12,0:27:29.56,Chinese,,0,0,0,0,{\pos(960,1070)}什么成本 这个 翻了一倍多 因为那个
+Dialogue: 0,0:27:26.12,0:27:29.56,English,,0,0,0,0,{\pos(960,1000)}-What has? This. Over double. 'Cause of that.
+Dialogue: 0,0:27:30.48,0:27:32.08,Chinese,,0,0,0,0,{\pos(960,1070)}什么 是的 抱歉
+Dialogue: 0,0:27:30.48,0:27:32.08,English,,0,0,0,0,{\pos(960,1000)}What? Yeah. I'm sorry.
+Dialogue: 0,0:27:32.60,0:27:35.36,Chinese,,0,0,0,0,{\pos(960,1070)}你在开玩笑吧 不 我没开玩笑
+Dialogue: 0,0:27:32.60,0:27:35.36,English,,0,0,0,0,{\pos(960,1000)}You're kidding. No! No, I'm not kidding.
+Dialogue: 0,0:27:35.96,0:27:39.20,Chinese,,0,0,0,0,{\pos(960,1070)}之前说的是两万英镑 现在要四万多
+Dialogue: 0,0:27:35.96,0:27:39.20,English,,0,0,0,0,{\pos(960,1000)}It's gonna be over forty thousand now, from the twenty.
+Dialogue: 0,0:27:40.04,0:27:42.84,Chinese,,0,0,0,0,{\pos(960,1070)}我们也没办法 他们说要用防滑板
+Dialogue: 0,0:27:40.04,0:27:42.84,English,,0,0,0,0,{\pos(960,1000)}But look, we've got no option. They said anti-slip decking.
+Dialogue: 0,0:27:43.04,0:27:45.20,Chinese,,0,0,0,0,{\pos(960,1070)}我们只能用这种板子
+Dialogue: 0,0:27:43.04,0:27:45.20,English,,0,0,0,0,{\pos(960,1000)}We cannot do it without this kind of stuff, look.
+Dialogue: 0,0:27:45.88,0:27:47.84,Chinese,,0,0,0,0,{\pos(960,1070)}这就要增加两万英镑
+Dialogue: 0,0:27:45.88,0:27:47.84,English,,0,0,0,0,{\pos(960,1000)}And that adds £20,000? Yeah.
+Dialogue: 0,0:27:48.04,0:27:48.84,Chinese,,0,0,0,0,{\pos(960,1070)}是的 板子的成本增加了一万六
+Dialogue: 0,0:27:48.04,0:27:48.84,English,,0,0,0,0,{\pos(960,1000)}Yeah, it's- What? That?
+Dialogue: 0,0:27:49.00,0:27:50.16,Chinese,,0,0,0,0,{\pos(960,1070)}外加额外的人工成本
+Dialogue: 0,0:27:49.00,0:27:50.16,English,,0,0,0,0,{\pos(960,1000)}It's gonna add about sixteen,
+Dialogue: 0,0:27:50.32,0:27:52.52,Chinese,,0,0,0,0,{\pos(960,1070)}外加其他额外成本
+Dialogue: 0,0:27:50.32,0:27:52.52,English,,0,0,0,0,{\pos(960,1000)}plus the labour's extra, plus everything's extra.
+Dialogue: 0,0:27:52.68,0:27:55.44,Chinese,,0,0,0,0,{\pos(960,1070)}锯片切不动它 我得不断买锯片
+Dialogue: 0,0:27:52.68,0:27:55.44,English,,0,0,0,0,{\pos(960,1000)}The blades, you can't cut it, I had to keep buying blades.
+Dialogue: 0,0:27:55.64,0:27:56.80,Chinese,,0,0,0,0,{\pos(960,1070)}好吧
+Dialogue: 0,0:27:55.64,0:27:56.80,English,,0,0,0,0,{\pos(960,1000)}Right, well, okay.
+Dialogue: 0,0:27:57.00,0:27:58.88,Chinese,,0,0,0,0,{\pos(960,1070)}关于遮阳伞的争论有结果了
+Dialogue: 0,0:27:57.00,0:27:58.88,English,,0,0,0,0,{\pos(960,1000)}That settles this umbrella debate. You know these forty--
+Dialogue: 0,0:27:59.04,0:28:00.20,Chinese,,0,0,0,0,{\pos(960,1070)}是的 我们不要遮阳伞 一把都不要
+Dialogue: 0,0:27:59.04,0:28:00.20,English,,0,0,0,0,{\pos(960,1000)}Yeah, we're not having 'em. None of that.
+Dialogue: 0,0:28:00.36,0:28:01.32,Chinese,,0,0,0,0,{\pos(960,1070)}不 等一下
+Dialogue: 0,0:28:00.36,0:28:01.32,English,,0,0,0,0,{\pos(960,1000)}No, but hold on a minute.
+Dialogue: 0,0:28:01.52,0:28:05.36,Chinese,,0,0,0,0,{\pos(960,1070)}你知道那种从建筑上 伸出来的那种遮阳帆吧
+Dialogue: 0,0:28:01.52,0:28:05.36,English,,0,0,0,0,{\pos(960,1000)}You know those sails that you get coming off buildings?
+Dialogue: 0,0:28:06.36,0:28:09.84,Chinese,,0,0,0,0,{\pos(960,1070)}如果把遮阳帆从 我还是指给你看吧
+Dialogue: 0,0:28:06.36,0:28:09.84,English,,0,0,0,0,{\pos(960,1000)}If you ran them from between... Oh, I'll show you actually.
+Dialogue: 0,0:28:10.00,0:28:11.68,Chinese,,0,0,0,0,{\pos(960,1070)}如果把遮阳帆
+Dialogue: 0,0:28:10.00,0:28:11.68,English,,0,0,0,0,{\pos(960,1000)}If you ran the sails...
+Dialogue: 0,0:28:12.64,0:28:18.32,Chinese,,0,0,0,0,{\pos(960,1070)}如果把遮阳帆固定在 门框顶部与排水管之间 嗯
+Dialogue: 0,0:28:12.64,0:28:18.32,English,,0,0,0,0,{\pos(960,1000)}If you mounted them between the top of the door and the drainpipe... Yes.
+Dialogue: 0,0:28:18.60,0:28:20.24,Chinese,,0,0,0,0,{\pos(960,1070)}然后让它斜着向下
+Dialogue: 0,0:28:18.60,0:28:20.24,English,,0,0,0,0,{\pos(960,1000)}If you put a slope on them...
+Dialogue: 0,0:28:20.40,0:28:24.60,Chinese,,0,0,0,0,{\pos(960,1070)}不 我会让它斜着向上 这里立一根杆子 先向上 再向下
+Dialogue: 0,0:28:20.40,0:28:24.60,English,,0,0,0,0,{\pos(960,1000)}No, I'd go up. And I'd put a pole here. You can go up, then go again.
+Dialogue: 0,0:28:24.80,0:28:25.92,Chinese,,0,0,0,0,{\pos(960,1070)}说真的
+Dialogue: 0,0:28:24.80,0:28:25.92,English,,0,0,0,0,{\pos(960,1000)}To be honest,
+Dialogue: 0,0:28:26.08,0:28:28.60,Chinese,,0,0,0,0,{\pos(960,1070)}村里的"三个马蹄铁"酒吧用的是帐篷
+Dialogue: 0,0:28:26.08,0:28:28.60,English,,0,0,0,0,{\pos(960,1000)}they've just put a sort of tented arrangement up at the Three Horseshoes.
+Dialogue: 0,0:28:28.76,0:28:29.72,Chinese,,0,0,0,0,{\pos(960,1070)}是吗
+Dialogue: 0,0:28:28.76,0:28:29.72,English,,0,0,0,0,{\pos(960,1000)}Have they?
+Dialogue: 0,0:28:29.92,0:28:31.92,Chinese,,0,0,0,0,{\pos(960,1070)}我们把遮阳帆弄来 看看效果如何
+Dialogue: 0,0:28:29.92,0:28:31.92,English,,0,0,0,0,{\pos(960,1000)}We gotta get 'em here and have a look, haven't we? See what they can do.
+Dialogue: 0,0:28:32.56,0:28:33.36,Chinese,,0,0,0,0,{\pos(960,1070)}好
+Dialogue: 0,0:28:32.56,0:28:33.36,English,,0,0,0,0,{\pos(960,1000)}Yeah.
+Dialogue: 0,0:28:35.00,0:28:38.80,Chinese,,0,0,0,0,{\pos(960,1070)}显然 花个两万五千英镑 就能让酒吧开张的想法
+Dialogue: 0,0:28:35.00,0:28:38.80,English,,0,0,0,0,{\pos(960,1000)}Clearly, the notion of opening the pub for £25,000
+Dialogue: 0,0:28:39.00,0:28:42.36,Chinese,,0,0,0,0,{\pos(960,1070)}与实际情况差了十万八千里
+Dialogue: 0,0:28:39.00,0:28:42.36,English,,0,0,0,0,{\pos(960,1000)}had been massively wide of the mark.
+Dialogue: 0,0:28:42.48,0:28:44.64,Chinese,,0,0,0,0,{\pos(960,1070)}（风车 场地出租与餐厅）
+Dialogue: 0,0:28:43.20,0:28:45.40,Chinese,,0,0,0,0,{\pos(960,1070)}但我现在没时间想这个
+Dialogue: 0,0:28:43.20,0:28:45.40,English,,0,0,0,0,{\pos(960,1000)}But there was no time to dwell on that,
+Dialogue: 0,0:28:45.60,0:28:49.48,Chinese,,0,0,0,0,{\pos(960,1070)}因为像个人肉乒乓球一般 来回奔波的我
+Dialogue: 0,0:28:45.60,0:28:49.48,English,,0,0,0,0,{\pos(960,1000)}because in my new role as human ping-pong ball,
+Dialogue: 0,0:28:49.64,0:28:51.72,Chinese,,0,0,0,0,{\pos(960,1070)}要赶回农场
+Dialogue: 0,0:28:49.64,0:28:51.72,English,,0,0,0,0,{\pos(960,1000)}I had to bounce back to the farm
+Dialogue: 0,0:28:52.16,0:28:55.32,Chinese,,0,0,0,0,{\pos(960,1070)}那里又有一窝猪崽刚刚出生了
+Dialogue: 0,0:28:52.16,0:28:55.32,English,,0,0,0,0,{\pos(960,1000)}where we'd just had a new crop of piglets.
+Dialogue: 0,0:28:57.84,0:28:59.60,Chinese,,0,0,0,0,{\pos(960,1070)}我去
+Dialogue: 0,0:28:57.84,0:28:59.60,English,,0,0,0,0,{\pos(960,1000)}Holy shit!
+Dialogue: 0,0:28:59.76,0:29:01.64,Chinese,,0,0,0,0,{\pos(960,1070)}它一只都没压死吧 一支猪崽大军
+Dialogue: 0,0:28:59.76,0:29:01.64,English,,0,0,0,0,{\pos(960,1000)}Has she kept them all? An army of them.
+Dialogue: 0,0:29:01.80,0:29:03.04,Chinese,,0,0,0,0,{\pos(960,1070)}一 二
+Dialogue: 0,0:29:01.80,0:29:03.04,English,,0,0,0,0,{\pos(960,1000)}One, two,
+Dialogue: 0,0:29:03.84,0:29:06.00,Chinese,,0,0,0,0,{\pos(960,1070)}三 四 五 六 七 八 九 你数不清的
+Dialogue: 0,0:29:03.84,0:29:06.00,English,,0,0,0,0,{\pos(960,1000)}-three, four, five. You wouldn't be able to count them.
+Dialogue: 0,0:29:06.16,0:29:08.84,Chinese,,0,0,0,0,{\pos(960,1070)}那下面还有一只 十只
+Dialogue: 0,0:29:06.16,0:29:08.84,English,,0,0,0,0,{\pos(960,1000)}Six, seven, eight, nine and then one under there, ten.
+Dialogue: 0,0:29:09.52,0:29:11.68,Chinese,,0,0,0,0,{\pos(960,1070)}没有伤亡
+Dialogue: 0,0:29:09.52,0:29:11.68,English,,0,0,0,0,{\pos(960,1000)}No casualties. Wow!
+Dialogue: 0,0:29:12.48,0:29:14.72,Chinese,,0,0,0,0,{\pos(960,1070)}你看它们爬来爬去的样子 老天 太可爱了
+Dialogue: 0,0:29:12.48,0:29:14.72,English,,0,0,0,0,{\pos(960,1000)}Look at the way they just climb all over! Oh, my God, they're so cute.
+Dialogue: 0,0:29:14.88,0:29:15.84,Chinese,,0,0,0,0,{\pos(960,1070)}它是个好妈妈 对吧
+Dialogue: 0,0:29:14.88,0:29:15.84,English,,0,0,0,0,{\pos(960,1000)}She's a great mum, though, isn't she?
+Dialogue: 0,0:29:16.00,0:29:18.76,Chinese,,0,0,0,0,{\pos(960,1070)}我简直不敢相信 这是个天大的好消息
+Dialogue: 0,0:29:16.00,0:29:18.76,English,,0,0,0,0,{\pos(960,1000)}I can't believe it. This is tremendous news.
+Dialogue: 0,0:29:19.64,0:29:22.44,Chinese,,0,0,0,0,{\pos(960,1070)}然后我们去看理查德·汉姆
+Dialogue: 0,0:29:19.64,0:29:22.44,English,,0,0,0,0,{\pos(960,1000)}Then we went over to see Richard Ham
+Dialogue: 0,0:29:22.64,0:29:26.92,Chinese,,0,0,0,0,{\pos(960,1070)}因为兽医迪尔翁 想到了一个照顾它的新计划
+Dialogue: 0,0:29:22.64,0:29:26.92,English,,0,0,0,0,{\pos(960,1000)}because Dilwyn the vet had come up with a new plan for looking after him.
+Dialogue: 0,0:29:28.44,0:29:30.08,Chinese,,0,0,0,0,{\pos(960,1070)}现在的情况是这样的
+Dialogue: 0,0:29:28.44,0:29:30.08,English,,0,0,0,0,{\pos(960,1000)}So here's the situation.
+Dialogue: 0,0:29:30.28,0:29:33.68,Chinese,,0,0,0,0,{\pos(960,1070)}理查德·汉姆已经到了 快对它的姐妹们下手的年龄了
+Dialogue: 0,0:29:30.28,0:29:33.68,English,,0,0,0,0,{\pos(960,1000)}Richard Ham's now old enough to start having a go on his sisters
+Dialogue: 0,0:29:33.88,0:29:34.84,Chinese,,0,0,0,0,{\pos(960,1070)}所以必须把它跟公猪关在一起
+Dialogue: 0,0:29:33.88,0:29:34.84,English,,0,0,0,0,{\pos(960,1000)}so we have to put him back in the boy pen.
+Dialogue: 0,0:29:35.00,0:29:35.80,Chinese,,0,0,0,0,{\pos(960,1070)}好的
+Dialogue: 0,0:29:35.00,0:29:35.80,English,,0,0,0,0,{\pos(960,1000)}Good.
+Dialogue: 0,0:29:35.96,0:29:39.60,Chinese,,0,0,0,0,{\pos(960,1070)}但是迪尔翁说 如果直接把它和公猪关在一起
+Dialogue: 0,0:29:35.96,0:29:39.60,English,,0,0,0,0,{\pos(960,1000)}But Dilwyn says if we put him straight in the boy pen,
+Dialogue: 0,0:29:39.76,0:29:41.20,Chinese,,0,0,0,0,{\pos(960,1070)}它们会欺负它 甚至有可能弄死它
+Dialogue: 0,0:29:39.76,0:29:41.20,English,,0,0,0,0,{\pos(960,1000)}they'll beat him up. They might even kill him.
+Dialogue: 0,0:29:41.36,0:29:42.16,Chinese,,0,0,0,0,{\pos(960,1070)}噢
+Dialogue: 0,0:29:41.36,0:29:42.16,English,,0,0,0,0,{\pos(960,1000)}Oh.
+Dialogue: 0,0:29:42.36,0:29:44.36,Chinese,,0,0,0,0,{\pos(960,1070)}他说唯一的办法是搭一个小猪圈
+Dialogue: 0,0:29:42.36,0:29:44.36,English,,0,0,0,0,{\pos(960,1000)}So he said the only way round that
+Dialogue: 0,0:29:44.72,0:29:46.52,Chinese,,0,0,0,0,{\pos(960,1070)}我已经在那里搭好了
+Dialogue: 0,0:29:44.72,0:29:46.52,English,,0,0,0,0,{\pos(960,1000)}is to build a little pen, which I've done here,
+Dialogue: 0,0:29:46.72,0:29:51.28,Chinese,,0,0,0,0,{\pos(960,1070)}然后放一只最小的公猪陪它
+Dialogue: 0,0:29:46.72,0:29:51.28,English,,0,0,0,0,{\pos(960,1000)}and then for company, give him the smallest boy,
+Dialogue: 0,0:29:51.48,0:29:54.28,Chinese,,0,0,0,0,{\pos(960,1070)}理查德汉姆可以 跟它的朋友一起生活 建立友谊
+Dialogue: 0,0:29:51.48,0:29:54.28,English,,0,0,0,0,{\pos(960,1000)}and Richard Ham and his friend can live together in here and they bond,
+Dialogue: 0,0:29:54.44,0:29:57.32,Chinese,,0,0,0,0,{\pos(960,1070)}然后一周后放它们出来 希望不会有事
+Dialogue: 0,0:29:54.44,0:29:57.32,English,,0,0,0,0,{\pos(960,1000)}then after a week we can release them and hopefully all will be well.
+Dialogue: 0,0:29:57.48,0:29:58.40,Chinese,,0,0,0,0,{\pos(960,1070)}好的
+Dialogue: 0,0:29:57.48,0:29:58.40,English,,0,0,0,0,{\pos(960,1000)}Okay.
+Dialogue: 0,0:29:58.60,0:29:59.80,Chinese,,0,0,0,0,{\pos(960,1070)}好了 理查德
+Dialogue: 0,0:29:58.60,0:29:59.80,English,,0,0,0,0,{\pos(960,1000)}All right, Richard?
+Dialogue: 0,0:29:59.96,0:30:01.00,Chinese,,0,0,0,0,{\pos(960,1070)}理查德·汉姆在那里 好极了
+Dialogue: 0,0:29:59.96,0:30:01.00,English,,0,0,0,0,{\pos(960,1000)}There's Richard Ham. Perfect.
+Dialogue: 0,0:30:01.92,0:30:03.44,Chinese,,0,0,0,0,{\pos(960,1070)}干得漂亮 卡哥
+Dialogue: 0,0:30:01.92,0:30:03.44,English,,0,0,0,0,{\pos(960,1000)}Oh, well done, K.
+Dialogue: 0,0:30:06.20,0:30:10.08,Chinese,,0,0,0,0,{\pos(960,1070)}现在汉姆放进去了 我们就拭目以待吧
+Dialogue: 0,0:30:06.20,0:30:10.08,English,,0,0,0,0,{\pos(960,1000)}So now, Ham is in there, okay? Let's just see...
+Dialogue: 0,0:30:10.36,0:30:11.24,Chinese,,0,0,0,0,{\pos(960,1070)}它会没事的
+Dialogue: 0,0:30:10.36,0:30:11.24,English,,0,0,0,0,{\pos(960,1000)}He'll be fine.
+Dialogue: 0,0:30:11.40,0:30:13.56,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 这两只将成为好朋友
+Dialogue: 0,0:30:11.40,0:30:13.56,English,,0,0,0,0,{\pos(960,1000)}Yeah, so these two will become friends.
+Dialogue: 0,0:30:13.76,0:30:15.96,Chinese,,0,0,0,0,{\pos(960,1070)}然后一周后 我们把它们放回这边
+Dialogue: 0,0:30:13.76,0:30:15.96,English,,0,0,0,0,{\pos(960,1000)}Then after a week, we put them back in here
+Dialogue: 0,0:30:16.12,0:30:19.08,Chinese,,0,0,0,0,{\pos(960,1070)}那只小猪会保护理查德·汉姆 让它不被欺负
+Dialogue: 0,0:30:16.12,0:30:19.08,English,,0,0,0,0,{\pos(960,1000)}and that one will protect Richard Ham from being beaten up.
+Dialogue: 0,0:30:19.72,0:30:22.88,Chinese,,0,0,0,0,{\pos(960,1070)}理查德·汉姆是个快乐的小家伙 我知道
+Dialogue: 0,0:30:19.72,0:30:22.88,English,,0,0,0,0,{\pos(960,1000)}The thing about Richard Ham is he's such a cheerful little fellow. I know.
+Dialogue: 0,0:30:23.04,0:30:25.44,Chinese,,0,0,0,0,{\pos(960,1070)}它还没有开始骑摩托车 或者在酒吧里打架
+Dialogue: 0,0:30:23.04,0:30:25.44,English,,0,0,0,0,{\pos(960,1000)}He hasn't started riding a motorcycle yet or having fights in pubs.
+Dialogue: 0,0:30:25.60,0:30:26.80,Chinese,,0,0,0,0,{\pos(960,1070)}我喜欢它的单片眼镜
+Dialogue: 0,0:30:25.60,0:30:26.80,English,,0,0,0,0,{\pos(960,1000)}I love his little monocle.
+Dialogue: 0,0:30:26.96,0:30:28.36,Chinese,,0,0,0,0,{\pos(960,1070)}但将来它会的
+Dialogue: 0,0:30:26.96,0:30:28.36,English,,0,0,0,0,{\pos(960,1000)}But he will.
+Dialogue: 0,0:30:29.16,0:30:30.60,Chinese,,0,0,0,0,{\pos(960,1070)}它们看起来很开心
+Dialogue: 0,0:30:29.16,0:30:30.60,English,,0,0,0,0,{\pos(960,1000)}They seem to be perfectly happy.
+Dialogue: 0,0:30:31.24,0:30:33.68,Chinese,,0,0,0,0,{\pos(960,1070)}那头猪看起来性格不错
+Dialogue: 0,0:30:31.24,0:30:33.68,English,,0,0,0,0,{\pos(960,1000)}That one looks like a nice-natured pig.
+Dialogue: 0,0:30:34.56,0:30:35.36,Chinese,,0,0,0,0,{\pos(960,1070)}额
+Dialogue: 0,0:30:34.56,0:30:35.36,English,,0,0,0,0,{\pos(960,1000)}Erm...
+Dialogue: 0,0:30:35.92,0:30:39.64,Chinese,,0,0,0,0,{\pos(960,1070)}什么 麻烦了
+Dialogue: 0,0:30:35.92,0:30:39.64,English,,0,0,0,0,{\pos(960,1000)}Oh! Problem! Oh! What's...? Ow...
+Dialogue: 0,0:30:39.80,0:30:40.96,Chinese,,0,0,0,0,{\pos(960,1070)}理查德
+Dialogue: 0,0:30:39.80,0:30:40.96,English,,0,0,0,0,{\pos(960,1000)}Richard!
+Dialogue: 0,0:30:41.68,0:30:44.20,Chinese,,0,0,0,0,{\pos(960,1070)}它就那样傻站着 那是它的兄弟啊
+Dialogue: 0,0:30:41.68,0:30:44.20,English,,0,0,0,0,{\pos(960,1000)}He's just standing there. It's his brother!
+Dialogue: 0,0:30:44.72,0:30:48.44,Chinese,,0,0,0,0,{\pos(960,1070)}那是它的兄弟 把它放进去是让它保护理查德的
+Dialogue: 0,0:30:44.72,0:30:48.44,English,,0,0,0,0,{\pos(960,1000)}It's his brother and he's supposed to be in there to make Richard safe.
+Dialogue: 0,0:30:49.16,0:30:52.56,Chinese,,0,0,0,0,{\pos(960,1070)}天哪 我从没见过这种情况
+Dialogue: 0,0:30:49.16,0:30:52.56,English,,0,0,0,0,{\pos(960,1000)}Oh my God. I've never seen that before!
+Dialogue: 0,0:30:53.16,0:30:56.84,Chinese,,0,0,0,0,{\pos(960,1070)}《激流四勇士》搞错了 小猪不会尖叫
+Dialogue: 0,0:30:53.16,0:30:56.84,English,,0,0,0,0,{\pos(960,1000)}Deliverance was wrong. Piggies don't squeal.
+Dialogue: 0,0:30:57.92,0:30:59.64,Chinese,,0,0,0,0,{\pos(960,1070)}它完事了
+Dialogue: 0,0:30:57.92,0:30:59.64,English,,0,0,0,0,{\pos(960,1000)}He's just finished up.
+Dialogue: 0,0:30:59.84,0:31:01.68,Chinese,,0,0,0,0,{\pos(960,1070)}好吧 听着 杰里米
+Dialogue: 0,0:30:59.84,0:31:01.68,English,,0,0,0,0,{\pos(960,1000)}Okay, look, Jeremy.
+Dialogue: 0,0:31:01.88,0:31:04.40,Chinese,,0,0,0,0,{\pos(960,1070)}如果把它跟公猪关在一起 我认为它会被轮奸的
+Dialogue: 0,0:31:01.88,0:31:04.40,English,,0,0,0,0,{\pos(960,1000)}I think he's gonna get gang raped if he stays with any of the boys.
+Dialogue: 0,0:31:04.56,0:31:06.20,Chinese,,0,0,0,0,{\pos(960,1070)}那也不能把它跟母猪关在一起
+Dialogue: 0,0:31:04.56,0:31:06.20,English,,0,0,0,0,{\pos(960,1000)}Well, he can't go with the girls.
+Dialogue: 0,0:31:06.36,0:31:08.40,Chinese,,0,0,0,0,{\pos(960,1070)}至少它不会怀孕
+Dialogue: 0,0:31:06.36,0:31:08.40,English,,0,0,0,0,{\pos(960,1000)}Well, at least he's not gonna get pregnant.
+Dialogue: 0,0:31:08.56,0:31:10.20,Chinese,,0,0,0,0,{\pos(960,1070)}问题并没有解决 是的
+Dialogue: 0,0:31:08.56,0:31:10.20,English,,0,0,0,0,{\pos(960,1000)}Well, we haven't really cured anything here.
+Dialogue: 0,0:31:10.36,0:31:11.44,Chinese,,0,0,0,0,{\pos(960,1070)}我们得给迪尔翁打电话
+Dialogue: 0,0:31:10.36,0:31:11.44,English,,0,0,0,0,{\pos(960,1000)}We have to call Dilwyn.
+Dialogue: 0,0:31:11.64,0:31:14.48,Chinese,,0,0,0,0,{\pos(960,1070)}你怎么跟他说 我就问他 "我该怎么办"
+Dialogue: 0,0:31:11.64,0:31:14.48,English,,0,0,0,0,{\pos(960,1000)}Well, what are you gonna say? I'm gonna say, "What shall I do?"
+Dialogue: 0,0:31:14.68,0:31:17.48,Chinese,,0,0,0,0,{\pos(960,1070)}有一种现象 你们听说过雄化牝犊吗
+Dialogue: 0,0:31:14.68,0:31:17.48,English,,0,0,0,0,{\pos(960,1000)}There's a thing, yeah. Have you ever heard of a freemartin?
+Dialogue: 0,0:31:17.64,0:31:18.44,Chinese,,0,0,0,0,{\pos(960,1070)}没有
+Dialogue: 0,0:31:17.64,0:31:18.44,English,,0,0,0,0,{\pos(960,1000)}No.
+Dialogue: 0,0:31:18.60,0:31:22.04,Chinese,,0,0,0,0,{\pos(960,1070)}你没听说过 简单来说 就是一头牛怀上了双胞胎
+Dialogue: 0,0:31:18.60,0:31:22.04,English,,0,0,0,0,{\pos(960,1000)}You've never heard of a freemartin? So basically, if a cow has twins in it...
+Dialogue: 0,0:31:22.24,0:31:24.32,Chinese,,0,0,0,0,{\pos(960,1070)}生下来一头公牛 一头母牛
+Dialogue: 0,0:31:22.24,0:31:24.32,English,,0,0,0,0,{\pos(960,1000)}Yeah. It gives birth to one boy, one girl.
+Dialogue: 0,0:31:24.48,0:31:28.00,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 那头母牛搞不清自己的性别
+Dialogue: 0,0:31:24.48,0:31:28.00,English,,0,0,0,0,{\pos(960,1000)}Yeah? The girl comes out not knowing what sex it is.
+Dialogue: 0,0:31:28.64,0:31:30.88,Chinese,,0,0,0,0,{\pos(960,1070)}我的意思是 那只小公猪
+Dialogue: 0,0:31:28.64,0:31:30.88,English,,0,0,0,0,{\pos(960,1000)}Now, what I'm saying is that little boy there
+Dialogue: 0,0:31:31.04,0:31:33.60,Chinese,,0,0,0,0,{\pos(960,1070)}把尾巴撇在一边 以为自己是母猪
+Dialogue: 0,0:31:31.04,0:31:33.60,English,,0,0,0,0,{\pos(960,1000)}moved his tail to one side thinking it was a girl.
+Dialogue: 0,0:31:33.76,0:31:37.28,Chinese,,0,0,0,0,{\pos(960,1070)}所以我在想 它有没有可能是跨性别
+Dialogue: 0,0:31:33.76,0:31:37.28,English,,0,0,0,0,{\pos(960,1000)}So I wonder if it could actually be trans.
+Dialogue: 0,0:31:37.72,0:31:39.92,Chinese,,0,0,0,0,{\pos(960,1070)}什么 我们这里有跨性别猪
+Dialogue: 0,0:31:37.72,0:31:39.92,English,,0,0,0,0,{\pos(960,1000)}What, we've got trans pigs?
+Dialogue: 0,0:31:41.36,0:31:44.20,Chinese,,0,0,0,0,{\pos(960,1070)}这就好比参加工党执行委员会的会议
+Dialogue: 0,0:31:41.36,0:31:44.20,English,,0,0,0,0,{\pos(960,1000)}This is like being in a Labour Party executive committee meeting now.
+Dialogue: 0,0:31:44.36,0:31:47.32,Chinese,,0,0,0,0,{\pos(960,1070)}这种现象是存在的 我们就不能好好做个农民吗
+Dialogue: 0,0:31:44.36,0:31:47.32,English,,0,0,0,0,{\pos(960,1000)}There's a thing. Can we be farmers just for a minute?
+Dialogue: 0,0:31:47.52,0:31:49.16,Chinese,,0,0,0,0,{\pos(960,1070)}他说得有道理 我本来就是农民
+Dialogue: 0,0:31:47.52,0:31:49.16,English,,0,0,0,0,{\pos(960,1000)}-He's got a point. I am being a farmer.
+Dialogue: 0,0:31:49.32,0:31:51.96,Chinese,,0,0,0,0,{\pos(960,1070)}这种事是存在的 我在一个农场工作过
+Dialogue: 0,0:31:49.32,0:31:51.96,English,,0,0,0,0,{\pos(960,1000)}This is what happens. Like, I was once working on a farm, yeah?
+Dialogue: 0,0:31:52.16,0:31:55.36,Chinese,,0,0,0,0,{\pos(960,1070)}就在库珀教授喋喋不休的时候
+Dialogue: 0,0:31:52.16,0:31:55.36,English,,0,0,0,0,{\pos(960,1000)}As Professor Cooper chuntered on... It basically had a penis and a vagina.
+Dialogue: 0,0:31:55.52,0:31:58.12,Chinese,,0,0,0,0,{\pos(960,1070)}理查德·汉姆再次施展魔术大法
+Dialogue: 0,0:31:55.52,0:31:58.12,English,,0,0,0,0,{\pos(960,1000)}...Richard Ham made another Houdini move
+Dialogue: 0,0:31:58.32,0:32:02.24,Chinese,,0,0,0,0,{\pos(960,1070)}逃回主猪圈 又跟它的兄弟和表亲在一起了
+Dialogue: 0,0:31:58.32,0:32:02.24,English,,0,0,0,0,{\pos(960,1000)}and escaped into the main pen with all his brothers and cousins.
+Dialogue: 0,0:32:02.44,0:32:05.64,Chinese,,0,0,0,0,{\pos(960,1070)}于是我电话联系了迪尔翁
+Dialogue: 0,0:32:02.44,0:32:05.64,English,,0,0,0,0,{\pos(960,1000)}So, I got on the phone with Dilwyn.
+Dialogue: 0,0:32:06.08,0:32:08.84,Chinese,,0,0,0,0,{\pos(960,1070)}理查德·汉姆 我照你的建议做了
+Dialogue: 0,0:32:06.08,0:32:08.84,English,,0,0,0,0,{\pos(960,1000)}So Richard Ham, I did as you suggested.
+Dialogue: 0,0:32:09.00,0:32:12.12,Chinese,,0,0,0,0,{\pos(960,1070)}我在公猪猪圈的角落里 为它搭了一个小猪圈
+Dialogue: 0,0:32:09.00,0:32:12.12,English,,0,0,0,0,{\pos(960,1000)}I built a little pen in the corner of the boy pen for him,
+Dialogue: 0,0:32:12.28,0:32:13.84,Chinese,,0,0,0,0,{\pos(960,1070)}将另外一只公猪放了进去
+Dialogue: 0,0:32:12.28,0:32:13.84,English,,0,0,0,0,{\pos(960,1000)}got another boar, put it in there,
+Dialogue: 0,0:32:14.00,0:32:16.80,Chinese,,0,0,0,0,{\pos(960,1070)}然后把理查德·汉姆和它关在一起
+Dialogue: 0,0:32:14.00,0:32:16.80,English,,0,0,0,0,{\pos(960,1000)}then put Richard Ham in with that boy.
+Dialogue: 0,0:32:16.96,0:32:18.36,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 结果一分钟不到
+Dialogue: 0,0:32:16.96,0:32:18.36,English,,0,0,0,0,{\pos(960,1000)}Yeah? And within a minute,
+Dialogue: 0,0:32:18.52,0:32:21.60,Chinese,,0,0,0,0,{\pos(960,1070)}那只公猪就惨无人道地强奸了它
+Dialogue: 0,0:32:18.52,0:32:21.60,English,,0,0,0,0,{\pos(960,1000)}the other boar brutally raped him.
+Dialogue: 0,0:32:22.24,0:32:23.20,Chinese,,0,0,0,0,{\pos(960,1070)}好吧
+Dialogue: 0,0:32:22.24,0:32:23.20,English,,0,0,0,0,{\pos(960,1000)}Right.
+Dialogue: 0,0:32:23.80,0:32:27.20,Chinese,,0,0,0,0,{\pos(960,1070)}我觉得是这样 它们到了青春期了 对吧
+Dialogue: 0,0:32:23.80,0:32:27.20,English,,0,0,0,0,{\pos(960,1000)}I think basically they were just being adolescent boys, aren't they really?
+Dialogue: 0,0:32:27.40,0:32:28.44,Chinese,,0,0,0,0,{\pos(960,1070)}它们只是
+Dialogue: 0,0:32:27.40,0:32:28.44,English,,0,0,0,0,{\pos(960,1000)}And they just, er...
+Dialogue: 0,0:32:28.60,0:32:31.72,Chinese,,0,0,0,0,{\pos(960,1070)}不 迪尔翁 我不知道威尔士是什么情况
+Dialogue: 0,0:32:28.60,0:32:31.72,English,,0,0,0,0,{\pos(960,1000)}No, well, no. Dilwyn, I don't know how things were in Wales
+Dialogue: 0,0:32:31.88,0:32:34.20,Chinese,,0,0,0,0,{\pos(960,1070)}但是在约克郡 我绝对不会说
+Dialogue: 0,0:32:31.88,0:32:34.20,English,,0,0,0,0,{\pos(960,1000)}but in Yorkshire I never thought:
+Dialogue: 0,0:32:34.36,0:32:37.60,Chinese,,0,0,0,0,{\pos(960,1070)}"好吧" 我从未有过这种想法
+Dialogue: 0,0:32:34.36,0:32:37.60,English,,0,0,0,0,{\pos(960,1000)}"Oh, well..." No, at no point did it cross my mind.
+Dialogue: 0,0:32:37.80,0:32:40.96,Chinese,,0,0,0,0,{\pos(960,1070)}现在理查德·汉姆跟其他公猪关在一起
+Dialogue: 0,0:32:37.80,0:32:40.96,English,,0,0,0,0,{\pos(960,1000)}And now Richard Ham was now with all the other boars.
+Dialogue: 0,0:32:41.12,0:32:42.60,Chinese,,0,0,0,0,{\pos(960,1070)}它们欺负它了吗
+Dialogue: 0,0:32:41.12,0:32:42.60,English,,0,0,0,0,{\pos(960,1000)}And is he getting beaten up over there?
+Dialogue: 0,0:32:42.76,0:32:44.56,Chinese,,0,0,0,0,{\pos(960,1070)}暂时还没有 但是
+Dialogue: 0,0:32:42.76,0:32:44.56,English,,0,0,0,0,{\pos(960,1000)}No, not yet, but...
+Dialogue: 0,0:32:44.72,0:32:46.76,Chinese,,0,0,0,0,{\pos(960,1070)}如果是我
+Dialogue: 0,0:32:44.72,0:32:46.76,English,,0,0,0,0,{\pos(960,1000)}The way that I would do it with him:
+Dialogue: 0,0:32:46.92,0:32:48.88,Chinese,,0,0,0,0,{\pos(960,1070)}我会等等看 观察其他公猪的反应
+Dialogue: 0,0:32:46.92,0:32:48.88,English,,0,0,0,0,{\pos(960,1000)}wait and see what happens now he's with the big group.
+Dialogue: 0,0:32:49.04,0:32:52.60,Chinese,,0,0,0,0,{\pos(960,1070)}如果它和其他公猪相安无事 那你的问题就解决了
+Dialogue: 0,0:32:49.04,0:32:52.60,English,,0,0,0,0,{\pos(960,1000)}'Cause if he's okay with the big group, that's your problem sorted really.
+Dialogue: 0,0:32:52.76,0:32:56.16,Chinese,,0,0,0,0,{\pos(960,1070)}好吧 谢了 伙计 再见 好的 不客气 再见
+Dialogue: 0,0:32:52.76,0:32:56.16,English,,0,0,0,0,{\pos(960,1000)}All right. Thanks, mate. Cheers. Bye, bye. Okay. Bye.
+Dialogue: 0,0:32:59.68,0:33:04.08,Chinese,,0,0,0,0,{\pos(960,1070)}幸运的是 下一项 与动物打交道的工作就简单多了
+Dialogue: 0,0:32:59.68,0:33:04.08,English,,0,0,0,0,{\pos(960,1000)}Fortunately, my next animal job was much more straightforward
+Dialogue: 0,0:33:04.24,0:33:05.96,Chinese,,0,0,0,0,{\pos(960,1070)}因为对象是山羊
+Dialogue: 0,0:33:04.24,0:33:05.96,English,,0,0,0,0,{\pos(960,1000)}because it involved the goats,
+Dialogue: 0,0:33:07.44,0:33:10.96,Chinese,,0,0,0,0,{\pos(960,1070)}过去几周 它们一直待在训练草场
+Dialogue: 0,0:33:07.44,0:33:10.96,English,,0,0,0,0,{\pos(960,1000)}who for the last few weeks had been in their training pasture
+Dialogue: 0,0:33:11.12,0:33:14.76,Chinese,,0,0,0,0,{\pos(960,1070)}逐步适应它们的高科技隐形围栏
+Dialogue: 0,0:33:11.12,0:33:14.76,English,,0,0,0,0,{\pos(960,1000)}getting used to their hi-tech invisible fence.
+Dialogue: 0,0:33:15.36,0:33:17.88,Chinese,,0,0,0,0,{\pos(960,1070)}好 这里是草场 好吧
+Dialogue: 0,0:33:15.36,0:33:17.88,English,,0,0,0,0,{\pos(960,1000)}Right, here's the pasture, okay?
+Dialogue: 0,0:33:18.60,0:33:20.84,Chinese,,0,0,0,0,{\pos(960,1070)}它们在这里 你看
+Dialogue: 0,0:33:18.60,0:33:20.84,English,,0,0,0,0,{\pos(960,1000)}This is where they are. There you go, look.
+Dialogue: 0,0:33:21.36,0:33:25.76,Chinese,,0,0,0,0,{\pos(960,1070)}埃隆的死亡射线让它们 始终待在我们希望它们待的地方
+Dialogue: 0,0:33:21.36,0:33:25.76,English,,0,0,0,0,{\pos(960,1000)}That Elon's death ray is keeping them where we want them to be.
+Dialogue: 0,0:33:27.20,0:33:28.12,Chinese,,0,0,0,0,{\pos(960,1070)}好 来吧 山羊们
+Dialogue: 0,0:33:27.20,0:33:28.12,English,,0,0,0,0,{\pos(960,1000)}Right, come on, goats.
+Dialogue: 0,0:33:28.28,0:33:29.96,Chinese,,0,0,0,0,{\pos(960,1070)}准备好了吗 好了
+Dialogue: 0,0:33:28.28,0:33:29.96,English,,0,0,0,0,{\pos(960,1000)}Are you ready? I'm ready.
+Dialogue: 0,0:33:30.92,0:33:33.08,Chinese,,0,0,0,0,{\pos(960,1070)}现在它们完全听话了
+Dialogue: 0,0:33:30.92,0:33:33.08,English,,0,0,0,0,{\pos(960,1000)}Now they were fully compliant, though,
+Dialogue: 0,0:33:33.28,0:33:35.62,Chinese,,0,0,0,0,{\pos(960,1070)}我可以放它们出来 让它们做当初买它们时
+Dialogue: 0,0:33:33.28,0:33:35.62,English,,0,0,0,0,{\pos(960,1000)}I could release them to do the job I'd bought them
+Dialogue: 0,0:33:35.62,0:33:36.96,Chinese,,0,0,0,0,{\pos(960,1070)}想让它们做的工作了
+Dialogue: 0,0:33:35.62,0:33:36.96,English,,0,0,0,0,{\pos(960,1000)}for in the first place.
+Dialogue: 0,0:33:37.12,0:33:38.12,Chinese,,0,0,0,0,{\pos(960,1070)}来吧 山羊们 来吧
+Dialogue: 0,0:33:37.12,0:33:38.12,English,,0,0,0,0,{\pos(960,1000)}Come on, goats.
+Dialogue: 0,0:33:39.44,0:33:40.56,Chinese,,0,0,0,0,{\pos(960,1070)}来吧 山羊们
+Dialogue: 0,0:33:39.44,0:33:40.56,English,,0,0,0,0,{\pos(960,1000)}Come on, goats.
+Dialogue: 0,0:33:40.72,0:33:45.60,Chinese,,0,0,0,0,{\pos(960,1070)}工作就是清除农场中 不易到达处的荆棘丛
+Dialogue: 0,0:33:40.72,0:33:45.60,English,,0,0,0,0,{\pos(960,1000)}Which was to clear the brambles in all the inaccessible parts of the farm.
+Dialogue: 0,0:33:46.64,0:33:48.64,Chinese,,0,0,0,0,{\pos(960,1070)}原来山羊真的很擅长爬坡
+Dialogue: 0,0:33:46.64,0:33:48.64,English,,0,0,0,0,{\pos(960,1000)}It turns out goats are really good on a hill.
+Dialogue: 0,0:33:48.84,0:33:50.48,Chinese,,0,0,0,0,{\pos(960,1070)}要的就是这个效果
+Dialogue: 0,0:33:48.84,0:33:50.48,English,,0,0,0,0,{\pos(960,1000)}That's kind of the point!
+Dialogue: 0,0:33:52.32,0:33:53.40,Chinese,,0,0,0,0,{\pos(960,1070)}开始了
+Dialogue: 0,0:33:52.32,0:33:53.40,English,,0,0,0,0,{\pos(960,1000)}So this is it.
+Dialogue: 0,0:33:53.60,0:33:56.80,Chinese,,0,0,0,0,{\pos(960,1070)}我们的"清除行动"启动了 在我们永远都无法围起来的地方
+Dialogue: 0,0:33:53.60,0:33:56.80,English,,0,0,0,0,{\pos(960,1000)}Now we're on Operation Clear, where we would never ever be able to fence.
+Dialogue: 0,0:33:57.40,0:33:58.44,Chinese,,0,0,0,0,{\pos(960,1070)}你看那边
+Dialogue: 0,0:33:57.40,0:33:58.44,English,,0,0,0,0,{\pos(960,1000)}Look at that in there.
+Dialogue: 0,0:33:58.60,0:34:01.44,Chinese,,0,0,0,0,{\pos(960,1070)}它们在狼吞虎咽 简直就是山羊的天堂
+Dialogue: 0,0:33:58.60,0:34:01.44,English,,0,0,0,0,{\pos(960,1000)}They're ravenous, aren't they? That is just goat paradise.
+Dialogue: 0,0:34:03.80,0:34:05.48,Chinese,,0,0,0,0,{\pos(960,1070)}它们在这里清理了多大面积了
+Dialogue: 0,0:34:03.80,0:34:05.48,English,,0,0,0,0,{\pos(960,1000)}How much of the area have they got here then?
+Dialogue: 0,0:34:05.64,0:34:06.76,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 看看应用就知道了
+Dialogue: 0,0:34:05.64,0:34:06.76,English,,0,0,0,0,{\pos(960,1000)}Well... Look at the app.
+Dialogue: 0,0:34:06.96,0:34:09.20,Chinese,,0,0,0,0,{\pos(960,1070)}我没有那个应用 我有
+Dialogue: 0,0:34:06.96,0:34:09.20,English,,0,0,0,0,{\pos(960,1000)}I don't have the app. I've got it.
+Dialogue: 0,0:34:10.24,0:34:12.60,Chinese,,0,0,0,0,{\pos(960,1070)}这个应用很棒 对吧 快六亩了
+Dialogue: 0,0:34:10.24,0:34:12.60,English,,0,0,0,0,{\pos(960,1000)}It's a bit less than an acre.
+Dialogue: 0,0:34:13.24,0:34:14.32,Chinese,,0,0,0,0,{\pos(960,1070)}不对 是一公顷 够了
+Dialogue: 0,0:34:13.24,0:34:14.32,English,,0,0,0,0,{\pos(960,1000)}A hectare rather.
+Dialogue: 0,0:34:14.48,0:34:18.04,Chinese,,0,0,0,0,{\pos(960,1070)}是的 因为我们只想让它们 啃食特定区域的荆棘丛
+Dialogue: 0,0:34:14.48,0:34:18.04,English,,0,0,0,0,{\pos(960,1000)}Yeah, yeah, no, 'cause you want them to just graze certain areas down
+Dialogue: 0,0:34:18.20,0:34:19.20,Chinese,,0,0,0,0,{\pos(960,1070)}然后把它们转移到别处
+Dialogue: 0,0:34:18.20,0:34:19.20,English,,0,0,0,0,{\pos(960,1000)}and then move them through.
+Dialogue: 0,0:34:19.40,0:34:20.76,Chinese,,0,0,0,0,{\pos(960,1070)}就像围牧一样
+Dialogue: 0,0:34:19.40,0:34:20.76,English,,0,0,0,0,{\pos(960,1000)}So it's like mob grazing.
+Dialogue: 0,0:34:23.68,0:34:26.56,Chinese,,0,0,0,0,{\pos(960,1070)}这就是当初买它们的目的 让它们搞定这些荆棘丛
+Dialogue: 0,0:34:23.68,0:34:26.56,English,,0,0,0,0,{\pos(960,1000)}But this is what we got them for, is to nail these brambles.
+Dialogue: 0,0:34:26.72,0:34:28.92,Chinese,,0,0,0,0,{\pos(960,1070)}这才多久 不到五分钟吧 你们看
+Dialogue: 0,0:34:26.72,0:34:28.92,English,,0,0,0,0,{\pos(960,1000)}And within, what, five minutes,
+Dialogue: 0,0:34:29.08,0:34:31.68,Chinese,,0,0,0,0,{\pos(960,1070)}那片荆棘丛就快被消灭了
+Dialogue: 0,0:34:29.08,0:34:31.68,English,,0,0,0,0,{\pos(960,1000)}that bramble bush is really in trouble.
+Dialogue: 0,0:34:32.52,0:34:33.96,Chinese,,0,0,0,0,{\pos(960,1070)}太棒了
+Dialogue: 0,0:34:32.52,0:34:33.96,English,,0,0,0,0,{\pos(960,1000)}That's fantastic.
+Dialogue: 0,0:34:40.12,0:34:42.80,Chinese,,0,0,0,0,{\pos(960,1070)}除了让新买的牛长胖
+Dialogue: 0,0:34:40.12,0:34:42.80,English,,0,0,0,0,{\pos(960,1000)}Apart from making the new cows fatter,
+Dialogue: 0,0:34:42.96,0:34:46.72,Chinese,,0,0,0,0,{\pos(960,1070)}动物管理方面 就没有什么急需解决的问题了
+Dialogue: 0,0:34:42.96,0:34:46.72,English,,0,0,0,0,{\pos(960,1000)}there were no more immediate animal-management demands.
+Dialogue: 0,0:34:48.88,0:34:52.16,Chinese,,0,0,0,0,{\pos(960,1070)}于是我将注意力 转回到了风车餐厅上来
+Dialogue: 0,0:34:48.88,0:34:52.16,English,,0,0,0,0,{\pos(960,1000)}So, I turned my attention back to The Windmill,
+Dialogue: 0,0:34:52.36,0:34:54.72,Chinese,,0,0,0,0,{\pos(960,1070)}我突然有了一个奇思妙想
+Dialogue: 0,0:34:52.36,0:34:54.72,English,,0,0,0,0,{\pos(960,1000)}where I'd had a brainwave.
+Dialogue: 0,0:34:54.92,0:34:58.12,Chinese,,0,0,0,0,{\pos(960,1070)}离正方形大概只差十到十五厘米
+Dialogue: 0,0:34:54.92,0:34:58.12,English,,0,0,0,0,{\pos(960,1000)}It's only about ten to fifteen mil out of square.
+Dialogue: 0,0:34:59.48,0:35:02.84,Chinese,,0,0,0,0,{\pos(960,1070)}为了突出酒吧与农场的关联
+Dialogue: 0,0:34:59.48,0:35:02.84,English,,0,0,0,0,{\pos(960,1000)}In order to highlight my pub's connection to farming,
+Dialogue: 0,0:35:03.00,0:35:05.92,Chinese,,0,0,0,0,{\pos(960,1070)}我打算在天花板上挂一台旧拖拉机
+Dialogue: 0,0:35:03.00,0:35:05.92,English,,0,0,0,0,{\pos(960,1000)}I would hang an old tractor from the ceiling.
+Dialogue: 0,0:35:07.96,0:35:10.40,Chinese,,0,0,0,0,{\pos(960,1070)}不过 我想先把拖拉机改造一番
+Dialogue: 0,0:35:07.96,0:35:10.40,English,,0,0,0,0,{\pos(960,1000)}First, though, I wanted to get it modified.
+Dialogue: 0,0:35:13.04,0:35:14.28,Chinese,,0,0,0,0,{\pos(960,1070)}好 拖拉机已经有了
+Dialogue: 0,0:35:13.04,0:35:14.28,English,,0,0,0,0,{\pos(960,1000)}Okay, I've got the tractor
+Dialogue: 0,0:35:14.88,0:35:17.60,Chinese,,0,0,0,0,{\pos(960,1070)}现在需要将它镀铬并减轻重量
+Dialogue: 0,0:35:14.88,0:35:17.60,English,,0,0,0,0,{\pos(960,1000)}and now I need to get it chromed and lightened.
+Dialogue: 0,0:35:17.76,0:35:20.00,Chinese,,0,0,0,0,{\pos(960,1070)}我一直认为 遇到这种工作
+Dialogue: 0,0:35:17.76,0:35:20.00,English,,0,0,0,0,{\pos(960,1000)}And I always think when you've got a job like that,
+Dialogue: 0,0:35:20.16,0:35:23.36,Chinese,,0,0,0,0,{\pos(960,1070)}最好是把它交给村里的小矮人
+Dialogue: 0,0:35:20.16,0:35:23.36,English,,0,0,0,0,{\pos(960,1000)}you're better off giving it to a little man in a village.
+Dialogue: 0,0:35:23.72,0:35:29.08,Chinese,,0,0,0,0,{\pos(960,1070)}所以我来到了一个 远离文明几百公里的村子
+Dialogue: 0,0:35:23.72,0:35:29.08,English,,0,0,0,0,{\pos(960,1000)}So I've come to a village hundreds and hundreds of miles from civilisation
+Dialogue: 0,0:35:29.72,0:35:33.80,Chinese,,0,0,0,0,{\pos(960,1070)}村里有个超矮的小矮人 他将为我完成这项工作
+Dialogue: 0,0:35:29.72,0:35:33.80,English,,0,0,0,0,{\pos(960,1000)}where there's a very little man who's going to do the work for me.
+Dialogue: 0,0:35:35.60,0:35:36.64,Chinese,,0,0,0,0,{\pos(960,1070)}他在那里
+Dialogue: 0,0:35:35.60,0:35:36.64,English,,0,0,0,0,{\pos(960,1000)}There he is.
+Dialogue: 0,0:35:37.68,0:35:38.48,Chinese,,0,0,0,0,{\pos(960,1070)}伙计
+Dialogue: 0,0:35:37.68,0:35:38.48,English,,0,0,0,0,{\pos(960,1000)}Mate!
+Dialogue: 0,0:35:38.92,0:35:43.80,Chinese,,0,0,0,0,{\pos(960,1070)}你好 欢迎 就是 就是这台
+Dialogue: 0,0:35:38.92,0:35:43.80,English,,0,0,0,0,{\pos(960,1000)}Hello! Welcome. This is... This is it?
+Dialogue: 0,0:35:44.00,0:35:44.88,Chinese,,0,0,0,0,{\pos(960,1070)}对
+Dialogue: 0,0:35:44.00,0:35:44.88,English,,0,0,0,0,{\pos(960,1000)}Yeah.
+Dialogue: 0,0:35:45.04,0:35:46.28,Chinese,,0,0,0,0,{\pos(960,1070)}那是1935年款 我知道
+Dialogue: 0,0:35:45.04,0:35:46.28,English,,0,0,0,0,{\pos(960,1000)}That's a 35. I know it is.
+Dialogue: 0,0:35:46.80,0:35:48.48,Chinese,,0,0,0,0,{\pos(960,1070)}非常漂亮的拖拉机
+Dialogue: 0,0:35:46.80,0:35:48.48,English,,0,0,0,0,{\pos(960,1000)}That's a really nice tractor.
+Dialogue: 0,0:35:48.80,0:35:51.16,Chinese,,0,0,0,0,{\pos(960,1070)}当然了 在你们这里 这就算是现代化了 对吧
+Dialogue: 0,0:35:48.80,0:35:51.16,English,,0,0,0,0,{\pos(960,1000)}This, of course, where you live, is called "modern", isn't it?
+Dialogue: 0,0:35:52.32,0:35:54.04,Chinese,,0,0,0,0,{\pos(960,1070)}这玩意真不错 别人看到了会说
+Dialogue: 0,0:35:52.32,0:35:54.04,English,,0,0,0,0,{\pos(960,1000)}-Out here, it's a fine thing! People going:
+Dialogue: 0,0:35:54.20,0:35:56.64,Chinese,,0,0,0,0,{\pos(960,1070)}"看啊 这是内燃机吗"
+Dialogue: 0,0:35:54.20,0:35:56.64,English,,0,0,0,0,{\pos(960,1000)}"Look at this. Is that internal combustion?"
+Dialogue: 0,0:35:56.80,0:35:58.36,Chinese,,0,0,0,0,{\pos(960,1070)}我见过比这台更破的
+Dialogue: 0,0:35:56.80,0:35:58.36,English,,0,0,0,0,{\pos(960,1000)}We have worse than this turn up. "Now look 'ere."
+Dialogue: 0,0:35:58.52,0:36:01.52,Chinese,,0,0,0,0,{\pos(960,1070)}我见过更破的拖拉机送来修复的 我们这里不是威尔士
+Dialogue: 0,0:35:58.52,0:36:01.52,English,,0,0,0,0,{\pos(960,1000)}We have worse than this turn up for restoration. We're not Welsh.
+Dialogue: 0,0:36:02.04,0:36:03.24,Chinese,,0,0,0,0,{\pos(960,1070)}就是威尔士 不是威尔士
+Dialogue: 0,0:36:02.04,0:36:03.24,English,,0,0,0,0,{\pos(960,1000)}It is Wales. It's not Wales.
+Dialogue: 0,0:36:03.40,0:36:06.84,Chinese,,0,0,0,0,{\pos(960,1070)}大约四个小时之前 我穿过了M5高速路
+Dialogue: 0,0:36:03.40,0:36:06.84,English,,0,0,0,0,{\pos(960,1000)}I crossed the M5 about four hours ago.
+Dialogue: 0,0:36:07.00,0:36:08.80,Chinese,,0,0,0,0,{\pos(960,1070)}M5不是边境线 就是
+Dialogue: 0,0:36:07.00,0:36:08.80,English,,0,0,0,0,{\pos(960,1000)}-The M5 isn't the boundary. It is the bor--
+Dialogue: 0,0:36:08.96,0:36:10.28,Chinese,,0,0,0,0,{\pos(960,1070)}不是 就是 当你
+Dialogue: 0,0:36:08.96,0:36:10.28,English,,0,0,0,0,{\pos(960,1000)}-It isn't. It is.
+Dialogue: 0,0:36:10.44,0:36:12.40,Chinese,,0,0,0,0,{\pos(960,1070)}不是说威尔士人站在M5的这边
+Dialogue: 0,0:36:10.44,0:36:12.40,English,,0,0,0,0,{\pos(960,1000)}It's not Welsh people on one side of the M5
+Dialogue: 0,0:36:12.56,0:36:13.60,Chinese,,0,0,0,0,{\pos(960,1070)}英格兰人拿着弓箭站在另一边
+Dialogue: 0,0:36:12.56,0:36:13.60,English,,0,0,0,0,{\pos(960,1000)}and English with bows and arrows on the other.
+Dialogue: 0,0:36:13.76,0:36:14.56,Chinese,,0,0,0,0,{\pos(960,1070)}就是
+Dialogue: 0,0:36:13.76,0:36:14.56,English,,0,0,0,0,{\pos(960,1000)}Well, it is.
+Dialogue: 0,0:36:15.12,0:36:19.92,Chinese,,0,0,0,0,{\pos(960,1070)}在我们搞清楚了 几百年的政治和地理知识后
+Dialogue: 0,0:36:15.12,0:36:19.92,English,,0,0,0,0,{\pos(960,1000)}Once we'd sorted out several hundred years of politics and geography,
+Dialogue: 0,0:36:20.08,0:36:22.12,Chinese,,0,0,0,0,{\pos(960,1070)}话题又回到了我的拖拉机上
+Dialogue: 0,0:36:20.08,0:36:22.12,English,,0,0,0,0,{\pos(960,1000)}we got back to my tractor.
+Dialogue: 0,0:36:22.52,0:36:27.80,Chinese,,0,0,0,0,{\pos(960,1070)}我需要把重量降到750公斤以下 不然会把屋顶拉塌
+Dialogue: 0,0:36:22.52,0:36:27.80,English,,0,0,0,0,{\pos(960,1000)}So we've gotta get it down to under 750 kilograms or I'll pull the roof down.
+Dialogue: 0,0:36:27.96,0:36:32.00,Chinese,,0,0,0,0,{\pos(960,1070)}如果把拖拉机内部掏空 把传动轴之类的全都拿掉
+Dialogue: 0,0:36:27.96,0:36:32.00,English,,0,0,0,0,{\pos(960,1000)}If we take all the internals out, everything, prop shafts, everything...
+Dialogue: 0,0:36:32.16,0:36:36.68,Chinese,,0,0,0,0,{\pos(960,1070)}然后镀铬 给引擎盖和轮拱镀铬
+Dialogue: 0,0:36:32.16,0:36:36.68,English,,0,0,0,0,{\pos(960,1000)}And then chrome the bonnet and the wheel arches.
+Dialogue: 0,0:36:37.08,0:36:39.40,Chinese,,0,0,0,0,{\pos(960,1070)}你想给哪些部位镀铬 红色的部位
+Dialogue: 0,0:36:37.08,0:36:39.40,English,,0,0,0,0,{\pos(960,1000)}Which bits do you want to chrome? The red bits.
+Dialogue: 0,0:36:39.56,0:36:42.36,Chinese,,0,0,0,0,{\pos(960,1070)}哦 好 所以你不想给这些地方镀铬
+Dialogue: 0,0:36:39.56,0:36:42.36,English,,0,0,0,0,{\pos(960,1000)}Oh, right. So you don't wanna chrome all these bits?
+Dialogue: 0,0:36:42.52,0:36:43.32,Chinese,,0,0,0,0,{\pos(960,1070)}不想
+Dialogue: 0,0:36:42.52,0:36:43.32,English,,0,0,0,0,{\pos(960,1000)}No.
+Dialogue: 0,0:36:43.52,0:36:45.52,Chinese,,0,0,0,0,{\pos(960,1070)}我觉得应该用汉默莱特的漆 好
+Dialogue: 0,0:36:43.52,0:36:45.52,English,,0,0,0,0,{\pos(960,1000)}Yeah! I think that should be Hammerite.
+Dialogue: 0,0:36:46.04,0:36:47.60,Chinese,,0,0,0,0,{\pos(960,1070)}黑色 你知道的 那种
+Dialogue: 0,0:36:46.04,0:36:47.60,English,,0,0,0,0,{\pos(960,1000)}-Black? Well, you know, that...
+Dialogue: 0,0:36:47.92,0:36:49.28,Chinese,,0,0,0,0,{\pos(960,1070)}对 是叫汉默莱特吧
+Dialogue: 0,0:36:47.92,0:36:49.28,English,,0,0,0,0,{\pos(960,1000)}Is it Hammerite?
+Dialogue: 0,0:36:49.76,0:36:51.56,Chinese,,0,0,0,0,{\pos(960,1070)}汉默莱特确实是一种漆 这是你的专业领域
+Dialogue: 0,0:36:49.76,0:36:51.56,English,,0,0,0,0,{\pos(960,1000)}-Hammerite is... It's your world, this.
+Dialogue: 0,0:36:51.72,0:36:52.64,Chinese,,0,0,0,0,{\pos(960,1070)}没错 我知道
+Dialogue: 0,0:36:51.72,0:36:52.64,English,,0,0,0,0,{\pos(960,1000)}-Yeah, it is! Yes, I know.
+Dialogue: 0,0:36:52.80,0:36:54.68,Chinese,,0,0,0,0,{\pos(960,1070)}感觉好奇怪
+Dialogue: 0,0:36:52.80,0:36:54.68,English,,0,0,0,0,{\pos(960,1000)}This is so weird!
+Dialogue: 0,0:36:54.84,0:36:57.52,Chinese,,0,0,0,0,{\pos(960,1070)}现在那是你的专业领域 而那是我的专业领域
+Dialogue: 0,0:36:54.84,0:36:57.52,English,,0,0,0,0,{\pos(960,1000)}That's your world now and that's my world now.
+Dialogue: 0,0:36:58.08,0:37:00.32,Chinese,,0,0,0,0,{\pos(960,1070)}你得在童话闹剧季开始前完工
+Dialogue: 0,0:36:58.08,0:37:00.32,English,,0,0,0,0,{\pos(960,1000)}Now, you've gotta get this done before panto season starts.
+Dialogue: 0,0:37:00.48,0:37:02.12,Chinese,,0,0,0,0,{\pos(960,1070)}那就是说
+Dialogue: 0,0:37:00.48,0:37:02.12,English,,0,0,0,0,{\pos(960,1000)}Does that mean the cust--
+Dialogue: 0,0:37:03.44,0:37:05.20,Chinese,,0,0,0,0,{\pos(960,1070)}你什么时候去斯温顿
+Dialogue: 0,0:37:03.44,0:37:05.20,English,,0,0,0,0,{\pos(960,1000)}So when are you off to Swindon?
+Dialogue: 0,0:37:05.36,0:37:07.56,Chinese,,0,0,0,0,{\pos(960,1070)}我不去 你会去的 我不去 你会去的
+Dialogue: 0,0:37:05.36,0:37:07.56,English,,0,0,0,0,{\pos(960,1000)}-I'm not going to... I'm not. You are. You are.
+Dialogue: 0,0:37:13.24,0:37:15.08,Chinese,,0,0,0,0,{\pos(960,1070)}知道吗 你上我们的节目了 以什么方式
+Dialogue: 0,0:37:13.24,0:37:15.08,English,,0,0,0,0,{\pos(960,1000)}You know you're in the show? In what way?
+Dialogue: 0,0:37:15.28,0:37:16.76,Chinese,,0,0,0,0,{\pos(960,1070)}隆重的方式
+Dialogue: 0,0:37:15.28,0:37:16.76,English,,0,0,0,0,{\pos(960,1000)}Oh, in a big way.
+Dialogue: 0,0:37:16.92,0:37:19.24,Chinese,,0,0,0,0,{\pos(960,1070)}怎么可能 我还什么事都没做呢
+Dialogue: 0,0:37:16.92,0:37:19.24,English,,0,0,0,0,{\pos(960,1000)}Well, how can I be in it? I haven't done anything in it.
+Dialogue: 0,0:37:19.40,0:37:21.84,Chinese,,0,0,0,0,{\pos(960,1070)}不 你已经做了 只是你不知道而已
+Dialogue: 0,0:37:19.40,0:37:21.84,English,,0,0,0,0,{\pos(960,1000)}No, you have, but you just don't know you have.
+Dialogue: 0,0:37:22.44,0:37:26.60,Chinese,,0,0,0,0,{\pos(960,1070)}你做出了巨大的贡献 好吧 跟你说实话吧
+Dialogue: 0,0:37:22.44,0:37:26.60,English,,0,0,0,0,{\pos(960,1000)}Your contribution is immense, I've gotta be honest with you.
+Dialogue: 0,0:37:26.76,0:37:30.32,Chinese,,0,0,0,0,{\pos(960,1070)}非常亮眼 而且有点没有尊严
+Dialogue: 0,0:37:26.76,0:37:30.32,English,,0,0,0,0,{\pos(960,1000)}Immense and in some ways... not dignified.
+Dialogue: 0,0:37:30.80,0:37:31.60,Chinese,,0,0,0,0,{\pos(960,1070)}好吧
+Dialogue: 0,0:37:30.80,0:37:31.60,English,,0,0,0,0,{\pos(960,1000)}Right.
+Dialogue: 0,0:37:32.36,0:37:33.72,Chinese,,0,0,0,0,{\pos(960,1070)}卸下拖拉机后
+Dialogue: 0,0:37:32.36,0:37:33.72,English,,0,0,0,0,{\pos(960,1000)}Once the tractor was off,
+Dialogue: 0,0:37:33.88,0:37:37.80,Chinese,,0,0,0,0,{\pos(960,1070)}话锋一转 聊到了我最不喜欢的话题
+Dialogue: 0,0:37:33.88,0:37:37.80,English,,0,0,0,0,{\pos(960,1000)}the conversation turned to my least favourite topic.
+Dialogue: 0,0:37:38.32,0:37:40.60,Chinese,,0,0,0,0,{\pos(960,1070)}好了 你想谈谈价格和预算吗
+Dialogue: 0,0:37:38.32,0:37:40.60,English,,0,0,0,0,{\pos(960,1000)}Right, do you wanna talk prices and budget?
+Dialogue: 0,0:37:40.76,0:37:42.12,Chinese,,0,0,0,0,{\pos(960,1070)}大笔预算 没问题
+Dialogue: 0,0:37:40.76,0:37:42.12,English,,0,0,0,0,{\pos(960,1000)}-We can do. It's filthy money.
+Dialogue: 0,0:37:42.28,0:37:45.56,Chinese,,0,0,0,0,{\pos(960,1070)}那个酒吧的各项预算都严重超标了
+Dialogue: 0,0:37:42.28,0:37:45.56,English,,0,0,0,0,{\pos(960,1000)}On that pub, everything costs too much money.
+Dialogue: 0,0:37:45.72,0:37:47.68,Chinese,,0,0,0,0,{\pos(960,1070)}很好 我们也可以超标 对
+Dialogue: 0,0:37:45.72,0:37:47.68,English,,0,0,0,0,{\pos(960,1000)}-Good. Well, we can keep up with that. Yeah.
+Dialogue: 0,0:37:47.88,0:37:51.84,Chinese,,0,0,0,0,{\pos(960,1070)}我是说 你的预算是 几百 几千 几万还是几百万
+Dialogue: 0,0:37:47.88,0:37:51.84,English,,0,0,0,0,{\pos(960,1000)}I mean, are we talking hundreds, thousands, tens of thousands or millions?
+Dialogue: 0,0:37:52.04,0:37:53.00,Chinese,,0,0,0,0,{\pos(960,1070)}几万 几万
+Dialogue: 0,0:37:52.04,0:37:53.00,English,,0,0,0,0,{\pos(960,1000)}Tens of thousands.
+Dialogue: 0,0:37:53.16,0:37:55.24,Chinese,,0,0,0,0,{\pos(960,1070)}可能要两万左右
+Dialogue: 0,0:37:53.16,0:37:55.24,English,,0,0,0,0,{\pos(960,1000)}-Tens? Probably be up to about twenty.
+Dialogue: 0,0:37:55.40,0:37:58.92,Chinese,,0,0,0,0,{\pos(960,1070)}不 两万 就镀个铬 什么
+Dialogue: 0,0:37:55.40,0:37:58.92,English,,0,0,0,0,{\pos(960,1000)}No? Twenty? What, to chrome it? What?
+Dialogue: 0,0:37:59.08,0:38:01.56,Chinese,,0,0,0,0,{\pos(960,1070)}是的 去除不要的东西 把内部掏空
+Dialogue: 0,0:37:59.08,0:38:01.56,English,,0,0,0,0,{\pos(960,1000)}Yeah, to strip it all down, take all the gubbins out from the inside.
+Dialogue: 0,0:38:01.72,0:38:03.80,Chinese,,0,0,0,0,{\pos(960,1070)}这需要动用机器 我都能完成
+Dialogue: 0,0:38:01.72,0:38:03.80,English,,0,0,0,0,{\pos(960,1000)}That'll have to be machined. I could have done it.
+Dialogue: 0,0:38:03.96,0:38:06.72,Chinese,,0,0,0,0,{\pos(960,1070)}给拖拉机喷个漆要两万
+Dialogue: 0,0:38:03.96,0:38:06.72,English,,0,0,0,0,{\pos(960,1000)}£20,000 to paint a tractor?
+Dialogue: 0,0:38:06.92,0:38:11.04,Chinese,,0,0,0,0,{\pos(960,1070)}好吧 重点在于 当你的荷包在大出血时
+Dialogue: 0,0:38:06.92,0:38:11.04,English,,0,0,0,0,{\pos(960,1000)}Well, the point is, as your bank balance is taking a bit of a beating,
+Dialogue: 0,0:38:11.20,0:38:12.44,Chinese,,0,0,0,0,{\pos(960,1070)}就要让它继续出血
+Dialogue: 0,0:38:11.20,0:38:12.44,English,,0,0,0,0,{\pos(960,1000)}let's keep it going.
+Dialogue: 0,0:38:12.60,0:38:16.24,Chinese,,0,0,0,0,{\pos(960,1070)}为什么要放弃呢 那会给它时间积蓄力量
+Dialogue: 0,0:38:12.60,0:38:16.24,English,,0,0,0,0,{\pos(960,1000)}Why give up? Then it'll have time to strengthen like that
+Dialogue: 0,0:38:16.40,0:38:19.16,Chinese,,0,0,0,0,{\pos(960,1070)}然后它会反抗 然后更难从里面弄出钱来
+Dialogue: 0,0:38:16.40,0:38:19.16,English,,0,0,0,0,{\pos(960,1000)}and then it'll be resistant, and it'll be harder to get anything out of it.
+Dialogue: 0,0:38:19.32,0:38:21.60,Chinese,,0,0,0,0,{\pos(960,1070)}现在的它疲弱无力
+Dialogue: 0,0:38:19.32,0:38:21.60,English,,0,0,0,0,{\pos(960,1000)}Whereas now, it's floppy and weak.
+Dialogue: 0,0:38:21.80,0:38:24.52,Chinese,,0,0,0,0,{\pos(960,1070)}遍体鳞伤 别漫天要价 别漫天要价
+Dialogue: 0,0:38:21.80,0:38:24.52,English,,0,0,0,0,{\pos(960,1000)}Be sensible. Be sensible. Wounded.
+Dialogue: 0,0:38:24.68,0:38:27.44,Chinese,,0,0,0,0,{\pos(960,1070)}不然我将坐在飞龙剧院的第一排
+Dialogue: 0,0:38:24.68,0:38:27.44,English,,0,0,0,0,{\pos(960,1000)}Otherwise I will be on the front row at the Wyvern.
+Dialogue: 0,0:38:27.60,0:38:28.52,Chinese,,0,0,0,0,{\pos(960,1070)}不会的
+Dialogue: 0,0:38:27.60,0:38:28.52,English,,0,0,0,0,{\pos(960,1000)}I'm not doing that.
+Dialogue: 0,0:38:28.68,0:38:31.16,Chinese,,0,0,0,0,{\pos(960,1070)}观察你扮演巴顿斯的表现
+Dialogue: 0,0:38:28.68,0:38:31.16,English,,0,0,0,0,{\pos(960,1000)}And I will be making observations about your performance as Buttons.
+Dialogue: 0,0:38:31.32,0:38:33.48,Chinese,,0,0,0,0,{\pos(960,1070)}我不演童话闹剧 油漆要多少钱
+Dialogue: 0,0:38:31.32,0:38:33.48,English,,0,0,0,0,{\pos(960,1000)}I'm not doing panto. How much is the paint?
+Dialogue: 0,0:38:33.68,0:38:37.24,Chinese,,0,0,0,0,{\pos(960,1070)}一升至少要三千英镑
+Dialogue: 0,0:38:33.68,0:38:37.24,English,,0,0,0,0,{\pos(960,1000)}The paint's gonna be at least three grand a litre.
+Dialogue: 0,0:38:37.92,0:38:39.96,Chinese,,0,0,0,0,{\pos(960,1070)}一升 一升铬漆
+Dialogue: 0,0:38:37.92,0:38:39.96,English,,0,0,0,0,{\pos(960,1000)}A litre? A litre for chrome paint, yeah.
+Dialogue: 0,0:38:40.16,0:38:41.84,Chinese,,0,0,0,0,{\pos(960,1070)}为什么不在我出发前告诉我
+Dialogue: 0,0:38:40.16,0:38:41.84,English,,0,0,0,0,{\pos(960,1000)}Why didn't you tell me before I set off
+Dialogue: 0,0:38:42.00,0:38:45.76,Chinese,,0,0,0,0,{\pos(960,1070)}费用会比大部分 欧洲国家的GDP还要高
+Dialogue: 0,0:38:42.00,0:38:45.76,English,,0,0,0,0,{\pos(960,1000)}that it was going to be more than the GDP of most European countries?
+Dialogue: 0,0:38:45.92,0:38:47.00,Chinese,,0,0,0,0,{\pos(960,1070)}因为说了你可能就不来了
+Dialogue: 0,0:38:45.92,0:38:47.00,English,,0,0,0,0,{\pos(960,1000)}Because then you might not have come.
+Dialogue: 0,0:38:47.16,0:38:49.08,Chinese,,0,0,0,0,{\pos(960,1070)}我肯定不会来 但是你拖拉机都买了
+Dialogue: 0,0:38:47.16,0:38:49.08,English,,0,0,0,0,{\pos(960,1000)}-I wouldn't have come. You have and you've brought the tractor.
+Dialogue: 0,0:38:49.24,0:38:52.84,Chinese,,0,0,0,0,{\pos(960,1070)}所以 是你自己找上门来的
+Dialogue: 0,0:38:49.24,0:38:52.84,English,,0,0,0,0,{\pos(960,1000)}So basically, you've lowered your plums into my vice.
+Dialogue: 0,0:38:53.00,0:38:56.24,Chinese,,0,0,0,0,{\pos(960,1070)}我不过是报价高了一点点 现在
+Dialogue: 0,0:38:53.00,0:38:56.24,English,,0,0,0,0,{\pos(960,1000)}And I've nipped it up a little bit. And now...
+Dialogue: 0,0:38:56.44,0:38:59.44,Chinese,,0,0,0,0,{\pos(960,1070)}如果来的是一个普通农民
+Dialogue: 0,0:38:56.44,0:38:59.44,English,,0,0,0,0,{\pos(960,1000)}If this was a normal farmer coming,
+Dialogue: 0,0:38:59.60,0:39:01.44,Chinese,,0,0,0,0,{\pos(960,1070)}你们肯定不会报价两万英镑
+Dialogue: 0,0:38:59.60,0:39:01.44,English,,0,0,0,0,{\pos(960,1000)}then you wouldn't be saying £20,000.
+Dialogue: 0,0:39:01.64,0:39:04.64,Chinese,,0,0,0,0,{\pos(960,1070)}哪个普通农民 会给拖拉机镀铬 笨蛋
+Dialogue: 0,0:39:01.64,0:39:04.64,English,,0,0,0,0,{\pos(960,1000)}Well, what normal farmer would chrome his tractor, you pillock!
+Dialogue: 0,0:39:06.64,0:39:07.44,Chinese,,0,0,0,0,{\pos(960,1070)}真的不
+Dialogue: 0,0:39:06.64,0:39:07.44,English,,0,0,0,0,{\pos(960,1000)}Erm...
+Dialogue: 0,0:39:10.32,0:39:13.96,Chinese,,0,0,0,0,{\pos(960,1070)}考虑到距离开业只剩五个礼拜了
+Dialogue: 0,0:39:10.32,0:39:13.96,English,,0,0,0,0,{\pos(960,1000)}Since we were now only five weeks from opening,
+Dialogue: 0,0:39:14.12,0:39:17.36,Chinese,,0,0,0,0,{\pos(960,1070)}我只能被迫答应巴顿斯的条件
+Dialogue: 0,0:39:14.12,0:39:17.36,English,,0,0,0,0,{\pos(960,1000)}I was forced to agree to Buttons' terms.
+Dialogue: 0,0:39:18.76,0:39:23.28,Chinese,,0,0,0,0,{\pos(960,1070)}不过好消息是 苏和瑞秋帮我找到了一个主厨
+Dialogue: 0,0:39:18.76,0:39:23.28,English,,0,0,0,0,{\pos(960,1000)}On the good-news front though, Sue and Rachel had found me a chef.
+Dialogue: 0,0:39:24.60,0:39:26.88,Chinese,,0,0,0,0,{\pos(960,1070)}他叫尼克 他和她们一样
+Dialogue: 0,0:39:24.60,0:39:26.88,English,,0,0,0,0,{\pos(960,1000)}His name was Nick, and like them,
+Dialogue: 0,0:39:27.04,0:39:31.76,Chinese,,0,0,0,0,{\pos(960,1070)}在酒吧筹备和经营方面 有着丰富的经验
+Dialogue: 0,0:39:27.04,0:39:31.76,English,,0,0,0,0,{\pos(960,1000)}he had vast experience of getting pubs up and running.
+Dialogue: 0,0:39:33.12,0:39:35.80,Chinese,,0,0,0,0,{\pos(960,1070)}你开过多少家酒吧 餐厅 十家
+Dialogue: 0,0:39:33.12,0:39:35.80,English,,0,0,0,0,{\pos(960,1000)}How many pubs have you opened? Ten.
+Dialogue: 0,0:39:35.96,0:39:38.12,Chinese,,0,0,0,0,{\pos(960,1070)}你在斯特拉特福德有一家店 是的
+Dialogue: 0,0:39:35.96,0:39:38.12,English,,0,0,0,0,{\pos(960,1000)}-So you've got a place in Stratford? Yeah.
+Dialogue: 0,0:39:38.28,0:39:40.24,Chinese,,0,0,0,0,{\pos(960,1070)}但你可以过来帮我们把这家开起来
+Dialogue: 0,0:39:38.28,0:39:40.24,English,,0,0,0,0,{\pos(960,1000)}But you can come and help us get this one going?
+Dialogue: 0,0:39:40.40,0:39:43.36,Chinese,,0,0,0,0,{\pos(960,1070)}是的 完全没问题 斯特拉特福德那家店
+Dialogue: 0,0:39:40.40,0:39:43.36,English,,0,0,0,0,{\pos(960,1000)}Oh yeah, a hundred per cent. The place in Stratford runs...
+Dialogue: 0,0:39:43.52,0:39:46.24,Chinese,,0,0,0,0,{\pos(960,1070)}已经可以纯靠员工运营 我只需要监工
+Dialogue: 0,0:39:43.52,0:39:46.24,English,,0,0,0,0,{\pos(960,1000)}Er, it runs with just me overseeing. At the moment...
+Dialogue: 0,0:39:46.40,0:39:50.04,Chinese,,0,0,0,0,{\pos(960,1070)}目前 令人不安的是 尼克跟着就指出
+Dialogue: 0,0:39:46.40,0:39:50.04,English,,0,0,0,0,{\pos(960,1000)}Worryingly, Nick then pointed out that getting my pub open
+Dialogue: 0,0:39:50.20,0:39:54.24,Chinese,,0,0,0,0,{\pos(960,1070)}要把我的酒吧开起来 其难度超过了他开过的所有酒吧
+Dialogue: 0,0:39:50.20,0:39:54.24,English,,0,0,0,0,{\pos(960,1000)}would be harder than any of the others he'd done in the past.
+Dialogue: 0,0:39:54.92,0:39:57.04,Chinese,,0,0,0,0,{\pos(960,1070)}最让我担心的一个问题是
+Dialogue: 0,0:39:54.92,0:39:57.04,English,,0,0,0,0,{\pos(960,1000)}What fills me with living dread
+Dialogue: 0,0:39:57.24,0:39:59.76,Chinese,,0,0,0,0,{\pos(960,1070)}我们第一次沟通时
+Dialogue: 0,0:39:57.24,0:39:59.76,English,,0,0,0,0,{\pos(960,1000)}is the initial conversation I had with you,
+Dialogue: 0,0:39:59.92,0:40:02.92,Chinese,,0,0,0,0,{\pos(960,1070)}你说你养了17头牛 你想把它们送到酒吧卖掉
+Dialogue: 0,0:39:59.92,0:40:02.92,English,,0,0,0,0,{\pos(960,1000)}is you have seventeen cows, you wanna sell them in the pub.
+Dialogue: 0,0:40:03.08,0:40:04.36,Chinese,,0,0,0,0,{\pos(960,1070)}问题就在于如何卖掉这些牛
+Dialogue: 0,0:40:03.08,0:40:04.36,English,,0,0,0,0,{\pos(960,1000)}It's how we sell those cows.
+Dialogue: 0,0:40:05.04,0:40:05.84,Chinese,,0,0,0,0,{\pos(960,1070)}什么
+Dialogue: 0,0:40:05.04,0:40:05.84,English,,0,0,0,0,{\pos(960,1000)}What?
+Dialogue: 0,0:40:06.60,0:40:08.96,Chinese,,0,0,0,0,{\pos(960,1070)}我们不可能售卖牛的全身各个部位
+Dialogue: 0,0:40:06.60,0:40:08.96,English,,0,0,0,0,{\pos(960,1000)}We can't sell them in all of their constituent parts.
+Dialogue: 0,0:40:09.52,0:40:12.16,Chinese,,0,0,0,0,{\pos(960,1070)}为什么就不能
+Dialogue: 0,0:40:09.52,0:40:12.16,English,,0,0,0,0,{\pos(960,1000)}Why can't we just, erm...
+Dialogue: 0,0:40:13.12,0:40:16.60,Chinese,,0,0,0,0,{\pos(960,1070)}假定每天有300到350人来这里用餐
+Dialogue: 0,0:40:13.12,0:40:16.60,English,,0,0,0,0,{\pos(960,1000)}If you're gonna serve 300, 350 people here in one day,
+Dialogue: 0,0:40:17.16,0:40:21.68,Chinese,,0,0,0,0,{\pos(960,1070)}我们无法准备二十份 所以你无法做牛心 牛舌
+Dialogue: 0,0:40:17.16,0:40:21.68,English,,0,0,0,0,{\pos(960,1000)}we can't hold -twenty portions of shin of beef- So you can't do beef heart, ox tongue?
+Dialogue: 0,0:40:21.84,0:40:25.20,Chinese,,0,0,0,0,{\pos(960,1070)}二十份牛腱 那样的话 菜单上会有一百道菜
+Dialogue: 0,0:40:21.84,0:40:25.20,English,,0,0,0,0,{\pos(960,1000)}Twenty portions... We end up with a menu of a hundred dishes
+Dialogue: 0,0:40:25.36,0:40:27.52,Chinese,,0,0,0,0,{\pos(960,1070)}这绝对做不到
+Dialogue: 0,0:40:25.36,0:40:27.52,English,,0,0,0,0,{\pos(960,1000)}which is like completely unachievable.
+Dialogue: 0,0:40:27.68,0:40:31.76,Chinese,,0,0,0,0,{\pos(960,1070)}所以我们的菜单要定期轮换 同一时间只供应牛的一个部位
+Dialogue: 0,0:40:27.68,0:40:31.76,English,,0,0,0,0,{\pos(960,1000)}So on a regular rolling basis, we need to be serving one cut from a cow.
+Dialogue: 0,0:40:31.92,0:40:33.64,Chinese,,0,0,0,0,{\pos(960,1070)}你打算如何处理剩下的部位
+Dialogue: 0,0:40:31.92,0:40:33.64,English,,0,0,0,0,{\pos(960,1000)}Now, what are you doing with the rest of the cow?
+Dialogue: 0,0:40:33.80,0:40:37.00,Chinese,,0,0,0,0,{\pos(960,1070)}等一下 我的老天爷 太复杂了
+Dialogue: 0,0:40:33.80,0:40:37.00,English,,0,0,0,0,{\pos(960,1000)}Hold on. Oh, my God al-fucking-mighty. This is complicated.
+Dialogue: 0,0:40:37.16,0:40:40.60,Chinese,,0,0,0,0,{\pos(960,1070)}所以如果我们宰了一头牛 把它送到肉店
+Dialogue: 0,0:40:37.16,0:40:40.60,English,,0,0,0,0,{\pos(960,1000)}So if we slaughter a cow, take it to the butcher's...
+Dialogue: 0,0:40:40.80,0:40:43.92,Chinese,,0,0,0,0,{\pos(960,1070)}在某一段时间内 我会大量需要
+Dialogue: 0,0:40:40.80,0:40:43.92,English,,0,0,0,0,{\pos(960,1000)}What I'd want is parts of that cow in large quantities
+Dialogue: 0,0:40:44.08,0:40:45.96,Chinese,,0,0,0,0,{\pos(960,1070)}牛的某个部位
+Dialogue: 0,0:40:44.08,0:40:45.96,English,,0,0,0,0,{\pos(960,1000)}for a finite period of time.
+Dialogue: 0,0:40:46.12,0:40:48.28,Chinese,,0,0,0,0,{\pos(960,1070)}比如这周我们只供应牛腰肉
+Dialogue: 0,0:40:46.12,0:40:48.28,English,,0,0,0,0,{\pos(960,1000)}For one week we'd be serving rump steaks,
+Dialogue: 0,0:40:48.44,0:40:50.64,Chinese,,0,0,0,0,{\pos(960,1070)}所以这周我只要牛腰肉
+Dialogue: 0,0:40:48.44,0:40:50.64,English,,0,0,0,0,{\pos(960,1000)}so for that week, all I want are rump steaks.
+Dialogue: 0,0:40:50.80,0:40:53.72,Chinese,,0,0,0,0,{\pos(960,1070)}下一周我们可以更换菜单 可以轮换
+Dialogue: 0,0:40:50.80,0:40:53.72,English,,0,0,0,0,{\pos(960,1000)}The following week, we can change the menu, we can switch.
+Dialogue: 0,0:40:53.88,0:40:56.36,Chinese,,0,0,0,0,{\pos(960,1070)}可以改为供应慢炖牛板腱
+Dialogue: 0,0:40:53.88,0:40:56.36,English,,0,0,0,0,{\pos(960,1000)}We can move on to a sort of slow-cooked feather blade of beef.
+Dialogue: 0,0:40:56.56,0:40:59.80,Chinese,,0,0,0,0,{\pos(960,1070)}不过还是一样 下周我只要牛板腱
+Dialogue: 0,0:40:56.56,0:40:59.80,English,,0,0,0,0,{\pos(960,1000)}But again, all I want for a week is the feather-blade cut.
+Dialogue: 0,0:41:00.68,0:41:03.04,Chinese,,0,0,0,0,{\pos(960,1070)}厨房的运作必须简单
+Dialogue: 0,0:41:00.68,0:41:03.04,English,,0,0,0,0,{\pos(960,1000)}The kitchen operation has to be simple.
+Dialogue: 0,0:41:03.60,0:41:05.68,Chinese,,0,0,0,0,{\pos(960,1070)}必须尽可能快地上菜
+Dialogue: 0,0:41:03.60,0:41:05.68,English,,0,0,0,0,{\pos(960,1000)}People need to be served reasonably quickly,
+Dialogue: 0,0:41:05.84,0:41:08.92,Chinese,,0,0,0,0,{\pos(960,1070)}不仅顾客满意 对你的生意也有好处
+Dialogue: 0,0:41:05.84,0:41:08.92,English,,0,0,0,0,{\pos(960,1000)}both for their own enjoyment, but also for your business.
+Dialogue: 0,0:41:09.08,0:41:10.72,Chinese,,0,0,0,0,{\pos(960,1070)}为了翻 对 让顾客吃完 然后翻台
+Dialogue: 0,0:41:09.08,0:41:10.72,English,,0,0,0,0,{\pos(960,1000)}To turn, yeah. You feed people, you turn the table.
+Dialogue: 0,0:41:11.84,0:41:14.92,Chinese,,0,0,0,0,{\pos(960,1070)}我开始担心这个问题了 我原来想的是
+Dialogue: 0,0:41:11.84,0:41:14.92,English,,0,0,0,0,{\pos(960,1000)}This has really worried me now. Because I thought if we got
+Dialogue: 0,0:41:15.12,0:41:16.58,Chinese,,0,0,0,0,{\pos(960,1070)}全国有五十个农民为我们供货
+Dialogue: 0,0:41:15.12,0:41:16.58,English,,0,0,0,0,{\pos(960,1000)}fifty farmers round the country,
+Dialogue: 0,0:41:16.58,0:41:18.04,Chinese,,0,0,0,0,{\pos(960,1070)}我们说 "我们会买下你们的牛肉"
+Dialogue: 0,0:41:16.58,0:41:18.04,English,,0,0,0,0,{\pos(960,1000)}we say: "We'll take your beef."
+Dialogue: 0,0:41:18.20,0:41:19.00,Chinese,,0,0,0,0,{\pos(960,1070)}嗯
+Dialogue: 0,0:41:18.20,0:41:19.00,English,,0,0,0,0,{\pos(960,1000)}Yeah?
+Dialogue: 0,0:41:19.20,0:41:22.24,Chinese,,0,0,0,0,{\pos(960,1070)}我们的牛肉就足够五万人吃了
+Dialogue: 0,0:41:19.20,0:41:22.24,English,,0,0,0,0,{\pos(960,1000)}We'd have enough to feed fifty thousand people.
+Dialogue: 0,0:41:22.40,0:41:26.00,Chinese,,0,0,0,0,{\pos(960,1070)}但其实我们只要一个部位
+Dialogue: 0,0:41:22.40,0:41:26.00,English,,0,0,0,0,{\pos(960,1000)}But what we're actually doing is only taking one thing.
+Dialogue: 0,0:41:26.80,0:41:28.62,Chinese,,0,0,0,0,{\pos(960,1070)}我们的农场商店有一个汉堡贩卖车
+Dialogue: 0,0:41:26.80,0:41:28.62,English,,0,0,0,0,{\pos(960,1000)}I mean, at the farm shop with the burger van,
+Dialogue: 0,0:41:28.62,0:41:29.84,Chinese,,0,0,0,0,{\pos(960,1070)}我们把所有肉都做成肉馅
+Dialogue: 0,0:41:28.62,0:41:29.84,English,,0,0,0,0,{\pos(960,1000)}we just mince everything.
+Dialogue: 0,0:41:30.00,0:41:31.92,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 把一整块牛柳送进绞肉机
+Dialogue: 0,0:41:30.00,0:41:31.92,English,,0,0,0,0,{\pos(960,1000)}Yeah. Fillet, the whole lot goes in there.
+Dialogue: 0,0:41:32.52,0:41:35.12,Chinese,,0,0,0,0,{\pos(960,1070)}对一家酒吧来说 这种做法没有商业可行性
+Dialogue: 0,0:41:32.52,0:41:35.12,English,,0,0,0,0,{\pos(960,1000)}Which is not commercially viable in a pub.
+Dialogue: 0,0:41:35.32,0:41:38.12,Chinese,,0,0,0,0,{\pos(960,1070)}任何一个酒吧老板 都不会把牛柳做成肉馅
+Dialogue: 0,0:41:35.32,0:41:38.12,English,,0,0,0,0,{\pos(960,1000)}Nobody who owns a pub anywhere is mincing a fillet.
+Dialogue: 0,0:41:38.28,0:41:39.88,Chinese,,0,0,0,0,{\pos(960,1070)}这是一种商业自杀行为 该死
+Dialogue: 0,0:41:38.28,0:41:39.88,English,,0,0,0,0,{\pos(960,1000)}-It's commercial suicide. Fuck's sake.
+Dialogue: 0,0:41:41.04,0:41:44.00,Chinese,,0,0,0,0,{\pos(960,1070)}那你是怎么处理牛的其他部位的
+Dialogue: 0,0:41:41.04,0:41:44.00,English,,0,0,0,0,{\pos(960,1000)}And then, but what actually do you do with the rest of the cow?
+Dialogue: 0,0:41:44.16,0:41:44.96,Chinese,,0,0,0,0,{\pos(960,1070)}没错 这个
+Dialogue: 0,0:41:44.16,0:41:44.96,English,,0,0,0,0,{\pos(960,1000)}Exactly. Well, that...
+Dialogue: 0,0:41:46.04,0:41:48.60,Chinese,,0,0,0,0,{\pos(960,1070)}在某种程度上 这不是我的问题 是你的问题
+Dialogue: 0,0:41:46.04,0:41:48.60,English,,0,0,0,0,{\pos(960,1000)}To a certain extent that's not my problem, that's your problem,
+Dialogue: 0,0:41:49.16,0:41:53.96,Chinese,,0,0,0,0,{\pos(960,1070)}因为如何经营 需要你来拿主意
+Dialogue: 0,0:41:49.16,0:41:53.96,English,,0,0,0,0,{\pos(960,1000)}because this is your idea of how to run the business.
+Dialogue: 0,0:41:54.16,0:41:57.96,Chinese,,0,0,0,0,{\pos(960,1070)}但我什么都不懂 拿的主意不靠谱
+Dialogue: 0,0:41:54.16,0:41:57.96,English,,0,0,0,0,{\pos(960,1000)}Ah, but it's my idea based on absolutely no knowledge whatsoever.
+Dialogue: 0,0:41:59.12,0:42:00.24,Chinese,,0,0,0,0,{\pos(960,1070)}我意识到了
+Dialogue: 0,0:41:59.12,0:42:00.24,English,,0,0,0,0,{\pos(960,1000)}It's becoming clear.
+Dialogue: 0,0:42:00.44,0:42:05.52,Chinese,,0,0,0,0,{\pos(960,1070)}把你的牛从头到尾全部 放在酒吧出售
+Dialogue: 0,0:42:00.44,0:42:05.52,English,,0,0,0,0,{\pos(960,1000)}The concept of serving the nose to tail of your cows in this pub
+Dialogue: 0,0:42:06.20,0:42:07.36,Chinese,,0,0,0,0,{\pos(960,1070)}这个主意行不通
+Dialogue: 0,0:42:06.20,0:42:07.36,English,,0,0,0,0,{\pos(960,1000)}does not work.
+Dialogue: 0,0:42:10.24,0:42:15.44,Chinese,,0,0,0,0,{\pos(960,1070)}两周前 苏和瑞秋 抛给我一个棘手的问题
+Dialogue: 0,0:42:10.24,0:42:15.44,English,,0,0,0,0,{\pos(960,1000)}So, two weeks earlier, Sue and Rachel had given me a big problem.
+Dialogue: 0,0:42:15.64,0:42:17.76,Chinese,,0,0,0,0,{\pos(960,1070)}你们知道 我们打算把商店开在这里面吧
+Dialogue: 0,0:42:15.64,0:42:17.76,English,,0,0,0,0,{\pos(960,1000)}You know we're gonna put the shop in here?
+Dialogue: 0,0:42:18.80,0:42:20.00,Chinese,,0,0,0,0,{\pos(960,1070)}什么 丽莎的商店
+Dialogue: 0,0:42:18.80,0:42:20.00,English,,0,0,0,0,{\pos(960,1000)}-What? Lisa's shop.
+Dialogue: 0,0:42:20.20,0:42:23.44,Chinese,,0,0,0,0,{\pos(960,1070)}我们需要那块空间 有很多东西要储藏
+Dialogue: 0,0:42:20.20,0:42:23.44,English,,0,0,0,0,{\pos(960,1000)}We need that area. We've got so much to store.
+Dialogue: 0,0:42:23.64,0:42:28.08,Chinese,,0,0,0,0,{\pos(960,1070)}现在 尼克又抛给我 一个更加棘手的问题
+Dialogue: 0,0:42:23.64,0:42:28.08,English,,0,0,0,0,{\pos(960,1000)}And now Nick had handed me one that was even bigger.
+Dialogue: 0,0:42:30.56,0:42:33.24,Chinese,,0,0,0,0,{\pos(960,1070)}我急需解决这些问题
+Dialogue: 0,0:42:30.56,0:42:33.24,English,,0,0,0,0,{\pos(960,1000)}I urgently needed to sort these things out,
+Dialogue: 0,0:42:33.80,0:42:35.36,Chinese,,0,0,0,0,{\pos(960,1070)}但我没有时间
+Dialogue: 0,0:42:33.80,0:42:35.36,English,,0,0,0,0,{\pos(960,1000)}but I didn't have time.
+Dialogue: 0,0:42:36.12,0:42:37.00,Chinese,,0,0,0,0,{\pos(960,1070)}进去 快点
+Dialogue: 0,0:42:36.12,0:42:37.00,English,,0,0,0,0,{\pos(960,1000)}In you get. Go on.
+Dialogue: 0,0:42:37.16,0:42:39.96,Chinese,,0,0,0,0,{\pos(960,1070)}因为我得赶回农场 为母牛称重
+Dialogue: 0,0:42:37.16,0:42:39.96,English,,0,0,0,0,{\pos(960,1000)}Because I had to get back to the farm to weigh the cows.
+Dialogue: 0,0:42:41.00,0:42:43.32,Chinese,,0,0,0,0,{\pos(960,1070)}这是磅秤 需要设置一下 新设置
+Dialogue: 0,0:42:41.00,0:42:43.32,English,,0,0,0,0,{\pos(960,1000)}This is the weigh scales then, and you've set it up.
+Dialogue: 0,0:42:43.48,0:42:47.32,Chinese,,0,0,0,0,{\pos(960,1070)}从而确保新饲料让它们长胖了
+Dialogue: 0,0:42:43.48,0:42:47.32,English,,0,0,0,0,{\pos(960,1000)}To make sure their new diet was making them fatter.
+Dialogue: 0,0:42:47.48,0:42:49.48,Chinese,,0,0,0,0,{\pos(960,1070)}开始称重 你看
+Dialogue: 0,0:42:47.48,0:42:49.48,English,,0,0,0,0,{\pos(960,1000)}Start session. Look.
+Dialogue: 0,0:42:49.88,0:42:52.00,Chinese,,0,0,0,0,{\pos(960,1070)}最适宜宰杀的体重是多少
+Dialogue: 0,0:42:49.88,0:42:52.00,English,,0,0,0,0,{\pos(960,1000)}What's the ideal slaughter weight for them?
+Dialogue: 0,0:42:52.20,0:42:54.96,Chinese,,0,0,0,0,{\pos(960,1070)}大概650公斤 好
+Dialogue: 0,0:42:52.20,0:42:54.96,English,,0,0,0,0,{\pos(960,1000)}Roughly between about six-fifty. Oh, okay.
+Dialogue: 0,0:42:55.72,0:42:56.60,Chinese,,0,0,0,0,{\pos(960,1070)}开始吧
+Dialogue: 0,0:42:55.72,0:42:56.60,English,,0,0,0,0,{\pos(960,1000)}Here we go.
+Dialogue: 0,0:42:56.72,0:42:57.56,Chinese,,0,0,0,0,{\pos(960,1070)}（牛 体重 变化）
+Dialogue: 0,0:42:57.12,0:42:57.92,Chinese,,0,0,0,0,{\pos(960,1070)}开始吧
+Dialogue: 0,0:42:57.12,0:42:57.92,English,,0,0,0,0,{\pos(960,1000)}Go on, then.
+Dialogue: 0,0:43:00.48,0:43:04.88,Chinese,,0,0,0,0,{\pos(960,1070)}耳标编号是多少 105386
+Dialogue: 0,0:43:00.48,0:43:04.88,English,,0,0,0,0,{\pos(960,1000)}What's the ear tag? 105 386.
+Dialogue: 0,0:43:00.96,0:43:02.00,Chinese,,0,0,0,0,{\pos(960,1070)}（耳标）
+Dialogue: 0,0:43:05.28,0:43:08.92,Chinese,,0,0,0,0,{\pos(960,1070)}体重是468公斤
+Dialogue: 0,0:43:05.28,0:43:08.92,English,,0,0,0,0,{\pos(960,1000)}And that one weighs... 468.
+Dialogue: 0,0:43:09.12,0:43:10.84,Chinese,,0,0,0,0,{\pos(960,1070)}它瘦了
+Dialogue: 0,0:43:09.12,0:43:10.84,English,,0,0,0,0,{\pos(960,1000)}He's lost weight. Hey?
+Dialogue: 0,0:43:11.64,0:43:16.12,Chinese,,0,0,0,0,{\pos(960,1070)}随着称的牛越来越多 我逐渐意识到这不是个例
+Dialogue: 0,0:43:11.64,0:43:16.12,English,,0,0,0,0,{\pos(960,1000)}As the weighing went on, I realised this wasn't a one-off.
+Dialogue: 0,0:43:16.28,0:43:17.52,Chinese,,0,0,0,0,{\pos(960,1070)}体重是多少
+Dialogue: 0,0:43:16.28,0:43:17.52,English,,0,0,0,0,{\pos(960,1000)}What was the weight?
+Dialogue: 0,0:43:17.72,0:43:18.60,Chinese,,0,0,0,0,{\pos(960,1070)}462公斤
+Dialogue: 0,0:43:17.72,0:43:18.60,English,,0,0,0,0,{\pos(960,1000)}Four six two.
+Dialogue: 0,0:43:18.76,0:43:20.96,Chinese,,0,0,0,0,{\pos(960,1070)}它瘦了两公斤
+Dialogue: 0,0:43:18.76,0:43:20.96,English,,0,0,0,0,{\pos(960,1000)}He's lost two kilograms.
+Dialogue: 0,0:43:21.12,0:43:22.24,Chinese,,0,0,0,0,{\pos(960,1070)}见鬼
+Dialogue: 0,0:43:21.12,0:43:22.24,English,,0,0,0,0,{\pos(960,1000)}Fucking hell.
+Dialogue: 0,0:43:22.44,0:43:23.24,Chinese,,0,0,0,0,{\pos(960,1070)}去吧
+Dialogue: 0,0:43:22.44,0:43:23.24,English,,0,0,0,0,{\pos(960,1000)}Go on.
+Dialogue: 0,0:43:25.04,0:43:27.32,Chinese,,0,0,0,0,{\pos(960,1070)}472公斤
+Dialogue: 0,0:43:25.04,0:43:27.32,English,,0,0,0,0,{\pos(960,1000)}472 kg.
+Dialogue: 0,0:43:27.52,0:43:30.00,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 瘦了四公斤
+Dialogue: 0,0:43:27.52,0:43:30.00,English,,0,0,0,0,{\pos(960,1000)}Right, that's lost four kilograms.
+Dialogue: 0,0:43:30.20,0:43:32.48,Chinese,,0,0,0,0,{\pos(960,1070)}为什么会瘦
+Dialogue: 0,0:43:30.20,0:43:32.48,English,,0,0,0,0,{\pos(960,1000)}Why are they losing weight?
+Dialogue: 0,0:43:34.00,0:43:34.84,Chinese,,0,0,0,0,{\pos(960,1070)}去吧
+Dialogue: 0,0:43:34.00,0:43:34.84,English,,0,0,0,0,{\pos(960,1000)}There we go.
+Dialogue: 0,0:43:35.04,0:43:36.88,Chinese,,0,0,0,0,{\pos(960,1070)}490公斤
+Dialogue: 0,0:43:35.04,0:43:36.88,English,,0,0,0,0,{\pos(960,1000)}Four ninety.
+Dialogue: 0,0:43:37.08,0:43:41.68,Chinese,,0,0,0,0,{\pos(960,1070)}只重了一公斤 十五天了 才重了一公斤
+Dialogue: 0,0:43:37.08,0:43:41.68,English,,0,0,0,0,{\pos(960,1000)}That's only put on 1 kg. Fifteen days he's put on one kilogram.
+Dialogue: 0,0:43:41.84,0:43:43.24,Chinese,,0,0,0,0,{\pos(960,1070)}见鬼
+Dialogue: 0,0:43:41.84,0:43:43.24,English,,0,0,0,0,{\pos(960,1000)}Oh, shitting hell.
+Dialogue: 0,0:43:43.80,0:43:46.20,Chinese,,0,0,0,0,{\pos(960,1070)}减了7斤 这头减了14斤 你看
+Dialogue: 0,0:43:43.80,0:43:46.20,English,,0,0,0,0,{\pos(960,1000)}Minus 7? Minus 14 there, look.
+Dialogue: 0,0:43:49.64,0:43:50.44,Chinese,,0,0,0,0,{\pos(960,1070)}继续走
+Dialogue: 0,0:43:49.64,0:43:50.44,English,,0,0,0,0,{\pos(960,1000)}Go on.
+Dialogue: 0,0:43:51.48,0:43:53.40,Chinese,,0,0,0,0,{\pos(960,1070)}短时间内 没有人会吃到它们的肉了
+Dialogue: 0,0:43:51.48,0:43:53.40,English,,0,0,0,0,{\pos(960,1000)}Nobody's gonna be eating these any time soon.
+Dialogue: 0,0:43:53.56,0:43:54.96,Chinese,,0,0,0,0,{\pos(960,1070)}没错 这不是好事
+Dialogue: 0,0:43:53.56,0:43:54.96,English,,0,0,0,0,{\pos(960,1000)}No. That's not good.
+Dialogue: 0,0:43:56.88,0:43:58.44,Chinese,,0,0,0,0,{\pos(960,1070)}我该拿你们怎么办
+Dialogue: 0,0:43:56.88,0:43:58.44,English,,0,0,0,0,{\pos(960,1000)}What are we gonna do with you?
+Dialogue: 0,0:44:02.16,0:44:05.80,Chinese,,0,0,0,0,{\pos(960,1070)}它们想明白了 一旦长胖了 就会被送去市场
+Dialogue: 0,0:44:02.16,0:44:05.80,English,,0,0,0,0,{\pos(960,1000)}They've worked out that if they get fat they go off to market.
+Dialogue: 0,0:44:07.48,0:44:09.44,Chinese,,0,0,0,0,{\pos(960,1070)}于是让自己患上了暴食症
+Dialogue: 0,0:44:07.48,0:44:09.44,English,,0,0,0,0,{\pos(960,1000)}So they've given themselves bulimia.
+Dialogue: 0,0:44:12.16,0:44:13.16,Chinese,,0,0,0,0,{\pos(960,1070)}牛粪
+Dialogue: 0,0:44:12.16,0:44:13.16,English,,0,0,0,0,{\pos(960,1000)}Shit.
+Dialogue: 0,0:44:14.16,0:44:17.24,Chinese,,0,0,0,0,{\pos(960,1070)}原来问题真的出在牛粪上面
+Dialogue: 0,0:44:14.16,0:44:17.24,English,,0,0,0,0,{\pos(960,1000)}It turned out that shit actually was the issue,
+Dialogue: 0,0:44:18.24,0:44:22.96,Chinese,,0,0,0,0,{\pos(960,1070)}迪尔翁说 新的超级饲料 导致了它们拉肚子
+Dialogue: 0,0:44:18.24,0:44:22.96,English,,0,0,0,0,{\pos(960,1000)}because Dilwyn said their new superfood was giving them diarrhoea.
+Dialogue: 0,0:44:23.88,0:44:26.52,Chinese,,0,0,0,0,{\pos(960,1070)}你喂了它们太多高能量饲料了
+Dialogue: 0,0:44:23.88,0:44:26.52,English,,0,0,0,0,{\pos(960,1000)}You're giving them too much high-powered food
+Dialogue: 0,0:44:26.72,0:44:28.76,Chinese,,0,0,0,0,{\pos(960,1070)}吃完以后直接就拉出来了
+Dialogue: 0,0:44:26.72,0:44:28.76,English,,0,0,0,0,{\pos(960,1000)}and it's just basically going straight through them.
+Dialogue: 0,0:44:28.96,0:44:31.04,Chinese,,0,0,0,0,{\pos(960,1070)}就好比我吃了辛辣咖喱肉 真的
+Dialogue: 0,0:44:28.96,0:44:31.04,English,,0,0,0,0,{\pos(960,1000)}So it's like me having a vindaloo really.
+Dialogue: 0,0:44:31.24,0:44:32.84,Chinese,,0,0,0,0,{\pos(960,1070)}你给它们喂的东西完全没用
+Dialogue: 0,0:44:31.24,0:44:32.84,English,,0,0,0,0,{\pos(960,1000)}What you're feeding them isn't doing any good,
+Dialogue: 0,0:44:33.00,0:44:34.36,Chinese,,0,0,0,0,{\pos(960,1070)}因为吃完就拉出来了
+Dialogue: 0,0:44:33.00,0:44:34.36,English,,0,0,0,0,{\pos(960,1000)}'cause it comes straight out the backside.
+Dialogue: 0,0:44:38.00,0:44:41.52,Chinese,,0,0,0,0,{\pos(960,1070)}然后 由于收割在即 我们去庄稼地里走了走
+Dialogue: 0,0:44:38.00,0:44:41.52,English,,0,0,0,0,{\pos(960,1000)}Then, with the harvest looming, we went on a crop walk.
+Dialogue: 0,0:44:42.12,0:44:44.80,Chinese,,0,0,0,0,{\pos(960,1070)}那里也是一场灾难
+Dialogue: 0,0:44:42.12,0:44:44.80,English,,0,0,0,0,{\pos(960,1000)}And that was a disaster as well.
+Dialogue: 0,0:44:45.32,0:44:46.48,Chinese,,0,0,0,0,{\pos(960,1070)}天哪
+Dialogue: 0,0:44:45.32,0:44:46.48,English,,0,0,0,0,{\pos(960,1000)}Oh, my God.
+Dialogue: 0,0:44:47.20,0:44:48.36,Chinese,,0,0,0,0,{\pos(960,1070)}那是鼻涕虫吗 该死
+Dialogue: 0,0:44:47.20,0:44:48.36,English,,0,0,0,0,{\pos(960,1000)}Is that a slug? Oh, shit.
+Dialogue: 0,0:44:48.56,0:44:49.56,Chinese,,0,0,0,0,{\pos(960,1070)}不
+Dialogue: 0,0:44:48.56,0:44:49.56,English,,0,0,0,0,{\pos(960,1000)}No.
+Dialogue: 0,0:44:49.72,0:44:51.48,Chinese,,0,0,0,0,{\pos(960,1070)}情况不妙 确实不妙
+Dialogue: 0,0:44:49.72,0:44:51.48,English,,0,0,0,0,{\pos(960,1000)}That's not good. That is not good.
+Dialogue: 0,0:44:51.64,0:44:53.52,Chinese,,0,0,0,0,{\pos(960,1070)}你的小麦长了麦角了
+Dialogue: 0,0:44:51.64,0:44:53.52,English,,0,0,0,0,{\pos(960,1000)}You've got ergot in your wheat.
+Dialogue: 0,0:44:54.36,0:44:58.20,Chinese,,0,0,0,0,{\pos(960,1070)}这是一种长在小麦上的致幻真菌
+Dialogue: 0,0:44:54.36,0:44:58.20,English,,0,0,0,0,{\pos(960,1000)}That is a hallucinogenic fungus growing in the wheat.
+Dialogue: 0,0:44:58.40,0:45:00.72,Chinese,,0,0,0,0,{\pos(960,1070)}活见鬼了
+Dialogue: 0,0:44:58.40,0:45:00.72,English,,0,0,0,0,{\pos(960,1000)}Oh, for fuck's sake.
+Dialogue: 0,0:45:02.20,0:45:06.84,Chinese,,0,0,0,0,{\pos(960,1070)}我"勇敢"地让卡莱布和查理 去处理小麦上的"迷药"
+Dialogue: 0,0:45:02.20,0:45:06.84,English,,0,0,0,0,{\pos(960,1000)}Bravely, I left Kaleb and Charlie to deal with the LSD in our wheat
+Dialogue: 0,0:45:07.00,0:45:08.84,Chinese,,0,0,0,0,{\pos(960,1070)}以及得了暴食症的母牛
+Dialogue: 0,0:45:07.00,0:45:08.84,English,,0,0,0,0,{\pos(960,1000)}and our bulimic cows
+Dialogue: 0,0:45:09.48,0:45:11.52,Chinese,,0,0,0,0,{\pos(960,1070)}我自己回到了酒吧
+Dialogue: 0,0:45:09.48,0:45:11.52,English,,0,0,0,0,{\pos(960,1000)}and went back to the pub
+Dialogue: 0,0:45:12.56,0:45:15.76,Chinese,,0,0,0,0,{\pos(960,1070)}坐在阳光下 喝着啤酒
+Dialogue: 0,0:45:12.56,0:45:15.76,English,,0,0,0,0,{\pos(960,1000)}to sit in the sunshine with a glass of thinking juice
+Dialogue: 0,0:45:16.36,0:45:18.60,Chinese,,0,0,0,0,{\pos(960,1070)}想着如何解决那里的问题
+Dialogue: 0,0:45:16.36,0:45:18.60,English,,0,0,0,0,{\pos(960,1000)}to sort out the problems there.
+Dialogue: 0,0:45:26.80,0:45:30.12,Chinese,,0,0,0,0,{\pos(960,1070)}终于 我想到了一个好主意
+Dialogue: 0,0:45:26.80,0:45:30.12,English,,0,0,0,0,{\pos(960,1000)}And eventually, I had a brainwave.
+Dialogue: 0,0:45:35.72,0:45:36.64,Chinese,,0,0,0,0,{\pos(960,1070)}帐篷
+Dialogue: 0,0:45:35.72,0:45:36.64,English,,0,0,0,0,{\pos(960,1000)}Tent!
+Dialogue: 0,0:45:37.12,0:45:38.16,Chinese,,0,0,0,0,{\pos(960,1070)}我们需要的是
+Dialogue: 0,0:45:37.12,0:45:38.16,English,,0,0,0,0,{\pos(960,1000)}What was needed
+Dialogue: 0,0:45:38.32,0:45:42.32,Chinese,,0,0,0,0,{\pos(960,1070)}给《壮游》中的威尔曼先生打个紧急电话
+Dialogue: 0,0:45:38.32,0:45:42.32,English,,0,0,0,0,{\pos(960,1000)}was an urgent call to The Grand Tour's Mr Wilman.
+Dialogue: 0,0:45:42.48,0:45:44.36,Chinese,,0,0,0,0,{\pos(960,1070)}我叫他雷格 不要问为什么
+Dialogue: 0,0:45:42.48,0:45:44.36,English,,0,0,0,0,{\pos(960,1000)}I call him "Reg". Don't ask why.
+Dialogue: 0,0:45:44.52,0:45:45.80,Chinese,,0,0,0,0,{\pos(960,1070)}喂 雷格
+Dialogue: 0,0:45:44.52,0:45:45.80,English,,0,0,0,0,{\pos(960,1000)}Hello? Reg?
+Dialogue: 0,0:45:46.40,0:45:47.32,Chinese,,0,0,0,0,{\pos(960,1070)}什么事
+Dialogue: 0,0:45:46.40,0:45:47.32,English,,0,0,0,0,{\pos(960,1000)}Yeah?
+Dialogue: 0,0:45:47.48,0:45:48.52,Chinese,,0,0,0,0,{\pos(960,1070)}额
+Dialogue: 0,0:45:47.48,0:45:48.52,English,,0,0,0,0,{\pos(960,1000)}Erm...
+Dialogue: 0,0:45:48.96,0:45:50.92,Chinese,,0,0,0,0,{\pos(960,1070)}你知道《壮游》中的帐篷吧
+Dialogue: 0,0:45:48.96,0:45:50.92,English,,0,0,0,0,{\pos(960,1000)}You know The Grand Tour tent?
+Dialogue: 0,0:45:51.96,0:45:53.00,Chinese,,0,0,0,0,{\pos(960,1070)}是的
+Dialogue: 0,0:45:51.96,0:45:53.00,English,,0,0,0,0,{\pos(960,1000)}Yeah?
+Dialogue: 0,0:45:53.16,0:45:55.32,Chinese,,0,0,0,0,{\pos(960,1070)}你知道现在帐篷在哪儿吗
+Dialogue: 0,0:45:53.16,0:45:55.32,English,,0,0,0,0,{\pos(960,1000)}Do you know where it is?
+Dialogue: 0,0:45:56.32,0:45:57.88,Chinese,,0,0,0,0,{\pos(960,1070)}在一个仓库里
+Dialogue: 0,0:45:56.32,0:45:57.88,English,,0,0,0,0,{\pos(960,1000)}Well, it's in a warehouse.
+Dialogue: 0,0:45:58.04,0:46:00.64,Chinese,,0,0,0,0,{\pos(960,1070)}你知道 放在一个仓库里了
+Dialogue: 0,0:45:58.04,0:46:00.64,English,,0,0,0,0,{\pos(960,1000)}I mean, it's tucked away in a warehouse.
+Dialogue: 0,0:46:01.36,0:46:03.24,Chinese,,0,0,0,0,{\pos(960,1070)}我是说 我们找不到地方扔
+Dialogue: 0,0:46:01.36,0:46:03.24,English,,0,0,0,0,{\pos(960,1000)}I mean, we can't get rid of it.
+Dialogue: 0,0:46:05.44,0:46:09.12,Chinese,,0,0,0,0,{\pos(960,1070)}一旦《壮游》中的巨大帐篷 在酒吧的草坪上支起来
+Dialogue: 0,0:46:05.44,0:46:09.12,English,,0,0,0,0,{\pos(960,1000)}With the vast Grand Tour tent erected on the pub's lawn,
+Dialogue: 0,0:46:09.28,0:46:12.20,Chinese,,0,0,0,0,{\pos(960,1070)}不仅丽莎的商店有地方了
+Dialogue: 0,0:46:09.28,0:46:12.20,English,,0,0,0,0,{\pos(960,1000)}we'd not only have somewhere for Lisa's shop,
+Dialogue: 0,0:46:12.36,0:46:16.08,Chinese,,0,0,0,0,{\pos(960,1070)}还可以安放一间肉店 和安妮的汉堡贩卖车
+Dialogue: 0,0:46:12.36,0:46:16.08,English,,0,0,0,0,{\pos(960,1000)}but also space for a butcher's and Annie's burger van,
+Dialogue: 0,0:46:16.24,0:46:20.60,Chinese,,0,0,0,0,{\pos(960,1070)}这样我就可以卖掉 酒吧厨房不需要的牛肉了
+Dialogue: 0,0:46:16.24,0:46:20.60,English,,0,0,0,0,{\pos(960,1000)}so I could sell the cuts of meat not needed in the pub's kitchen.
+Dialogue: 0,0:46:20.76,0:46:23.92,Chinese,,0,0,0,0,{\pos(960,1070)}然后可以转移到那里和那里 只需要一次操作
+Dialogue: 0,0:46:20.76,0:46:23.92,English,,0,0,0,0,{\pos(960,1000)}We can then transfer it to there and there, all in the same operation.
+Dialogue: 0,0:46:24.12,0:46:26.44,Chinese,,0,0,0,0,{\pos(960,1070)}嗯 所以当牛送来时
+Dialogue: 0,0:46:24.12,0:46:26.44,English,,0,0,0,0,{\pos(960,1000)}-Yeah. So when a cow comes here,
+Dialogue: 0,0:46:26.60,0:46:27.68,Chinese,,0,0,0,0,{\pos(960,1070)}所有部位都能得到利用
+Dialogue: 0,0:46:26.60,0:46:27.68,English,,0,0,0,0,{\pos(960,1000)}all of it is used.
+Dialogue: 0,0:46:28.56,0:46:30.04,Chinese,,0,0,0,0,{\pos(960,1070)}这是正确的方向
+Dialogue: 0,0:46:28.56,0:46:30.04,English,,0,0,0,0,{\pos(960,1000)}This is the right direction, definitely.
+Dialogue: 0,0:46:30.20,0:46:32.68,Chinese,,0,0,0,0,{\pos(960,1070)}你是指我刚才说的 是的 这个主意好 对
+Dialogue: 0,0:46:30.20,0:46:32.68,English,,0,0,0,0,{\pos(960,1000)}What I'm saying? Yeah. That is good, yes.
+Dialogue: 0,0:46:36.00,0:46:39.64,Chinese,,0,0,0,0,{\pos(960,1070)}（两天后）
+Dialogue: 0,0:46:44.44,0:46:45.80,Chinese,,0,0,0,0,{\pos(960,1070)}《壮游》中的帐篷
+Dialogue: 0,0:46:44.44,0:46:45.80,English,,0,0,0,0,{\pos(960,1000)}The Grand Tour tent!
+Dialogue: 0,0:46:49.68,0:46:51.20,Chinese,,0,0,0,0,{\pos(960,1070)}我去 这么多帐篷
+Dialogue: 0,0:46:49.68,0:46:51.20,English,,0,0,0,0,{\pos(960,1000)}That's a shitload of tent.
+Dialogue: 0,0:46:52.40,0:46:53.48,Chinese,,0,0,0,0,{\pos(960,1070)}我去
+Dialogue: 0,0:46:52.40,0:46:53.48,English,,0,0,0,0,{\pos(960,1000)}Fucking hell.
+Dialogue: 0,0:46:53.68,0:46:54.88,Chinese,,0,0,0,0,{\pos(960,1070)}都在这里了吗
+Dialogue: 0,0:46:53.68,0:46:54.88,English,,0,0,0,0,{\pos(960,1000)}Is that the whole thing?
+Dialogue: 0,0:46:55.04,0:46:57.64,Chinese,,0,0,0,0,{\pos(960,1070)}不 还有一车 什么
+Dialogue: 0,0:46:55.04,0:46:57.64,English,,0,0,0,0,{\pos(960,1000)}No, there's another load to come. What?
+Dialogue: 0,0:47:00.36,0:47:02.00,Chinese,,0,0,0,0,{\pos(960,1070)}来 继续来
+Dialogue: 0,0:47:00.36,0:47:02.00,English,,0,0,0,0,{\pos(960,1000)}All right, keep coming!
+Dialogue: 0,0:47:09.12,0:47:13.60,Chinese,,0,0,0,0,{\pos(960,1070)}现在距离开业仅剩四周 我们总算是回到正轨了
+Dialogue: 0,0:47:09.12,0:47:13.60,English,,0,0,0,0,{\pos(960,1000)}Now, just four weeks before opening, we were finally back on track.
+Dialogue: 0,0:47:20.48,0:47:22.00,Chinese,,0,0,0,0,{\pos(960,1070)}（下集预告）
+Dialogue: 0,0:47:22.16,0:47:23.56,Chinese,,0,0,0,0,{\pos(960,1070)}看啊
+Dialogue: 0,0:47:22.16,0:47:23.56,English,,0,0,0,0,{\pos(960,1000)}Check it out!
+Dialogue: 0,0:47:26.56,0:47:27.40,Chinese,,0,0,0,0,{\pos(960,1070)}开始
+Dialogue: 0,0:47:26.56,0:47:27.40,English,,0,0,0,0,{\pos(960,1000)}Here we go.
+Dialogue: 0,0:47:27.60,0:47:28.56,Chinese,,0,0,0,0,{\pos(960,1070)}出发
+Dialogue: 0,0:47:27.60,0:47:28.56,English,,0,0,0,0,{\pos(960,1000)}We're off.
+Dialogue: 0,0:47:28.76,0:47:31.60,Chinese,,0,0,0,0,{\pos(960,1070)}你觉得在烤肉店 挂一盏鹿角吊灯怎么样
+Dialogue: 0,0:47:28.76,0:47:31.60,English,,0,0,0,0,{\pos(960,1000)}How do you feel about an antler chandelier in the carvery room?
+Dialogue: 0,0:48:01.20,0:48:03.20,Chinese,,0,0,0,0,{\pos(960,1070)}字幕翻译 刘波
+Dialogue: 0,0:48:03.28,0:48:05.28,Chinese,,0,0,0,0,{\pos(960,1070)}创意监督 张珺怡

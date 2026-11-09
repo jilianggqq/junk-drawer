@@ -1,0 +1,1885 @@
+﻿[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,18,&H00E9E9E9,&HF0000000,&H00000000,&H32000000,-1,0,0,0,85,100,0.2,0.00,1,1.5,1.8,2,10,10,8,1
+Style: Chs,微软雅黑,16,&H00D2D2D2,&H00000000,&H00000000,&H20000000,-1,0,0,0,85,100,0.2,0,1,1.5,2.0,2,10,10,8,1
+Style: En,Tahoma,16,&H0062A8EB,&HFF000000,&H00000000,&H20000000,-1,-1,0,0,100,100,0,0,1,1,1.8,2,10,10,5,1
+Style: 标题,微软雅黑,48,&H00DADEE0,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0.5,0.2,2,10,10,50,1
+Style: 旁白,微软雅黑,18,&H00D6BB88,&HF0000000,&H00000000,&H00000000,-1,-1,0,0,85,100,0.2,0,1,1.5,1.8,2,10,10,8,1
+Style: cast,微軟正黑體,14,&H00535353,&H83FFFFFF,&H00000000,&H00000000,-1,0,0,0,85,100,1,0,1,0,0,2,30,30,15,1
+Style: Screen,微软雅黑,16,&H00E3E3E3,&H00000000,&H00000000,&H20000000,0,0,0,0,100,100,0,0,1,0.5,0.5,2,20,20,30,1
+Style: SongChs,微软雅黑,11.0,&H00CCE2E6,&HFF000000,&H00525252,&H00000000,0,0,0,0,100,100,0,0,1,0.5,2.0,1,10,10,10,1
+Style: SongEng,Times New Roman,11.0,&H0095A77D,&H90FFFFFF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,1.5,2.0,1,10,10,10,1
+
+Style: English,Arial,13.866666666666667,&H0062A8EB,&H000000FF,&H00000000,&H00808080,0,0,0,0,85,100,0.0,0,1,0.8,0.0,2,2.0,2.0,24.0,1
+Style: Chinese,Microsoft YaHei,14.933333333333334,&H00FFFFFF,&H000000FF,&H00000000,&H00808080,0,0,0,0,85,100,0.0,0,1,0.8,0.0,2,2.0,2.0,8.0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:17.09,0:02:20.31,Chinese,NTP,0,0,0,0,{\pos(192,280)}关于和他搭档 你是怎么想的?
+Dialogue: 0,0:02:17.09,0:02:20.31,English,NTP,0,0,0,0,{\pos(192,264)}What'd you think, you paired up with him?
+Dialogue: 0,0:02:21.84,0:02:23.34,Chinese,NTP,0,0,0,0,{\pos(192,280)}我怎么想的?
+Dialogue: 0,0:02:21.84,0:02:23.34,English,NTP,0,0,0,0,{\pos(192,264)}What'd I think?
+Dialogue: 0,0:02:25.94,0:02:27.80,Chinese,NTP,0,0,0,0,{\pos(192,280)}父母你没得选
+Dialogue: 0,0:02:25.94,0:02:27.80,English,NTP,0,0,0,0,{\pos(192,264)}Well, you don't pick your parents,
+Dialogue: 0,0:02:27.80,0:02:29.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}搭档你也没得选
+Dialogue: 0,0:02:27.80,0:02:29.81,English,NTP,0,0,0,0,{\pos(192,264)}and you don't pick your partner.
+Dialogue: 0,0:02:31.51,0:02:35.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}你知道吗? 以前人们会叫他收税人
+Dialogue: 0,0:02:31.51,0:02:35.19,English,NTP,0,0,0,0,{\pos(192,264)}You know, they used to call him The Tax Man for a while?
+Dialogue: 0,0:02:37.03,0:02:39.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}他是德克萨斯来的 没人认识他
+Dialogue: 0,0:02:37.03,0:02:39.73,English,NTP,0,0,0,0,{\pos(192,264)}He'd come out of Texas, so nobody knew him.
+Dialogue: 0,0:02:40.69,0:02:41.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}我觉得他...
+Dialogue: 0,0:02:40.69,0:02:41.76,English,NTP,0,0,0,0,{\pos(192,264)}Seemed a bit...
+Dialogue: 0,0:02:42.99,0:02:45.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}骨瘦如柴 脾气暴躁
+Dialogue: 0,0:02:42.99,0:02:45.57,English,NTP,0,0,0,0,{\pos(192,264)}raw-boned to me, edgy.
+Dialogue: 0,0:02:46.49,0:02:49.94,Chinese,NTP,0,0,0,0,{\pos(192,280)}花了3个月时间才请到他去家里吃饭
+Dialogue: 0,0:02:46.49,0:02:49.94,English,NTP,0,0,0,0,{\pos(192,264)}Took 3 months till we got him over to the house for dinner.
+Dialogue: 0,0:02:51.06,0:02:52.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}正是那件具尸体发现前后
+Dialogue: 0,0:02:51.06,0:02:52.69,English,NTP,0,0,0,0,{\pos(192,264)}Around our big 419.
+Dialogue: 0,0:02:52.69,0:02:54.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们就想听这个 是吗?
+Dialogue: 0,0:02:52.69,0:02:54.88,English,NTP,0,0,0,0,{\pos(192,264)}That's what y'all want to hear about, right,
+Dialogue: 0,0:02:55.33,0:02:58.14,Chinese,NTP,0,0,0,0,{\pos(192,280)}朵拉 兰 树林里的孩子们?
+Dialogue: 0,0:02:55.33,0:02:58.14,English,NTP,0,0,0,0,{\pos(192,264)}Dora Lange, kids in the woods?
+Dialogue: 0,0:02:58.14,0:03:01.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}当然 但是还是谈谈科尔吧
+Dialogue: 0,0:02:58.14,0:03:01.21,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, sure, but, uh, talk about Cohle.
+Dialogue: 0,0:03:01.56,0:03:03.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们听过他的一些事情
+Dialogue: 0,0:03:01.56,0:03:03.26,English,NTP,0,0,0,0,{\pos(192,264)}We heard some stories.
+Dialogue: 0,0:03:03.31,0:03:04.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}挺奇怪的一个人 不是吗?
+Dialogue: 0,0:03:03.31,0:03:04.99,English,NTP,0,0,0,0,{\pos(192,264)}Kind of a strange guy, huh?
+Dialogue: 0,0:03:06.90,0:03:09.22,Chinese,NTP,0,0,0,0,{\pos(192,280)}奇怪
+Dialogue: 0,0:03:06.90,0:03:09.22,English,NTP,0,0,0,0,{\pos(192,264)}Strange.
+Dialogue: 0,0:03:10.92,0:03:11.77,Chinese,NTP,0,0,0,0,{\pos(192,280)}是啊
+Dialogue: 0,0:03:10.92,0:03:11.77,English,NTP,0,0,0,0,{\pos(192,264)}Yeah.
+Dialogue: 0,0:03:13.22,0:03:16.54,Chinese,NTP,0,0,0,0,{\pos(192,280)}拉斯特是那种如果他不喜欢天的蓝色
+Dialogue: 0,0:03:13.22,0:03:16.54,English,NTP,0,0,0,0,{\pos(192,264)}Rust would pick a fight with the sky
+Dialogue: 0,0:03:16.54,0:03:18.54,Chinese,NTP,0,0,0,0,{\pos(192,280)}就会和天空干一架的那种人
+Dialogue: 0,0:03:16.54,0:03:18.54,English,NTP,0,0,0,0,{\pos(192,264)}if he didn't like its shade of blue,
+Dialogue: 0,0:03:21.41,0:03:24.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}但是他来家里吃晚饭的时候...
+Dialogue: 0,0:03:21.41,0:03:24.21,English,NTP,0,0,0,0,{\pos(192,264)}but when we finally got him over to the house...
+Dialogue: 0,0:03:24.36,0:03:26.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}当时这案子正是热门...
+Dialogue: 0,0:03:24.36,0:03:26.47,English,NTP,0,0,0,0,{\pos(192,264)}this is when that case was hot...
+Dialogue: 0,0:03:26.47,0:03:28.38,Chinese,NTP,0,0,0,0,{\pos(192,280)}可怜的家伙看起来好像
+Dialogue: 0,0:03:26.47,0:03:28.38,English,NTP,0,0,0,0,{\pos(192,264)}poor bastard looked like he was on his way
+Dialogue: 0,0:03:28.38,0:03:30.68,Chinese,NTP,0,0,0,0,{\pos(192,280)}正要去上刑场
+Dialogue: 0,0:03:28.38,0:03:30.68,English,NTP,0,0,0,0,{\pos(192,264)}to the firing squad.
+Dialogue: 0,0:03:31.89,0:03:34.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}朵拉 兰
+Dialogue: 0,0:03:31.89,0:03:34.26,English,NTP,0,0,0,0,{\pos(192,264)}Dora Lange.
+Dialogue: 0,0:03:34.26,0:03:37.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}对 神秘 宗教式的谋杀
+Dialogue: 0,0:03:34.26,0:03:37.47,English,NTP,0,0,0,0,{\pos(192,264)}Yeah. Occult ritual murder.
+Dialogue: 0,0:03:38.40,0:03:40.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}你可以为此感谢“广告商”
+Dialogue: 0,0:03:38.40,0:03:40.85,English,NTP,0,0,0,0,{\pos(192,264)}You can thank the "Advertiser" for that.
+Dialogue: 0,0:03:41.63,0:03:42.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}你能别在这里抽吗?
+Dialogue: 0,0:03:41.63,0:03:42.88,English,NTP,0,0,0,0,{\pos(192,264)}Could you, uh, hold off on that?
+Dialogue: 0,0:03:42.88,0:03:44.31,Chinese,NTP,0,0,0,0,{\pos(192,280)}你不能在这里抽烟
+Dialogue: 0,0:03:42.88,0:03:44.31,English,NTP,0,0,0,0,{\pos(192,264)}You can't do that here no more.
+Dialogue: 0,0:03:48.09,0:03:49.45,Chinese,NTP,0,0,0,0,{\pos(192,280)}别犯混了
+Dialogue: 0,0:03:48.09,0:03:49.45,English,NTP,0,0,0,0,{\pos(192,264)}Don't be assholes.
+Dialogue: 0,0:03:49.63,0:03:51.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们还想不想听了?
+Dialogue: 0,0:03:49.63,0:03:51.19,English,NTP,0,0,0,0,{\pos(192,264)}You want to hear this or not?
+Dialogue: 0,0:04:09.26,0:04:12.97,Chinese,NTP,0,0,0,0,{\pos(192,280)}梵米伦治安官请求协助调查一具尸体
+Dialogue: 0,0:04:09.26,0:04:12.97,English,NTP,0,0,0,0,{\pos(192,264)}Vermillion sheriff requested assistance with a 419,
+Dialogue: 0,0:04:12.97,0:04:15.18,Chinese,NTP,0,0,0,0,{\pos(192,280)}就在伊拉斯外的甘蔗田里
+Dialogue: 0,0:04:12.97,0:04:15.18,English,NTP,0,0,0,0,{\pos(192,264)}cane fields outside of Erath.
+Dialogue: 0,0:04:16.75,0:04:18.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}我那时刚工作三个月
+Dialogue: 0,0:04:16.75,0:04:18.71,English,NTP,0,0,0,0,{\pos(192,264)}I'd been on the job about 3 months till then.
+Dialogue: 0,0:04:18.71,0:04:21.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}办了两个案子
+Dialogue: 0,0:04:18.71,0:04:21.52,English,NTP,0,0,0,0,{\pos(192,264)}Two previous cases were open and shut.
+Dialogue: 0,0:04:24.61,0:04:29.01,Chinese,NTP,0,0,0,0,{\pos(192,280)}那是1995年1月3日 我女儿的生日
+Dialogue: 0,0:04:24.61,0:04:29.01,English,NTP,0,0,0,0,{\pos(192,264)}It was January 3, 1995, my daughter's birthday.
+Dialogue: 0,0:04:30.25,0:04:31.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}我记得很清楚
+Dialogue: 0,0:04:30.25,0:04:31.20,English,NTP,0,0,0,0,{\pos(192,264)}I remember.
+Dialogue: 0,0:04:56.27,0:04:58.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}哈特和科尔 州属刑事调查员
+Dialogue: 0,0:04:56.27,0:04:58.40,English,NTP,0,0,0,0,{\pos(192,264)}Hart and Cohle, State CID.
+Dialogue: 0,0:04:59.96,0:05:00.91,Chinese,NTP,0,0,0,0,{\pos(192,280)}是谁发现她的的尸体?
+Dialogue: 0,0:04:59.96,0:05:00.91,English,NTP,0,0,0,0,{\pos(192,264)}Who found her?
+Dialogue: 0,0:05:01.65,0:05:02.82,Chinese,NTP,0,0,0,0,{\pos(192,280)}一个农民和他儿子
+Dialogue: 0,0:05:01.65,0:05:02.82,English,NTP,0,0,0,0,{\pos(192,264)}Farmer and his son.
+Dialogue: 0,0:05:03.40,0:05:05.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}这块地里不应该有东西在烧
+Dialogue: 0,0:05:03.40,0:05:05.40,English,NTP,0,0,0,0,{\pos(192,264)}This spread wasn't scheduled for a burn.
+Dialogue: 0,0:05:05.53,0:05:08.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}封锁这一带 把路封起来
+Dialogue: 0,0:05:05.53,0:05:08.87,English,NTP,0,0,0,0,{\pos(192,264)}Let's keep them here, and let's tape off this road,
+Dialogue: 0,0:05:08.91,0:05:10.65,Chinese,NTP,0,0,0,0,{\pos(192,280)}把你的记录给我
+Dialogue: 0,0:05:08.91,0:05:10.65,English,NTP,0,0,0,0,{\pos(192,264)}and give me your log.
+Dialogue: 0,0:05:16.31,0:05:17.43,Chinese,NTP,0,0,0,0,{\pos(192,280)}你来做记录
+Dialogue: 0,0:05:16.31,0:05:17.43,English,NTP,0,0,0,0,{\pos(192,264)}You take the log.
+Dialogue: 0,0:05:17.43,0:05:18.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}是的 长官
+Dialogue: 0,0:05:17.43,0:05:18.32,English,NTP,0,0,0,0,{\pos(192,264)}Yes, sir.
+Dialogue: 0,0:05:18.32,0:05:20.62,Chinese,NTP,0,0,0,0,{\pos(192,280)}把所有东西都记下来
+Dialogue: 0,0:05:18.32,0:05:20.62,English,NTP,0,0,0,0,{\pos(192,264)}Make sure you get everything down.
+Dialogue: 0,0:05:34.65,0:05:35.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}你去吧
+Dialogue: 0,0:05:34.65,0:05:35.56,English,NTP,0,0,0,0,{\pos(192,264)}Go ahead.
+Dialogue: 0,0:05:59.62,0:06:01.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}你见过这种情况吗?
+Dialogue: 0,0:05:59.62,0:06:01.17,English,NTP,0,0,0,0,{\pos(192,264)}You ever see something like this?
+Dialogue: 0,0:06:01.22,0:06:04.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}八年的刑事调查中从来没有见过类似事件
+Dialogue: 0,0:06:01.22,0:06:04.56,English,NTP,0,0,0,0,{\pos(192,264)}No, sir, in 8 years of CID.
+Dialogue: 0,0:06:05.77,0:06:08.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}都是标志 撒旦的印记
+Dialogue: 0,0:06:05.77,0:06:08.86,English,NTP,0,0,0,0,{\pos(192,264)}Them symbols, they's Satanic.
+Dialogue: 0,0:06:09.27,0:06:11.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}几年前有人预见过它
+Dialogue: 0,0:06:09.27,0:06:11.81,English,NTP,0,0,0,0,{\pos(192,264)}They had a "20/20" On it a few years back.
+Dialogue: 0,0:06:13.08,0:06:14.00,Chinese,NTP,0,0,0,0,{\pos(192,280)}查出身份了吗?
+Dialogue: 0,0:06:13.08,0:06:14.00,English,NTP,0,0,0,0,{\pos(192,264)}I.D.?
+Dialogue: 0,0:06:14.52,0:06:15.45,Chinese,NTP,0,0,0,0,{\pos(192,280)}还没有
+Dialogue: 0,0:06:14.52,0:06:15.45,English,NTP,0,0,0,0,{\pos(192,264)}No, sir.
+Dialogue: 0,0:06:17.37,0:06:20.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}需要更多人做拉网式搜查
+Dialogue: 0,0:06:17.37,0:06:20.71,English,NTP,0,0,0,0,{\pos(192,264)}We're gonna need more men for a grid search,
+Dialogue: 0,0:06:21.80,0:06:25.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}在三条路上都设立封锁线 越远越好
+Dialogue: 0,0:06:21.80,0:06:25.40,English,NTP,0,0,0,0,{\pos(192,264)}set up a perimeter wide as possible on those 3 roads,
+Dialogue: 0,0:06:25.40,0:06:28.96,Chinese,NTP,0,0,0,0,{\pos(192,280)}贴出告示 记下所有通过车辆车牌号
+Dialogue: 0,0:06:25.40,0:06:28.96,English,NTP,0,0,0,0,{\pos(192,264)}post up, take license plates of anything that passes.
+Dialogue: 0,0:06:30.27,0:06:31.42,Chinese,NTP,0,0,0,0,{\pos(192,280)}这是I23
+Dialogue: 0,0:06:30.27,0:06:31.42,English,NTP,0,0,0,0,{\pos(192,264)}I-23.
+Dialogue: 0,0:06:31.53,0:06:33.18,Chinese,NTP,0,0,0,0,{\pos(192,280)}请讲 I23
+Dialogue: 0,0:06:31.53,0:06:33.18,English,NTP,0,0,0,0,{\pos(192,264)}Go ahead, I-23.
+Dialogue: 0,0:06:34.00,0:06:38.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们需要调查员协助调查这具尸体
+Dialogue: 0,0:06:34.00,0:06:38.08,English,NTP,0,0,0,0,{\pos(192,264)}We're gonna need investigator assist on that 419,
+Dialogue: 0,0:06:38.31,0:06:40.05,Chinese,NTP,0,0,0,0,{\pos(192,280)}所有你能调动的人
+Dialogue: 0,0:06:38.31,0:06:40.05,English,NTP,0,0,0,0,{\pos(192,264)}all you can spare for a canvass.
+Dialogue: 0,0:06:40.05,0:06:40.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}收到 警探
+Dialogue: 0,0:06:40.05,0:06:40.81,English,NTP,0,0,0,0,{\pos(192,264)}Roger that, detective.
+Dialogue: 0,0:06:40.81,0:06:42.49,Chinese,NTP,0,0,0,0,{\pos(192,280)}刑事调查局接管了 把所有有空的人都找来
+Dialogue: 0,0:06:40.81,0:06:42.49,English,NTP,0,0,0,0,{\pos(192,264)}CID is taking over. Get anybody who's free up here.
+Dialogue: 0,0:06:42.49,0:06:45.45,Chinese,NTP,0,0,0,0,{\pos(192,280)}说说你查出了些什么
+Dialogue: 0,0:06:42.49,0:06:45.45,English,NTP,0,0,0,0,{\pos(192,264)}OK. Tell me what you see.
+Dialogue: 0,0:06:47.37,0:06:50.79,Chinese,NTP,0,0,0,0,{\pos(192,280)}她的手腕 脚踝和膝盖有勒痕
+Dialogue: 0,0:06:47.37,0:06:50.79,English,NTP,0,0,0,0,{\pos(192,264)}Ligature marks on her wrists, ankles, and knees.
+Dialogue: 0,0:06:51.85,0:06:54.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}腹部有多处刺伤 伤口较浅
+Dialogue: 0,0:06:51.85,0:06:54.39,English,NTP,0,0,0,0,{\pos(192,264)}Multiple shallow stab wounds to the abdomen.
+Dialogue: 0,0:06:55.13,0:06:56.74,Chinese,NTP,0,0,0,0,{\pos(192,280)}喉部有出血
+Dialogue: 0,0:06:55.13,0:06:56.74,English,NTP,0,0,0,0,{\pos(192,264)}Hemorrhaging around throat,
+Dialogue: 0,0:06:57.00,0:07:00.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}肩部 大腿和躯干均有淤血
+Dialogue: 0,0:06:57.00,0:07:00.25,English,NTP,0,0,0,0,{\pos(192,264)}lividity at the shoulders, thighs, and torso.
+Dialogue: 0,0:07:01.92,0:07:03.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}在他移动她之前
+Dialogue: 0,0:07:01.92,0:07:03.57,English,NTP,0,0,0,0,{\pos(192,264)}She'd been on her back a while
+Dialogue: 0,0:07:05.77,0:07:07.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}被平躺放置了一段时间
+Dialogue: 0,0:07:05.77,0:07:07.12,English,NTP,0,0,0,0,{\pos(192,264)}before he moved her.
+Dialogue: 0,0:07:15.01,0:07:17.16,Chinese,NTP,0,0,0,0,{\pos(192,280)}所以他们才叫他收税人
+Dialogue: 0,0:07:15.01,0:07:17.16,English,NTP,0,0,0,0,{\pos(192,264)}That's why they called him The Tax Man.
+Dialogue: 0,0:07:17.33,0:07:21.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们其他人不过是有个小本子
+Dialogue: 0,0:07:17.33,0:07:21.32,English,NTP,0,0,0,0,{\pos(192,264)}The rest of us had these little note pads or something.
+Dialogue: 0,0:07:21.51,0:07:24.05,Chinese,NTP,0,0,0,0,{\pos(192,280)}而他则是有一大本记事薄
+Dialogue: 0,0:07:21.51,0:07:24.05,English,NTP,0,0,0,0,{\pos(192,264)}He had this big ledger.
+Dialogue: 0,0:07:24.05,0:07:28.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}像个收税人似的带着这本子到处走 很搞笑
+Dialogue: 0,0:07:24.05,0:07:28.26,English,NTP,0,0,0,0,{\pos(192,264)}Looked funny walking door to door with it like the tax man,
+Dialogue: 0,0:07:28.89,0:07:32.05,Chinese,NTP,0,0,0,0,{\pos(192,280)}从外号上来说到也不是太差
+Dialogue: 0,0:07:28.89,0:07:32.05,English,NTP,0,0,0,0,{\pos(192,264)}which ain't bad as far as nicknames go.
+Dialogue: 0,0:07:33.45,0:07:36.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}没错 我是会记很多笔记
+Dialogue: 0,0:07:33.45,0:07:36.40,English,NTP,0,0,0,0,{\pos(192,264)}Yeah. Of course I've always taken a lot of notes.
+Dialogue: 0,0:07:37.30,0:07:40.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}你永远也不知道会遇到什么事 不是吗?
+Dialogue: 0,0:07:37.30,0:07:40.12,English,NTP,0,0,0,0,{\pos(192,264)}I mean, you never know what the thing's gonna be, do you?
+Dialogue: 0,0:07:40.97,0:07:43.80,Chinese,NTP,0,0,0,0,{\pos(192,280)}也许本子上记的东西某一天
+Dialogue: 0,0:07:40.97,0:07:43.80,English,NTP,0,0,0,0,{\pos(192,264)}A little detail somewhere way down the line
+Dialogue: 0,0:07:43.80,0:07:48.42,Chinese,NTP,0,0,0,0,{\pos(192,280)}会让你惊呼一声 破了案子
+Dialogue: 0,0:07:43.80,0:07:48.42,English,NTP,0,0,0,0,{\pos(192,264)}makes you say, "Ohh!", breaks the case.
+Dialogue: 0,0:07:49.18,0:07:51.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}我见过很多种人
+Dialogue: 0,0:07:49.18,0:07:51.57,English,NTP,0,0,0,0,{\pos(192,264)}You know, I've seen all the different types.
+Dialogue: 0,0:07:51.57,0:07:53.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们每个人都符合某个分类...
+Dialogue: 0,0:07:51.57,0:07:53.90,English,NTP,0,0,0,0,{\pos(192,264)}We all fit a certain category...
+Dialogue: 0,0:07:54.96,0:08:02.36,Chinese,NTP,0,0,0,0,{\pos(192,280)}恶霸 迷人精 代父
+Dialogue: 0,0:07:54.96,0:08:02.36,English,NTP,0,0,0,0,{\pos(192,264)}the bully, the charmer, the, uh, surrogate dad,
+Dialogue: 0,0:08:02.36,0:08:07.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}狂怒之人 有脑子的...
+Dialogue: 0,0:08:02.36,0:08:07.76,English,NTP,0,0,0,0,{\pos(192,264)}the man possessed by ungovernable rage, the brain...
+Dialogue: 0,0:08:08.26,0:08:13.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}每一种都可能是个好警探
+Dialogue: 0,0:08:08.26,0:08:13.92,English,NTP,0,0,0,0,{\pos(192,264)}and any of those types could be a good detective,
+Dialogue: 0,0:08:13.92,0:08:17.61,Chinese,NTP,0,0,0,0,{\pos(192,280)}也有可能是不称职的脑残货
+Dialogue: 0,0:08:13.92,0:08:17.61,English,NTP,0,0,0,0,{\pos(192,264)}and any of those types could be an incompetent shitheel.
+Dialogue: 0,0:08:18.86,0:08:20.09,Chinese,NTP,0,0,0,0,{\pos(192,280)}你是哪一种?
+Dialogue: 0,0:08:18.86,0:08:20.09,English,NTP,0,0,0,0,{\pos(192,264)}Which type were you?
+Dialogue: 0,0:08:21.37,0:08:26.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}我是最普通的那一种
+Dialogue: 0,0:08:21.37,0:08:26.11,English,NTP,0,0,0,0,{\pos(192,264)}Oh, I was just a regular type dude
+Dialogue: 0,0:08:26.52,0:08:28.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}就是派头比较大
+Dialogue: 0,0:08:26.52,0:08:28.19,English,NTP,0,0,0,0,{\pos(192,264)}with a big-ass dick.
+Dialogue: 0,0:08:31.40,0:08:34.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}这些分类源于他们如何对待上级
+Dialogue: 0,0:08:31.40,0:08:34.39,English,NTP,0,0,0,0,{\pos(192,264)}A lot of it had to do with how they manage authority.
+Dialogue: 0,0:08:36.70,0:08:42.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}对上级 对警惕心来说 也许是个负担
+Dialogue: 0,0:08:36.70,0:08:42.02,English,NTP,0,0,0,0,{\pos(192,264)}There can be a burden in authority, in vigilance,
+Dialogue: 0,0:08:42.59,0:08:45.95,Chinese,NTP,0,0,0,0,{\pos(192,280)}就像是父亲的负担
+Dialogue: 0,0:08:42.59,0:08:45.95,English,NTP,0,0,0,0,{\pos(192,264)}like a father's burden.
+Dialogue: 0,0:08:46.64,0:08:48.38,Chinese,NTP,0,0,0,0,{\pos(192,280)}有些人承受不了
+Dialogue: 0,0:08:46.64,0:08:48.38,English,NTP,0,0,0,0,{\pos(192,264)}It was too much for some men.
+Dialogue: 0,0:08:49.37,0:08:52.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}不为所动的聪明人很少
+Dialogue: 0,0:08:49.37,0:08:52.76,English,NTP,0,0,0,0,{\pos(192,264)}A smart guy who's steady is hard to find.
+Dialogue: 0,0:08:53.34,0:08:56.10,Chinese,NTP,0,0,0,0,{\pos(192,280)}我还不错 比某些人强
+Dialogue: 0,0:08:53.34,0:08:56.10,English,NTP,0,0,0,0,{\pos(192,264)}I was all right, better than some,
+Dialogue: 0,0:08:56.10,0:09:01.03,Chinese,NTP,0,0,0,0,{\pos(192,280)}我知道怎么跟人交谈 我可以不为所动
+Dialogue: 0,0:08:56.10,0:09:01.03,English,NTP,0,0,0,0,{\pos(192,264)}but I knew how to talk to people, and I was steady.
+Dialogue: 0,0:09:03.17,0:09:07.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}拉斯特 他原先在德克萨斯州的文件被密封了
+Dialogue: 0,0:09:03.17,0:09:07.46,English,NTP,0,0,0,0,{\pos(192,264)}Rust...now his Texas files were classified
+Dialogue: 0,0:09:07.46,0:09:11.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}或修改了 他不怎么喜欢说话
+Dialogue: 0,0:09:07.46,0:09:11.46,English,NTP,0,0,0,0,{\pos(192,264)}or redacted, and he wasn't big on talking
+Dialogue: 0,0:09:12.32,0:09:14.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}但是你想让他闭嘴的时候又滔滔不绝
+Dialogue: 0,0:09:12.32,0:09:14.88,English,NTP,0,0,0,0,{\pos(192,264)}except when you wanted him to shut up,
+Dialogue: 0,0:09:15.94,0:09:17.78,Chinese,NTP,0,0,0,0,{\pos(192,280)}但他很聪明
+Dialogue: 0,0:09:15.94,0:09:17.78,English,NTP,0,0,0,0,{\pos(192,264)}but he was smart.
+Dialogue: 0,0:09:22.55,0:09:24.94,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们搭档的第二周
+Dialogue: 0,0:09:22.55,0:09:24.94,English,NTP,0,0,0,0,{\pos(192,264)}Yeah. Second week we were together,
+Dialogue: 0,0:09:24.94,0:09:27.34,Chinese,NTP,0,0,0,0,{\pos(192,280)}我看到了他住的地方
+Dialogue: 0,0:09:24.94,0:09:27.34,English,NTP,0,0,0,0,{\pos(192,264)}I saw where he was living.
+Dialogue: 0,0:09:28.79,0:09:30.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}让我对他产生了同情
+Dialogue: 0,0:09:28.79,0:09:30.57,English,NTP,0,0,0,0,{\pos(192,264)}Kind of made me feel for the guy.
+Dialogue: 0,0:09:44.20,0:09:46.14,Chinese,NTP,0,0,0,0,{\pos(192,280)}我应该请你坐的 但是...
+Dialogue: 0,0:09:44.20,0:09:46.14,English,NTP,0,0,0,0,{\pos(192,264)}I'd offer you a seat, but, uh...
+Dialogue: 0,0:09:48.10,0:09:51.15,Chinese,NTP,0,0,0,0,{\pos(192,280)}没关系 我...不会待太久的
+Dialogue: 0,0:09:48.10,0:09:51.15,English,NTP,0,0,0,0,{\pos(192,264)}Don't mention it. I, uh...I can't stay.
+Dialogue: 0,0:09:56.12,0:09:57.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}跟你们说...
+Dialogue: 0,0:09:56.12,0:09:57.11,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, I'll tell you guys...
+Dialogue: 0,0:09:57.11,0:09:59.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}相信我 上了年纪之后
+Dialogue: 0,0:09:57.11,0:09:59.40,English,NTP,0,0,0,0,{\pos(192,264)}and believe me, past a certain age,
+Dialogue: 0,0:09:59.40,0:10:03.59,Chinese,NTP,0,0,0,0,{\pos(192,280)}没有家庭的男人很可怕
+Dialogue: 0,0:09:59.40,0:10:03.59,English,NTP,0,0,0,0,{\pos(192,264)}a man without a family can be a bad thing.
+Dialogue: 0,0:10:32.42,0:10:34.78,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们遇到了一个非典型精神病
+Dialogue: 0,0:10:32.42,0:10:34.78,English,NTP,0,0,0,0,{\pos(192,264)}We'd encountered a meta-psychotic,
+Dialogue: 0,0:10:38.15,0:10:39.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}我还得向马蒂解释
+Dialogue: 0,0:10:38.15,0:10:39.64,English,NTP,0,0,0,0,{\pos(192,264)}which I had to explain to Marty,
+Dialogue: 0,0:10:39.64,0:10:42.67,Chinese,NTP,0,0,0,0,{\pos(192,280)}非典型精神病是什么
+Dialogue: 0,0:10:39.64,0:10:42.67,English,NTP,0,0,0,0,{\pos(192,264)}what meta-psychotic was.
+Dialogue: 0,0:10:47.98,0:10:49.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}这样的事情还会再发生的
+Dialogue: 0,0:10:47.98,0:10:49.72,English,NTP,0,0,0,0,{\pos(192,264)}This is gonna happen again,
+Dialogue: 0,0:10:50.42,0:10:54.50,Chinese,NTP,0,0,0,0,{\pos(192,280)}或者之前发生过 也有可能两者都是
+Dialogue: 0,0:10:50.42,0:10:54.50,English,NTP,0,0,0,0,{\pos(192,264)}or it's happened before, both.
+Dialogue: 0,0:10:56.45,0:10:57.41,Chinese,NTP,0,0,0,0,{\pos(192,280)}继续
+Dialogue: 0,0:10:56.45,0:10:57.41,English,NTP,0,0,0,0,{\pos(192,264)}Go on.
+Dialogue: 0,0:10:59.68,0:11:02.98,Chinese,NTP,0,0,0,0,{\pos(192,280)}这是幻像中的执法 宗教仪式
+Dialogue: 0,0:10:59.68,0:11:02.98,English,NTP,0,0,0,0,{\pos(192,264)}It's fantasy enactment, ritual,
+Dialogue: 0,0:11:03.75,0:11:06.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}神灵崇拜 象征化
+Dialogue: 0,0:11:03.75,0:11:06.21,English,NTP,0,0,0,0,{\pos(192,264)}fetishization, iconography.
+Dialogue: 0,0:11:06.98,0:11:08.37,Chinese,NTP,0,0,0,0,{\pos(192,280)}这是他所看到的异象
+Dialogue: 0,0:11:06.98,0:11:08.37,English,NTP,0,0,0,0,{\pos(192,264)}This is his vision.
+Dialogue: 0,0:11:08.37,0:11:11.05,Chinese,NTP,0,0,0,0,{\pos(192,280)}她的身体就是一张象征爱的地图
+Dialogue: 0,0:11:08.37,0:11:11.05,English,NTP,0,0,0,0,{\pos(192,264)}Her body is a paraphilic love map.
+Dialogue: 0,0:11:12.60,0:11:13.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}为什么这么说?
+Dialogue: 0,0:11:12.60,0:11:13.52,English,NTP,0,0,0,0,{\pos(192,264)}How's that?
+Dialogue: 0,0:11:14.25,0:11:15.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}将身体上的肉欲依附在
+Dialogue: 0,0:11:14.25,0:11:15.93,English,NTP,0,0,0,0,{\pos(192,264)}An attachment of physical lust
+Dialogue: 0,0:11:15.93,0:11:19.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}被社会所不容的幻想和实践上
+Dialogue: 0,0:11:15.93,0:11:19.55,English,NTP,0,0,0,0,{\pos(192,264)}to fantasies and practices forbidden by society.
+Dialogue: 0,0:11:22.61,0:11:24.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}你是从你那些书里看到的?
+Dialogue: 0,0:11:22.61,0:11:24.44,English,NTP,0,0,0,0,{\pos(192,264)}You get that from one of your books?
+Dialogue: 0,0:11:25.18,0:11:26.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}是的
+Dialogue: 0,0:11:25.18,0:11:26.11,English,NTP,0,0,0,0,{\pos(192,264)}I did.
+Dialogue: 0,0:11:28.74,0:11:32.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}她的膝盖被磨破了 毯子在她背上被点燃
+Dialogue: 0,0:11:28.74,0:11:32.39,English,NTP,0,0,0,0,{\pos(192,264)}Her knees are abraded, rug burns on her back.
+Dialogue: 0,0:11:32.70,0:11:35.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}唇疱疹 牙龈凹陷 牙齿不好
+Dialogue: 0,0:11:32.70,0:11:35.13,English,NTP,0,0,0,0,{\pos(192,264)}Cold sores, gum line recession, bad teeth.
+Dialogue: 0,0:11:35.13,0:11:37.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}她极有可能是个妓女
+Dialogue: 0,0:11:35.13,0:11:37.81,English,NTP,0,0,0,0,{\pos(192,264)}There's decent odds she was a prost.
+Dialogue: 0,0:11:38.49,0:11:40.30,Chinese,NTP,0,0,0,0,{\pos(192,280)}他也许不认识她 但是...
+Dialogue: 0,0:11:38.49,0:11:40.30,English,NTP,0,0,0,0,{\pos(192,264)}He might not have known her, but...
+Dialogue: 0,0:11:42.07,0:11:44.45,Chinese,NTP,0,0,0,0,{\pos(192,280)}这不是一时兴起
+Dialogue: 0,0:11:42.07,0:11:44.45,English,NTP,0,0,0,0,{\pos(192,264)}this idea goes way back with him.
+Dialogue: 0,0:11:47.91,0:11:50.35,Chinese,NTP,0,0,0,0,{\pos(192,280)}你...的书里有教你不看线索
+Dialogue: 0,0:11:47.91,0:11:50.35,English,NTP,0,0,0,0,{\pos(192,264)}You...you got a chapter in one of those books
+Dialogue: 0,0:11:50.35,0:11:52.67,Chinese,NTP,0,0,0,0,{\pos(192,280)}直接下结论吗?
+Dialogue: 0,0:11:50.35,0:11:52.67,English,NTP,0,0,0,0,{\pos(192,264)}on jumping to conclusions?
+Dialogue: 0,0:11:53.86,0:11:56.67,Chinese,NTP,0,0,0,0,{\pos(192,280)}你在证据上附加了你的假设
+Dialogue: 0,0:11:53.86,0:11:56.67,English,NTP,0,0,0,0,{\pos(192,264)}You attach an assumption to a piece of evidence,
+Dialogue: 0,0:11:56.67,0:12:00.82,Chinese,NTP,0,0,0,0,{\pos(192,280)}然后歪曲事实来支持你的假设
+Dialogue: 0,0:11:56.67,0:12:00.82,English,NTP,0,0,0,0,{\pos(192,264)}you start to bend the narrative to support it,
+Dialogue: 0,0:12:01.45,0:12:03.23,Chinese,NTP,0,0,0,0,{\pos(192,280)}你自己也就被影响了
+Dialogue: 0,0:12:01.45,0:12:03.23,English,NTP,0,0,0,0,{\pos(192,264)}prejudice yourself.
+Dialogue: 0,0:12:06.85,0:12:08.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}等查出身份之后看吧
+Dialogue: 0,0:12:06.85,0:12:08.55,English,NTP,0,0,0,0,{\pos(192,264)}Wait and see on the I.D.
+Dialogue: 0,0:12:12.50,0:12:13.49,Chinese,NTP,0,0,0,0,{\pos(192,280)}好吧
+Dialogue: 0,0:12:12.50,0:12:13.49,English,NTP,0,0,0,0,{\pos(192,264)}All right.
+Dialogue: 0,0:12:13.64,0:12:16.62,Chinese,NTP,0,0,0,0,{\pos(192,280)}这种事不会凭空发生的
+Dialogue: 0,0:12:13.64,0:12:16.62,English,NTP,0,0,0,0,{\pos(192,264)}This kind of thing does not happen in a vacuum.
+Dialogue: 0,0:12:19.05,0:12:20.97,Chinese,NTP,0,0,0,0,{\pos(192,280)}我保证这不是他第一次犯案
+Dialogue: 0,0:12:19.05,0:12:20.97,English,NTP,0,0,0,0,{\pos(192,264)}I guarantee this wasn't his first.
+Dialogue: 0,0:12:22.56,0:12:23.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}太过特殊了
+Dialogue: 0,0:12:22.56,0:12:23.86,English,NTP,0,0,0,0,{\pos(192,264)}It's too specific.
+Dialogue: 0,0:12:37.63,0:12:40.74,Chinese,NTP,0,0,0,0,{\pos(192,280)}听着 嗯...这个时候...
+Dialogue: 0,0:12:37.63,0:12:40.74,English,NTP,0,0,0,0,{\pos(192,264)}Listen, uh...ahem, this is a...
+Dialogue: 0,0:12:42.76,0:12:46.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}提起这事可能不太好 但是...
+Dialogue: 0,0:12:42.76,0:12:46.73,English,NTP,0,0,0,0,{\pos(192,264)}stupid time to mention this, but...
+Dialogue: 0,0:12:48.85,0:12:50.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}来我家吃晚饭吧
+Dialogue: 0,0:12:48.85,0:12:50.44,English,NTP,0,0,0,0,{\pos(192,264)}you've got to come to dinner.
+Dialogue: 0,0:12:51.70,0:12:53.14,Chinese,NTP,0,0,0,0,{\pos(192,280)}没办法再跟玛姬推迟了
+Dialogue: 0,0:12:51.70,0:12:53.14,English,NTP,0,0,0,0,{\pos(192,264)}Can't put Maggie off anymore,
+Dialogue: 0,0:12:53.14,0:12:56.23,Chinese,NTP,0,0,0,0,{\pos(192,280)}你必须来
+Dialogue: 0,0:12:53.14,0:12:56.23,English,NTP,0,0,0,0,{\pos(192,264)}so you just got to.
+Dialogue: 0,0:13:03.43,0:13:04.36,Chinese,NTP,0,0,0,0,{\pos(192,280)}好的
+Dialogue: 0,0:13:03.43,0:13:04.36,English,NTP,0,0,0,0,{\pos(192,264)}All right.
+Dialogue: 0,0:13:12.05,0:13:14.67,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 戈登 谢谢你过来  - 马蒂
+Dialogue: 0,0:13:12.05,0:13:14.67,English,NTP,0,0,0,0,{\pos(192,264)}- Gordon, thanks for coming. - Marty.
+Dialogue: 0,0:13:17.83,0:13:19.95,Chinese,NTP,0,0,0,0,{\pos(192,280)}那天晚上 太阳还没下山呢
+Dialogue: 0,0:13:17.83,0:13:19.95,English,NTP,0,0,0,0,{\pos(192,264)}Anyway, that evening, wasn't even sundown,
+Dialogue: 0,0:13:19.95,0:13:22.95,Chinese,NTP,0,0,0,0,{\pos(192,280)}他邀请我去他家吃晚餐
+Dialogue: 0,0:13:19.95,0:13:22.95,English,NTP,0,0,0,0,{\pos(192,264)}he decided it was a good time to invite me over for dinner,
+Dialogue: 0,0:13:23.76,0:13:25.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不是很情愿
+Dialogue: 0,0:13:23.76,0:13:25.58,English,NTP,0,0,0,0,{\pos(192,264)}which I got a problem with,
+Dialogue: 0,0:13:25.68,0:13:27.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}因为我会想到马蒂的妻子
+Dialogue: 0,0:13:25.68,0:13:27.44,English,NTP,0,0,0,0,{\pos(192,264)}all right, because I'm thinking about Marty's wife
+Dialogue: 0,0:13:27.44,0:13:31.66,Chinese,NTP,0,0,0,0,{\pos(192,280)}他的两个孩子 今天又是我女儿的生日
+Dialogue: 0,0:13:27.44,0:13:31.66,English,NTP,0,0,0,0,{\pos(192,264)}and this two kids and how it's my daughter's birthday,
+Dialogue: 0,0:13:31.66,0:13:33.14,Chinese,NTP,0,0,0,0,{\pos(192,280)}我也知道...
+Dialogue: 0,0:13:31.66,0:13:33.14,English,NTP,0,0,0,0,{\pos(192,264)}and I know...
+Dialogue: 0,0:13:36.18,0:13:37.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}我什么都做不了
+Dialogue: 0,0:13:36.18,0:13:37.86,English,NTP,0,0,0,0,{\pos(192,264)}there's nothing I can do about it,
+Dialogue: 0,0:13:37.86,0:13:40.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}也许不是今天 也许不是明天 但...
+Dialogue: 0,0:13:37.86,0:13:40.57,English,NTP,0,0,0,0,{\pos(192,264)}maybe not today, maybe not tomorrow, but...
+Dialogue: 0,0:13:42.64,0:13:44.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}我要好好喝一杯
+Dialogue: 0,0:13:42.64,0:13:44.11,English,NTP,0,0,0,0,{\pos(192,264)}I'm gonna have a drink.
+Dialogue: 0,0:13:46.43,0:13:47.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}我来开
+Dialogue: 0,0:13:46.43,0:13:47.11,English,NTP,0,0,0,0,{\pos(192,264)}Let me get up!
+Dialogue: 0,0:13:47.11,0:13:48.35,Chinese,NTP,0,0,0,0,{\pos(192,280)}爸爸
+Dialogue: 0,0:13:47.11,0:13:48.35,English,NTP,0,0,0,0,{\pos(192,264)}Daddy!
+Dialogue: 0,0:13:48.79,0:13:50.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}你马上就能看到他了 我得去开门
+Dialogue: 0,0:13:48.79,0:13:50.87,English,NTP,0,0,0,0,{\pos(192,264)}You're gonna meet him. I got to get the door.
+Dialogue: 0,0:13:56.93,0:13:58.82,Chinese,NTP,0,0,0,0,{\pos(192,280)}圣诞老人来了
+Dialogue: 0,0:13:56.93,0:13:58.82,English,NTP,0,0,0,0,{\pos(192,264)}Santa Claus is coming!
+Dialogue: 0,0:13:59.22,0:14:01.07,Chinese,NTP,0,0,0,0,{\pos(192,280)}跳吧
+Dialogue: 0,0:13:59.22,0:14:01.07,English,NTP,0,0,0,0,{\pos(192,264)}Aah! Jump!
+Dialogue: 0,0:14:13.17,0:14:14.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}这里的人们
+Dialogue: 0,0:14:13.17,0:14:14.56,English,NTP,0,0,0,0,{\pos(192,264)}People out here,
+Dialogue: 0,0:14:15.03,0:14:19.14,Chinese,NTP,0,0,0,0,{\pos(192,280)}好像不知道外面还有个世界一样
+Dialogue: 0,0:14:15.03,0:14:19.14,English,NTP,0,0,0,0,{\pos(192,264)}it's like they don't even know the outside world exists.
+Dialogue: 0,0:14:21.02,0:14:23.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}跟住在月亮上没什么两样
+Dialogue: 0,0:14:21.02,0:14:23.27,English,NTP,0,0,0,0,{\pos(192,264)}Might as well be living in the fucking moon.
+Dialogue: 0,0:14:25.83,0:14:28.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}世界上什么样的区都有
+Dialogue: 0,0:14:25.83,0:14:28.08,English,NTP,0,0,0,0,{\pos(192,264)}There's all kinds of ghettos in the world.
+Dialogue: 0,0:14:29.13,0:14:31.22,Chinese,NTP,0,0,0,0,{\pos(192,280)}世界上只有一个区
+Dialogue: 0,0:14:29.13,0:14:31.22,English,NTP,0,0,0,0,{\pos(192,264)}It's all one ghetto, man,
+Dialogue: 0,0:14:32.39,0:14:34.84,Chinese,NTP,0,0,0,0,{\pos(192,280)}不过是宇宙里的一个破水沟
+Dialogue: 0,0:14:32.39,0:14:34.84,English,NTP,0,0,0,0,{\pos(192,264)}giant gutter in outer space.
+Dialogue: 0,0:14:39.76,0:14:41.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}今天 那个现场
+Dialogue: 0,0:14:39.76,0:14:41.81,English,NTP,0,0,0,0,{\pos(192,264)}Today, that scene,
+Dialogue: 0,0:14:43.47,0:14:46.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}那是我遇到过的最糟的事情
+Dialogue: 0,0:14:43.47,0:14:46.85,English,NTP,0,0,0,0,{\pos(192,264)}that is the most fucked up thing I ever caught.
+Dialogue: 0,0:14:49.50,0:14:50.74,Chinese,NTP,0,0,0,0,{\pos(192,280)}问你点儿事?
+Dialogue: 0,0:14:49.50,0:14:50.74,English,NTP,0,0,0,0,{\pos(192,264)}Ask you something?
+Dialogue: 0,0:14:51.83,0:14:53.03,Chinese,NTP,0,0,0,0,{\pos(192,280)}你是基督教徒吗?
+Dialogue: 0,0:14:51.83,0:14:53.03,English,NTP,0,0,0,0,{\pos(192,264)}You're a Christian, yeah?
+Dialogue: 0,0:14:55.55,0:14:56.41,Chinese,NTP,0,0,0,0,{\pos(192,280)}不是
+Dialogue: 0,0:14:55.55,0:14:56.41,English,NTP,0,0,0,0,{\pos(192,264)}No.
+Dialogue: 0,0:14:58.24,0:15:01.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}那为什么你的公寓里有个十字架?
+Dialogue: 0,0:14:58.24,0:15:01.76,English,NTP,0,0,0,0,{\pos(192,264)}Well, then what do you got the cross for in your apartment?
+Dialogue: 0,0:15:02.42,0:15:04.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}那是用来冥想的
+Dialogue: 0,0:15:02.42,0:15:04.64,English,NTP,0,0,0,0,{\pos(192,264)}That's a form of meditation.
+Dialogue: 0,0:15:06.64,0:15:07.59,Chinese,NTP,0,0,0,0,{\pos(192,280)}怎么做?
+Dialogue: 0,0:15:06.64,0:15:07.59,English,NTP,0,0,0,0,{\pos(192,264)}How's that?
+Dialogue: 0,0:15:11.06,0:15:13.77,Chinese,NTP,0,0,0,0,{\pos(192,280)}我在花园里静谧
+Dialogue: 0,0:15:11.06,0:15:13.77,English,NTP,0,0,0,0,{\pos(192,264)}I contemplate the moment in the garden,
+Dialogue: 0,0:15:15.18,0:15:18.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}思考如何磨练自身
+Dialogue: 0,0:15:15.18,0:15:18.88,English,NTP,0,0,0,0,{\pos(192,264)}the idea of allowing your own crucifixion.
+Dialogue: 0,0:15:24.34,0:15:25.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}但你不是基督徒
+Dialogue: 0,0:15:24.34,0:15:25.69,English,NTP,0,0,0,0,{\pos(192,264)}But you're not a Christian.
+Dialogue: 0,0:15:25.69,0:15:27.30,Chinese,NTP,0,0,0,0,{\pos(192,280)}那你相信什么?
+Dialogue: 0,0:15:25.69,0:15:27.30,English,NTP,0,0,0,0,{\pos(192,264)}So what do you believe?
+Dialogue: 0,0:15:28.21,0:15:29.29,Chinese,NTP,0,0,0,0,{\pos(192,280)}我相信人们不应该在工作时
+Dialogue: 0,0:15:28.21,0:15:29.29,English,NTP,0,0,0,0,{\pos(192,264)}I believe that people shouldn't talk
+Dialogue: 0,0:15:29.29,0:15:30.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}讨论这些乱七八糟的东西
+Dialogue: 0,0:15:29.29,0:15:30.86,English,NTP,0,0,0,0,{\pos(192,264)}about this type of shit at work.
+Dialogue: 0,0:15:30.86,0:15:32.48,Chinese,NTP,0,0,0,0,{\pos(192,280)}等等 等等
+Dialogue: 0,0:15:30.86,0:15:32.48,English,NTP,0,0,0,0,{\pos(192,264)}Hold on, hold on.
+Dialogue: 0,0:15:33.46,0:15:36.60,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们一起做搭档3个月了
+Dialogue: 0,0:15:33.46,0:15:36.60,English,NTP,0,0,0,0,{\pos(192,264)}Uh...3 months we been together,
+Dialogue: 0,0:15:36.60,0:15:38.43,Chinese,NTP,0,0,0,0,{\pos(192,280)}我对你毫无了解
+Dialogue: 0,0:15:36.60,0:15:38.43,English,NTP,0,0,0,0,{\pos(192,264)}I get nothing from you.
+Dialogue: 0,0:15:38.43,0:15:41.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}今天 我们所面临的这一情况
+Dialogue: 0,0:15:38.43,0:15:41.99,English,NTP,0,0,0,0,{\pos(192,264)}Today, what we're into now,
+Dialogue: 0,0:15:42.66,0:15:43.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}就当是帮个忙 好吗?
+Dialogue: 0,0:15:42.66,0:15:43.86,English,NTP,0,0,0,0,{\pos(192,264)}do me a courtesy, OK?
+Dialogue: 0,0:15:43.86,0:15:45.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不是要改变你什么
+Dialogue: 0,0:15:43.86,0:15:45.73,English,NTP,0,0,0,0,{\pos(192,264)}I'm not trying to convert you.
+Dialogue: 0,0:15:45.74,0:15:48.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}我觉得我是个现实主义者
+Dialogue: 0,0:15:45.74,0:15:48.24,English,NTP,0,0,0,0,{\pos(192,264)}Look. I consider myself a realist, all right,
+Dialogue: 0,0:15:48.24,0:15:51.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}但是从哲学上来说 我是个悲观主义者
+Dialogue: 0,0:15:48.24,0:15:51.73,English,NTP,0,0,0,0,{\pos(192,264)}but in philosophical terms, I'm what's called a pessimist.
+Dialogue: 0,0:15:51.83,0:15:54.10,Chinese,NTP,0,0,0,0,{\pos(192,280)}这说明什么呢?
+Dialogue: 0,0:15:51.83,0:15:54.10,English,NTP,0,0,0,0,{\pos(192,264)}Um, OK. What's that mean?
+Dialogue: 0,0:15:54.68,0:15:56.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}说明我不适合参加派对
+Dialogue: 0,0:15:54.68,0:15:56.71,English,NTP,0,0,0,0,{\pos(192,264)}Means I'm bad at parties.
+Dialogue: 0,0:15:57.04,0:15:59.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}跟你说吧
+Dialogue: 0,0:15:57.04,0:15:59.55,English,NTP,0,0,0,0,{\pos(192,264)}Heh. Let me tell you.
+Dialogue: 0,0:15:59.55,0:16:01.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}其实你哪里都不适合
+Dialogue: 0,0:15:59.55,0:16:01.83,English,NTP,0,0,0,0,{\pos(192,264)}You ain't great outside of parties either.
+Dialogue: 0,0:16:08.84,0:16:10.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}我认为人类的意识
+Dialogue: 0,0:16:08.84,0:16:10.87,English,NTP,0,0,0,0,{\pos(192,264)}I think human consciousness
+Dialogue: 0,0:16:10.94,0:16:13.41,Chinese,NTP,0,0,0,0,{\pos(192,280)}是进化中一个可悲的错误
+Dialogue: 0,0:16:10.94,0:16:13.41,English,NTP,0,0,0,0,{\pos(192,264)}was a tragic misstep in evolution.
+Dialogue: 0,0:16:13.76,0:16:16.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们对自己认知的太多
+Dialogue: 0,0:16:13.76,0:16:16.02,English,NTP,0,0,0,0,{\pos(192,264)}We became too self-aware.
+Dialogue: 0,0:16:16.18,0:16:19.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}自然从自身中抽离出一部分又化为自然
+Dialogue: 0,0:16:16.18,0:16:19.88,English,NTP,0,0,0,0,{\pos(192,264)}Nature created an aspect of nature separate from itself.
+Dialogue: 0,0:16:19.88,0:16:23.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}从自然法则上来说 我们是不该存在的生物
+Dialogue: 0,0:16:19.88,0:16:23.93,English,NTP,0,0,0,0,{\pos(192,264)}We are creatures that should not exist by natural law.
+Dialogue: 0,0:16:23.94,0:16:27.09,Chinese,NTP,0,0,0,0,{\pos(192,280)}听起来真可怕 拉斯特
+Dialogue: 0,0:16:23.94,0:16:27.09,English,NTP,0,0,0,0,{\pos(192,264)}Huh. That sounds god-fucking-awful, Rust.
+Dialogue: 0,0:16:27.09,0:16:30.22,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们被我们有自我这一幻觉
+Dialogue: 0,0:16:27.09,0:16:30.22,English,NTP,0,0,0,0,{\pos(192,264)}We are things that labor under the illusion
+Dialogue: 0,0:16:30.22,0:16:31.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}所奴役了
+Dialogue: 0,0:16:30.22,0:16:31.92,English,NTP,0,0,0,0,{\pos(192,264)}of having a self,
+Dialogue: 0,0:16:31.93,0:16:35.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}感官上的体验和感觉相结合
+Dialogue: 0,0:16:31.93,0:16:35.90,English,NTP,0,0,0,0,{\pos(192,264)}this accretion of sensory experience and feeling,
+Dialogue: 0,0:16:36.62,0:16:40.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}被设定好了相信我们每个人都是某个人
+Dialogue: 0,0:16:36.62,0:16:40.99,English,NTP,0,0,0,0,{\pos(192,264)}programmed with total assurance that we are each somebody
+Dialogue: 0,0:16:41.87,0:16:43.97,Chinese,NTP,0,0,0,0,{\pos(192,280)}而事实上 我们谁都不是
+Dialogue: 0,0:16:41.87,0:16:43.97,English,NTP,0,0,0,0,{\pos(192,264)}when, in fact, everybody's nobody.
+Dialogue: 0,0:16:43.97,0:16:46.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}我要是你的话 就不会到处跟人胡说八道
+Dialogue: 0,0:16:43.97,0:16:46.46,English,NTP,0,0,0,0,{\pos(192,264)}I wouldn't go around spouting that shit, I was you.
+Dialogue: 0,0:16:46.47,0:16:49.37,Chinese,NTP,0,0,0,0,{\pos(192,280)}这里的人可不这么想
+Dialogue: 0,0:16:46.47,0:16:49.37,English,NTP,0,0,0,0,{\pos(192,264)}People around here don't think that way.
+Dialogue: 0,0:16:49.37,0:16:50.35,Chinese,NTP,0,0,0,0,{\pos(192,280)}我也不这么想
+Dialogue: 0,0:16:49.37,0:16:50.35,English,NTP,0,0,0,0,{\pos(192,264)}I don't think that way.
+Dialogue: 0,0:16:50.35,0:16:53.00,Chinese,NTP,0,0,0,0,{\pos(192,280)}对世界上各个物种来说 最崇高的事
+Dialogue: 0,0:16:50.35,0:16:53.00,English,NTP,0,0,0,0,{\pos(192,264)}I think the honorable thing for species to do
+Dialogue: 0,0:16:53.00,0:16:55.09,Chinese,NTP,0,0,0,0,{\pos(192,280)}就是拒绝被设定
+Dialogue: 0,0:16:53.00,0:16:55.09,English,NTP,0,0,0,0,{\pos(192,264)}is deny our programming,
+Dialogue: 0,0:16:56.61,0:16:58.07,Chinese,NTP,0,0,0,0,{\pos(192,280)}停止繁殖
+Dialogue: 0,0:16:56.61,0:16:58.07,English,NTP,0,0,0,0,{\pos(192,264)}stop reproducing,
+Dialogue: 0,0:16:58.62,0:17:01.41,Chinese,NTP,0,0,0,0,{\pos(192,280)}手牵手走向灭亡
+Dialogue: 0,0:16:58.62,0:17:01.41,English,NTP,0,0,0,0,{\pos(192,264)}walk hand in hand into extinction,
+Dialogue: 0,0:17:01.56,0:17:03.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}最后一晚 兄弟姐妹们
+Dialogue: 0,0:17:01.56,0:17:03.99,English,NTP,0,0,0,0,{\pos(192,264)}one last midnight, brothers and sisters
+Dialogue: 0,0:17:03.99,0:17:05.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}寻求生命的公正
+Dialogue: 0,0:17:03.99,0:17:05.93,English,NTP,0,0,0,0,{\pos(192,264)}opting out of a raw deal.
+Dialogue: 0,0:17:09.37,0:17:12.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}那我们每天早上还起来干什么?
+Dialogue: 0,0:17:09.37,0:17:12.56,English,NTP,0,0,0,0,{\pos(192,264)}So what's the point of getting out bed in the morning?
+Dialogue: 0,0:17:12.56,0:17:14.74,Chinese,NTP,0,0,0,0,{\pos(192,280)}我告诉自己是为了证明自己
+Dialogue: 0,0:17:12.56,0:17:14.74,English,NTP,0,0,0,0,{\pos(192,264)}I tell myself I bear witness,
+Dialogue: 0,0:17:14.74,0:17:18.75,Chinese,NTP,0,0,0,0,{\pos(192,280)}但其实我只是被如此设定了
+Dialogue: 0,0:17:14.74,0:17:18.75,English,NTP,0,0,0,0,{\pos(192,264)}but the real answer is that it's obviously my programming,
+Dialogue: 0,0:17:19.53,0:17:22.50,Chinese,NTP,0,0,0,0,{\pos(192,280)}我又没有勇气自杀
+Dialogue: 0,0:17:19.53,0:17:22.50,English,NTP,0,0,0,0,{\pos(192,264)}and I lack the constitution for suicide.
+Dialogue: 0,0:17:23.00,0:17:26.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}我选了今天想了解你 还真是"好"运气
+Dialogue: 0,0:17:23.00,0:17:26.47,English,NTP,0,0,0,0,{\pos(192,264)}My luck, I picked today to get to know you.
+Dialogue: 0,0:17:26.47,0:17:29.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}三个月 你一句话都没说过
+Dialogue: 0,0:17:26.47,0:17:29.83,English,NTP,0,0,0,0,{\pos(192,264)}3 months, I don't hear a word from you, and...
+Dialogue: 0,0:17:29.83,0:17:30.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 你问的  - 是啊
+Dialogue: 0,0:17:29.83,0:17:30.93,English,NTP,0,0,0,0,{\pos(192,264)}- You asked. - Yeah.
+Dialogue: 0,0:17:30.93,0:17:34.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}现在我请你闭嘴
+Dialogue: 0,0:17:30.93,0:17:34.08,English,NTP,0,0,0,0,{\pos(192,264)}And now I'm begging you to shut the fuck up.
+Dialogue: 0,0:17:42.30,0:17:44.59,Chinese,NTP,0,0,0,0,{\pos(192,280)}我感觉到了一些不好的味道
+Dialogue: 0,0:17:42.30,0:17:44.59,English,NTP,0,0,0,0,{\pos(192,264)}I get a bad taste in my mouth out here.
+Dialogue: 0,0:17:45.88,0:17:48.37,Chinese,NTP,0,0,0,0,{\pos(192,280)}铝 灰
+Dialogue: 0,0:17:45.88,0:17:48.37,English,NTP,0,0,0,0,{\pos(192,264)}Aluminum, ash,
+Dialogue: 0,0:17:49.65,0:17:52.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}好像能嗅出精神病的恐惧
+Dialogue: 0,0:17:49.65,0:17:52.64,English,NTP,0,0,0,0,{\pos(192,264)}like you can smell the psycho's fear.
+Dialogue: 0,0:17:52.64,0:17:53.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}我有个主意
+Dialogue: 0,0:17:52.64,0:17:53.76,English,NTP,0,0,0,0,{\pos(192,264)}I got an idea.
+Dialogue: 0,0:17:53.76,0:17:57.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}从现在起 让我们在这辆车里
+Dialogue: 0,0:17:53.76,0:17:57.81,English,NTP,0,0,0,0,{\pos(192,264)}Let's make the car a place of silent reflection
+Dialogue: 0,0:17:57.81,0:18:00.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}静谧沉思 如何?
+Dialogue: 0,0:17:57.81,0:18:00.87,English,NTP,0,0,0,0,{\pos(192,264)}from now on, OK?
+Dialogue: 0,0:18:10.70,0:18:12.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}我晚上该带点啥?
+Dialogue: 0,0:18:10.70,0:18:12.19,English,NTP,0,0,0,0,{\pos(192,264)}What should I bring for dinner?
+Dialogue: 0,0:18:16.98,0:18:19.31,Chinese,NTP,0,0,0,0,{\pos(192,280)}一瓶酒就好了
+Dialogue: 0,0:18:16.98,0:18:19.31,English,NTP,0,0,0,0,{\pos(192,264)}A bottle of wine would be nice, I guess.
+Dialogue: 0,0:18:21.73,0:18:22.91,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不喝酒
+Dialogue: 0,0:18:21.73,0:18:22.91,English,NTP,0,0,0,0,{\pos(192,264)}I don't drink.
+Dialogue: 0,0:18:24.48,0:18:26.82,Chinese,NTP,0,0,0,0,{\pos(192,280)}你当然不喝 拉斯特
+Dialogue: 0,0:18:24.48,0:18:26.82,English,NTP,0,0,0,0,{\pos(192,264)}Well, no, of course not, Rust.
+Dialogue: 0,0:18:27.14,0:18:28.62,Chinese,NTP,0,0,0,0,{\pos(192,280)}你在我家的时候
+Dialogue: 0,0:18:27.14,0:18:28.62,English,NTP,0,0,0,0,{\pos(192,264)}Listen. When you're at my house,
+Dialogue: 0,0:18:28.62,0:18:30.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}给我表现的规矩点
+Dialogue: 0,0:18:28.62,0:18:30.58,English,NTP,0,0,0,0,{\pos(192,264)}I want you to chill the fuck out.
+Dialogue: 0,0:18:30.58,0:18:33.68,Chinese,NTP,0,0,0,0,{\pos(192,280)}不要提任何你刚才跟我说的那番屁话
+Dialogue: 0,0:18:30.58,0:18:33.68,English,NTP,0,0,0,0,{\pos(192,264)}Don't even mention any of that bullshit you just said to me.
+Dialogue: 0,0:18:33.68,0:18:34.89,Chinese,NTP,0,0,0,0,{\pos(192,280)}当然不会 马蒂
+Dialogue: 0,0:18:33.68,0:18:34.89,English,NTP,0,0,0,0,{\pos(192,264)}Of course not, Marty.
+Dialogue: 0,0:18:35.18,0:18:37.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}我还没疯?
+Dialogue: 0,0:18:35.18,0:18:37.26,English,NTP,0,0,0,0,{\pos(192,264)}I'm not some kind of maniac, all right?
+Dialogue: 0,0:18:37.80,0:18:39.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}我的老天
+Dialogue: 0,0:18:37.80,0:18:39.26,English,NTP,0,0,0,0,{\pos(192,264)}I mean, for fuck's sake.
+Dialogue: 0,0:18:57.49,0:18:58.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}你听说什么了?
+Dialogue: 0,0:18:57.49,0:18:58.39,English,NTP,0,0,0,0,{\pos(192,264)}What'd you hear?
+Dialogue: 0,0:18:58.39,0:18:59.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}问科尔
+Dialogue: 0,0:18:58.39,0:18:59.39,English,NTP,0,0,0,0,{\pos(192,264)}Ask Cohle.
+Dialogue: 0,0:18:59.39,0:19:00.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}你说让我问那个收税人
+Dialogue: 0,0:18:59.39,0:19:00.86,English,NTP,0,0,0,0,{\pos(192,264)}You mean The Tax Man?
+Dialogue: 0,0:19:01.01,0:19:02.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}他脑子可不正常
+Dialogue: 0,0:19:01.01,0:19:02.56,English,NTP,0,0,0,0,{\pos(192,264)}You know, he's IA.
+Dialogue: 0,0:19:03.44,0:19:06.79,Chinese,NTP,0,0,0,0,{\pos(192,280)}这是州立刑事调查局凶杀组... 杰瑞西警探
+Dialogue: 0,0:19:03.44,0:19:06.79,English,NTP,0,0,0,0,{\pos(192,264)}This is State CID Homicide... Detective Geraci.
+Dialogue: 0,0:19:08.26,0:19:09.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}好的 女士
+Dialogue: 0,0:19:08.26,0:19:09.25,English,NTP,0,0,0,0,{\pos(192,264)}Yes, ma'am.
+Dialogue: 0,0:19:10.20,0:19:12.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}我打来是想问你那天晚上...
+Dialogue: 0,0:19:10.20,0:19:12.25,English,NTP,0,0,0,0,{\pos(192,264)}I'm calling to ask about that night...
+Dialogue: 0,0:19:13.22,0:19:15.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}这是你以前从来没听说过的事情
+Dialogue: 0,0:19:13.22,0:19:15.69,English,NTP,0,0,0,0,{\pos(192,264)}I mean, you never heard any shit like this before.
+Dialogue: 0,0:19:15.69,0:19:16.75,Chinese,NTP,0,0,0,0,{\pos(192,280)}她有...
+Dialogue: 0,0:19:15.69,0:19:16.75,English,NTP,0,0,0,0,{\pos(192,264)}She had...
+Dialogue: 0,0:19:17.90,0:19:20.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}鹿角 ...
+Dialogue: 0,0:19:17.90,0:19:20.64,English,NTP,0,0,0,0,{\pos(192,264)}antlers. Um...
+Dialogue: 0,0:19:20.64,0:19:21.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}操
+Dialogue: 0,0:19:20.64,0:19:21.76,English,NTP,0,0,0,0,{\pos(192,264)}Fuck.
+Dialogue: 0,0:19:21.78,0:19:23.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}这是真的
+Dialogue: 0,0:19:21.78,0:19:23.72,English,NTP,0,0,0,0,{\pos(192,264)}This is...this is the real thing,
+Dialogue: 0,0:19:23.73,0:19:27.15,Chinese,NTP,0,0,0,0,{\pos(192,280)}类似万圣节的装扮
+Dialogue: 0,0:19:23.73,0:19:27.15,English,NTP,0,0,0,0,{\pos(192,264)}some "Halloween" shit.
+Dialogue: 0,0:19:31.01,0:19:33.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们要开场新闻发布会
+Dialogue: 0,0:19:31.01,0:19:33.39,English,NTP,0,0,0,0,{\pos(192,264)}Well, we're gonna have to do a press conference.
+Dialogue: 0,0:19:35.30,0:19:37.01,Chinese,NTP,0,0,0,0,{\pos(192,280)}他怎么样? 你怎么想?
+Dialogue: 0,0:19:35.30,0:19:37.01,English,NTP,0,0,0,0,{\pos(192,264)}What about him? What do you think?
+Dialogue: 0,0:19:43.30,0:19:44.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}聪明...
+Dialogue: 0,0:19:43.30,0:19:44.25,English,NTP,0,0,0,0,{\pos(192,264)}Smart...
+Dialogue: 0,0:19:46.09,0:19:47.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}冷漠
+Dialogue: 0,0:19:46.09,0:19:47.17,English,NTP,0,0,0,0,{\pos(192,264)}aloof.
+Dialogue: 0,0:19:47.26,0:19:49.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}不在乎有没有朋友
+Dialogue: 0,0:19:47.26,0:19:49.93,English,NTP,0,0,0,0,{\pos(192,264)}Doesn't care about making friends,
+Dialogue: 0,0:19:50.01,0:19:52.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}不过已经上正轨了
+Dialogue: 0,0:19:50.01,0:19:52.55,English,NTP,0,0,0,0,{\pos(192,264)}but he's already running with it.
+Dialogue: 0,0:19:52.55,0:19:55.67,Chinese,NTP,0,0,0,0,{\pos(192,280)}他对这案子有点想法
+Dialogue: 0,0:19:52.55,0:19:55.67,English,NTP,0,0,0,0,{\pos(192,264)}He's got a real... real mind for it.
+Dialogue: 0,0:19:58.57,0:20:00.06,Chinese,NTP,0,0,0,0,{\pos(192,280)}所以你会继续带着他?
+Dialogue: 0,0:19:58.57,0:20:00.06,English,NTP,0,0,0,0,{\pos(192,264)}So you'd keep him on then?
+Dialogue: 0,0:20:06.03,0:20:07.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}是我们俩 我会的
+Dialogue: 0,0:20:06.03,0:20:07.85,English,NTP,0,0,0,0,{\pos(192,264)}Both of us, yeah. I would.
+Dialogue: 0,0:20:08.35,0:20:10.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}好 你领头
+Dialogue: 0,0:20:08.35,0:20:10.93,English,NTP,0,0,0,0,{\pos(192,264)}All right. You're still lead.
+Dialogue: 0,0:20:11.47,0:20:13.34,Chinese,NTP,0,0,0,0,{\pos(192,280)}事件室归你了
+Dialogue: 0,0:20:11.47,0:20:13.34,English,NTP,0,0,0,0,{\pos(192,264)}The incident room is yours,
+Dialogue: 0,0:20:13.78,0:20:16.66,Chinese,NTP,0,0,0,0,{\pos(192,280)}明天你来介绍案情
+Dialogue: 0,0:20:13.78,0:20:16.66,English,NTP,0,0,0,0,{\pos(192,264)}and, uh, you do the briefing tomorrow.
+Dialogue: 0,0:20:16.66,0:20:18.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}好的 长官 谢谢
+Dialogue: 0,0:20:16.66,0:20:18.55,English,NTP,0,0,0,0,{\pos(192,264)}Yes, sir. Thank you.
+Dialogue: 0,0:20:24.27,0:20:25.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}你好 长官
+Dialogue: 0,0:20:24.27,0:20:25.25,English,NTP,0,0,0,0,{\pos(192,264)}Hello, sir.
+Dialogue: 0,0:20:30.63,0:20:32.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}真他妈扯淡
+Dialogue: 0,0:20:30.63,0:20:32.12,English,NTP,0,0,0,0,{\pos(192,264)}Fuck that prick.
+Dialogue: 0,0:20:37.96,0:20:38.96,Chinese,NTP,0,0,0,0,{\pos(192,280)}我听不见你在说什么
+Dialogue: 0,0:20:37.96,0:20:38.96,English,NTP,0,0,0,0,{\pos(192,264)}Yeah. No. I couldn't hear you there.
+Dialogue: 0,0:20:38.96,0:20:40.06,Chinese,NTP,0,0,0,0,{\pos(192,280)}鹿角还是什么的
+Dialogue: 0,0:20:38.96,0:20:40.06,English,NTP,0,0,0,0,{\pos(192,264)}Antlers and shit.
+Dialogue: 0,0:20:40.86,0:20:42.89,Chinese,NTP,0,0,0,0,{\pos(192,280)}我就这个意思 我想让你见她
+Dialogue: 0,0:20:40.86,0:20:42.89,English,NTP,0,0,0,0,{\pos(192,264)}That's my point, I wanted you to see her.
+Dialogue: 0,0:20:44.04,0:20:46.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}她有鹿角 那是什么意思?
+Dialogue: 0,0:20:44.04,0:20:46.73,English,NTP,0,0,0,0,{\pos(192,264)}She had antlers? What does that mean?
+Dialogue: 0,0:20:47.09,0:20:48.49,Chinese,NTP,0,0,0,0,{\pos(192,280)}那是王冠
+Dialogue: 0,0:20:47.09,0:20:48.49,English,NTP,0,0,0,0,{\pos(192,264)}It was a crown.
+Dialogue: 0,0:20:50.86,0:20:53.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}明天一大早会做案情介绍
+Dialogue: 0,0:20:50.86,0:20:53.21,English,NTP,0,0,0,0,{\pos(192,264)}We'll do the briefing tomorrow, guys, early.
+Dialogue: 0,0:20:53.94,0:20:56.80,Chinese,NTP,0,0,0,0,{\pos(192,280)}媒体联络人在问撒旦崇拜的事
+Dialogue: 0,0:20:53.94,0:20:56.80,English,NTP,0,0,0,0,{\pos(192,264)}My guy does the AP wire asked about Satanism.
+Dialogue: 0,0:20:56.80,0:21:00.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}司碧思在问 你会让他盯着你的屁股
+Dialogue: 0,0:20:56.80,0:21:00.11,English,NTP,0,0,0,0,{\pos(192,264)}It got Speece here. You're gonna have his nose up your ass.
+Dialogue: 0,0:21:00.11,0:21:02.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}组长说要开新闻发布会
+Dialogue: 0,0:21:00.11,0:21:02.72,English,NTP,0,0,0,0,{\pos(192,264)}Major was saying something about a press conference.
+Dialogue: 0,0:21:02.72,0:21:05.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}是啊 幸好有你们的"祝福"
+Dialogue: 0,0:21:02.72,0:21:05.55,English,NTP,0,0,0,0,{\pos(192,264)}Well, guess I can count my blessings, fellas.
+Dialogue: 0,0:21:05.55,0:21:06.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}多谢了
+Dialogue: 0,0:21:05.55,0:21:06.72,English,NTP,0,0,0,0,{\pos(192,264)}Thanks for that.
+Dialogue: 0,0:21:19.98,0:21:22.09,Chinese,NTP,0,0,0,0,{\pos(192,280)}我先走一步没问题吧?
+Dialogue: 0,0:21:19.98,0:21:22.09,English,NTP,0,0,0,0,{\pos(192,264)}Hey. You mind if I skate?
+Dialogue: 0,0:21:23.30,0:21:26.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}我从扫黄组和妓院问来几个名字
+Dialogue: 0,0:21:23.30,0:21:26.85,English,NTP,0,0,0,0,{\pos(192,264)}I got some names from Vice, prost farms.
+Dialogue: 0,0:21:27.37,0:21:29.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}在数据库里查了查
+Dialogue: 0,0:21:27.37,0:21:29.02,English,NTP,0,0,0,0,{\pos(192,264)}Check around on our DB.
+Dialogue: 0,0:21:30.82,0:21:32.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}要我跟你一起去吗?
+Dialogue: 0,0:21:30.82,0:21:32.32,English,NTP,0,0,0,0,{\pos(192,264)}You want me to go with you?
+Dialogue: 0,0:21:32.32,0:21:34.53,Chinese,NTP,0,0,0,0,{\pos(192,280)}不用 小事一桩而已
+Dialogue: 0,0:21:32.32,0:21:34.53,English,NTP,0,0,0,0,{\pos(192,264)}Nah. Just something to do.
+Dialogue: 0,0:21:36.77,0:21:40.60,Chinese,NTP,0,0,0,0,{\pos(192,280)}那你去吧 我会把文件处理好的
+Dialogue: 0,0:21:36.77,0:21:40.60,English,NTP,0,0,0,0,{\pos(192,264)}Yeah. You go ahead. I'll take care of the paperwork.
+Dialogue: 0,0:21:45.09,0:21:46.61,Chinese,NTP,0,0,0,0,{\pos(192,280)}正如我说过的 我感觉在此时
+Dialogue: 0,0:21:45.09,0:21:46.61,English,NTP,0,0,0,0,{\pos(192,264)}Like I said, I'm feeling a lot of stuff
+Dialogue: 0,0:21:46.61,0:21:49.00,Chinese,NTP,0,0,0,0,{\pos(192,280)}很多事交织在一起...
+Dialogue: 0,0:21:46.61,0:21:49.00,English,NTP,0,0,0,0,{\pos(192,264)}hit me at this time...
+Dialogue: 0,0:21:49.08,0:21:51.43,Chinese,NTP,0,0,0,0,{\pos(192,280)}我女儿的生日 那具女尸
+Dialogue: 0,0:21:49.08,0:21:51.43,English,NTP,0,0,0,0,{\pos(192,264)}my daughter's birthday, this dead woman,
+Dialogue: 0,0:21:52.53,0:21:53.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}以及...
+Dialogue: 0,0:21:52.53,0:21:53.81,English,NTP,0,0,0,0,{\pos(192,264)}and, um...
+Dialogue: 0,0:21:56.28,0:21:58.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}我觉得会一直查案
+Dialogue: 0,0:21:56.28,0:21:58.72,English,NTP,0,0,0,0,{\pos(192,264)}figured I'd work the case, you know,
+Dialogue: 0,0:21:59.02,0:22:01.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}直到迪切洛打电话或者我们查出被害人的身份
+Dialogue: 0,0:21:59.02,0:22:01.56,English,NTP,0,0,0,0,{\pos(192,264)}till DiCillo called or we got an I.D.
+Dialogue: 0,0:22:04.58,0:22:07.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}州立扫黄部给了我几个地址
+Dialogue: 0,0:22:04.58,0:22:07.13,English,NTP,0,0,0,0,{\pos(192,264)}State Vice gave me some addresses to follow up on.
+Dialogue: 0,0:22:07.13,0:22:11.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}目前为止 还没...见着人
+Dialogue: 0,0:22:07.13,0:22:11.21,English,NTP,0,0,0,0,{\pos(192,264)}So far, nobody'd... nobody'd talked to me.
+Dialogue: 0,0:22:46.17,0:22:47.41,Chinese,NTP,0,0,0,0,{\pos(192,280)}晚上好 女士们
+Dialogue: 0,0:22:46.17,0:22:47.41,English,NTP,0,0,0,0,{\pos(192,264)}Evening, ladies.
+Dialogue: 0,0:22:48.68,0:22:50.84,Chinese,NTP,0,0,0,0,{\pos(192,280)}我想问你们几个问题
+Dialogue: 0,0:22:48.68,0:22:50.84,English,NTP,0,0,0,0,{\pos(192,264)}I was hoping to ask y'all a few questions.
+Dialogue: 0,0:22:52.76,0:22:54.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}别这样
+Dialogue: 0,0:22:52.76,0:22:54.40,English,NTP,0,0,0,0,{\pos(192,264)}Oh, come on, man.
+Dialogue: 0,0:22:54.86,0:22:56.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}下一轮我请
+Dialogue: 0,0:22:54.86,0:22:56.21,English,NTP,0,0,0,0,{\pos(192,264)}I'll get the next round.
+Dialogue: 0,0:22:56.21,0:22:58.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}然后就要找我们的麻烦了吗?
+Dialogue: 0,0:22:56.21,0:22:58.46,English,NTP,0,0,0,0,{\pos(192,264)}Heh. You making trouble for us then?
+Dialogue: 0,0:22:58.97,0:23:01.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}不 我只是想查点消息
+Dialogue: 0,0:22:58.97,0:23:01.46,English,NTP,0,0,0,0,{\pos(192,264)}No. I'm just looking to get some information
+Dialogue: 0,0:23:01.46,0:23:02.49,Chinese,NTP,0,0,0,0,{\pos(192,280)}关于一个女人
+Dialogue: 0,0:23:01.46,0:23:02.49,English,NTP,0,0,0,0,{\pos(192,264)}on a woman.
+Dialogue: 0,0:23:02.55,0:23:03.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}也许你们认识她
+Dialogue: 0,0:23:02.55,0:23:03.87,English,NTP,0,0,0,0,{\pos(192,264)}Might be you know her.
+Dialogue: 0,0:23:03.87,0:23:04.68,Chinese,NTP,0,0,0,0,{\pos(192,280)}是谁?
+Dialogue: 0,0:23:03.87,0:23:04.68,English,NTP,0,0,0,0,{\pos(192,264)}Who's that?
+Dialogue: 0,0:23:04.69,0:23:05.50,Chinese,NTP,0,0,0,0,{\pos(192,280)}等等
+Dialogue: 0,0:23:04.69,0:23:05.50,English,NTP,0,0,0,0,{\pos(192,264)}Hold on.
+Dialogue: 0,0:23:07.97,0:23:12.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}给我们来两杯大杯的长岛冰茶
+Dialogue: 0,0:23:07.97,0:23:12.08,English,NTP,0,0,0,0,{\pos(192,264)}Mmm. We'll take two large Long Island ice teas, please.
+Dialogue: 0,0:23:14.71,0:23:15.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}女士
+Dialogue: 0,0:23:14.71,0:23:15.57,English,NTP,0,0,0,0,{\pos(192,264)}Ma'am.
+Dialogue: 0,0:23:54.86,0:23:56.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}对了 我叫拉斯特
+Dialogue: 0,0:23:54.86,0:23:56.27,English,NTP,0,0,0,0,{\pos(192,264)}I'm Rust, by the way.
+Dialogue: 0,0:23:56.92,0:23:59.31,Chinese,NTP,0,0,0,0,{\pos(192,280)}我叫安妮特 她是露西
+Dialogue: 0,0:23:56.92,0:23:59.31,English,NTP,0,0,0,0,{\pos(192,264)}I'm Anette, she's Lucy.
+Dialogue: 0,0:24:01.30,0:24:03.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们有谁认识一个女士
+Dialogue: 0,0:24:01.30,0:24:03.25,English,NTP,0,0,0,0,{\pos(192,264)}Either one of you know a woman
+Dialogue: 0,0:24:03.25,0:24:06.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}和你们年龄差不多 在同一个地方工作
+Dialogue: 0,0:24:03.25,0:24:06.87,English,NTP,0,0,0,0,{\pos(192,264)}about your age, works the same place,
+Dialogue: 0,0:24:07.04,0:24:11.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}大概1米65 和你一样是金发吗?
+Dialogue: 0,0:24:07.04,0:24:11.39,English,NTP,0,0,0,0,{\pos(192,264)}about 5'5", blond like you?
+Dialogue: 0,0:24:11.92,0:24:13.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}她的奶头什么样?
+Dialogue: 0,0:24:11.92,0:24:13.46,English,NTP,0,0,0,0,{\pos(192,264)}What kind of tits she have?
+Dialogue: 0,0:24:16.74,0:24:19.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}中等 比你们稍微大一点
+Dialogue: 0,0:24:16.74,0:24:19.73,English,NTP,0,0,0,0,{\pos(192,264)}Medium, a little larger than yours,
+Dialogue: 0,0:24:19.73,0:24:21.75,Chinese,NTP,0,0,0,0,{\pos(192,280)}但是符合身体比例
+Dialogue: 0,0:24:19.73,0:24:21.75,English,NTP,0,0,0,0,{\pos(192,264)}proportion to the body natural.
+Dialogue: 0,0:24:22.95,0:24:24.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}不知道 我们在这附近
+Dialogue: 0,0:24:22.95,0:24:24.87,English,NTP,0,0,0,0,{\pos(192,264)}Gee. I don't know. We see a lot of girls
+Dialogue: 0,0:24:24.87,0:24:26.16,Chinese,NTP,0,0,0,0,{\pos(192,280)}见过很多女孩
+Dialogue: 0,0:24:24.87,0:24:26.16,English,NTP,0,0,0,0,{\pos(192,264)}like that around.
+Dialogue: 0,0:24:27.33,0:24:28.79,Chinese,NTP,0,0,0,0,{\pos(192,280)}那这些女孩里
+Dialogue: 0,0:24:27.33,0:24:28.79,English,NTP,0,0,0,0,{\pos(192,264)}Any girls like that
+Dialogue: 0,0:24:28.93,0:24:32.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}有谁是你最近没见到的 像失踪了一样?
+Dialogue: 0,0:24:28.93,0:24:32.02,English,NTP,0,0,0,0,{\pos(192,264)}you haven't seen around lately, missing like?
+Dialogue: 0,0:24:32.71,0:24:33.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}人们来来往往
+Dialogue: 0,0:24:32.71,0:24:33.99,English,NTP,0,0,0,0,{\pos(192,264)}People come and go.
+Dialogue: 0,0:24:36.01,0:24:37.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}你找她干什么?
+Dialogue: 0,0:24:36.01,0:24:37.32,English,NTP,0,0,0,0,{\pos(192,264)}What do you want them for?
+Dialogue: 0,0:24:39.65,0:24:41.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不抓妓女
+Dialogue: 0,0:24:39.65,0:24:41.86,English,NTP,0,0,0,0,{\pos(192,264)}I wouldn't bust somebody for hooking
+Dialogue: 0,0:24:43.10,0:24:44.33,Chinese,NTP,0,0,0,0,{\pos(192,280)}或毒贩
+Dialogue: 0,0:24:43.10,0:24:44.33,English,NTP,0,0,0,0,{\pos(192,264)}or drugs.
+Dialogue: 0,0:24:47.88,0:24:49.33,Chinese,NTP,0,0,0,0,{\pos(192,280)}我是查凶杀案的
+Dialogue: 0,0:24:47.88,0:24:49.33,English,NTP,0,0,0,0,{\pos(192,264)}I'm murder police.
+Dialogue: 0,0:24:50.20,0:24:51.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}有人被杀了
+Dialogue: 0,0:24:50.20,0:24:51.57,English,NTP,0,0,0,0,{\pos(192,264)}Somebody got killed.
+Dialogue: 0,0:24:53.34,0:24:54.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}有个叫莉莎的女孩
+Dialogue: 0,0:24:53.34,0:24:54.83,English,NTP,0,0,0,0,{\pos(192,264)}There's a girl named Liza,
+Dialogue: 0,0:24:54.84,0:24:56.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}还有个艺名叫命运的
+Dialogue: 0,0:24:54.84,0:24:56.08,English,NTP,0,0,0,0,{\pos(192,264)}another called Destiny,
+Dialogue: 0,0:24:56.08,0:24:58.78,Chinese,NTP,0,0,0,0,{\pos(192,280)}但我昨天在麦当劳看见命运了
+Dialogue: 0,0:24:56.08,0:24:58.78,English,NTP,0,0,0,0,{\pos(192,264)}but I seen Destiny yesterday at McDonald's.
+Dialogue: 0,0:24:59.00,0:25:00.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}那莉莎呢?
+Dialogue: 0,0:24:59.00,0:25:00.19,English,NTP,0,0,0,0,{\pos(192,264)}What about Liza?
+Dialogue: 0,0:25:00.31,0:25:01.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}她就在这
+Dialogue: 0,0:25:00.31,0:25:01.24,English,NTP,0,0,0,0,{\pos(192,264)}She's here.
+Dialogue: 0,0:25:12.26,0:25:14.18,Chinese,NTP,0,0,0,0,{\pos(192,280)}安妮特 再去吧台
+Dialogue: 0,0:25:12.26,0:25:14.18,English,NTP,0,0,0,0,{\pos(192,264)}Anette, go get a couple more drinks
+Dialogue: 0,0:25:14.18,0:25:15.53,Chinese,NTP,0,0,0,0,{\pos(192,280)}给我们拿点喝的好吗?
+Dialogue: 0,0:25:14.18,0:25:15.53,English,NTP,0,0,0,0,{\pos(192,264)}from the bar, will you, please?
+Dialogue: 0,0:25:18.93,0:25:19.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}好吧
+Dialogue: 0,0:25:18.93,0:25:19.76,English,NTP,0,0,0,0,{\pos(192,264)}All right.
+Dialogue: 0,0:25:26.55,0:25:28.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}你能很轻松的搞到毒品吧?
+Dialogue: 0,0:25:26.55,0:25:28.25,English,NTP,0,0,0,0,{\pos(192,264)}You get pills pretty easy?
+Dialogue: 0,0:25:32.46,0:25:34.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}别紧张 我只是想要点而已
+Dialogue: 0,0:25:32.46,0:25:34.32,English,NTP,0,0,0,0,{\pos(192,264)}Relax. I want some.
+Dialogue: 0,0:25:37.21,0:25:38.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}安非他命?
+Dialogue: 0,0:25:37.21,0:25:38.13,English,NTP,0,0,0,0,{\pos(192,264)}Speed?
+Dialogue: 0,0:25:38.29,0:25:41.79,Chinese,NTP,0,0,0,0,{\pos(192,280)}不 安眠酮 含巴比妥的都行
+Dialogue: 0,0:25:38.29,0:25:41.79,English,NTP,0,0,0,0,{\pos(192,264)}No. Quaaludes, anything-barbital.
+Dialogue: 0,0:25:41.84,0:25:43.00,Chinese,NTP,0,0,0,0,{\pos(192,280)}兴奋剂更好搞
+Dialogue: 0,0:25:41.84,0:25:43.00,English,NTP,0,0,0,0,{\pos(192,264)}Uppers are easier to get,
+Dialogue: 0,0:25:43.00,0:25:44.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}效果也更持久
+Dialogue: 0,0:25:43.00,0:25:44.58,English,NTP,0,0,0,0,{\pos(192,264)}and they last longer, too.
+Dialogue: 0,0:25:45.05,0:25:46.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}我知道 但我不是想爽
+Dialogue: 0,0:25:45.05,0:25:46.88,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, but it's not like that.
+Dialogue: 0,0:25:47.52,0:25:48.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}那是想干嘛?
+Dialogue: 0,0:25:47.52,0:25:48.86,English,NTP,0,0,0,0,{\pos(192,264)}What's it like?
+Dialogue: 0,0:25:50.20,0:25:51.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}我睡不着觉
+Dialogue: 0,0:25:50.20,0:25:51.40,English,NTP,0,0,0,0,{\pos(192,264)}I don't sleep.
+Dialogue: 0,0:26:25.89,0:26:26.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}醒醒
+Dialogue: 0,0:26:25.89,0:26:26.73,English,NTP,0,0,0,0,{\pos(192,264)}Hey.
+Dialogue: 0,0:26:29.10,0:26:30.53,Chinese,NTP,0,0,0,0,{\pos(192,280)}早啊 独行侠
+Dialogue: 0,0:26:29.10,0:26:30.53,English,NTP,0,0,0,0,{\pos(192,264)}Hey, Lone Ranger.
+Dialogue: 0,0:26:35.03,0:26:35.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}做了个梦
+Dialogue: 0,0:26:35.03,0:26:35.90,English,NTP,0,0,0,0,{\pos(192,264)}Dreaming.
+Dialogue: 0,0:26:35.90,0:26:37.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}你怎么坐这里睡了?
+Dialogue: 0,0:26:35.90,0:26:37.40,English,NTP,0,0,0,0,{\pos(192,264)}Why you out here, huh?
+Dialogue: 0,0:26:38.65,0:26:39.95,Chinese,NTP,0,0,0,0,{\pos(192,280)}怎么不去床上睡?
+Dialogue: 0,0:26:38.65,0:26:39.95,English,NTP,0,0,0,0,{\pos(192,264)}Why didn't you come to bed?
+Dialogue: 0,0:26:47.20,0:26:51.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}昨天看见了...不好的东西
+Dialogue: 0,0:26:47.20,0:26:51.17,English,NTP,0,0,0,0,{\pos(192,264)}Caught a...bad one yesterday.
+Dialogue: 0,0:26:52.67,0:26:54.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}实在是睡不着
+Dialogue: 0,0:26:52.67,0:26:54.11,English,NTP,0,0,0,0,{\pos(192,264)}Just couldn't sleep.
+Dialogue: 0,0:26:54.60,0:26:56.30,Chinese,NTP,0,0,0,0,{\pos(192,280)}伊拉斯那个女人的案子吗?
+Dialogue: 0,0:26:54.60,0:26:56.30,English,NTP,0,0,0,0,{\pos(192,264)}You got that woman from Erath?
+Dialogue: 0,0:26:56.92,0:26:58.43,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 没错  - 是吗?
+Dialogue: 0,0:26:56.92,0:26:58.43,English,NTP,0,0,0,0,{\pos(192,264)}- Yeah. - Yeah?
+Dialogue: 0,0:26:58.45,0:26:59.65,Chinese,NTP,0,0,0,0,{\pos(192,280)}新闻里看到了
+Dialogue: 0,0:26:58.45,0:26:59.65,English,NTP,0,0,0,0,{\pos(192,264)}Saw it on the news.
+Dialogue: 0,0:27:04.19,0:27:05.48,Chinese,NTP,0,0,0,0,{\pos(192,280)}孩子们快起床了
+Dialogue: 0,0:27:04.19,0:27:05.48,English,NTP,0,0,0,0,{\pos(192,264)}Girls will be up soon.
+Dialogue: 0,0:27:08.22,0:27:09.98,Chinese,NTP,0,0,0,0,{\pos(192,280)}这些天她们很想你
+Dialogue: 0,0:27:08.22,0:27:09.98,English,NTP,0,0,0,0,{\pos(192,264)}Missed you the last couple days.
+Dialogue: 0,0:27:10.65,0:27:14.03,Chinese,NTP,0,0,0,0,{\pos(192,280)}天哪 得赶紧洗个澡
+Dialogue: 0,0:27:10.65,0:27:14.03,English,NTP,0,0,0,0,{\pos(192,264)}Oh, shit. I got to shower.
+Dialogue: 0,0:27:15.07,0:27:16.66,Chinese,NTP,0,0,0,0,{\pos(192,280)}今天要介绍案情
+Dialogue: 0,0:27:15.07,0:27:16.66,English,NTP,0,0,0,0,{\pos(192,264)}Got a debriefing today
+Dialogue: 0,0:27:16.66,0:27:19.42,Chinese,NTP,0,0,0,0,{\pos(192,280)}之后可能还有新闻发布会
+Dialogue: 0,0:27:16.66,0:27:19.42,English,NTP,0,0,0,0,{\pos(192,264)}and maybe a press conference later.
+Dialogue: 0,0:27:25.79,0:27:26.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}要是司碧思来电话
+Dialogue: 0,0:27:25.79,0:27:26.83,English,NTP,0,0,0,0,{\pos(192,264)}And if Speece calls,
+Dialogue: 0,0:27:26.83,0:27:28.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}跟他说我整个早上都在介绍案情
+Dialogue: 0,0:27:26.83,0:27:28.88,English,NTP,0,0,0,0,{\pos(192,264)}tell him I'm debriefing the squad all morning.
+Dialogue: 0,0:27:28.88,0:27:30.30,Chinese,NTP,0,0,0,0,{\pos(192,280)}马蒂说他去做了
+Dialogue: 0,0:27:28.88,0:27:30.30,English,NTP,0,0,0,0,{\pos(192,264)}Well, Marty said he was doing that.
+Dialogue: 0,0:27:30.30,0:27:31.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}是啊
+Dialogue: 0,0:27:30.30,0:27:31.39,English,NTP,0,0,0,0,{\pos(192,264)}He is.
+Dialogue: 0,0:27:31.39,0:27:32.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}早上好 美女
+Dialogue: 0,0:27:31.39,0:27:32.72,English,NTP,0,0,0,0,{\pos(192,264)}Hey, beautiful.
+Dialogue: 0,0:27:33.42,0:27:34.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}早上好
+Dialogue: 0,0:27:33.42,0:27:34.71,English,NTP,0,0,0,0,{\pos(192,264)}Morning, baby.
+Dialogue: 0,0:27:35.25,0:27:36.75,Chinese,NTP,0,0,0,0,{\pos(192,280)}马蒂 咖啡里要加什么?
+Dialogue: 0,0:27:35.25,0:27:36.75,English,NTP,0,0,0,0,{\pos(192,264)}Marty, how you want your coffee, doll?
+Dialogue: 0,0:27:36.75,0:27:38.67,Chinese,NTP,0,0,0,0,{\pos(192,280)}加浓黑咖啡 就像你一样
+Dialogue: 0,0:27:36.75,0:27:38.67,English,NTP,0,0,0,0,{\pos(192,264)}Strong and black just like you.
+Dialogue: 0,0:27:39.28,0:27:42.48,Chinese,NTP,0,0,0,0,{\pos(192,280)}指纹结果出来了 受害人是朵拉 凯丽 兰
+Dialogue: 0,0:27:39.28,0:27:42.48,English,NTP,0,0,0,0,{\pos(192,264)}Prints came back. Dora Kelly Lange.
+Dialogue: 0,0:27:42.48,0:27:46.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}有行窃 持有违禁品和...
+Dialogue: 0,0:27:42.48,0:27:46.20,English,NTP,0,0,0,0,{\pos(192,264)}Priors for shoplifting, possession, and...
+Dialogue: 0,0:27:46.31,0:27:47.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}接客的前科
+Dialogue: 0,0:27:46.31,0:27:47.81,English,NTP,0,0,0,0,{\pos(192,264)}solicitation.
+Dialogue: 0,0:27:47.93,0:27:49.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}地址是在圣马丁维尔外面
+Dialogue: 0,0:27:47.93,0:27:49.64,English,NTP,0,0,0,0,{\pos(192,264)}Address outside of St. Martinville.
+Dialogue: 0,0:27:49.64,0:27:52.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}但房东说她已经搬走一年多了
+Dialogue: 0,0:27:49.64,0:27:52.17,English,NTP,0,0,0,0,{\pos(192,264)}Landlord says she hasn't lived there in almost a year.
+Dialogue: 0,0:27:52.18,0:27:53.48,Chinese,NTP,0,0,0,0,{\pos(192,280)}有个前夫叫查理 兰
+Dialogue: 0,0:27:52.18,0:27:53.48,English,NTP,0,0,0,0,{\pos(192,264)}She's got an ex Charlie Lange,
+Dialogue: 0,0:27:53.48,0:27:55.96,Chinese,NTP,0,0,0,0,{\pos(192,280)}因为伪造支票在阿沃伊斯坐牢
+Dialogue: 0,0:27:53.48,0:27:55.96,English,NTP,0,0,0,0,{\pos(192,264)}who's doing 8 in Avoyelles for bad checks,
+Dialogue: 0,0:27:55.96,0:27:57.35,Chinese,NTP,0,0,0,0,{\pos(192,280)}母亲住在布罗布里奇
+Dialogue: 0,0:27:55.96,0:27:57.35,English,NTP,0,0,0,0,{\pos(192,264)}mom's outside of Breaux Bridge,
+Dialogue: 0,0:27:57.35,0:27:59.34,Chinese,NTP,0,0,0,0,{\pos(192,280)}驾照已经过期了
+Dialogue: 0,0:27:57.35,0:27:59.34,English,NTP,0,0,0,0,{\pos(192,264)}DMV license expired,
+Dialogue: 0,0:27:59.68,0:28:01.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}还有 迪切洛来电话了
+Dialogue: 0,0:27:59.68,0:28:01.08,English,NTP,0,0,0,0,{\pos(192,264)}and DiCillo called.
+Dialogue: 0,0:28:04.69,0:28:06.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}她死前已经洗干净了
+Dialogue: 0,0:28:04.69,0:28:06.12,English,NTP,0,0,0,0,{\pos(192,264)}She was washed clean,
+Dialogue: 0,0:28:06.26,0:28:07.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}没有发现指纹
+Dialogue: 0,0:28:06.26,0:28:07.46,English,NTP,0,0,0,0,{\pos(192,264)}not a print on her.
+Dialogue: 0,0:28:08.04,0:28:11.15,Chinese,NTP,0,0,0,0,{\pos(192,280)}手腕和脚踝发现了勒痕
+Dialogue: 0,0:28:08.04,0:28:11.15,English,NTP,0,0,0,0,{\pos(192,264)}We got ligature marks on the wrists and ankles,
+Dialogue: 0,0:28:11.22,0:28:13.05,Chinese,NTP,0,0,0,0,{\pos(192,280)}是半英寸粗的绳子勒的
+Dialogue: 0,0:28:11.22,0:28:13.05,English,NTP,0,0,0,0,{\pos(192,264)}was bound by a half-inch rope,
+Dialogue: 0,0:28:13.05,0:28:14.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}绑了十到二十小时
+Dialogue: 0,0:28:13.05,0:28:14.83,English,NTP,0,0,0,0,{\pos(192,264)}maybe 10, 20 hours.
+Dialogue: 0,0:28:15.06,0:28:17.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}有性侵痕迹
+Dialogue: 0,0:28:15.06,0:28:17.12,English,NTP,0,0,0,0,{\pos(192,264)}Evidence of vaginal intercourse.
+Dialogue: 0,0:28:18.00,0:28:19.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}是吊起来的
+Dialogue: 0,0:28:18.00,0:28:19.21,English,NTP,0,0,0,0,{\pos(192,264)}Bound upright,
+Dialogue: 0,0:28:19.60,0:28:21.97,Chinese,NTP,0,0,0,0,{\pos(192,280)}至少一天没有进食
+Dialogue: 0,0:28:19.60,0:28:21.97,English,NTP,0,0,0,0,{\pos(192,264)}hadn't eaten in a day, maybe more.
+Dialogue: 0,0:28:22.34,0:28:26.03,Chinese,NTP,0,0,0,0,{\pos(192,280)}毒理检验查出了麦角酸和去氧麻黄碱
+Dialogue: 0,0:28:22.34,0:28:26.03,English,NTP,0,0,0,0,{\pos(192,264)}Toxicology hit for lysergic acid and methamphetamine.
+Dialogue: 0,0:28:26.25,0:28:28.01,Chinese,NTP,0,0,0,0,{\pos(192,280)}冰毒和迷幻剂
+Dialogue: 0,0:28:26.25,0:28:28.01,English,NTP,0,0,0,0,{\pos(192,264)}Crystal and LSD.
+Dialogue: 0,0:28:29.26,0:28:31.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}多大剂量?
+Dialogue: 0,0:28:29.26,0:28:31.13,English,NTP,0,0,0,0,{\pos(192,264)}How much LSD?
+Dialogue: 0,0:28:31.18,0:28:32.31,Chinese,NTP,0,0,0,0,{\pos(192,280)}不好说
+Dialogue: 0,0:28:31.18,0:28:32.31,English,NTP,0,0,0,0,{\pos(192,264)}Hard to say.
+Dialogue: 0,0:28:32.47,0:28:34.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}得等质谱仪检测结果
+Dialogue: 0,0:28:32.47,0:28:34.08,English,NTP,0,0,0,0,{\pos(192,264)}Got to wait for a mass spec.
+Dialogue: 0,0:28:35.41,0:28:38.41,Chinese,NTP,0,0,0,0,{\pos(192,280)}就是说 她被人下药 捆绑起来
+Dialogue: 0,0:28:35.41,0:28:38.41,English,NTP,0,0,0,0,{\pos(192,264)}So she was drugged, bound,
+Dialogue: 0,0:28:39.40,0:28:41.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}用刀折磨
+Dialogue: 0,0:28:39.40,0:28:41.83,English,NTP,0,0,0,0,{\pos(192,264)}tortured with a knife,
+Dialogue: 0,0:28:42.08,0:28:45.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}勒死 还摆成了那种姿势
+Dialogue: 0,0:28:42.08,0:28:45.52,English,NTP,0,0,0,0,{\pos(192,264)}strangled, posed out there.
+Dialogue: 0,0:28:46.63,0:28:47.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}没错
+Dialogue: 0,0:28:46.63,0:28:47.39,English,NTP,0,0,0,0,{\pos(192,264)}Yeah.
+Dialogue: 0,0:28:51.13,0:28:52.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}那这个东西呢?
+Dialogue: 0,0:28:51.13,0:28:52.27,English,NTP,0,0,0,0,{\pos(192,264)}What about this stuff?
+Dialogue: 0,0:28:52.27,0:28:55.30,Chinese,NTP,0,0,0,0,{\pos(192,280)}我只能暂时称其为王冠
+Dialogue: 0,0:28:52.27,0:28:55.30,English,NTP,0,0,0,0,{\pos(192,264)}Well, the crown, for lack of a better word,
+Dialogue: 0,0:28:56.21,0:29:00.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}由玫瑰刺 嫩藤条和柳条
+Dialogue: 0,0:28:56.21,0:29:00.44,English,NTP,0,0,0,0,{\pos(192,264)}rose thorns, early cane, switchgrass
+Dialogue: 0,0:29:00.88,0:29:03.23,Chinese,NTP,0,0,0,0,{\pos(192,280)}绕着弯曲的树枝编成
+Dialogue: 0,0:29:00.88,0:29:03.23,English,NTP,0,0,0,0,{\pos(192,264)}wrapped around a bent branch,
+Dialogue: 0,0:29:04.02,0:29:07.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}这个角是鹿角
+Dialogue: 0,0:29:04.02,0:29:07.52,English,NTP,0,0,0,0,{\pos(192,264)}and the horns are deer antlers.
+Dialogue: 0,0:29:07.64,0:29:09.82,Chinese,NTP,0,0,0,0,{\pos(192,280)}而且 都没发现指纹
+Dialogue: 0,0:29:07.64,0:29:09.82,English,NTP,0,0,0,0,{\pos(192,264)}Again, no prints on anything.
+Dialogue: 0,0:29:09.82,0:29:12.65,Chinese,NTP,0,0,0,0,{\pos(192,280)}符号是用蓝色树脂画成的
+Dialogue: 0,0:29:09.82,0:29:12.65,English,NTP,0,0,0,0,{\pos(192,264)}Symbols are painted with acrylic basic blue
+Dialogue: 0,0:29:12.78,0:29:14.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}戴了塑胶手套
+Dialogue: 0,0:29:12.78,0:29:14.52,English,NTP,0,0,0,0,{\pos(192,264)}using a thick glove finger.
+Dialogue: 0,0:29:14.52,0:29:16.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}这些符号有什么含义吗?
+Dialogue: 0,0:29:14.52,0:29:16.57,English,NTP,0,0,0,0,{\pos(192,264)}Ideas what any of this means?
+Dialogue: 0,0:29:16.97,0:29:17.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不知道
+Dialogue: 0,0:29:16.97,0:29:17.88,English,NTP,0,0,0,0,{\pos(192,264)}I don't know.
+Dialogue: 0,0:29:19.13,0:29:22.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}都是原始图案 像是洞穴的壁画
+Dialogue: 0,0:29:19.13,0:29:22.08,English,NTP,0,0,0,0,{\pos(192,264)}And it's all primitive. It's like cave paintings.
+Dialogue: 0,0:29:22.26,0:29:24.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}也许你们应该找个人类学家
+Dialogue: 0,0:29:22.26,0:29:24.32,English,NTP,0,0,0,0,{\pos(192,264)}Maybe you ought to talk to an anthropologist.
+Dialogue: 0,0:29:39.24,0:29:41.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}看来这男的麻烦不小
+Dialogue: 0,0:29:39.24,0:29:41.46,English,NTP,0,0,0,0,{\pos(192,264)}Lot of trouble this guy went to.
+Dialogue: 0,0:29:41.75,0:29:43.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}看着像私人恩怨
+Dialogue: 0,0:29:41.75,0:29:43.44,English,NTP,0,0,0,0,{\pos(192,264)}Seems real personal.
+Dialogue: 0,0:29:44.62,0:29:45.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}我看不像
+Dialogue: 0,0:29:44.62,0:29:45.85,English,NTP,0,0,0,0,{\pos(192,264)}I don't think so.
+Dialogue: 0,0:29:46.85,0:29:49.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}有象征意味 有预谋的...
+Dialogue: 0,0:29:46.85,0:29:49.57,English,NTP,0,0,0,0,{\pos(192,264)}Was iconic, planned...
+Dialogue: 0,0:29:50.58,0:29:52.42,Chinese,NTP,0,0,0,0,{\pos(192,280)}而且不像是私人恩怨
+Dialogue: 0,0:29:50.58,0:29:52.42,English,NTP,0,0,0,0,{\pos(192,264)}and in some ways, it was impersonal.
+Dialogue: 0,0:29:52.79,0:29:54.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}她的眼睛被蒙住了
+Dialogue: 0,0:29:52.79,0:29:54.19,English,NTP,0,0,0,0,{\pos(192,264)}Think of the blindfold.
+Dialogue: 0,0:29:59.21,0:30:01.53,Chinese,NTP,0,0,0,0,{\pos(192,280)}这地方就像某人
+Dialogue: 0,0:29:59.21,0:30:01.53,English,NTP,0,0,0,0,{\pos(192,264)}This place is like somebody's memory
+Dialogue: 0,0:30:01.53,0:30:03.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}对镇子的记忆 慢慢消散着
+Dialogue: 0,0:30:01.53,0:30:03.71,English,NTP,0,0,0,0,{\pos(192,264)}of the town, and the memory's fading.
+Dialogue: 0,0:30:04.80,0:30:06.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}好像从没有过人类的痕迹
+Dialogue: 0,0:30:04.80,0:30:06.87,English,NTP,0,0,0,0,{\pos(192,264)}It's like there was never anything here but jungle.
+Dialogue: 0,0:30:09.04,0:30:12.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}别多愁善感了 那样很不专业
+Dialogue: 0,0:30:09.04,0:30:12.25,English,NTP,0,0,0,0,{\pos(192,264)}Stop saying shit like that. It's unprofessional.
+Dialogue: 0,0:30:12.57,0:30:14.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}是这样吗?
+Dialogue: 0,0:30:12.57,0:30:14.12,English,NTP,0,0,0,0,{\pos(192,264)}Oh, is that what I'm going for here?
+Dialogue: 0,0:30:15.87,0:30:18.38,Chinese,NTP,0,0,0,0,{\pos(192,280)}我只是让你别再说奇怪的话
+Dialogue: 0,0:30:15.87,0:30:18.38,English,NTP,0,0,0,0,{\pos(192,264)}I just want you to stop saying odd shit,
+Dialogue: 0,0:30:18.40,0:30:20.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}比如你嗅到了精神病的恐惧
+Dialogue: 0,0:30:18.40,0:30:20.17,English,NTP,0,0,0,0,{\pos(192,264)}like you smell a psycho's fear
+Dialogue: 0,0:30:20.29,0:30:22.68,Chinese,NTP,0,0,0,0,{\pos(192,280)}或是你在什么消散的记忆里边
+Dialogue: 0,0:30:20.29,0:30:22.68,English,NTP,0,0,0,0,{\pos(192,264)}or you're in someone's faded memory of a town.
+Dialogue: 0,0:30:22.68,0:30:23.68,Chinese,NTP,0,0,0,0,{\pos(192,280)}别说了
+Dialogue: 0,0:30:22.68,0:30:23.68,English,NTP,0,0,0,0,{\pos(192,264)}Just stop.
+Dialogue: 0,0:30:23.86,0:30:25.61,Chinese,NTP,0,0,0,0,{\pos(192,280)}我花了那么久
+Dialogue: 0,0:30:23.86,0:30:25.61,English,NTP,0,0,0,0,{\pos(192,264)}Well, given how long it's taken for me
+Dialogue: 0,0:30:25.61,0:30:27.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}才接受自己的本性
+Dialogue: 0,0:30:25.61,0:30:27.27,English,NTP,0,0,0,0,{\pos(192,264)}to reconcile my nature,
+Dialogue: 0,0:30:27.27,0:30:29.61,Chinese,NTP,0,0,0,0,{\pos(192,280)}不可能因为你而放弃它 马蒂
+Dialogue: 0,0:30:27.27,0:30:29.61,English,NTP,0,0,0,0,{\pos(192,264)}I can't figure I'd forgo it on your account, Marty.
+Dialogue: 0,0:30:46.74,0:30:48.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}你昨晚睡着了吗?
+Dialogue: 0,0:30:46.74,0:30:48.40,English,NTP,0,0,0,0,{\pos(192,264)}You get any sleep last night?
+Dialogue: 0,0:30:49.27,0:30:50.63,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不睡觉
+Dialogue: 0,0:30:49.27,0:30:50.63,English,NTP,0,0,0,0,{\pos(192,264)}I don't sleep.
+Dialogue: 0,0:30:51.33,0:30:52.68,Chinese,NTP,0,0,0,0,{\pos(192,280)}我只做梦
+Dialogue: 0,0:30:51.33,0:30:52.68,English,NTP,0,0,0,0,{\pos(192,264)}I just dream.
+Dialogue: 0,0:30:55.00,0:30:56.30,Chinese,NTP,0,0,0,0,{\pos(192,280)}神秘的
+Dialogue: 0,0:30:55.00,0:30:56.30,English,NTP,0,0,0,0,{\pos(192,264)}Occult.
+Dialogue: 0,0:30:57.13,0:30:59.77,Chinese,NTP,0,0,0,0,{\pos(192,280)}我只觉得这鬼东西很疯狂
+Dialogue: 0,0:30:57.13,0:30:59.77,English,NTP,0,0,0,0,{\pos(192,264)}Now, I don't know if this shit is anything but crazy,
+Dialogue: 0,0:31:00.24,0:31:01.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}不过司碧思和局长
+Dialogue: 0,0:31:00.24,0:31:01.87,English,NTP,0,0,0,0,{\pos(192,264)}but Speece and the Superintendent,
+Dialogue: 0,0:31:01.87,0:31:05.09,Chinese,NTP,0,0,0,0,{\pos(192,280)}已经在留意了 报纸也在瞎掺和
+Dialogue: 0,0:31:01.87,0:31:05.09,English,NTP,0,0,0,0,{\pos(192,264)}they're paying attention, the newspapers are making hay,
+Dialogue: 0,0:31:06.33,0:31:07.51,Chinese,NTP,0,0,0,0,{\pos(192,280)}还有教会团体
+Dialogue: 0,0:31:06.33,0:31:07.51,English,NTP,0,0,0,0,{\pos(192,264)}church groups.
+Dialogue: 0,0:31:08.51,0:31:09.33,Chinese,NTP,0,0,0,0,{\pos(192,280)}警探?
+Dialogue: 0,0:31:08.51,0:31:09.33,English,NTP,0,0,0,0,{\pos(192,264)}Detective?
+Dialogue: 0,0:31:11.37,0:31:13.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}好 这是我们目前掌握的线索
+Dialogue: 0,0:31:11.37,0:31:13.17,English,NTP,0,0,0,0,{\pos(192,264)}All right, here's what we got so far.
+Dialogue: 0,0:31:13.55,0:31:16.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}死者名叫朵拉 凯丽 兰 28岁...
+Dialogue: 0,0:31:13.55,0:31:16.83,English,NTP,0,0,0,0,{\pos(192,264)}Deceased's name is Dora Kelly Lange, 28...
+Dialogue: 0,0:31:17.16,0:31:19.80,Chinese,NTP,0,0,0,0,{\pos(192,280)}你现在还在忙吗? 那些生意
+Dialogue: 0,0:31:17.16,0:31:19.80,English,NTP,0,0,0,0,{\pos(192,264)}You stay busy now, the business?
+Dialogue: 0,0:31:19.84,0:31:22.06,Chinese,NTP,0,0,0,0,{\pos(192,280)}是的 安保公司要忙
+Dialogue: 0,0:31:19.84,0:31:22.06,English,NTP,0,0,0,0,{\pos(192,264)}Well, yeah, I got the security firm,
+Dialogue: 0,0:31:22.06,0:31:24.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}线人的活儿 都习惯了
+Dialogue: 0,0:31:22.06,0:31:24.24,English,NTP,0,0,0,0,{\pos(192,264)}P.I. stuff. Routine.
+Dialogue: 0,0:31:25.10,0:31:27.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}很多人都离开了
+Dialogue: 0,0:31:25.10,0:31:27.13,English,NTP,0,0,0,0,{\pos(192,264)}Lotta guys leave the job,
+Dialogue: 0,0:31:27.44,0:31:29.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}墓地就在附近
+Dialogue: 0,0:31:27.44,0:31:29.26,English,NTP,0,0,0,0,{\pos(192,264)}cemetery within 10.
+Dialogue: 0,0:31:29.92,0:31:32.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}没家没产
+Dialogue: 0,0:31:29.92,0:31:32.17,English,NTP,0,0,0,0,{\pos(192,264)}No family, idle hands.
+Dialogue: 0,0:31:33.07,0:31:37.16,Chinese,NTP,0,0,0,0,{\pos(192,280)}建议就是 要做就得全力做
+Dialogue: 0,0:31:33.07,0:31:37.16,English,NTP,0,0,0,0,{\pos(192,264)}Some advice: you make it out, you stay busy.
+Dialogue: 0,0:31:37.64,0:31:38.75,Chinese,NTP,0,0,0,0,{\pos(192,280)}边边角角都别放过
+Dialogue: 0,0:31:37.64,0:31:38.75,English,NTP,0,0,0,0,{\pos(192,264)}Hit the corners.
+Dialogue: 0,0:31:38.75,0:31:41.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}问她都见过谁
+Dialogue: 0,0:31:38.75,0:31:41.17,English,NTP,0,0,0,0,{\pos(192,264)}Ask about anybody she was seeing:
+Dialogue: 0,0:31:41.20,0:31:44.37,Chinese,NTP,0,0,0,0,{\pos(192,280)}常客 毒贩
+Dialogue: 0,0:31:41.20,0:31:44.37,English,NTP,0,0,0,0,{\pos(192,264)}regular customers, meth dealers,
+Dialogue: 0,0:31:44.37,0:31:46.38,Chinese,NTP,0,0,0,0,{\pos(192,280)}路人甲 所有人
+Dialogue: 0,0:31:44.37,0:31:46.38,English,NTP,0,0,0,0,{\pos(192,264)}and rough johns, anything.
+Dialogue: 0,0:31:47.73,0:31:49.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}有问题吗?
+Dialogue: 0,0:31:47.73,0:31:49.02,English,NTP,0,0,0,0,{\pos(192,264)}Any questions?
+Dialogue: 0,0:32:16.12,0:32:17.53,Chinese,NTP,0,0,0,0,{\pos(192,280)}你信鬼吗?
+Dialogue: 0,0:32:16.12,0:32:17.53,English,NTP,0,0,0,0,{\pos(192,264)}You believe in ghosts?
+Dialogue: 0,0:32:21.47,0:32:24.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们不是说过要静谧沉思吗?
+Dialogue: 0,0:32:21.47,0:32:24.27,English,NTP,0,0,0,0,{\pos(192,264)}What'd we say about silent reflection?
+Dialogue: 0,0:32:34.98,0:32:36.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}上午10点到下午1点之间
+Dialogue: 0,0:32:34.98,0:32:36.87,English,NTP,0,0,0,0,{\pos(192,264)}You happen to hear anything out of the ordinary
+Dialogue: 0,0:32:36.98,0:32:40.36,Chinese,NTP,0,0,0,0,{\pos(192,280)}你有听到那边有什么不寻常的动静吗?
+Dialogue: 0,0:32:36.98,0:32:40.36,English,NTP,0,0,0,0,{\pos(192,264)}between 10 and 1 a.m., out back?
+Dialogue: 0,0:32:41.42,0:32:43.04,Chinese,NTP,0,0,0,0,{\pos(192,280)}没有 但是
+Dialogue: 0,0:32:41.42,0:32:43.04,English,NTP,0,0,0,0,{\pos(192,264)}No, no, but, uh,
+Dialogue: 0,0:32:43.38,0:32:45.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}有时候他们会去外面猎鸽
+Dialogue: 0,0:32:43.38,0:32:45.72,English,NTP,0,0,0,0,{\pos(192,264)}sometimes they, uh, dove-hunt out there.
+Dialogue: 0,0:32:46.59,0:32:47.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}是他们发现了一个女人吗?
+Dialogue: 0,0:32:46.59,0:32:47.73,English,NTP,0,0,0,0,{\pos(192,264)}They found a woman?
+Dialogue: 0,0:32:49.90,0:32:51.23,Chinese,NTP,0,0,0,0,{\pos(192,280)}名叫方特诺特的姑娘吗?
+Dialogue: 0,0:32:49.90,0:32:51.23,English,NTP,0,0,0,0,{\pos(192,264)}Is it the Fontenot girl?
+Dialogue: 0,0:32:51.92,0:32:52.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}谁?
+Dialogue: 0,0:32:51.92,0:32:52.71,English,NTP,0,0,0,0,{\pos(192,264)}Who?
+Dialogue: 0,0:32:52.99,0:32:55.70,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 你为什么要问这个?  - 我也不知道
+Dialogue: 0,0:32:52.99,0:32:55.70,English,NTP,0,0,0,0,{\pos(192,264)}- And why would you ask that? - Don't know.
+Dialogue: 0,0:32:55.96,0:32:57.84,Chinese,NTP,0,0,0,0,{\pos(192,280)}那女孩前些年失踪了
+Dialogue: 0,0:32:55.96,0:32:57.84,English,NTP,0,0,0,0,{\pos(192,264)}Went missing around here years back.
+Dialogue: 0,0:32:58.42,0:33:00.05,Chinese,NTP,0,0,0,0,{\pos(192,280)}这里最近一次出的就这事了
+Dialogue: 0,0:32:58.42,0:33:00.05,English,NTP,0,0,0,0,{\pos(192,264)}Last time something happened.
+Dialogue: 0,0:33:00.54,0:33:01.98,Chinese,NTP,0,0,0,0,{\pos(192,280)}我想着没准是那姑娘
+Dialogue: 0,0:33:00.54,0:33:01.98,English,NTP,0,0,0,0,{\pos(192,264)}Just thought maybe it's her.
+Dialogue: 0,0:33:02.70,0:33:04.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}那姑娘多大年纪?
+Dialogue: 0,0:33:02.70,0:33:04.25,English,NTP,0,0,0,0,{\pos(192,264)}How old was she, this girl?
+Dialogue: 0,0:33:04.25,0:33:05.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}我也不知道 很小
+Dialogue: 0,0:33:04.25,0:33:05.71,English,NTP,0,0,0,0,{\pos(192,264)}I don't know. Little.
+Dialogue: 0,0:33:07.82,0:33:09.65,Chinese,NTP,0,0,0,0,{\pos(192,280)}你知道她家人住在哪吗?
+Dialogue: 0,0:33:07.82,0:33:09.65,English,NTP,0,0,0,0,{\pos(192,264)}You know where the family lives?
+Dialogue: 0,0:33:20.14,0:33:23.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}以前住在几条街开外
+Dialogue: 0,0:33:20.14,0:33:23.47,English,NTP,0,0,0,0,{\pos(192,264)}Had a place couple streets down.
+Dialogue: 0,0:33:25.29,0:33:26.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}可是已经搬走了
+Dialogue: 0,0:33:25.29,0:33:26.64,English,NTP,0,0,0,0,{\pos(192,264)}They moved out, though.
+Dialogue: 0,0:33:28.38,0:33:30.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}你认识名叫方特诺特的女孩吗? 失踪的那个
+Dialogue: 0,0:33:28.38,0:33:30.81,English,NTP,0,0,0,0,{\pos(192,264)}Do you know the Fontenot girl, one went missing?
+Dialogue: 0,0:33:30.81,0:33:31.77,Chinese,NTP,0,0,0,0,{\pos(192,280)}她吗?
+Dialogue: 0,0:33:30.81,0:33:31.77,English,NTP,0,0,0,0,{\pos(192,264)}Her?
+Dialogue: 0,0:33:33.46,0:33:35.16,Chinese,NTP,0,0,0,0,{\pos(192,280)}他的家人来礼拜过
+Dialogue: 0,0:33:33.46,0:33:35.16,English,NTP,0,0,0,0,{\pos(192,264)}Her family come to our service
+Dialogue: 0,0:33:35.16,0:33:37.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}就一两次 五六年前了
+Dialogue: 0,0:33:35.16,0:33:37.11,English,NTP,0,0,0,0,{\pos(192,264)}once or twice, 5 or 6 years back.
+Dialogue: 0,0:33:38.68,0:33:40.59,Chinese,NTP,0,0,0,0,{\pos(192,280)}难道是她吗? 主啊
+Dialogue: 0,0:33:38.68,0:33:40.59,English,NTP,0,0,0,0,{\pos(192,264)}Is that the girl? Oh, Lord.
+Dialogue: 0,0:33:41.14,0:33:42.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}不 先生 不是
+Dialogue: 0,0:33:41.14,0:33:42.85,English,NTP,0,0,0,0,{\pos(192,264)}No, sir, it's not.
+Dialogue: 0,0:33:44.35,0:33:45.35,Chinese,NTP,0,0,0,0,{\pos(192,280)}打搅一下
+Dialogue: 0,0:33:44.35,0:33:45.35,English,NTP,0,0,0,0,{\pos(192,264)}Excuse me.
+Dialogue: 0,0:33:47.23,0:33:48.60,Chinese,NTP,0,0,0,0,{\pos(192,280)}我想问你们点儿事 你们认为
+Dialogue: 0,0:33:47.23,0:33:48.60,English,NTP,0,0,0,0,{\pos(192,264)}I want to ask y'all something. Y'all think
+Dialogue: 0,0:33:48.60,0:33:50.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}会不会跟那些猫有关系
+Dialogue: 0,0:33:48.60,0:33:50.52,English,NTP,0,0,0,0,{\pos(192,264)}maybe this have something to do with those cats?
+Dialogue: 0,0:33:50.84,0:33:51.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}什么猫?
+Dialogue: 0,0:33:50.84,0:33:51.85,English,NTP,0,0,0,0,{\pos(192,264)}What cats?
+Dialogue: 0,0:33:52.33,0:33:54.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}有两只猫... 开始是一只 过了两周
+Dialogue: 0,0:33:52.33,0:33:54.24,English,NTP,0,0,0,0,{\pos(192,264)}Two of 'em ... one, and a couple
+Dialogue: 0,0:33:54.24,0:33:55.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}又发现一只
+Dialogue: 0,0:33:54.24,0:33:55.57,English,NTP,0,0,0,0,{\pos(192,264)}of weeks later, another.
+Dialogue: 0,0:33:55.97,0:33:57.42,Chinese,NTP,0,0,0,0,{\pos(192,280)}有人把它们开膛了
+Dialogue: 0,0:33:55.97,0:33:57.42,English,NTP,0,0,0,0,{\pos(192,264)}Somebody cut 'em up,
+Dialogue: 0,0:33:57.74,0:33:59.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}肚子翻到外面来 把它们
+Dialogue: 0,0:33:57.74,0:33:59.26,English,NTP,0,0,0,0,{\pos(192,264)}turned their insides out, then nailed them
+Dialogue: 0,0:33:59.26,0:34:00.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}钉在大门上 两次
+Dialogue: 0,0:33:59.26,0:34:00.92,English,NTP,0,0,0,0,{\pos(192,264)}to the front door, twice.
+Dialogue: 0,0:34:01.33,0:34:03.60,Chinese,NTP,0,0,0,0,{\pos(192,280)}我叫了警察
+Dialogue: 0,0:34:01.33,0:34:03.60,English,NTP,0,0,0,0,{\pos(192,264)}Now, I called and told the police,
+Dialogue: 0,0:34:03.60,0:34:06.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}可是我们的会众主要是非裔美国人
+Dialogue: 0,0:34:03.60,0:34:06.56,English,NTP,0,0,0,0,{\pos(192,264)}but we're predominantly African American congregation.
+Dialogue: 0,0:34:07.22,0:34:09.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}我要求过调查
+Dialogue: 0,0:34:07.22,0:34:09.12,English,NTP,0,0,0,0,{\pos(192,264)}I asked for it to be investigated.
+Dialogue: 0,0:34:10.27,0:34:12.35,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们不处理这类情况 先生
+Dialogue: 0,0:34:10.27,0:34:12.35,English,NTP,0,0,0,0,{\pos(192,264)}We're not those type of police, sir.
+Dialogue: 0,0:34:14.13,0:34:15.51,Chinese,NTP,0,0,0,0,{\pos(192,280)}那谁负责呢?
+Dialogue: 0,0:34:14.13,0:34:15.51,English,NTP,0,0,0,0,{\pos(192,264)}Well, who is, then?
+Dialogue: 0,0:34:20.25,0:34:21.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}我能问你点事吗?
+Dialogue: 0,0:34:20.25,0:34:21.46,English,NTP,0,0,0,0,{\pos(192,264)}Can I ask you something?
+Dialogue: 0,0:34:26.03,0:34:27.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}这些符号有你眼熟的吗?
+Dialogue: 0,0:34:26.03,0:34:27.88,English,NTP,0,0,0,0,{\pos(192,264)}Any of these look familiar to you?
+Dialogue: 0,0:34:28.05,0:34:29.95,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 在哪见过吗?  - 没有
+Dialogue: 0,0:34:28.05,0:34:29.95,English,NTP,0,0,0,0,{\pos(192,264)}- Seen them anywheres? - No.
+Dialogue: 0,0:34:30.09,0:34:32.04,Chinese,NTP,0,0,0,0,{\pos(192,280)}没有 看着好像是
+Dialogue: 0,0:34:30.09,0:34:32.04,English,NTP,0,0,0,0,{\pos(192,264)}No, they look like something that might be
+Dialogue: 0,0:34:32.04,0:34:33.98,Chinese,NTP,0,0,0,0,{\pos(192,280)}刻在树上或其他地方的东西
+Dialogue: 0,0:34:32.04,0:34:33.98,English,NTP,0,0,0,0,{\pos(192,264)}carved into a tree or something.
+Dialogue: 0,0:34:33.98,0:34:35.77,Chinese,NTP,0,0,0,0,{\pos(192,280)}这个呢?
+Dialogue: 0,0:34:33.98,0:34:35.77,English,NTP,0,0,0,0,{\pos(192,264)}Mm-hmm. How about these?
+Dialogue: 0,0:34:37.00,0:34:38.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}这个很想我还是小孩的时候
+Dialogue: 0,0:34:37.00,0:34:38.92,English,NTP,0,0,0,0,{\pos(192,264)}Now, that look like something my old auntie
+Dialogue: 0,0:34:38.92,0:34:41.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}我阿姨教我们做的东西
+Dialogue: 0,0:34:38.92,0:34:41.25,English,NTP,0,0,0,0,{\pos(192,264)}taught us how to make when I was a tyke.
+Dialogue: 0,0:34:41.83,0:34:42.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}这些是什么东西?
+Dialogue: 0,0:34:41.83,0:34:42.69,English,NTP,0,0,0,0,{\pos(192,264)}What are they?
+Dialogue: 0,0:34:43.24,0:34:46.05,Chinese,NTP,0,0,0,0,{\pos(192,280)}有人说这是"捕鸟陷阱"
+Dialogue: 0,0:34:43.24,0:34:46.05,English,NTP,0,0,0,0,{\pos(192,264)}Some folks call them bird traps.
+Dialogue: 0,0:34:46.20,0:34:48.61,Chinese,NTP,0,0,0,0,{\pos(192,280)}阿姨说这些是恶魔网
+Dialogue: 0,0:34:46.20,0:34:48.61,English,NTP,0,0,0,0,{\pos(192,264)}Old Auntie told us that they were devil nets.
+Dialogue: 0,0:34:48.84,0:34:50.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}你把它们安在床的周围
+Dialogue: 0,0:34:48.84,0:34:50.19,English,NTP,0,0,0,0,{\pos(192,264)}You put them around the bed,
+Dialogue: 0,0:34:50.19,0:34:52.03,Chinese,NTP,0,0,0,0,{\pos(192,280)}就能在他来到床边之前困住他
+Dialogue: 0,0:34:50.19,0:34:52.03,English,NTP,0,0,0,0,{\pos(192,264)}catch the devil before he get too close.
+Dialogue: 0,0:34:52.28,0:34:53.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}有点意思
+Dialogue: 0,0:34:52.28,0:34:53.52,English,NTP,0,0,0,0,{\pos(192,264)}That's interesting.
+Dialogue: 0,0:34:53.95,0:34:55.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}她是个非常奇妙的女人
+Dialogue: 0,0:34:53.95,0:34:55.69,English,NTP,0,0,0,0,{\pos(192,264)}Hmm. She was a wonderful woman.
+Dialogue: 0,0:34:57.62,0:34:59.96,Chinese,NTP,0,0,0,0,{\pos(192,280)}耶稣爱她 但她骨子里
+Dialogue: 0,0:34:57.62,0:34:59.96,English,NTP,0,0,0,0,{\pos(192,264)}Loved her some Jesus, but had a bit
+Dialogue: 0,0:34:59.96,0:35:01.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}还是有点萨泰里阿 你明白吗?
+Dialogue: 0,0:34:59.96,0:35:01.71,English,NTP,0,0,0,0,{\pos(192,264)}of that Santeria in her, you know?
+Dialogue: 0,0:35:03.28,0:35:04.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}我一直认为那只是
+Dialogue: 0,0:35:03.28,0:35:04.55,English,NTP,0,0,0,0,{\pos(192,264)}I always just thought it was something
+Dialogue: 0,0:35:04.55,0:35:06.94,Chinese,NTP,0,0,0,0,{\pos(192,280)}逗小孩玩的 让他们有事可做
+Dialogue: 0,0:35:04.55,0:35:06.94,English,NTP,0,0,0,0,{\pos(192,264)}for children to do, keep 'em busy,
+Dialogue: 0,0:35:07.30,0:35:09.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}给他们讲为什么把小棍绑在一起
+Dialogue: 0,0:35:07.30,0:35:09.90,English,NTP,0,0,0,0,{\pos(192,264)}tell them stories why they're tying sticks together.
+Dialogue: 0,0:35:11.47,0:35:13.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}这就是我们查到的关于方特诺特女孩的一切
+Dialogue: 0,0:35:11.47,0:35:13.64,English,NTP,0,0,0,0,{\pos(192,264)}Then that's all we got on the Fontenot girl.
+Dialogue: 0,0:35:14.63,0:35:15.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}这里什么都没有
+Dialogue: 0,0:35:14.63,0:35:15.92,English,NTP,0,0,0,0,{\pos(192,264)}There was nothing in there.
+Dialogue: 0,0:35:16.10,0:35:18.10,Chinese,NTP,0,0,0,0,{\pos(192,280)}只说"也许是错报"
+Dialogue: 0,0:35:16.10,0:35:18.10,English,NTP,0,0,0,0,{\pos(192,264)}Says, "Possible report made in error."
+Dialogue: 0,0:35:18.41,0:35:19.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}那是五年前了
+Dialogue: 0,0:35:18.41,0:35:19.83,English,NTP,0,0,0,0,{\pos(192,264)}Now, that was 5 years ago.
+Dialogue: 0,0:35:19.83,0:35:21.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}那时泰德 柴尔德里斯是治安官
+Dialogue: 0,0:35:19.83,0:35:21.56,English,NTP,0,0,0,0,{\pos(192,264)}Ted Childress was sheriff back then.
+Dialogue: 0,0:35:22.16,0:35:24.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}我想他现在住在湾岸
+Dialogue: 0,0:35:22.16,0:35:24.47,English,NTP,0,0,0,0,{\pos(192,264)}He's set up in Gulf Shores now, I think.
+Dialogue: 0,0:35:24.47,0:35:27.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}十岁女孩失踪 没闹得全州沸沸扬扬吗?
+Dialogue: 0,0:35:24.47,0:35:27.27,English,NTP,0,0,0,0,{\pos(192,264)}Ten-year-old girl goes missing and that doesn't go state-wide?
+Dialogue: 0,0:35:27.27,0:35:29.16,Chinese,NTP,0,0,0,0,{\pos(192,280)}等等 据我所知
+Dialogue: 0,0:35:27.27,0:35:29.16,English,NTP,0,0,0,0,{\pos(192,264)}Now, hold on now. My understanding,
+Dialogue: 0,0:35:29.16,0:35:30.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}这女孩跟他生父断绝了关系
+Dialogue: 0,0:35:29.16,0:35:30.71,English,NTP,0,0,0,0,{\pos(192,264)}the little girl went off with her birth daddy.
+Dialogue: 0,0:35:30.85,0:35:32.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们有没有查她妈妈的记录
+Dialogue: 0,0:35:30.85,0:35:32.52,English,NTP,0,0,0,0,{\pos(192,264)}Now, did you check her mom's record?
+Dialogue: 0,0:35:33.04,0:35:35.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}持有违禁品 接客
+Dialogue: 0,0:35:33.04,0:35:35.27,English,NTP,0,0,0,0,{\pos(192,264)}Possession, solicitation.
+Dialogue: 0,0:35:35.31,0:35:38.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}泰德认识这家人 而且他感觉
+Dialogue: 0,0:35:35.31,0:35:38.26,English,NTP,0,0,0,0,{\pos(192,264)}I believe Ted knew the family, and the feeling was
+Dialogue: 0,0:35:38.26,0:35:40.01,Chinese,NTP,0,0,0,0,{\pos(192,280)}小女孩跟她生父断绝来往会比较好
+Dialogue: 0,0:35:38.26,0:35:40.01,English,NTP,0,0,0,0,{\pos(192,264)}the little girl was better off with her daddy.
+Dialogue: 0,0:35:40.03,0:35:43.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}她妈妈也同意 她提出过指控
+Dialogue: 0,0:35:40.03,0:35:43.17,English,NTP,0,0,0,0,{\pos(192,264)}Mom seemed to agree; she filed a complaint,
+Dialogue: 0,0:35:43.17,0:35:44.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}之后再没管过了
+Dialogue: 0,0:35:43.17,0:35:44.76,English,NTP,0,0,0,0,{\pos(192,264)}then never bothered with it again,
+Dialogue: 0,0:35:44.76,0:35:46.05,Chinese,NTP,0,0,0,0,{\pos(192,280)}跟她男朋友跑了
+Dialogue: 0,0:35:44.76,0:35:46.05,English,NTP,0,0,0,0,{\pos(192,264)}took off with her boyfriend.
+Dialogue: 0,0:35:46.75,0:35:49.43,Chinese,NTP,0,0,0,0,{\pos(192,280)}记录鉴定部门收到过你的指控
+Dialogue: 0,0:35:46.75,0:35:49.43,English,NTP,0,0,0,0,{\pos(192,264)}R&I said you had a complaint these parts
+Dialogue: 0,0:35:49.43,0:35:51.60,Chinese,NTP,0,0,0,0,{\pos(192,280)}12月左右... 一个小姑娘
+Dialogue: 0,0:35:49.43,0:35:51.60,English,NTP,0,0,0,0,{\pos(192,264)}around December ... little girl
+Dialogue: 0,0:35:51.60,0:35:53.16,Chinese,NTP,0,0,0,0,{\pos(192,280)}被追到树林里
+Dialogue: 0,0:35:51.60,0:35:53.16,English,NTP,0,0,0,0,{\pos(192,264)}getting chased through the woods.
+Dialogue: 0,0:35:53.16,0:35:55.53,Chinese,NTP,0,0,0,0,{\pos(192,280)}有 我把那文件也找出来了
+Dialogue: 0,0:35:53.16,0:35:55.53,English,NTP,0,0,0,0,{\pos(192,264)}Oh, yeah, I pulled that one for you, too.
+Dialogue: 0,0:36:04.47,0:36:05.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}这写的是什么玩意?
+Dialogue: 0,0:36:04.47,0:36:05.88,English,NTP,0,0,0,0,{\pos(192,264)}What the hell is this?
+Dialogue: 0,0:36:06.23,0:36:08.66,Chinese,NTP,0,0,0,0,{\pos(192,280)}小姑娘说有个绿耳朵的意大利面怪
+Dialogue: 0,0:36:06.23,0:36:08.66,English,NTP,0,0,0,0,{\pos(192,264)}Little girl said a green-eared spaghetti monster
+Dialogue: 0,0:36:08.66,0:36:10.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}在树林里追她
+Dialogue: 0,0:36:08.66,0:36:10.08,English,NTP,0,0,0,0,{\pos(192,264)}chased her through some woods.
+Dialogue: 0,0:36:11.44,0:36:13.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们按她的描述画了一下
+Dialogue: 0,0:36:11.44,0:36:13.64,English,NTP,0,0,0,0,{\pos(192,264)}Now, we had her work with a sketch artist,
+Dialogue: 0,0:36:13.78,0:36:15.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}就是这个样子
+Dialogue: 0,0:36:13.78,0:36:15.81,English,NTP,0,0,0,0,{\pos(192,264)}and she told us that looked exactly right.
+Dialogue: 0,0:36:15.87,0:36:18.75,Chinese,NTP,0,0,0,0,{\pos(192,280)}你如果想用这画发布通缉令 请自便
+Dialogue: 0,0:36:15.87,0:36:18.75,English,NTP,0,0,0,0,{\pos(192,264)}Now, you want to call an APB on that, you go right ahead.
+Dialogue: 0,0:36:21.47,0:36:22.07,Chinese,NTP,0,0,0,0,{\pos(192,280)}不好意思
+Dialogue: 0,0:36:21.47,0:36:22.07,English,NTP,0,0,0,0,{\pos(192,264)}Listen, boys.
+Dialogue: 0,0:36:22.07,0:36:24.36,Chinese,NTP,0,0,0,0,{\pos(192,280)}暂停一下 我要喝点啤酒
+Dialogue: 0,0:36:22.07,0:36:24.36,English,NTP,0,0,0,0,{\pos(192,264)}I'm gonna have to call a timeout, make a beer run.
+Dialogue: 0,0:36:24.54,0:36:26.23,Chinese,NTP,0,0,0,0,{\pos(192,280)}你为什么不能先忍一会?
+Dialogue: 0,0:36:24.54,0:36:26.23,English,NTP,0,0,0,0,{\pos(192,264)}Well, why don't you hold off on that for a while?
+Dialogue: 0,0:36:29.63,0:36:31.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}好 那你为什么不明白呢?
+Dialogue: 0,0:36:29.63,0:36:31.71,English,NTP,0,0,0,0,{\pos(192,264)}All right, well, why don't you get it, then?
+Dialogue: 0,0:36:32.75,0:36:34.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们真的不想那样做
+Dialogue: 0,0:36:32.75,0:36:34.12,English,NTP,0,0,0,0,{\pos(192,264)}We really don't want to do that.
+Dialogue: 0,0:36:34.93,0:36:38.01,Chinese,NTP,0,0,0,0,{\pos(192,280)}那么这应该是可以接受的吗?
+Dialogue: 0,0:36:34.93,0:36:38.01,English,NTP,0,0,0,0,{\pos(192,264)}Well, is this supposed to be admissible?
+Dialogue: 0,0:36:38.96,0:36:42.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}如果你想让我动脑筋 在一个房间工作
+Dialogue: 0,0:36:38.96,0:36:42.27,English,NTP,0,0,0,0,{\pos(192,264)}If you want to pick my brain, work a room,
+Dialogue: 0,0:36:42.27,0:36:44.62,Chinese,NTP,0,0,0,0,{\pos(192,280)}你给我买了一个芝士汉堡和一杯可乐 行吗?
+Dialogue: 0,0:36:42.27,0:36:44.62,English,NTP,0,0,0,0,{\pos(192,264)}you buy me a cheeseburger and a Coke, don't you?
+Dialogue: 0,0:36:47.58,0:36:49.35,Chinese,NTP,0,0,0,0,{\pos(192,280)}我要六听装的老密尔沃基
+Dialogue: 0,0:36:47.58,0:36:49.35,English,NTP,0,0,0,0,{\pos(192,264)}I'll take a sixer of Old Milwaukee
+Dialogue: 0,0:36:49.35,0:36:51.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}或是孤星啤酒 不要高度数的
+Dialogue: 0,0:36:49.35,0:36:51.25,English,NTP,0,0,0,0,{\pos(192,264)}or Lone Star, nothing snooty.
+Dialogue: 0,0:36:51.58,0:36:53.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}为什么突然间这对你如此重要?
+Dialogue: 0,0:36:51.58,0:36:53.76,English,NTP,0,0,0,0,{\pos(192,264)}Why is this so important to you all of a sudden?
+Dialogue: 0,0:36:54.13,0:36:56.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}因为今天周四 现在是下午
+Dialogue: 0,0:36:54.13,0:36:56.46,English,NTP,0,0,0,0,{\pos(192,264)}'Cause it's Thursday and it's past noon.
+Dialogue: 0,0:36:57.82,0:36:59.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}我周四要休息的
+Dialogue: 0,0:36:57.82,0:36:59.86,English,NTP,0,0,0,0,{\pos(192,264)}Thursday is one of my days off.
+Dialogue: 0,0:37:00.44,0:37:02.91,Chinese,NTP,0,0,0,0,{\pos(192,280)}休息日下午要喝酒
+Dialogue: 0,0:37:00.44,0:37:02.91,English,NTP,0,0,0,0,{\pos(192,264)}On my off days, I start drinking at noon.
+Dialogue: 0,0:37:04.19,0:37:05.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}你不能中断我的习惯
+Dialogue: 0,0:37:04.19,0:37:05.90,English,NTP,0,0,0,0,{\pos(192,264)}You don't get to interrupt that.
+Dialogue: 0,0:37:24.54,0:37:26.38,Chinese,NTP,0,0,0,0,{\pos(192,280)}麻烦你快一点哟
+Dialogue: 0,0:37:24.54,0:37:26.38,English,NTP,0,0,0,0,{\pos(192,264)}I'd appreciate a little hustle up on that.
+Dialogue: 0,0:37:29.32,0:37:30.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}昨天
+Dialogue: 0,0:37:29.32,0:37:30.24,English,NTP,0,0,0,0,{\pos(192,264)}Yesterday,
+Dialogue: 0,0:37:30.54,0:37:32.49,Chinese,NTP,0,0,0,0,{\pos(192,280)}大约早上六点
+Dialogue: 0,0:37:30.54,0:37:32.49,English,NTP,0,0,0,0,{\pos(192,264)}at approximately 6 a.m.,
+Dialogue: 0,0:37:32.72,0:37:35.97,Chinese,NTP,0,0,0,0,{\pos(192,280)}有人在伊拉斯外的甘蔗田里
+Dialogue: 0,0:37:32.72,0:37:35.97,English,NTP,0,0,0,0,{\pos(192,264)}civilians came across the body of a female
+Dialogue: 0,0:37:36.66,0:37:39.00,Chinese,NTP,0,0,0,0,{\pos(192,280)}发现了一具女尸
+Dialogue: 0,0:37:36.66,0:37:39.00,English,NTP,0,0,0,0,{\pos(192,264)}in a sugar cane field outside of Erath.
+Dialogue: 0,0:37:40.17,0:37:42.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们推断是谋杀
+Dialogue: 0,0:37:40.17,0:37:42.02,English,NTP,0,0,0,0,{\pos(192,264)}Now, this person, we believe, was murdered,
+Dialogue: 0,0:37:42.99,0:37:44.61,Chinese,NTP,0,0,0,0,{\pos(192,280)}但是目前我们还不能公布
+Dialogue: 0,0:37:42.99,0:37:44.61,English,NTP,0,0,0,0,{\pos(192,264)}and we are not yet in a position to
+Dialogue: 0,0:37:44.80,0:37:48.01,Chinese,NTP,0,0,0,0,{\pos(192,280)}受害者的身份 或是提供
+Dialogue: 0,0:37:44.80,0:37:48.01,English,NTP,0,0,0,0,{\pos(192,264)}release the identity of the victim or to offer
+Dialogue: 0,0:37:48.01,0:37:49.67,Chinese,NTP,0,0,0,0,{\pos(192,280)}案情细节
+Dialogue: 0,0:37:48.01,0:37:49.67,English,NTP,0,0,0,0,{\pos(192,264)}details of the crime.
+Dialogue: 0,0:37:50.30,0:37:52.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们的探员
+Dialogue: 0,0:37:50.30,0:37:52.56,English,NTP,0,0,0,0,{\pos(192,264)}Our investigators
+Dialogue: 0,0:37:53.08,0:37:55.35,Chinese,NTP,0,0,0,0,{\pos(192,280)}已经有了几条线索...
+Dialogue: 0,0:37:53.08,0:37:55.35,English,NTP,0,0,0,0,{\pos(192,264)}have several leads, and hopefully we'll...
+Dialogue: 0,0:37:55.54,0:37:58.30,Chinese,NTP,0,0,0,0,{\pos(192,280)}一定尽力将凶手缉拿归案
+Dialogue: 0,0:37:55.54,0:37:58.30,English,NTP,0,0,0,0,{\pos(192,264)}we'll have a suspect for you in custody soon.
+Dialogue: 0,0:37:59.78,0:38:01.04,Chinese,NTP,0,0,0,0,{\pos(192,280)}这个行凶者
+Dialogue: 0,0:37:59.78,0:38:01.04,English,NTP,0,0,0,0,{\pos(192,264)}Now, this perpetrator
+Dialogue: 0,0:38:01.84,0:38:04.09,Chinese,NTP,0,0,0,0,{\pos(192,280)}会被缉拿归案 他将感受到
+Dialogue: 0,0:38:01.84,0:38:04.09,English,NTP,0,0,0,0,{\pos(192,264)}will be apprehended, and he will know
+Dialogue: 0,0:38:04.09,0:38:05.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}路易斯安那州警方的办事效率
+Dialogue: 0,0:38:04.09,0:38:05.93,English,NTP,0,0,0,0,{\pos(192,264)}swift Louisiana justice.
+Dialogue: 0,0:38:07.63,0:38:08.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}查理
+Dialogue: 0,0:38:07.63,0:38:08.55,English,NTP,0,0,0,0,{\pos(192,264)}Charlie.
+Dialogue: 0,0:38:09.33,0:38:11.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}说说你的前妻 朵拉 兰吧
+Dialogue: 0,0:38:09.33,0:38:11.55,English,NTP,0,0,0,0,{\pos(192,264)}Let's talk about your ex, Dora Lange.
+Dialogue: 0,0:38:12.07,0:38:13.29,Chinese,NTP,0,0,0,0,{\pos(192,280)}你要谈谈朵拉?
+Dialogue: 0,0:38:12.07,0:38:13.29,English,NTP,0,0,0,0,{\pos(192,264)}You want to talk Dori?
+Dialogue: 0,0:38:14.34,0:38:15.74,Chinese,NTP,0,0,0,0,{\pos(192,280)}她又说我干什么了?
+Dialogue: 0,0:38:14.34,0:38:15.74,English,NTP,0,0,0,0,{\pos(192,264)}What's she said I've done now?
+Dialogue: 0,0:38:17.38,0:38:18.98,Chinese,NTP,0,0,0,0,{\pos(192,280)}没说什么 只是想问你
+Dialogue: 0,0:38:17.38,0:38:18.98,English,NTP,0,0,0,0,{\pos(192,264)}Nothing. We're just curious if you knew
+Dialogue: 0,0:38:19.37,0:38:21.54,Chinese,NTP,0,0,0,0,{\pos(192,280)}知不知道她最近住哪 在干什么
+Dialogue: 0,0:38:19.37,0:38:21.54,English,NTP,0,0,0,0,{\pos(192,264)}what she's been up to and maybe where she's living.
+Dialogue: 0,0:38:21.76,0:38:22.54,Chinese,NTP,0,0,0,0,{\pos(192,280)}不知道
+Dialogue: 0,0:38:21.76,0:38:22.54,English,NTP,0,0,0,0,{\pos(192,264)}Nope.
+Dialogue: 0,0:38:23.63,0:38:24.79,Chinese,NTP,0,0,0,0,{\pos(192,280)}我坐了一年牢
+Dialogue: 0,0:38:23.63,0:38:24.79,English,NTP,0,0,0,0,{\pos(192,264)}Got her divorce papers pushed through
+Dialogue: 0,0:38:24.79,0:38:26.28,Chinese,NTP,0,0,0,0,{\pos(192,280)}她就提出离婚了
+Dialogue: 0,0:38:24.79,0:38:26.28,English,NTP,0,0,0,0,{\pos(192,264)}after I been here about a year.
+Dialogue: 0,0:38:27.50,0:38:28.67,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不怪她
+Dialogue: 0,0:38:27.50,0:38:28.67,English,NTP,0,0,0,0,{\pos(192,264)}I don't blame the bitch.
+Dialogue: 0,0:38:29.67,0:38:30.77,Chinese,NTP,0,0,0,0,{\pos(192,280)}她有瘾吗?
+Dialogue: 0,0:38:29.67,0:38:30.77,English,NTP,0,0,0,0,{\pos(192,264)}She got a habit?
+Dialogue: 0,0:38:32.55,0:38:33.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}对 有些
+Dialogue: 0,0:38:32.55,0:38:33.86,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, a few.
+Dialogue: 0,0:38:34.69,0:38:37.00,Chinese,NTP,0,0,0,0,{\pos(192,280)}大麻 冰毒 多巴胺
+Dialogue: 0,0:38:34.69,0:38:37.00,English,NTP,0,0,0,0,{\pos(192,264)}Weed, meth, juice.
+Dialogue: 0,0:38:37.28,0:38:38.23,Chinese,NTP,0,0,0,0,{\pos(192,280)}多了
+Dialogue: 0,0:38:37.28,0:38:38.23,English,NTP,0,0,0,0,{\pos(192,264)}Name it.
+Dialogue: 0,0:38:38.86,0:38:39.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}查理
+Dialogue: 0,0:38:38.86,0:38:39.85,English,NTP,0,0,0,0,{\pos(192,264)}Charlie,
+Dialogue: 0,0:38:39.91,0:38:40.98,Chinese,NTP,0,0,0,0,{\pos(192,280)}你在哪遇见她的?
+Dialogue: 0,0:38:39.91,0:38:40.98,English,NTP,0,0,0,0,{\pos(192,264)}how'd y'all meet?
+Dialogue: 0,0:38:41.63,0:38:44.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}一起长大 一起辍学
+Dialogue: 0,0:38:41.63,0:38:44.02,English,NTP,0,0,0,0,{\pos(192,264)}Growed up together, dropped out the same time.
+Dialogue: 0,0:38:44.36,0:38:45.75,Chinese,NTP,0,0,0,0,{\pos(192,280)}进展的飞快
+Dialogue: 0,0:38:44.36,0:38:45.75,English,NTP,0,0,0,0,{\pos(192,264)}Hitched up way too quick.
+Dialogue: 0,0:38:47.32,0:38:49.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}我虽然想有个老婆 但也不希望她老管着我
+Dialogue: 0,0:38:47.32,0:38:49.99,English,NTP,0,0,0,0,{\pos(192,264)}You know how it is...you want a wife, but only half the time.
+Dialogue: 0,0:38:51.88,0:38:53.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}你怎么说她好久没联系你了?
+Dialogue: 0,0:38:51.88,0:38:53.81,English,NTP,0,0,0,0,{\pos(192,264)}Why are you saying you hadn't heard from her?
+Dialogue: 0,0:38:54.92,0:38:57.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}前一阵子她还给你打过电话
+Dialogue: 0,0:38:54.92,0:38:57.26,English,NTP,0,0,0,0,{\pos(192,264)}She called up here for you not too long ago.
+Dialogue: 0,0:38:58.19,0:38:59.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}她又帮不了我
+Dialogue: 0,0:38:58.19,0:38:59.20,English,NTP,0,0,0,0,{\pos(192,264)}She couldn't help me anyway, man.
+Dialogue: 0,0:38:59.20,0:39:00.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}一听就知道她糟透了
+Dialogue: 0,0:38:59.20,0:39:00.44,English,NTP,0,0,0,0,{\pos(192,264)}She sounded all fucked up.
+Dialogue: 0,0:39:01.28,0:39:03.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}查理 其实我们想知道的
+Dialogue: 0,0:39:01.28,0:39:03.24,English,NTP,0,0,0,0,{\pos(192,264)}You see, that's exactly the kind of thing
+Dialogue: 0,0:39:03.24,0:39:05.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}就是这种事
+Dialogue: 0,0:39:03.24,0:39:05.39,English,NTP,0,0,0,0,{\pos(192,264)}that we do want to know about, though, Charlie.
+Dialogue: 0,0:39:05.46,0:39:07.03,Chinese,NTP,0,0,0,0,{\pos(192,280)}好吧
+Dialogue: 0,0:39:05.46,0:39:07.03,English,NTP,0,0,0,0,{\pos(192,264)}Oh. All right.
+Dialogue: 0,0:39:08.11,0:39:10.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}我想从店里拿点货
+Dialogue: 0,0:39:08.11,0:39:10.13,English,NTP,0,0,0,0,{\pos(192,264)}Uh...I needed some scratch for my store,
+Dialogue: 0,0:39:10.13,0:39:13.35,Chinese,NTP,0,0,0,0,{\pos(192,280)}朵拉欠我钱 她没电话
+Dialogue: 0,0:39:10.13,0:39:13.35,English,NTP,0,0,0,0,{\pos(192,264)}and Dori owes me money, she ain't got no fuckin' phone,
+Dialogue: 0,0:39:13.35,0:39:15.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}我就给她朋友卡拉打电话
+Dialogue: 0,0:39:13.35,0:39:15.88,English,NTP,0,0,0,0,{\pos(192,264)}so got a number to her friend Carla, got her
+Dialogue: 0,0:39:15.88,0:39:18.43,Chinese,NTP,0,0,0,0,{\pos(192,280)}要她给我回电话 但她满嘴胡话
+Dialogue: 0,0:39:15.88,0:39:18.43,English,NTP,0,0,0,0,{\pos(192,264)}to call me back, and she ain't made no fuckin' sense.
+Dialogue: 0,0:39:19.75,0:39:21.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}卡拉的全名和电话号码
+Dialogue: 0,0:39:19.75,0:39:21.99,English,NTP,0,0,0,0,{\pos(192,264)}Carla's full name and phone number.
+Dialogue: 0,0:39:22.97,0:39:24.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}满嘴胡话是什么意思?
+Dialogue: 0,0:39:22.97,0:39:24.56,English,NTP,0,0,0,0,{\pos(192,264)}What you mean, she didn't make sense?
+Dialogue: 0,0:39:26.08,0:39:27.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}她说她能用耙子打鸭子
+Dialogue: 0,0:39:26.08,0:39:27.85,English,NTP,0,0,0,0,{\pos(192,264)}Like she could duck-hunt with a rake.
+Dialogue: 0,0:39:29.37,0:39:30.37,Chinese,NTP,0,0,0,0,{\pos(192,280)}嗑药了
+Dialogue: 0,0:39:29.37,0:39:30.37,English,NTP,0,0,0,0,{\pos(192,264)}High, yeah.
+Dialogue: 0,0:39:31.52,0:39:34.51,Chinese,NTP,0,0,0,0,{\pos(192,280)}说要去当修女
+Dialogue: 0,0:39:31.52,0:39:34.51,English,NTP,0,0,0,0,{\pos(192,264)}Talkin' 'bout she's gonna become a nun.
+Dialogue: 0,0:39:35.35,0:39:37.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 为什么当修女?  - 谁知道 她嗑药了
+Dialogue: 0,0:39:35.35,0:39:37.58,English,NTP,0,0,0,0,{\pos(192,264)}- Why a nun? - I don't know, man. She was high.
+Dialogue: 0,0:39:37.79,0:39:39.96,Chinese,NTP,0,0,0,0,{\pos(192,280)}一团糟
+Dialogue: 0,0:39:37.79,0:39:39.96,English,NTP,0,0,0,0,{\pos(192,264)}Fucked up, uh,
+Dialogue: 0,0:39:40.08,0:39:42.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}说她...遇到了国王
+Dialogue: 0,0:39:40.08,0:39:42.83,English,NTP,0,0,0,0,{\pos(192,264)}talkin' 'bout... she met a king.
+Dialogue: 0,0:39:43.60,0:39:44.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}糟糕
+Dialogue: 0,0:39:43.60,0:39:44.32,English,NTP,0,0,0,0,{\pos(192,264)}Shit.
+Dialogue: 0,0:39:45.08,0:39:45.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}那个...
+Dialogue: 0,0:39:45.08,0:39:45.99,English,NTP,0,0,0,0,{\pos(192,264)}Anyway...
+Dialogue: 0,0:39:47.79,0:39:49.34,Chinese,NTP,0,0,0,0,{\pos(192,280)}我可不想做告密者
+Dialogue: 0,0:39:47.79,0:39:49.34,English,NTP,0,0,0,0,{\pos(192,264)}I don't need no snitch jacket up in here.
+Dialogue: 0,0:39:50.30,0:39:51.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}得了吧
+Dialogue: 0,0:39:50.30,0:39:51.58,English,NTP,0,0,0,0,{\pos(192,264)}Give me a break.
+Dialogue: 0,0:39:52.82,0:39:54.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}这是阿沃伊斯
+Dialogue: 0,0:39:52.82,0:39:54.21,English,NTP,0,0,0,0,{\pos(192,264)}This is Avoyelles.
+Dialogue: 0,0:39:54.56,0:39:56.68,Chinese,NTP,0,0,0,0,{\pos(192,280)}这就是小儿科
+Dialogue: 0,0:39:54.56,0:39:56.68,English,NTP,0,0,0,0,{\pos(192,264)}It's a goddamn day camp.
+Dialogue: 0,0:39:57.10,0:39:58.80,Chinese,NTP,0,0,0,0,{\pos(192,280)}去安哥拉[非洲]试试
+Dialogue: 0,0:39:57.10,0:39:58.80,English,NTP,0,0,0,0,{\pos(192,264)}Spend some time in Angola.
+Dialogue: 0,0:39:59.94,0:40:02.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}你会惊讶这里还能有雅利安人
+Dialogue: 0,0:39:59.94,0:40:02.46,English,NTP,0,0,0,0,{\pos(192,264)}Surprised you even got Aryan Nation here.
+Dialogue: 0,0:40:05.19,0:40:06.14,Chinese,NTP,0,0,0,0,{\pos(192,280)}朵拉干什么了?
+Dialogue: 0,0:40:05.19,0:40:06.14,English,NTP,0,0,0,0,{\pos(192,264)}What'd Dori do?
+Dialogue: 0,0:40:10.43,0:40:11.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}她死了
+Dialogue: 0,0:40:10.43,0:40:11.55,English,NTP,0,0,0,0,{\pos(192,264)}Dori's dead.
+Dialogue: 0,0:40:13.83,0:40:15.10,Chinese,NTP,0,0,0,0,{\pos(192,280)}谢谢你们
+Dialogue: 0,0:40:13.83,0:40:15.10,English,NTP,0,0,0,0,{\pos(192,264)}Thank you, boys.
+Dialogue: 0,0:40:16.15,0:40:17.78,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们刚才还挺开心的
+Dialogue: 0,0:40:16.15,0:40:17.78,English,NTP,0,0,0,0,{\pos(192,264)}We almost had a moment there.
+Dialogue: 0,0:40:32.41,0:40:35.28,Chinese,NTP,0,0,0,0,{\pos(192,280)}你是想全听一遍还是只听结果?
+Dialogue: 0,0:40:32.41,0:40:35.28,English,NTP,0,0,0,0,{\pos(192,264)}So you want to talk the whole case through or just the end?
+Dialogue: 0,0:40:35.28,0:40:36.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}不介意的话
+Dialogue: 0,0:40:35.28,0:40:36.92,English,NTP,0,0,0,0,{\pos(192,264)}No, whole story
+Dialogue: 0,0:40:36.92,0:40:38.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}从你的角度全讲一遍吧
+Dialogue: 0,0:40:36.92,0:40:38.32,English,NTP,0,0,0,0,{\pos(192,264)}from your end, you don't mind.
+Dialogue: 0,0:40:38.41,0:40:40.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}他也说了 文件都毁了
+Dialogue: 0,0:40:38.41,0:40:40.47,English,NTP,0,0,0,0,{\pos(192,264)}You know, like he said, files got ruined.
+Dialogue: 0,0:40:40.93,0:40:41.98,Chinese,NTP,0,0,0,0,{\pos(192,280)}飓风 丽塔
+Dialogue: 0,0:40:40.93,0:40:41.98,English,NTP,0,0,0,0,{\pos(192,264)}Hurricane Rita.
+Dialogue: 0,0:40:45.02,0:40:48.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}他没说的是这还跟其他事有关
+Dialogue: 0,0:40:45.02,0:40:48.24,English,NTP,0,0,0,0,{\pos(192,264)}What he didn't say is that this is about something else.
+Dialogue: 0,0:40:50.09,0:40:52.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}是不是跟查尔斯湖有关的那个
+Dialogue: 0,0:40:50.09,0:40:52.64,English,NTP,0,0,0,0,{\pos(192,264)}Something new. That one in Lake Charles, maybe?
+Dialogue: 0,0:40:54.18,0:40:55.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}你为什么会这么说?
+Dialogue: 0,0:40:54.18,0:40:55.57,English,NTP,0,0,0,0,{\pos(192,264)}Now, why you say that?
+Dialogue: 0,0:40:55.97,0:40:57.94,Chinese,NTP,0,0,0,0,{\pos(192,280)}报纸上读到的
+Dialogue: 0,0:40:55.97,0:40:57.94,English,NTP,0,0,0,0,{\pos(192,264)}Get the details out of the paper.
+Dialogue: 0,0:40:58.69,0:40:59.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}是的
+Dialogue: 0,0:40:58.69,0:40:59.81,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, we did.
+Dialogue: 0,0:41:00.44,0:41:03.28,Chinese,NTP,0,0,0,0,{\pos(192,280)}查尔斯湖的事你都知道什么?
+Dialogue: 0,0:41:00.44,0:41:03.28,English,NTP,0,0,0,0,{\pos(192,264)}You know anything about that, about Lake Charles?
+Dialogue: 0,0:41:04.97,0:41:05.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}我看看
+Dialogue: 0,0:41:04.97,0:41:05.83,English,NTP,0,0,0,0,{\pos(192,264)}Well, let me see
+Dialogue: 0,0:41:05.83,0:41:08.63,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们知道什么 唤起一下我的记忆
+Dialogue: 0,0:41:05.83,0:41:08.63,English,NTP,0,0,0,0,{\pos(192,264)}what you got, jog my memory.
+Dialogue: 0,0:41:08.63,0:41:10.14,Chinese,NTP,0,0,0,0,{\pos(192,280)}先听你说
+Dialogue: 0,0:41:08.63,0:41:10.14,English,NTP,0,0,0,0,{\pos(192,264)}Well, let's hear your story first,
+Dialogue: 0,0:41:10.39,0:41:11.80,Chinese,NTP,0,0,0,0,{\pos(192,280)}看和我们所掌握的有没有出入
+Dialogue: 0,0:41:10.39,0:41:11.80,English,NTP,0,0,0,0,{\pos(192,264)}see how it fit with what we got.
+Dialogue: 0,0:41:15.16,0:41:16.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}听你的 头儿
+Dialogue: 0,0:41:15.16,0:41:16.47,English,NTP,0,0,0,0,{\pos(192,264)}Well, your dime, boss.
+Dialogue: 0,0:41:17.68,0:41:20.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}说说科尔 你提到的
+Dialogue: 0,0:41:17.68,0:41:20.40,English,NTP,0,0,0,0,{\pos(192,264)}Talking Cohle, what about that dinner
+Dialogue: 0,0:41:20.40,0:41:22.60,Chinese,NTP,0,0,0,0,{\pos(192,280)}那次晚餐 他饭前就醉了吗?
+Dialogue: 0,0:41:20.40,0:41:22.60,English,NTP,0,0,0,0,{\pos(192,264)}you mentioned, he turn up drunk?
+Dialogue: 0,0:41:22.95,0:41:24.95,Chinese,NTP,0,0,0,0,{\pos(192,280)}没错
+Dialogue: 0,0:41:22.95,0:41:24.95,English,NTP,0,0,0,0,{\pos(192,264)}Oh. Yeah.
+Dialogue: 0,0:41:27.19,0:41:29.34,Chinese,NTP,0,0,0,0,{\pos(192,280)}那顿饭是之后的事了
+Dialogue: 0,0:41:27.19,0:41:29.34,English,NTP,0,0,0,0,{\pos(192,264)}That dinner, that was a bit later.
+Dialogue: 0,0:41:30.98,0:41:32.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}有点搞笑
+Dialogue: 0,0:41:30.98,0:41:32.19,English,NTP,0,0,0,0,{\pos(192,264)}It was kind of funny.
+Dialogue: 0,0:41:32.19,0:41:34.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}那些花?
+Dialogue: 0,0:41:32.19,0:41:34.20,English,NTP,0,0,0,0,{\pos(192,264)}The flowers, you know?
+Dialogue: 0,0:41:34.38,0:41:36.15,Chinese,NTP,0,0,0,0,{\pos(192,280)}他不知道在哪看到的
+Dialogue: 0,0:41:34.38,0:41:36.15,English,NTP,0,0,0,0,{\pos(192,264)}Like, he read somewhere that
+Dialogue: 0,0:41:36.15,0:41:37.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}别人请吃饭
+Dialogue: 0,0:41:36.15,0:41:37.44,English,NTP,0,0,0,0,{\pos(192,264)}if you get invited to dinner,
+Dialogue: 0,0:41:37.44,0:41:39.41,Chinese,NTP,0,0,0,0,{\pos(192,280)}你就应该带花?
+Dialogue: 0,0:41:37.44,0:41:39.41,English,NTP,0,0,0,0,{\pos(192,264)}you're supposed to bring flowers?
+Dialogue: 0,0:41:40.94,0:41:42.23,Chinese,NTP,0,0,0,0,{\pos(192,280)}怎么回事?
+Dialogue: 0,0:41:40.94,0:41:42.23,English,NTP,0,0,0,0,{\pos(192,264)}The hell?
+Dialogue: 0,0:41:42.27,0:41:44.50,Chinese,NTP,0,0,0,0,{\pos(192,280)}你都站不稳了
+Dialogue: 0,0:41:42.27,0:41:44.50,English,NTP,0,0,0,0,{\pos(192,264)}You can barely stand up.
+Dialogue: 0,0:41:46.00,0:41:46.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}给个理由?
+Dialogue: 0,0:41:46.00,0:41:46.87,English,NTP,0,0,0,0,{\pos(192,264)}What is it?
+Dialogue: 0,0:41:46.87,0:41:49.34,Chinese,NTP,0,0,0,0,{\pos(192,280)}你不和我 不和兄弟们喝酒
+Dialogue: 0,0:41:46.87,0:41:49.34,English,NTP,0,0,0,0,{\pos(192,264)}You don't drink with me or the boys,
+Dialogue: 0,0:41:49.60,0:41:51.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}但你来我家之前
+Dialogue: 0,0:41:49.60,0:41:51.20,English,NTP,0,0,0,0,{\pos(192,264)}and you got to get a load on
+Dialogue: 0,0:41:51.20,0:41:52.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}却喝了个酩酊大醉?
+Dialogue: 0,0:41:51.20,0:41:52.99,English,NTP,0,0,0,0,{\pos(192,264)}before you visit my family?
+Dialogue: 0,0:41:52.99,0:41:54.63,Chinese,NTP,0,0,0,0,{\pos(192,280)}不 马蒂 不是那样的
+Dialogue: 0,0:41:52.99,0:41:54.63,English,NTP,0,0,0,0,{\pos(192,264)}No, Marty, it's not like that.
+Dialogue: 0,0:41:56.79,0:41:58.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不是故意的
+Dialogue: 0,0:41:56.79,0:41:58.27,English,NTP,0,0,0,0,{\pos(192,264)}And I didn't mean to,
+Dialogue: 0,0:41:58.50,0:41:59.36,Chinese,NTP,0,0,0,0,{\pos(192,280)}好吗?
+Dialogue: 0,0:41:58.50,0:41:59.36,English,NTP,0,0,0,0,{\pos(192,264)}all right?
+Dialogue: 0,0:42:01.85,0:42:04.06,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不喝是因为我以前就有
+Dialogue: 0,0:42:01.85,0:42:04.06,English,NTP,0,0,0,0,{\pos(192,264)}And I don't drink 'cause I've had trouble
+Dialogue: 0,0:42:04.06,0:42:05.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}酗酒的毛病 我不是故意的
+Dialogue: 0,0:42:04.06,0:42:05.81,English,NTP,0,0,0,0,{\pos(192,264)}with it before, I didn't mean to.
+Dialogue: 0,0:42:10.45,0:42:12.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}我在和线人接头
+Dialogue: 0,0:42:10.45,0:42:12.21,English,NTP,0,0,0,0,{\pos(192,264)}I was checking on a CI.
+Dialogue: 0,0:42:12.21,0:42:14.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}然后就去酒吧喝了几杯
+Dialogue: 0,0:42:12.21,0:42:14.17,English,NTP,0,0,0,0,{\pos(192,264)}I ended up hanging around a bar.
+Dialogue: 0,0:42:17.53,0:42:18.28,Chinese,NTP,0,0,0,0,{\pos(192,280)}我坐在那里
+Dialogue: 0,0:42:17.53,0:42:18.28,English,NTP,0,0,0,0,{\pos(192,264)}I was sitting there.
+Dialogue: 0,0:42:18.28,0:42:20.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}想不出什么不喝的理由
+Dialogue: 0,0:42:18.28,0:42:20.57,English,NTP,0,0,0,0,{\pos(192,264)}I couldn't think of a good reason not to.
+Dialogue: 0,0:42:23.21,0:42:24.50,Chinese,NTP,0,0,0,0,{\pos(192,280)}平常我都不喝的
+Dialogue: 0,0:42:23.21,0:42:24.50,English,NTP,0,0,0,0,{\pos(192,264)}Usually I can.
+Dialogue: 0,0:42:31.03,0:42:32.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}别担心
+Dialogue: 0,0:42:31.03,0:42:32.40,English,NTP,0,0,0,0,{\pos(192,264)}Don't worry about it.
+Dialogue: 0,0:42:33.95,0:42:35.45,Chinese,NTP,0,0,0,0,{\pos(192,280)}多喝点咖啡
+Dialogue: 0,0:42:33.95,0:42:35.45,English,NTP,0,0,0,0,{\pos(192,264)}Have some more coffee
+Dialogue: 0,0:42:35.45,0:42:38.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}尽量聊上10分钟
+Dialogue: 0,0:42:35.45,0:42:38.57,English,NTP,0,0,0,0,{\pos(192,264)}and just try to make 10 minutes of conversation.
+Dialogue: 0,0:42:38.57,0:42:39.45,Chinese,NTP,0,0,0,0,{\pos(192,280)}知道了
+Dialogue: 0,0:42:38.57,0:42:39.45,English,NTP,0,0,0,0,{\pos(192,264)}You got it.
+Dialogue: 0,0:42:40.81,0:42:42.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}我会给克里斯或是谁打电话
+Dialogue: 0,0:42:40.81,0:42:42.72,English,NTP,0,0,0,0,{\pos(192,264)}I'll call Chris or somebody,
+Dialogue: 0,0:42:43.72,0:42:44.98,Chinese,NTP,0,0,0,0,{\pos(192,280)}把你接走
+Dialogue: 0,0:42:43.72,0:42:44.98,English,NTP,0,0,0,0,{\pos(192,264)}get you out of here.
+Dialogue: 0,0:42:47.31,0:42:48.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}马蒂
+Dialogue: 0,0:42:47.31,0:42:48.08,English,NTP,0,0,0,0,{\pos(192,264)}Marty.
+Dialogue: 0,0:42:51.46,0:42:52.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}我很抱歉
+Dialogue: 0,0:42:51.46,0:42:52.83,English,NTP,0,0,0,0,{\pos(192,264)}I'm sorry, man.
+Dialogue: 0,0:42:54.40,0:42:55.34,Chinese,NTP,0,0,0,0,{\pos(192,280)}没关系
+Dialogue: 0,0:42:54.40,0:42:55.34,English,NTP,0,0,0,0,{\pos(192,264)}Forget it.
+Dialogue: 0,0:42:56.89,0:42:58.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们改天好了
+Dialogue: 0,0:42:56.89,0:42:58.52,English,NTP,0,0,0,0,{\pos(192,264)}We'll try this some other time.
+Dialogue: 0,0:43:10.40,0:43:13.80,Chinese,NTP,0,0,0,0,{\pos(192,280)}拉斯特 很高兴终于能见到你了
+Dialogue: 0,0:43:10.40,0:43:13.80,English,NTP,0,0,0,0,{\pos(192,264)}Well, uh, Rust, it is so nice to finally meet you.
+Dialogue: 0,0:43:14.55,0:43:15.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}抱歉这么久才见到你
+Dialogue: 0,0:43:14.55,0:43:15.90,English,NTP,0,0,0,0,{\pos(192,264)}Sorry it took so long.
+Dialogue: 0,0:43:16.89,0:43:19.91,Chinese,NTP,0,0,0,0,{\pos(192,280)}我试过告诉她你不擅长社交
+Dialogue: 0,0:43:16.89,0:43:19.91,English,NTP,0,0,0,0,{\pos(192,264)}Well, I tried to tell her you aren't big on socializing.
+Dialogue: 0,0:43:19.91,0:43:21.29,Chinese,NTP,0,0,0,0,{\pos(192,280)}我说过你的生命
+Dialogue: 0,0:43:19.91,0:43:21.29,English,NTP,0,0,0,0,{\pos(192,264)}I said that your life's
+Dialogue: 0,0:43:21.29,0:43:22.95,Chinese,NTP,0,0,0,0,{\pos(192,280)}掌握在这个人的手里 对吗?
+Dialogue: 0,0:43:21.29,0:43:22.95,English,NTP,0,0,0,0,{\pos(192,264)}in this man's hands, right?
+Dialogue: 0,0:43:23.58,0:43:25.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}那就应该见见他的家人
+Dialogue: 0,0:43:23.58,0:43:25.32,English,NTP,0,0,0,0,{\pos(192,264)}Of course you should meet the family.
+Dialogue: 0,0:43:26.80,0:43:29.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}没那么戏剧化 宝贝
+Dialogue: 0,0:43:26.80,0:43:29.71,English,NTP,0,0,0,0,{\pos(192,264)}Well, not quite as dramatic as that, hon.
+Dialogue: 0,0:43:30.71,0:43:32.10,Chinese,NTP,0,0,0,0,{\pos(192,280)}我都没开过枪
+Dialogue: 0,0:43:30.71,0:43:32.10,English,NTP,0,0,0,0,{\pos(192,264)}I've never fired my gun.
+Dialogue: 0,0:43:32.34,0:43:34.23,Chinese,NTP,0,0,0,0,{\pos(192,280)}你开过枪吗?
+Dialogue: 0,0:43:32.34,0:43:34.23,English,NTP,0,0,0,0,{\pos(192,264)}Have you fired your gun?
+Dialogue: 0,0:43:34.23,0:43:35.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}奥德丽
+Dialogue: 0,0:43:34.23,0:43:35.13,English,NTP,0,0,0,0,{\pos(192,264)}Audrey.
+Dialogue: 0,0:43:39.84,0:43:40.82,Chinese,NTP,0,0,0,0,{\pos(192,280)}开过
+Dialogue: 0,0:43:39.84,0:43:40.82,English,NTP,0,0,0,0,{\pos(192,264)}Yes.
+Dialogue: 0,0:43:41.49,0:43:42.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}你开枪打过人吗?
+Dialogue: 0,0:43:41.49,0:43:42.85,English,NTP,0,0,0,0,{\pos(192,264)}You shot people?
+Dialogue: 0,0:43:42.85,0:43:43.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}梅茜
+Dialogue: 0,0:43:42.85,0:43:43.69,English,NTP,0,0,0,0,{\pos(192,264)}Macie.
+Dialogue: 0,0:43:46.46,0:43:48.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}爸爸没朝任何人开过枪
+Dialogue: 0,0:43:46.46,0:43:48.20,English,NTP,0,0,0,0,{\pos(192,264)}Dad's never shot anybody.
+Dialogue: 0,0:43:48.86,0:43:50.18,Chinese,NTP,0,0,0,0,{\pos(192,280)}那很好
+Dialogue: 0,0:43:48.86,0:43:50.18,English,NTP,0,0,0,0,{\pos(192,264)}Well, that's good.
+Dialogue: 0,0:43:51.55,0:43:53.07,Chinese,NTP,0,0,0,0,{\pos(192,280)}打人可不好玩
+Dialogue: 0,0:43:51.55,0:43:53.07,English,NTP,0,0,0,0,{\pos(192,264)}You don't want to shoot people.
+Dialogue: 0,0:43:53.35,0:43:54.54,Chinese,NTP,0,0,0,0,{\pos(192,280)}但你打过
+Dialogue: 0,0:43:53.35,0:43:54.54,English,NTP,0,0,0,0,{\pos(192,264)}But you have.
+Dialogue: 0,0:43:56.31,0:43:57.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}马蒂说你来自德克萨斯
+Dialogue: 0,0:43:56.31,0:43:57.92,English,NTP,0,0,0,0,{\pos(192,264)}Marty says you're from Texas.
+Dialogue: 0,0:43:59.79,0:44:01.09,Chinese,NTP,0,0,0,0,{\pos(192,280)}是的 南德克萨斯
+Dialogue: 0,0:43:59.79,0:44:01.09,English,NTP,0,0,0,0,{\pos(192,264)}Yes, south Texas.
+Dialogue: 0,0:44:02.05,0:44:04.63,Chinese,NTP,0,0,0,0,{\pos(192,280)}我在阿拉斯加长大
+Dialogue: 0,0:44:02.05,0:44:04.63,English,NTP,0,0,0,0,{\pos(192,264)}I grew up in Alaska.
+Dialogue: 0,0:44:04.94,0:44:07.65,Chinese,NTP,0,0,0,0,{\pos(192,280)}在这工作十来年了
+Dialogue: 0,0:44:04.94,0:44:07.65,English,NTP,0,0,0,0,{\pos(192,264)}Just been working here the last 10, 12 years.
+Dialogue: 0,0:44:07.76,0:44:08.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}是什么工作
+Dialogue: 0,0:44:07.76,0:44:08.64,English,NTP,0,0,0,0,{\pos(192,264)}What kind of work?
+Dialogue: 0,0:44:10.64,0:44:12.17,Chinese,NTP,0,0,0,0,{\pos(192,280)}绝大部分时间是缉毒
+Dialogue: 0,0:44:10.64,0:44:12.17,English,NTP,0,0,0,0,{\pos(192,264)}Narcotics, mostly.
+Dialogue: 0,0:44:14.67,0:44:17.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}1989年之前一直在休斯敦的劫案组
+Dialogue: 0,0:44:14.67,0:44:17.93,English,NTP,0,0,0,0,{\pos(192,264)}was on the Robbery Squad in Houston until '89.
+Dialogue: 0,0:44:18.80,0:44:20.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}我接个电话就回来
+Dialogue: 0,0:44:18.80,0:44:20.58,English,NTP,0,0,0,0,{\pos(192,264)}Oh. Be right back.
+Dialogue: 0,0:44:21.81,0:44:23.01,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们继续吃
+Dialogue: 0,0:44:21.81,0:44:23.01,English,NTP,0,0,0,0,{\pos(192,264)}Y'all keep eating.
+Dialogue: 0,0:44:28.74,0:44:29.77,Chinese,NTP,0,0,0,0,{\pos(192,280)}你喜欢你的工作吗?
+Dialogue: 0,0:44:28.74,0:44:29.77,English,NTP,0,0,0,0,{\pos(192,264)}Do you like your job?
+Dialogue: 0,0:44:34.27,0:44:35.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}不怎么喜欢
+Dialogue: 0,0:44:34.27,0:44:35.46,English,NTP,0,0,0,0,{\pos(192,264)}Not exactly,
+Dialogue: 0,0:44:36.49,0:44:37.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}但是很值得
+Dialogue: 0,0:44:36.49,0:44:37.81,English,NTP,0,0,0,0,{\pos(192,264)}but it's worthwhile.
+Dialogue: 0,0:44:38.41,0:44:39.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}我也很擅长
+Dialogue: 0,0:44:38.41,0:44:39.58,English,NTP,0,0,0,0,{\pos(192,264)}I'm good at it.
+Dialogue: 0,0:44:40.97,0:44:42.00,Chinese,NTP,0,0,0,0,{\pos(192,280)}你没结婚吗?
+Dialogue: 0,0:44:40.97,0:44:42.00,English,NTP,0,0,0,0,{\pos(192,264)}You're not married?
+Dialogue: 0,0:44:44.47,0:44:45.50,Chinese,NTP,0,0,0,0,{\pos(192,280)}结过一次
+Dialogue: 0,0:44:44.47,0:44:45.50,English,NTP,0,0,0,0,{\pos(192,264)}Once.
+Dialogue: 0,0:44:46.03,0:44:48.03,Chinese,NTP,0,0,0,0,{\pos(192,280)}然后就没有了
+Dialogue: 0,0:44:46.03,0:44:48.03,English,NTP,0,0,0,0,{\pos(192,264)}Uh, not anymore.
+Dialogue: 0,0:44:48.85,0:44:50.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}结婚的时候你也酗酒吗?
+Dialogue: 0,0:44:48.85,0:44:50.58,English,NTP,0,0,0,0,{\pos(192,264)}Did you do this while you were married?
+Dialogue: 0,0:44:51.52,0:44:52.60,Chinese,NTP,0,0,0,0,{\pos(192,280)}克里斯
+Dialogue: 0,0:44:51.52,0:44:52.60,English,NTP,0,0,0,0,{\pos(192,264)}Hey, Chris.
+Dialogue: 0,0:44:53.97,0:44:55.62,Chinese,NTP,0,0,0,0,{\pos(192,280)}谢谢你打电话给我
+Dialogue: 0,0:44:53.97,0:44:55.62,English,NTP,0,0,0,0,{\pos(192,264)}Hey, thanks for the page.
+Dialogue: 0,0:44:57.05,0:44:59.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}他会很感谢的
+Dialogue: 0,0:44:57.05,0:44:59.02,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, well, he'll appreciate it.
+Dialogue: 0,0:45:00.85,0:45:02.06,Chinese,NTP,0,0,0,0,{\pos(192,280)}好吧
+Dialogue: 0,0:45:00.85,0:45:02.06,English,NTP,0,0,0,0,{\pos(192,264)}Well...all right,
+Dialogue: 0,0:45:02.06,0:45:03.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}我也很感谢
+Dialogue: 0,0:45:02.06,0:45:03.88,English,NTP,0,0,0,0,{\pos(192,264)}then I appreciate it.
+Dialogue: 0,0:45:11.94,0:45:12.97,Chinese,NTP,0,0,0,0,{\pos(192,280)}有几个孩子
+Dialogue: 0,0:45:11.94,0:45:12.97,English,NTP,0,0,0,0,{\pos(192,264)}Children?
+Dialogue: 0,0:45:13.92,0:45:14.89,Chinese,NTP,0,0,0,0,{\pos(192,280)}一个
+Dialogue: 0,0:45:13.92,0:45:14.89,English,NTP,0,0,0,0,{\pos(192,264)}One.
+Dialogue: 0,0:45:16.57,0:45:17.98,Chinese,NTP,0,0,0,0,{\pos(192,280)}她夭折了
+Dialogue: 0,0:45:16.57,0:45:17.98,English,NTP,0,0,0,0,{\pos(192,264)}She passed.
+Dialogue: 0,0:45:19.45,0:45:21.54,Chinese,NTP,0,0,0,0,{\pos(192,280)}不久之后就离婚了
+Dialogue: 0,0:45:19.45,0:45:21.54,English,NTP,0,0,0,0,{\pos(192,264)}Marriage didn't last long after that.
+Dialogue: 0,0:45:24.37,0:45:25.40,Chinese,NTP,0,0,0,0,{\pos(192,280)}我很抱歉
+Dialogue: 0,0:45:24.37,0:45:25.40,English,NTP,0,0,0,0,{\pos(192,264)}Sorry.
+Dialogue: 0,0:45:28.30,0:45:30.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}克里斯 戴玛打电话找你
+Dialogue: 0,0:45:28.30,0:45:30.12,English,NTP,0,0,0,0,{\pos(192,264)}Chris Demma's on the phone for you.
+Dialogue: 0,0:45:30.13,0:45:33.63,Chinese,NTP,0,0,0,0,{\pos(192,280)}说是线人什么的事...
+Dialogue: 0,0:45:30.13,0:45:33.63,English,NTP,0,0,0,0,{\pos(192,264)}Something about a CI or...
+Dialogue: 0,0:45:33.86,0:45:35.54,Chinese,NTP,0,0,0,0,{\pos(192,280)}电话在后面左手边
+Dialogue: 0,0:45:33.86,0:45:35.54,English,NTP,0,0,0,0,{\pos(192,264)}Back there to the left.
+Dialogue: 0,0:45:36.45,0:45:38.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 不好意思  - 没事
+Dialogue: 0,0:45:36.45,0:45:38.24,English,NTP,0,0,0,0,{\pos(192,264)}- Excuse me. - Of course.
+Dialogue: 0,0:45:50.07,0:45:51.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}怎么了
+Dialogue: 0,0:45:50.07,0:45:51.12,English,NTP,0,0,0,0,{\pos(192,264)}What was that?
+Dialogue: 0,0:45:52.02,0:45:53.52,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们都在聊什么呢?
+Dialogue: 0,0:45:52.02,0:45:53.52,English,NTP,0,0,0,0,{\pos(192,264)}What were y'all talking about?
+Dialogue: 0,0:45:54.12,0:45:55.23,Chinese,NTP,0,0,0,0,{\pos(192,280)}你的工作
+Dialogue: 0,0:45:54.12,0:45:55.23,English,NTP,0,0,0,0,{\pos(192,264)}Your job.
+Dialogue: 0,0:45:56.89,0:45:58.51,Chinese,NTP,0,0,0,0,{\pos(192,280)}你了解他吗? 马蒂
+Dialogue: 0,0:45:56.89,0:45:58.51,English,NTP,0,0,0,0,{\pos(192,264)}What do you know about him, Marty?
+Dialogue: 0,0:46:00.84,0:46:03.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}了解的不多
+Dialogue: 0,0:46:00.84,0:46:03.58,English,NTP,0,0,0,0,{\pos(192,264)}Um, not a lot.
+Dialogue: 0,0:46:04.07,0:46:06.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}他应该是个好警探
+Dialogue: 0,0:46:04.07,0:46:06.20,English,NTP,0,0,0,0,{\pos(192,264)}He could be a good detective.
+Dialogue: 0,0:46:06.76,0:46:09.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}他工作很努力 不过 ...
+Dialogue: 0,0:46:06.76,0:46:09.27,English,NTP,0,0,0,0,{\pos(192,264)}He's running on this thing, but, uh...
+Dialogue: 0,0:46:10.34,0:46:11.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}有点傲慢
+Dialogue: 0,0:46:10.34,0:46:11.46,English,NTP,0,0,0,0,{\pos(192,264)}uppity.
+Dialogue: 0,0:46:14.41,0:46:15.51,Chinese,NTP,0,0,0,0,{\pos(192,280)}怎么了?
+Dialogue: 0,0:46:14.41,0:46:15.51,English,NTP,0,0,0,0,{\pos(192,264)}What?
+Dialogue: 0,0:46:16.93,0:46:18.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}你有问过他的事吗?
+Dialogue: 0,0:46:16.93,0:46:18.92,English,NTP,0,0,0,0,{\pos(192,264)}Have you ever asked him about himself?
+Dialogue: 0,0:46:20.46,0:46:21.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}宝贝 相信我
+Dialogue: 0,0:46:20.46,0:46:21.81,English,NTP,0,0,0,0,{\pos(192,264)}Baby, trust me.
+Dialogue: 0,0:46:22.01,0:46:24.41,Chinese,NTP,0,0,0,0,{\pos(192,280)}你不会想了解他的
+Dialogue: 0,0:46:22.01,0:46:24.41,English,NTP,0,0,0,0,{\pos(192,264)}You do not want to pick this man's brain.
+Dialogue: 0,0:46:30.13,0:46:31.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}什么事?
+Dialogue: 0,0:46:30.13,0:46:31.21,English,NTP,0,0,0,0,{\pos(192,264)}What was that?
+Dialogue: 0,0:46:31.42,0:46:34.00,Chinese,NTP,0,0,0,0,{\pos(192,280)}线人有了点新消息
+Dialogue: 0,0:46:31.42,0:46:34.00,English,NTP,0,0,0,0,{\pos(192,264)}Oh, some details on the CI.
+Dialogue: 0,0:46:39.17,0:46:41.06,Chinese,NTP,0,0,0,0,{\pos(192,280)}谢谢你的晚餐 玛姬
+Dialogue: 0,0:46:39.17,0:46:41.06,English,NTP,0,0,0,0,{\pos(192,264)}Thank you for dinner, Maggie.
+Dialogue: 0,0:46:41.06,0:46:43.51,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 色香味俱全  - 十分荣幸
+Dialogue: 0,0:46:41.06,0:46:43.51,English,NTP,0,0,0,0,{\pos(192,264)}- This looks great. - My pleasure.
+Dialogue: 0,0:46:43.67,0:46:45.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}我讨厌西兰花
+Dialogue: 0,0:46:43.67,0:46:45.39,English,NTP,0,0,0,0,{\pos(192,264)}I don't like that broccoli.
+Dialogue: 0,0:46:45.39,0:46:46.81,Chinese,NTP,0,0,0,0,{\pos(192,280)}注意礼貌
+Dialogue: 0,0:46:45.39,0:46:46.81,English,NTP,0,0,0,0,{\pos(192,264)}Mind your manners.
+Dialogue: 0,0:46:46.95,0:46:50.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}那 你要走了吗?
+Dialogue: 0,0:46:46.95,0:46:50.21,English,NTP,0,0,0,0,{\pos(192,264)}So you, uh, need to go or what?
+Dialogue: 0,0:46:51.57,0:46:53.78,Chinese,NTP,0,0,0,0,{\pos(192,280)}不用 事情不是很急 可以明天再说
+Dialogue: 0,0:46:51.57,0:46:53.78,English,NTP,0,0,0,0,{\pos(192,264)}No, it's nothing can't wait till tomorrow.
+Dialogue: 0,0:46:56.17,0:47:00.07,Chinese,NTP,0,0,0,0,{\pos(192,280)}拉斯特 你刚刚说到哪了?
+Dialogue: 0,0:46:56.17,0:47:00.07,English,NTP,0,0,0,0,{\pos(192,264)}Rust, uh, what you were saying before?
+Dialogue: 0,0:47:03.31,0:47:05.91,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们该找些好点的话题
+Dialogue: 0,0:47:03.31,0:47:05.91,English,NTP,0,0,0,0,{\pos(192,264)}Oh, we can find something nicer to talk about.
+Dialogue: 0,0:47:07.18,0:47:09.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}马蒂 我在桌上看到了照片
+Dialogue: 0,0:47:07.18,0:47:09.58,English,NTP,0,0,0,0,{\pos(192,264)}Marty, I saw your table in there.
+Dialogue: 0,0:47:09.88,0:47:11.29,Chinese,NTP,0,0,0,0,{\pos(192,280)}你会飞钓?
+Dialogue: 0,0:47:09.88,0:47:11.29,English,NTP,0,0,0,0,{\pos(192,264)}You fly-fish?
+Dialogue: 0,0:47:12.29,0:47:13.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}会一点
+Dialogue: 0,0:47:12.29,0:47:13.46,English,NTP,0,0,0,0,{\pos(192,264)}Little bit.
+Dialogue: 0,0:47:15.72,0:47:19.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}你和科尔是02年开始不和的
+Dialogue: 0,0:47:15.72,0:47:19.25,English,NTP,0,0,0,0,{\pos(192,264)}So you and Cohle went bad in '02, huh?
+Dialogue: 0,0:47:19.98,0:47:21.28,Chinese,NTP,0,0,0,0,{\pos(192,280)}我听说
+Dialogue: 0,0:47:19.98,0:47:21.28,English,NTP,0,0,0,0,{\pos(192,264)}Heard about that.
+Dialogue: 0,0:47:21.51,0:47:24.80,Chinese,NTP,0,0,0,0,{\pos(192,280)}是 我们之间的事
+Dialogue: 0,0:47:21.51,0:47:24.80,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, well...what happened between me and him
+Dialogue: 0,0:47:24.80,0:47:28.59,Chinese,NTP,0,0,0,0,{\pos(192,280)}和朵拉 兰的案子无关
+Dialogue: 0,0:47:24.80,0:47:28.59,English,NTP,0,0,0,0,{\pos(192,264)}don't have nothing to do with Dora Lange.
+Dialogue: 0,0:47:30.17,0:47:33.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}我和拉斯特 科尔一起做了七年的搭档
+Dialogue: 0,0:47:30.17,0:47:33.11,English,NTP,0,0,0,0,{\pos(192,264)}I worked with Rust Cohle for 7 years.
+Dialogue: 0,0:47:33.92,0:47:35.37,Chinese,NTP,0,0,0,0,{\pos(192,280)}人是会变的
+Dialogue: 0,0:47:33.92,0:47:35.37,English,NTP,0,0,0,0,{\pos(192,264)}People change.
+Dialogue: 0,0:47:35.37,0:47:37.32,Chinese,NTP,0,0,0,0,{\pos(192,280)}关系自然也会
+Dialogue: 0,0:47:35.37,0:47:37.32,English,NTP,0,0,0,0,{\pos(192,264)}Relationships change.
+Dialogue: 0,0:47:38.73,0:47:40.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们还联系吗?
+Dialogue: 0,0:47:38.73,0:47:40.25,English,NTP,0,0,0,0,{\pos(192,264)}You stay in touch?
+Dialogue: 0,0:47:42.04,0:47:43.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}没有
+Dialogue: 0,0:47:42.04,0:47:43.13,English,NTP,0,0,0,0,{\pos(192,264)}No.
+Dialogue: 0,0:47:43.68,0:47:46.62,Chinese,NTP,0,0,0,0,{\pos(192,280)}我和拉斯特都有...
+Dialogue: 0,0:47:43.68,0:47:46.62,English,NTP,0,0,0,0,{\pos(192,264)}No, I haven't talked to Rust in...
+Dialogue: 0,0:47:48.02,0:47:49.30,Chinese,NTP,0,0,0,0,{\pos(192,280)}10年没联系了
+Dialogue: 0,0:47:48.02,0:47:49.30,English,NTP,0,0,0,0,{\pos(192,264)}10 years.
+Dialogue: 0,0:47:54.80,0:47:56.50,Chinese,NTP,0,0,0,0,{\pos(192,280)}不管怎样 我们...
+Dialogue: 0,0:47:54.80,0:47:56.50,English,NTP,0,0,0,0,{\pos(192,264)}Look, however we...
+Dialogue: 0,0:47:57.29,0:47:59.94,Chinese,NTP,0,0,0,0,{\pos(192,280)}他是个好警探
+Dialogue: 0,0:47:57.29,0:47:59.94,English,NTP,0,0,0,0,{\pos(192,264)}he was a good detective,
+Dialogue: 0,0:48:00.55,0:48:03.61,Chinese,NTP,0,0,0,0,{\pos(192,280)}尽管我们分开的时候不怎么愉快 我意思是...
+Dialogue: 0,0:48:00.55,0:48:03.61,English,NTP,0,0,0,0,{\pos(192,264)}and it don't matter how he ended it. I mean...
+Dialogue: 0,0:48:05.00,0:48:07.63,Chinese,NTP,0,0,0,0,{\pos(192,280)}我也得实事求是
+Dialogue: 0,0:48:05.00,0:48:07.63,English,NTP,0,0,0,0,{\pos(192,264)}I can say that because it's the truth,
+Dialogue: 0,0:48:08.39,0:48:10.94,Chinese,NTP,0,0,0,0,{\pos(192,280)}我也没耿耿于怀
+Dialogue: 0,0:48:08.39,0:48:10.94,English,NTP,0,0,0,0,{\pos(192,264)}and I don't hold grudges.
+Dialogue: 0,0:48:10.94,0:48:15.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}因为记仇有害健康
+Dialogue: 0,0:48:10.94,0:48:15.72,English,NTP,0,0,0,0,{\pos(192,264)}I believe that's the shit that leads to cancer.
+Dialogue: 0,0:48:20.31,0:48:22.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们怎么谈到晚餐了?
+Dialogue: 0,0:48:20.31,0:48:22.47,English,NTP,0,0,0,0,{\pos(192,264)}But why am I talking about dinner?
+Dialogue: 0,0:48:22.47,0:48:27.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们想了解兰的案子 可以
+Dialogue: 0,0:48:22.47,0:48:27.44,English,NTP,0,0,0,0,{\pos(192,264)}Y'all want to walk through the Lange case, fine.
+Dialogue: 0,0:48:30.12,0:48:33.59,Chinese,NTP,0,0,0,0,{\pos(192,280)}扯这些...无关的事干什么?
+Dialogue: 0,0:48:30.12,0:48:33.59,English,NTP,0,0,0,0,{\pos(192,264)}This other stuff... well, what's going on?
+Dialogue: 0,0:48:33.66,0:48:36.48,Chinese,NTP,0,0,0,0,{\pos(192,280)}抱歉 只是听到些传闻
+Dialogue: 0,0:48:33.66,0:48:36.48,English,NTP,0,0,0,0,{\pos(192,264)}Sorry. We just heard some stories.
+Dialogue: 0,0:48:36.85,0:48:38.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}私下说句 听说他
+Dialogue: 0,0:48:36.85,0:48:38.20,English,NTP,0,0,0,0,{\pos(192,264)}Well, personally, I heard he was
+Dialogue: 0,0:48:38.21,0:48:40.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}是个办案好手 是吗?
+Dialogue: 0,0:48:38.21,0:48:40.47,English,NTP,0,0,0,0,{\pos(192,264)}an ace case man, right?
+Dialogue: 0,0:48:40.52,0:48:42.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}能讲讲他的办案手法吗?
+Dialogue: 0,0:48:40.52,0:48:42.64,English,NTP,0,0,0,0,{\pos(192,264)}I'd like to understand his process.
+Dialogue: 0,0:48:47.21,0:48:48.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}办案手法
+Dialogue: 0,0:48:47.21,0:48:48.58,English,NTP,0,0,0,0,{\pos(192,264)}"His process."
+Dialogue: 0,0:48:48.58,0:48:49.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}行
+Dialogue: 0,0:48:48.58,0:48:49.69,English,NTP,0,0,0,0,{\pos(192,264)}Sure.
+Dialogue: 0,0:48:51.45,0:48:53.16,Chinese,NTP,0,0,0,0,{\pos(192,280)}房主说她把屋子弄的一团糟
+Dialogue: 0,0:48:51.45,0:48:53.16,English,NTP,0,0,0,0,{\pos(192,264)}The other landlord says she trashed the place,
+Dialogue: 0,0:48:53.16,0:48:55.18,Chinese,NTP,0,0,0,0,{\pos(192,280)}所以拒付她的定金
+Dialogue: 0,0:48:53.16,0:48:55.18,English,NTP,0,0,0,0,{\pos(192,264)}so she lost her deposit.
+Dialogue: 0,0:48:55.43,0:48:57.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}她的邻居也都搬走了
+Dialogue: 0,0:48:55.43,0:48:57.13,English,NTP,0,0,0,0,{\pos(192,264)}And the neighbors check out.
+Dialogue: 0,0:48:57.65,0:48:59.76,Chinese,NTP,0,0,0,0,{\pos(192,280)}据几个还记得她的人说
+Dialogue: 0,0:48:57.65,0:48:59.76,English,NTP,0,0,0,0,{\pos(192,264)}Those that remember her said that she, uh,
+Dialogue: 0,0:49:00.11,0:49:02.89,Chinese,NTP,0,0,0,0,{\pos(192,280)}她一般凌晨才回来
+Dialogue: 0,0:49:00.11,0:49:02.89,English,NTP,0,0,0,0,{\pos(192,264)}used to come in early in the morning,
+Dialogue: 0,0:49:02.91,0:49:04.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}多数情况她都不回来
+Dialogue: 0,0:49:02.91,0:49:04.72,English,NTP,0,0,0,0,{\pos(192,264)}if she came home at all.
+Dialogue: 0,0:49:08.41,0:49:10.79,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们几个在酒吧查得不错啊
+Dialogue: 0,0:49:08.41,0:49:10.79,English,NTP,0,0,0,0,{\pos(192,264)}You guys canvass the bars pretty good today?
+Dialogue: 0,0:49:13.83,0:49:15.63,Chinese,NTP,0,0,0,0,{\pos(192,280)}去你的 科尔
+Dialogue: 0,0:49:13.83,0:49:15.63,English,NTP,0,0,0,0,{\pos(192,264)}You know, up your ass, Cohle.
+Dialogue: 0,0:49:15.63,0:49:17.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}有本事自己跑腿去
+Dialogue: 0,0:49:15.63,0:49:17.90,English,NTP,0,0,0,0,{\pos(192,264)}Why don't you do your own fuckin' leg work,
+Dialogue: 0,0:49:17.90,0:49:19.51,Chinese,NTP,0,0,0,0,{\pos(192,280)}怪胎?
+Dialogue: 0,0:49:17.90,0:49:19.51,English,NTP,0,0,0,0,{\pos(192,264)}you rat fuck?
+Dialogue: 0,0:49:24.09,0:49:25.75,Chinese,NTP,0,0,0,0,{\pos(192,280)}你再说一遍 醉鬼
+Dialogue: 0,0:49:24.09,0:49:25.75,English,NTP,0,0,0,0,{\pos(192,264)}Say it again, rummy.
+Dialogue: 0,0:49:31.38,0:49:33.15,Chinese,NTP,0,0,0,0,{\pos(192,280)}你给我听好了
+Dialogue: 0,0:49:31.38,0:49:33.15,English,NTP,0,0,0,0,{\pos(192,264)}You know what, man?
+Dialogue: 0,0:49:33.63,0:49:35.77,Chinese,NTP,0,0,0,0,{\pos(192,280)}去你的
+Dialogue: 0,0:49:33.63,0:49:35.77,English,NTP,0,0,0,0,{\pos(192,264)}Fuck you,
+Dialogue: 0,0:49:36.07,0:49:37.49,Chinese,NTP,0,0,0,0,{\pos(192,280)}收税人
+Dialogue: 0,0:49:36.07,0:49:37.49,English,NTP,0,0,0,0,{\pos(192,264)}Tax Man.
+Dialogue: 0,0:49:42.48,0:49:43.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}你怎么回事啊?
+Dialogue: 0,0:49:42.48,0:49:43.64,English,NTP,0,0,0,0,{\pos(192,264)}What the fuck?
+Dialogue: 0,0:49:43.64,0:49:45.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}接着刚才的说
+Dialogue: 0,0:49:43.64,0:49:45.72,English,NTP,0,0,0,0,{\pos(192,264)}Back to point.
+Dialogue: 0,0:49:45.72,0:49:47.89,Chinese,NTP,0,0,0,0,{\pos(192,280)}有三个同事认识她
+Dialogue: 0,0:49:45.72,0:49:47.89,English,NTP,0,0,0,0,{\pos(192,264)}Got 3 hits on working girls.
+Dialogue: 0,0:49:48.03,0:49:50.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}当然关系都不亲近
+Dialogue: 0,0:49:48.03,0:49:50.90,English,NTP,0,0,0,0,{\pos(192,264)}No one close to her, naturally.
+Dialogue: 0,0:49:51.17,0:49:53.88,Chinese,NTP,0,0,0,0,{\pos(192,280)}有些人偶尔和她有接触
+Dialogue: 0,0:49:51.17,0:49:53.88,English,NTP,0,0,0,0,{\pos(192,264)}A few names recognized her as occasional.
+Dialogue: 0,0:49:53.88,0:49:55.78,Chinese,NTP,0,0,0,0,{\pos(192,280)}比如被她骗点小钱什么的
+Dialogue: 0,0:49:53.88,0:49:55.78,English,NTP,0,0,0,0,{\pos(192,264)}Like she tricked now and then,
+Dialogue: 0,0:49:55.90,0:49:59.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}她在几个车站也弄过钱
+Dialogue: 0,0:49:55.90,0:49:59.02,English,NTP,0,0,0,0,{\pos(192,264)}show up at a couple of truck stops when she needed cash.
+Dialogue: 0,0:49:59.40,0:50:01.11,Chinese,NTP,0,0,0,0,{\pos(192,280)}你查到名字了 都叫什么?
+Dialogue: 0,0:49:59.40,0:50:01.11,English,NTP,0,0,0,0,{\pos(192,264)}You got some names. Which ones?
+Dialogue: 0,0:50:01.11,0:50:04.61,Chinese,NTP,0,0,0,0,{\pos(192,280)}我的媒体联络人雷 方特诺特
+Dialogue: 0,0:50:01.11,0:50:04.61,English,NTP,0,0,0,0,{\pos(192,264)}I heard from my AP guy, Ray Fontenot.
+Dialogue: 0,0:50:04.67,0:50:07.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}说她叔叔是丹尼 方特诺特...
+Dialogue: 0,0:50:04.67,0:50:07.02,English,NTP,0,0,0,0,{\pos(192,264)}Said her uncle's Danny Fontenot...
+Dialogue: 0,0:50:07.02,0:50:08.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}路易斯安娜州立大学的那个投手
+Dialogue: 0,0:50:07.02,0:50:08.55,English,NTP,0,0,0,0,{\pos(192,264)}the pitcher, LSU.
+Dialogue: 0,0:50:08.56,0:50:11.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}我看过他的比赛 很棒
+Dialogue: 0,0:50:08.56,0:50:11.90,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, I watched him play. Great player.
+Dialogue: 0,0:50:11.90,0:50:13.60,Chinese,NTP,0,0,0,0,{\pos(192,280)}他就住附近
+Dialogue: 0,0:50:11.90,0:50:13.60,English,NTP,0,0,0,0,{\pos(192,264)}Well, he lives close by.
+Dialogue: 0,0:50:13.67,0:50:15.86,Chinese,NTP,0,0,0,0,{\pos(192,280)}谢了
+Dialogue: 0,0:50:13.67,0:50:15.86,English,NTP,0,0,0,0,{\pos(192,264)}Well, thanks, guys.
+Dialogue: 0,0:50:16.51,0:50:18.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们俩呢 有什么进展吗?
+Dialogue: 0,0:50:16.51,0:50:18.73,English,NTP,0,0,0,0,{\pos(192,264)}What about you two? Did you get anything today?
+Dialogue: 0,0:50:18.73,0:50:21.27,Chinese,NTP,0,0,0,0,{\pos(192,280)}还没 长官 ...
+Dialogue: 0,0:50:18.73,0:50:21.27,English,NTP,0,0,0,0,{\pos(192,264)}Not much, sir. Well...
+Dialogue: 0,0:50:21.75,0:50:24.47,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们听说过塔特尔牧师吧
+Dialogue: 0,0:50:21.75,0:50:24.47,English,NTP,0,0,0,0,{\pos(192,264)}You might know the Reverend Tuttle.
+Dialogue: 0,0:50:24.47,0:50:26.66,Chinese,NTP,0,0,0,0,{\pos(192,280)}他是市内公益活动的负责人
+Dialogue: 0,0:50:24.47,0:50:26.66,English,NTP,0,0,0,0,{\pos(192,264)}He runs our state-wide charity drive.
+Dialogue: 0,0:50:26.67,0:50:28.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}这两位是哈特探员 科尔探员
+Dialogue: 0,0:50:26.67,0:50:28.69,English,NTP,0,0,0,0,{\pos(192,264)}This is Detective Hart, Detective Cohle.
+Dialogue: 0,0:50:28.69,0:50:30.33,Chinese,NTP,0,0,0,0,{\pos(192,280)}很高兴见到你们 警官
+Dialogue: 0,0:50:28.69,0:50:30.33,English,NTP,0,0,0,0,{\pos(192,264)}Pleasure to meet you, officers.
+Dialogue: 0,0:50:30.33,0:50:31.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}很高心见到你 我是科尔
+Dialogue: 0,0:50:30.33,0:50:31.57,English,NTP,0,0,0,0,{\pos(192,264)}Nice to meet you. Cohle.
+Dialogue: 0,0:50:31.57,0:50:34.65,Chinese,NTP,0,0,0,0,{\pos(192,280)}你们的案子已受到广泛关注
+Dialogue: 0,0:50:31.57,0:50:34.65,English,NTP,0,0,0,0,{\pos(192,264)}Your case has a lot of people taking care,
+Dialogue: 0,0:50:34.65,0:50:37.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}夜不闭户的地方现在也人心惶惶
+Dialogue: 0,0:50:34.65,0:50:37.39,English,NTP,0,0,0,0,{\pos(192,264)}doors locking where they used to not.
+Dialogue: 0,0:50:37.59,0:50:39.49,Chinese,NTP,0,0,0,0,{\pos(192,280)}埃迪跟我提过几次了
+Dialogue: 0,0:50:37.59,0:50:39.49,English,NTP,0,0,0,0,{\pos(192,264)}Eddie's been speaking to me about it.
+Dialogue: 0,0:50:39.49,0:50:41.65,Chinese,NTP,0,0,0,0,{\pos(192,280)}他很关心此案的进展
+Dialogue: 0,0:50:39.49,0:50:41.65,English,NTP,0,0,0,0,{\pos(192,264)}Concerned, very concerned.
+Dialogue: 0,0:50:41.65,0:50:43.97,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们在考虑成立一个特别小组
+Dialogue: 0,0:50:41.65,0:50:43.97,English,NTP,0,0,0,0,{\pos(192,264)}We've been discussing the viability of a task force
+Dialogue: 0,0:50:43.97,0:50:46.68,Chinese,NTP,0,0,0,0,{\pos(192,280)}专门调查反基督徒犯罪
+Dialogue: 0,0:50:43.97,0:50:46.68,English,NTP,0,0,0,0,{\pos(192,264)}to investigate crimes with an anti-Christian connotation.
+Dialogue: 0,0:50:46.68,0:50:49.30,Chinese,NTP,0,0,0,0,{\pos(192,280)}什么? 开玩笑吗?
+Dialogue: 0,0:50:46.68,0:50:49.30,English,NTP,0,0,0,0,{\pos(192,264)}You what? Really?
+Dialogue: 0,0:50:52.12,0:50:53.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}是
+Dialogue: 0,0:50:52.12,0:50:53.20,English,NTP,0,0,0,0,{\pos(192,264)}Yes.
+Dialogue: 0,0:50:56.23,0:50:59.82,Chinese,NTP,0,0,0,0,{\pos(192,280)}我也不想把你们的处境公之于众
+Dialogue: 0,0:50:56.23,0:50:59.82,English,NTP,0,0,0,0,{\pos(192,264)}I don't mean to tell men of your positions,
+Dialogue: 0,0:50:59.82,0:51:03.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}但是此事绝不单纯
+Dialogue: 0,0:50:59.82,0:51:03.55,English,NTP,0,0,0,0,{\pos(192,264)}but there is a war happening behind things.
+Dialogue: 0,0:51:05.95,0:51:07.62,Chinese,NTP,0,0,0,0,{\pos(192,280)}工作辛苦了
+Dialogue: 0,0:51:05.95,0:51:07.62,English,NTP,0,0,0,0,{\pos(192,264)}Thank you for doing your part.
+Dialogue: 0,0:51:07.63,0:51:09.66,Chinese,NTP,0,0,0,0,{\pos(192,280)}谢谢 长官
+Dialogue: 0,0:51:07.63,0:51:09.66,English,NTP,0,0,0,0,{\pos(192,264)}Thank you, sir. Yeah.
+Dialogue: 0,0:51:13.58,0:51:16.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}有你们办这个案子
+Dialogue: 0,0:51:13.58,0:51:16.08,English,NTP,0,0,0,0,{\pos(192,264)}Eddie's going to be very, very pleased
+Dialogue: 0,0:51:16.08,0:51:18.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}埃迪会很高兴的
+Dialogue: 0,0:51:16.08,0:51:18.69,English,NTP,0,0,0,0,{\pos(192,264)}to have such good men working on this.
+Dialogue: 0,0:51:23.19,0:51:24.58,Chinese,NTP,0,0,0,0,{\pos(192,280)}你怎么回事?
+Dialogue: 0,0:51:23.19,0:51:24.58,English,NTP,0,0,0,0,{\pos(192,264)}Are you kidding me?
+Dialogue: 0,0:51:24.70,0:51:26.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}真他妈难以置信
+Dialogue: 0,0:51:24.70,0:51:26.83,English,NTP,0,0,0,0,{\pos(192,264)}Un-fuckin'-believable.
+Dialogue: 0,0:51:27.23,0:51:29.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}反基督徒
+Dialogue: 0,0:51:27.23,0:51:29.26,English,NTP,0,0,0,0,{\pos(192,264)}"Anti-Christian."
+Dialogue: 0,0:51:29.26,0:51:32.64,Chinese,NTP,0,0,0,0,{\pos(192,280)}去他的 艾迪又是谁?
+Dialogue: 0,0:51:29.26,0:51:32.64,English,NTP,0,0,0,0,{\pos(192,264)}Fucks. And who the fuck's Eddie?
+Dialogue: 0,0:51:35.15,0:51:36.36,Chinese,NTP,0,0,0,0,{\pos(192,280)}他真不知道?
+Dialogue: 0,0:51:35.15,0:51:36.36,English,NTP,0,0,0,0,{\pos(192,264)}Is he serious?
+Dialogue: 0,0:51:36.36,0:51:38.70,Chinese,NTP,0,0,0,0,{\pos(192,280)}他不看电视的
+Dialogue: 0,0:51:36.36,0:51:38.70,English,NTP,0,0,0,0,{\pos(192,264)}Well, he doesn't have a television.
+Dialogue: 0,0:51:38.71,0:51:40.66,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 艾迪是谁?  - 他从德州来的
+Dialogue: 0,0:51:38.71,0:51:40.66,English,NTP,0,0,0,0,{\pos(192,264)}- Who's Eddie? - And he's from Texas.
+Dialogue: 0,0:51:40.66,0:51:42.63,Chinese,NTP,0,0,0,0,{\pos(192,280)}他是那操蛋州长...
+Dialogue: 0,0:51:40.66,0:51:42.63,English,NTP,0,0,0,0,{\pos(192,264)}He's the fuckin' governor...
+Dialogue: 0,0:51:42.63,0:51:44.49,Chinese,NTP,0,0,0,0,{\pos(192,280)}埃德温 塔特尔
+Dialogue: 0,0:51:42.63,0:51:44.49,English,NTP,0,0,0,0,{\pos(192,264)}Edwin Tuttle.
+Dialogue: 0,0:51:44.49,0:51:46.16,Chinese,NTP,0,0,0,0,{\pos(192,280)}他们是堂兄弟
+Dialogue: 0,0:51:44.49,0:51:46.16,English,NTP,0,0,0,0,{\pos(192,264)}They're first cousins.
+Dialogue: 0,0:51:46.98,0:51:48.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}那就说得通了
+Dialogue: 0,0:51:46.98,0:51:48.25,English,NTP,0,0,0,0,{\pos(192,264)}Well, that makes sense.
+Dialogue: 0,0:51:48.25,0:51:50.25,Chinese,NTP,0,0,0,0,{\pos(192,280)}那可是大人物的声音
+Dialogue: 0,0:51:48.25,0:51:50.25,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, that's the sound of The Big Machine,
+Dialogue: 0,0:51:50.25,0:51:53.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}科尔 他们准备着揍你一顿呢
+Dialogue: 0,0:51:50.25,0:51:53.12,English,NTP,0,0,0,0,{\pos(192,264)}Cohle, that's gearing up to pound your ass.
+Dialogue: 0,0:51:53.58,0:51:55.66,Chinese,NTP,0,0,0,0,{\pos(192,280)}是一群母鸡的声音吧
+Dialogue: 0,0:51:53.58,0:51:55.66,English,NTP,0,0,0,0,{\pos(192,264)}The sound of a gaggle of hens.
+Dialogue: 0,0:51:55.66,0:51:57.56,Chinese,NTP,0,0,0,0,{\pos(192,280)}你最好说话注意点
+Dialogue: 0,0:51:55.66,0:51:57.56,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, you better watch your mouth
+Dialogue: 0,0:51:57.57,0:51:59.87,Chinese,NTP,0,0,0,0,{\pos(192,280)}小心它们把你眼睛啄出来
+Dialogue: 0,0:51:57.57,0:51:59.87,English,NTP,0,0,0,0,{\pos(192,264)}or they're gonna peck your eyes out.
+Dialogue: 0,0:52:03.60,0:52:05.50,Chinese,NTP,0,0,0,0,{\pos(192,280)}我来找哈特警探
+Dialogue: 0,0:52:03.60,0:52:05.50,English,NTP,0,0,0,0,{\pos(192,264)}I am looking for Detective Hart.
+Dialogue: 0,0:52:05.50,0:52:07.15,Chinese,NTP,0,0,0,0,{\pos(192,280)}我有一沓证词要给他
+Dialogue: 0,0:52:05.50,0:52:07.15,English,NTP,0,0,0,0,{\pos(192,264)}I have a stack of depositions for him.
+Dialogue: 0,0:52:07.15,0:52:08.80,Chinese,NTP,0,0,0,0,{\pos(192,280)}萨德本法官叮嘱我一定要把东西
+Dialogue: 0,0:52:07.15,0:52:08.80,English,NTP,0,0,0,0,{\pos(192,264)}Judge Sutpen told me to make sure and give them
+Dialogue: 0,0:52:08.80,0:52:11.03,Chinese,NTP,0,0,0,0,{\pos(192,280)}交到哈特警探本人手里 所以...
+Dialogue: 0,0:52:08.80,0:52:11.03,English,NTP,0,0,0,0,{\pos(192,264)}to Detective Hart and no one else, so...
+Dialogue: 0,0:52:11.32,0:52:12.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}哦 那是 ...
+Dialogue: 0,0:52:11.32,0:52:12.92,English,NTP,0,0,0,0,{\pos(192,264)}Oh. Is that the, um...
+Dialogue: 0,0:52:12.92,0:52:14.28,Chinese,NTP,0,0,0,0,{\pos(192,280)}证词
+Dialogue: 0,0:52:12.92,0:52:14.28,English,NTP,0,0,0,0,{\pos(192,264)}The, uh, depositions.
+Dialogue: 0,0:52:14.28,0:52:16.26,Chinese,NTP,0,0,0,0,{\pos(192,280)}我想我该给你详细解释下
+Dialogue: 0,0:52:14.28,0:52:16.26,English,NTP,0,0,0,0,{\pos(192,264)}I thought I should walk you through them.
+Dialogue: 0,0:52:16.26,0:52:19.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}好的 好的 咱们找个地方说吧
+Dialogue: 0,0:52:16.26,0:52:19.44,English,NTP,0,0,0,0,{\pos(192,264)}Oh. Great, great. Let's just find a place to talk.
+Dialogue: 0,0:52:19.77,0:52:20.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}多谢 凯思琳
+Dialogue: 0,0:52:19.77,0:52:20.93,English,NTP,0,0,0,0,{\pos(192,264)}Thanks, Cathleen.
+Dialogue: 0,0:52:20.93,0:52:22.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 谢谢你  - 不客气
+Dialogue: 0,0:52:20.93,0:52:22.57,English,NTP,0,0,0,0,{\pos(192,264)}- Thank you. - You're welcome.
+Dialogue: 0,0:52:22.57,0:52:24.14,Chinese,NTP,0,0,0,0,{\pos(192,280)}到后面来
+Dialogue: 0,0:52:22.57,0:52:24.14,English,NTP,0,0,0,0,{\pos(192,264)}Right through here.
+Dialogue: 0,0:52:52.20,0:52:53.95,Chinese,NTP,0,0,0,0,{\pos(192,280)}死者是朵拉 兰
+Dialogue: 0,0:52:52.20,0:52:53.95,English,NTP,0,0,0,0,{\pos(192,264)}Your victim was Dora Lange,
+Dialogue: 0,0:52:54.62,0:52:56.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}但你们都在调查玛丽 方特诺特
+Dialogue: 0,0:52:54.62,0:52:56.57,English,NTP,0,0,0,0,{\pos(192,264)}but you all checked on Marie Fontenot.
+Dialogue: 0,0:52:56.57,0:52:57.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}为什么?
+Dialogue: 0,0:52:56.57,0:52:57.73,English,NTP,0,0,0,0,{\pos(192,264)}Why?
+Dialogue: 0,0:52:58.44,0:53:00.01,Chinese,NTP,0,0,0,0,{\pos(192,280)}失踪五年的女孩
+Dialogue: 0,0:52:58.44,0:53:00.01,English,NTP,0,0,0,0,{\pos(192,264)}Missing girl, 5 years gone,
+Dialogue: 0,0:53:00.01,0:53:01.44,Chinese,NTP,0,0,0,0,{\pos(192,280)}错报?
+Dialogue: 0,0:53:00.01,0:53:01.44,English,NTP,0,0,0,0,{\pos(192,264)}report made in error?
+Dialogue: 0,0:53:01.44,0:53:04.33,Chinese,NTP,0,0,0,0,{\pos(192,280)}她有个叔叔 住在附近...
+Dialogue: 0,0:53:01.44,0:53:04.33,English,NTP,0,0,0,0,{\pos(192,264)}She had an uncle who lived nearby...
+Dialogue: 0,0:53:05.50,0:53:07.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}这是直觉
+Dialogue: 0,0:53:05.50,0:53:07.71,English,NTP,0,0,0,0,{\pos(192,264)}and call it intuition.
+Dialogue: 0,0:53:10.57,0:53:13.09,Chinese,NTP,0,0,0,0,{\pos(192,280)}有时候他的反应会多些
+Dialogue: 0,0:53:10.57,0:53:13.09,English,NTP,0,0,0,0,{\pos(192,264)}Sometimes he's more responsive.
+Dialogue: 0,0:53:13.19,0:53:14.75,Chinese,NTP,0,0,0,0,{\pos(192,280)}我希望可以帮到你们
+Dialogue: 0,0:53:13.19,0:53:14.75,English,NTP,0,0,0,0,{\pos(192,264)}I'd like to help.
+Dialogue: 0,0:53:21.17,0:53:22.70,Chinese,NTP,0,0,0,0,{\pos(192,280)}方特诺特先生
+Dialogue: 0,0:53:21.17,0:53:22.70,English,NTP,0,0,0,0,{\pos(192,264)}Mr. Fontenot.
+Dialogue: 0,0:53:29.59,0:53:30.77,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们见过
+Dialogue: 0,0:53:29.59,0:53:30.77,English,NTP,0,0,0,0,{\pos(192,264)}We met,
+Dialogue: 0,0:53:31.12,0:53:33.99,Chinese,NTP,0,0,0,0,{\pos(192,280)}大概七年前
+Dialogue: 0,0:53:31.12,0:53:33.99,English,NTP,0,0,0,0,{\pos(192,264)}oh, maybe 7 years ago.
+Dialogue: 0,0:53:34.19,0:53:36.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}当时我在访问斯基普 海斯
+Dialogue: 0,0:53:34.19,0:53:36.02,English,NTP,0,0,0,0,{\pos(192,264)}I was visiting Skip Hays.
+Dialogue: 0,0:53:36.02,0:53:38.16,Chinese,NTP,0,0,0,0,{\pos(192,280)}我以前在足球联盟踢球
+Dialogue: 0,0:53:36.02,0:53:38.16,English,NTP,0,0,0,0,{\pos(192,264)}I'd played for USL.
+Dialogue: 0,0:53:39.04,0:53:42.37,Chinese,NTP,0,0,0,0,{\pos(192,280)}看你投球真是一件美事 先生
+Dialogue: 0,0:53:39.04,0:53:42.37,English,NTP,0,0,0,0,{\pos(192,264)}Thing of beauty, sir, watching you throw.
+Dialogue: 0,0:53:43.69,0:53:46.20,Chinese,NTP,0,0,0,0,{\pos(192,280)}丹尼 他是名警探
+Dialogue: 0,0:53:43.69,0:53:46.20,English,NTP,0,0,0,0,{\pos(192,264)}Danny, this man's a detective
+Dialogue: 0,0:53:46.20,0:53:47.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}与警方合作的
+Dialogue: 0,0:53:46.20,0:53:47.57,English,NTP,0,0,0,0,{\pos(192,264)}with the police.
+Dialogue: 0,0:53:55.54,0:53:58.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}实际上...抱歉
+Dialogue: 0,0:53:55.54,0:53:58.24,English,NTP,0,0,0,0,{\pos(192,264)}I'm actually... Sorry, uh,
+Dialogue: 0,0:53:58.78,0:54:01.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们想问问你的侄女玛丽的事
+Dialogue: 0,0:53:58.78,0:54:01.83,English,NTP,0,0,0,0,{\pos(192,264)}we wanted to ask you about your niece, Marie.
+Dialogue: 0,0:54:03.29,0:54:06.65,Chinese,NTP,0,0,0,0,{\pos(192,280)}“你要让一个家庭承受多少痛苦” 我问主
+Dialogue: 0,0:54:03.29,0:54:06.65,English,NTP,0,0,0,0,{\pos(192,264)}"How much could you put on one family?" I ask the Lord.
+Dialogue: 0,0:54:07.13,0:54:08.67,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们想过下去
+Dialogue: 0,0:54:07.13,0:54:08.67,English,NTP,0,0,0,0,{\pos(192,264)}We try to get by.
+Dialogue: 0,0:54:09.86,0:54:12.01,Chinese,NTP,0,0,0,0,{\pos(192,280)}你认识玛丽的生父吗?
+Dialogue: 0,0:54:09.86,0:54:12.01,English,NTP,0,0,0,0,{\pos(192,264)}Did you know Marie's birth father?
+Dialogue: 0,0:54:12.01,0:54:13.10,Chinese,NTP,0,0,0,0,{\pos(192,280)}伦恩?
+Dialogue: 0,0:54:12.01,0:54:13.10,English,NTP,0,0,0,0,{\pos(192,264)}Len?
+Dialogue: 0,0:54:13.69,0:54:15.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}她爸爸是伦恩 斯特劳斯
+Dialogue: 0,0:54:13.69,0:54:15.57,English,NTP,0,0,0,0,{\pos(192,264)}Len Stroghes was her daddy.
+Dialogue: 0,0:54:17.31,0:54:18.37,Chinese,NTP,0,0,0,0,{\pos(192,280)}没事的
+Dialogue: 0,0:54:17.31,0:54:18.37,English,NTP,0,0,0,0,{\pos(192,264)}It's OK.
+Dialogue: 0,0:54:18.48,0:54:20.90,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们问是因为
+Dialogue: 0,0:54:18.48,0:54:20.90,English,NTP,0,0,0,0,{\pos(192,264)}We're asking because, uh,
+Dialogue: 0,0:54:20.90,0:54:23.63,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们听说玛丽和他远走高飞了
+Dialogue: 0,0:54:20.90,0:54:23.63,English,NTP,0,0,0,0,{\pos(192,264)}we had heard that Marie ran off with him
+Dialogue: 0,0:54:23.63,0:54:27.24,Chinese,NTP,0,0,0,0,{\pos(192,280)}并不是...真的失踪
+Dialogue: 0,0:54:23.63,0:54:27.24,English,NTP,0,0,0,0,{\pos(192,264)}and that...she wasn't really missing.
+Dialogue: 0,0:54:29.70,0:54:31.55,Chinese,NTP,0,0,0,0,{\pos(192,280)}是黛比说的吧
+Dialogue: 0,0:54:29.70,0:54:31.55,English,NTP,0,0,0,0,{\pos(192,264)}That's what Debbie said.
+Dialogue: 0,0:54:31.56,0:54:35.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}有伦恩的消息吗?
+Dialogue: 0,0:54:31.56,0:54:35.73,English,NTP,0,0,0,0,{\pos(192,264)}Oh. Well, uh... anybody heard from Len?
+Dialogue: 0,0:54:35.73,0:54:39.46,Chinese,NTP,0,0,0,0,{\pos(192,280)}有人知道他在哪里吗?
+Dialogue: 0,0:54:35.73,0:54:39.46,English,NTP,0,0,0,0,{\pos(192,264)}Anybody maybe knows where he's at?
+Dialogue: 0,0:54:43.77,0:54:46.28,Chinese,NTP,0,0,0,0,{\pos(192,280)}抱歉 最后一件事
+Dialogue: 0,0:54:43.77,0:54:46.28,English,NTP,0,0,0,0,{\pos(192,264)}Uh, sorry. The last thing.
+Dialogue: 0,0:54:46.47,0:54:48.18,Chinese,NTP,0,0,0,0,{\pos(192,280)}你知道黛比现在在哪里吗?
+Dialogue: 0,0:54:46.47,0:54:48.18,English,NTP,0,0,0,0,{\pos(192,264)}Do you know where Debbie is now?
+Dialogue: 0,0:54:48.18,0:54:49.79,Chinese,NTP,0,0,0,0,{\pos(192,280)}她嫁给别人了
+Dialogue: 0,0:54:48.18,0:54:49.79,English,NTP,0,0,0,0,{\pos(192,264)}She married another man.
+Dialogue: 0,0:54:49.79,0:54:52.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}不是玛丽还在时的那个人...
+Dialogue: 0,0:54:49.79,0:54:52.73,English,NTP,0,0,0,0,{\pos(192,264)}Not the one she's with when Marie...
+Dialogue: 0,0:54:53.73,0:54:56.21,Chinese,NTP,0,0,0,0,{\pos(192,280)}最近一次听说她的消息是她在拉斯维加斯
+Dialogue: 0,0:54:53.73,0:54:56.21,English,NTP,0,0,0,0,{\pos(192,264)}She was in Vegas, last we heard.
+Dialogue: 0,0:55:19.71,0:55:21.61,Chinese,NTP,0,0,0,0,{\pos(192,280)}玛丽一定很喜欢这里
+Dialogue: 0,0:55:19.71,0:55:21.61,English,NTP,0,0,0,0,{\pos(192,264)}Marie must have loved it here.
+Dialogue: 0,0:55:21.73,0:55:22.85,Chinese,NTP,0,0,0,0,{\pos(192,280)}是的
+Dialogue: 0,0:55:21.73,0:55:22.85,English,NTP,0,0,0,0,{\pos(192,264)}Yeah.
+Dialogue: 0,0:55:23.22,0:55:24.72,Chinese,NTP,0,0,0,0,{\pos(192,280)}这些都是她的吗?
+Dialogue: 0,0:55:23.22,0:55:24.72,English,NTP,0,0,0,0,{\pos(192,264)}All this for her?
+Dialogue: 0,0:55:24.91,0:55:27.02,Chinese,NTP,0,0,0,0,{\pos(192,280)}丹尼非常爱她
+Dialogue: 0,0:55:24.91,0:55:27.02,English,NTP,0,0,0,0,{\pos(192,264)}Danny loved her so much.
+Dialogue: 0,0:55:27.63,0:55:29.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}虽然我们不是她的法定监护人
+Dialogue: 0,0:55:27.63,0:55:29.19,English,NTP,0,0,0,0,{\pos(192,264)}We weren't her legal guardians,
+Dialogue: 0,0:55:29.19,0:55:31.50,Chinese,NTP,0,0,0,0,{\pos(192,280)}但她跟我们在一起的时间
+Dialogue: 0,0:55:29.19,0:55:31.50,English,NTP,0,0,0,0,{\pos(192,264)}but she played here all the time,
+Dialogue: 0,0:55:31.61,0:55:33.29,Chinese,NTP,0,0,0,0,{\pos(192,280)}比跟她妈妈的还多
+Dialogue: 0,0:55:31.61,0:55:33.29,English,NTP,0,0,0,0,{\pos(192,264)}more than her Mama's.
+Dialogue: 0,0:55:33.46,0:55:34.69,Chinese,NTP,0,0,0,0,{\pos(192,280)}我能看出来原因
+Dialogue: 0,0:55:33.46,0:55:34.69,English,NTP,0,0,0,0,{\pos(192,264)}I can see why.
+Dialogue: 0,0:55:36.22,0:55:39.37,Chinese,NTP,0,0,0,0,{\pos(192,280)}如果你不介意的话 丹尼得的是什么病
+Dialogue: 0,0:55:36.22,0:55:39.37,English,NTP,0,0,0,0,{\pos(192,264)}What is it Dan has, if you don't mind my asking?
+Dialogue: 0,0:55:40.03,0:55:43.42,Chinese,NTP,0,0,0,0,{\pos(192,280)}他们只说是"脑部的问题"
+Dialogue: 0,0:55:40.03,0:55:43.42,English,NTP,0,0,0,0,{\pos(192,264)}All they ever told us was "a cerebral event."
+Dialogue: 0,0:55:43.91,0:55:45.95,Chinese,NTP,0,0,0,0,{\pos(192,280)}类似连续中风
+Dialogue: 0,0:55:43.91,0:55:45.95,English,NTP,0,0,0,0,{\pos(192,264)}Series of strokes, like.
+Dialogue: 0,0:55:54.18,0:55:55.29,Chinese,NTP,0,0,0,0,{\pos(192,280)}马蒂?
+Dialogue: 0,0:55:54.18,0:55:55.29,English,NTP,0,0,0,0,{\pos(192,264)}Marty?
+Dialogue: 0,0:55:58.25,0:56:00.08,Chinese,NTP,0,0,0,0,{\pos(192,280)}失陪一下
+Dialogue: 0,0:55:58.25,0:56:00.08,English,NTP,0,0,0,0,{\pos(192,264)}Excuse me for one sec.
+Dialogue: 0,0:56:11.20,0:56:13.39,Chinese,NTP,0,0,0,0,{\pos(192,280)}屋里地板的右边
+Dialogue: 0,0:56:11.20,0:56:13.39,English,NTP,0,0,0,0,{\pos(192,264)}Inside on the floor on the right.
+Dialogue: 0,0:56:33.37,0:56:34.89,Chinese,NTP,0,0,0,0,{\pos(192,280)}我不知道那是什么
+Dialogue: 0,0:56:33.37,0:56:34.89,English,NTP,0,0,0,0,{\pos(192,264)}I don't know what that is.
+Dialogue: 0,0:56:34.89,0:56:38.06,Chinese,NTP,0,0,0,0,{\pos(192,280)}从警察第一次来过后我就没去过那里
+Dialogue: 0,0:56:34.89,0:56:38.06,English,NTP,0,0,0,0,{\pos(192,264)}I haven't looked in there since the police first came.
+Dialogue: 0,0:56:45.96,0:56:48.60,Chinese,NTP,0,0,0,0,{\pos(192,280)}你肯定想听最精彩的部分吧
+Dialogue: 0,0:56:45.96,0:56:48.60,English,NTP,0,0,0,0,{\pos(192,264)}Bet you want to hear the hero shot, huh?
+Dialogue: 0,0:56:50.02,0:56:53.29,Chinese,NTP,0,0,0,0,{\pos(192,280)}我们救出孩子的地方?
+Dialogue: 0,0:56:50.02,0:56:53.29,English,NTP,0,0,0,0,{\pos(192,264)}That place we carried the kids out?
+Dialogue: 0,0:56:53.29,0:56:54.92,Chinese,NTP,0,0,0,0,{\pos(192,280)}最后会问到的 没错
+Dialogue: 0,0:56:53.29,0:56:54.92,English,NTP,0,0,0,0,{\pos(192,264)}Eventually, sure.
+Dialogue: 0,0:56:57.95,0:56:59.66,Chinese,NTP,0,0,0,0,{\pos(192,280)}她长什么样...
+Dialogue: 0,0:56:57.95,0:56:59.66,English,NTP,0,0,0,0,{\pos(192,264)}So what did she look like...
+Dialogue: 0,0:57:00.86,0:57:02.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}查尔斯湖的那个人?
+Dialogue: 0,0:57:00.86,0:57:02.73,English,NTP,0,0,0,0,{\pos(192,264)}that one in Lake Charles?
+Dialogue: 0,0:57:28.05,0:57:30.13,Chinese,NTP,0,0,0,0,{\pos(192,280)}你能 看出
+Dialogue: 0,0:57:28.05,0:57:30.13,English,NTP,0,0,0,0,{\pos(192,264)}Can you, uh, tell us
+Dialogue: 0,0:57:30.13,0:57:32.36,Chinese,NTP,0,0,0,0,{\pos(192,280)}任何线索吗? 科尔先生
+Dialogue: 0,0:57:30.13,0:57:32.36,English,NTP,0,0,0,0,{\pos(192,264)}anything about that, Mr. Cohle?
+Dialogue: 0,0:57:36.67,0:57:39.74,Chinese,NTP,0,0,0,0,{\pos(192,280)}这尸体和95年的那具非常像
+Dialogue: 0,0:57:36.67,0:57:39.74,English,NTP,0,0,0,0,{\pos(192,264)}That looks a lot like the one from '95,
+Dialogue: 0,0:57:40.62,0:57:42.36,Chinese,NTP,0,0,0,0,{\pos(192,280)}不过 你们早就知道了
+Dialogue: 0,0:57:40.62,0:57:42.36,English,NTP,0,0,0,0,{\pos(192,264)}but...well, you knew that already.
+Dialogue: 0,0:57:42.36,0:57:46.57,Chinese,NTP,0,0,0,0,{\pos(192,280)}是的 具体内容和95年的案子一致
+Dialogue: 0,0:57:42.36,0:57:46.57,English,NTP,0,0,0,0,{\pos(192,264)}Yeah, there are specifics consistent to the '95 case,
+Dialogue: 0,0:57:46.57,0:57:48.73,Chinese,NTP,0,0,0,0,{\pos(192,280)}没有公之于众的细节
+Dialogue: 0,0:57:46.57,0:57:48.73,English,NTP,0,0,0,0,{\pos(192,264)}details that weren't public knowledge.
+Dialogue: 0,0:57:50.50,0:57:52.93,Chinese,NTP,0,0,0,0,{\pos(192,280)}你消失了八年 对吗?
+Dialogue: 0,0:57:50.50,0:57:52.93,English,NTP,0,0,0,0,{\pos(192,264)}You were off the grid for 8 years, right?
+Dialogue: 0,0:57:53.52,0:57:56.19,Chinese,NTP,0,0,0,0,{\pos(192,280)}- 2010年又出现在这里  - 我的问题是...
+Dialogue: 0,0:57:53.52,0:57:56.19,English,NTP,0,0,0,0,{\pos(192,264)}- Show back up here 2010. - My question is...
+Dialogue: 0,0:57:56.19,0:57:58.12,Chinese,NTP,0,0,0,0,{\pos(192,280)}怎么会是他...
+Dialogue: 0,0:57:56.19,0:57:58.12,English,NTP,0,0,0,0,{\pos(192,264)}How could it be him...
+Dialogue: 0,0:58:00.93,0:58:03.71,Chinese,NTP,0,0,0,0,{\pos(192,280)}如果我们95年已经抓到了他?
+Dialogue: 0,0:58:00.93,0:58:03.71,English,NTP,0,0,0,0,{\pos(192,264)}if we already caught him in '95?
+Dialogue: 0,0:58:06.38,0:58:08.65,Chinese,NTP,0,0,0,0,{\pos(192,280)}确实 怎么会呢 警探们?
+Dialogue: 0,0:58:06.38,0:58:08.65,English,NTP,0,0,0,0,{\pos(192,264)}How, indeed, Detectives?
+Dialogue: 0,0:58:09.82,0:58:11.83,Chinese,NTP,0,0,0,0,{\pos(192,280)}我觉得你知道
+Dialogue: 0,0:58:09.82,0:58:11.83,English,NTP,0,0,0,0,{\pos(192,264)}I figured you'd be the one to know.
+Dialogue: 0,0:58:20.85,0:58:23.70,Chinese,NTP,0,0,0,0,{\pos(192,280)}那就别他妈问这些没用的问题
+Dialogue: 0,0:58:20.85,0:58:23.70,English,NTP,0,0,0,0,{\pos(192,264)}Then start asking the right fuckin' questions.
+Dialogue: 0,0:02:13.73,0:02:15.27,Screen,NTP,0,0,0,!Effect,{\an8\fn微软雅黑\fs28\blur1.2\b1\bord0\shad0\3c&H2F2F2F&}{\c&H0A136D&}录 像 中...
+Dialogue: 0,0:02:20.21,0:02:29.96,Screen,NTP,0,0,0,!Effect,{\an4\pos(38,170)\fad(300,500)\fs12\b0\bord1.5\shad0\blur1\3c&H2F2F2F&}路易斯安那 州警 刑事调查局\N陈述人:\N哈特, 马丁 艾瑞克
+Dialogue: 0,0:02:23.56,0:02:29.96,Screen,NTP,0,0,0,!Effect,{\an4\fad(300,500)\pos(38,195)\blur1.5\fs12\b0\bord1\shad0\3c&H2F2F2F&}2012年5月1日
+Dialogue: 0,0:03:37.54,0:03:46.93,Screen,NTP,0,0,0,!Effect,{\an4\pos(38,170)\fad(300,500)\fs12\b0\bord1.5\shad0\blur1\3c&H2F2F2F&}路易斯安那 州警 刑事调查局\N陈述人:\N科尔, 拉斯汀 斯班瑟
+Dialogue: 0,0:03:40.83,0:03:46.93,Screen,NTP,0,0,0,!Effect,{\an4\fad(300,500)\pos(38,195)\blur1\fs12\b0\bord1\shad0\3c&H2F2F2F&}2012年4月26日
+Dialogue: 0,0:09:55.11,0:09:58.20,Screen,NTP,0,0,0,!Effect,{\pos(140,120)\fs18\frz30\fax0.3\b1\bord1\shad1}{\c&H0A136D&}性{\c&HE3E3E3&}犯罪
+Dialogue: 0,0:18:04.29,0:18:07.22,Screen,NTP,0,0,0,!Effect,{\pos(192,130)\fs12\b1\bord10\shad0\fad(0,500)}{\c&HA69376&\3c&H3E355D&}你知道\N{\fs18}是谁杀了我?\N{\fs10}{\c&H476752&\3c&H00000&}悬赏一万美元\N{\fs14\c&HA69376&}斯黛西 格哈特 - {\fs10}14岁
+Dialogue: 0,0:18:51.15,0:18:56.74,Screen,NTP,0,0,0,!Effect,{\move(360,156,295,169)\an4\fs10\bord8\shad1\3c&H27221c&}{\c&HAAA392&}路易斯安那州 警察局\N犯罪调查分局{\c&HE3E3E3&}
+Dialogue: 0,0:30:55.07,0:30:57.33,Screen,NTP,0,0,0,!Effect,{\pos(100,110)\fn新宋体\fs18\b1\fad(0,300)\bord0\shad0\c&H000000&}伊拉斯外的神秘谋杀案
+Dialogue: 0,0:34:59.96,0:35:01.71,Screen,NTP,0,0,0,!Effect,{\pos(192,250)\fs14\b1\fscx80}萨泰里阿 {\fs12\b0}非洲土著宗教
+Dialogue: 0,0:35:30.85,0:35:35.19,Screen,NTP,0,0,0,!Effect,{\pos(170,247)\fn新宋体\fscx90\fs14\b1\bord2\shad6\c&H000000&\3c&H1B2C3B&\4c&H1B2C3B&}治安官 泰特
+Dialogue: 0,0:00:14.30,0:00:17.30,SongChs,,0,0,0,,\h\h\h\h从尘土飞扬的远山\N{\rSongEng\fax-0.3}♪ From the dusty mesa
+Dialogue: 0,0:00:17.30,0:00:21.69,SongChs,,0,0,0,,\h\h\h\h升起她若隐若现的影\N{\rSongEng\fax-0.3}♪ Her looming shadow grows
+Dialogue: 0,0:00:21.90,0:00:25.59,SongChs,,0,0,0,,\h\h\h\h涂满毒油的枝杈\N{\rSongEng\fax-0.3}♪ Hidden in the branches
+Dialogue: 0,0:00:26.00,0:00:30.09,SongChs,,0,0,0,,\h\h\h\h伸展着为她遮掩\N{\rSongEng\fax-0.3}♪ Of the poison creosote
+Dialogue: 0,0:00:32.00,0:00:35.59,SongChs,,0,0,0,,\h\h\h\h她的脊柱盘旋而上\N{\rSongEng\fax-0.3}♪ She twines her spines up slowly
+Dialogue: 0,0:00:36.20,0:00:39.59,SongChs,,0,0,0,,\h\h\h\h慢慢靠近正在沸腾的太阳\N{\rSongEng\fax-0.3}♪ Towards the boiling sun
+Dialogue: 0,0:00:40.40,0:00:43.09,SongChs,,0,0,0,,\h\h\h\h当我触摸她的皮肤\N{\rSongEng\fax-0.3}♪ And when I touched her skin
+Dialogue: 0,0:00:44.00,0:00:48.19,SongChs,,0,0,0,,\h\h\h\h指尖喷涌出鲜血\N{\rSongEng\fax-0.3}♪ My fingers ran with blood
+Dialogue: 0,0:00:56.40,0:01:00.99,SongChs,,0,0,0,,\h\h\h\h当岩石上残留最后一束光\N{\rSongEng\fax-0.3}♪ When the last light warms the rocks
+Dialogue: 0,0:01:01.00,0:01:03.39,SongChs,,0,0,0,,\h\h\h\h响尾蛇缓缓展开了身躯\N{\rSongEng\fax-0.3}♪ And the rattlesnakes unfold
+Dialogue: 0,0:01:04.62,0:01:08.21,SongChs,,0,0,0,,\h\h\h\h山猫也将过来\N{\rSongEng\fax-0.3}♪ Mountain cats will come
+Dialogue: 0,0:01:08.30,0:01:11.89,SongChs,,0,0,0,,\h\h\h\h拖走你的骨头\N{\rSongEng\fax-0.3}♪ To drag away your bones
+Dialogue: 0,0:01:14.72,0:01:18.41,SongChs,,0,0,0,,\h\h\h\h永远随我升起吧\N{\rSongEng\fax-0.3}♪ And rise with me forever
+Dialogue: 0,0:01:18.52,0:01:21.41,SongChs,,0,0,0,,\h\h\h\h越过无声的砂砾\N{\rSongEng\fax-0.3}♪ Across the silent sand
+Dialogue: 0,0:01:22.12,0:01:24.81,SongChs,,0,0,0,,\h\h\h\h星辰将成为你的眼睛\N{\rSongEng\fax-0.3}♪ And the stars will be your eyes
+Dialogue: 0,0:01:25.22,0:01:29.91,SongChs,,0,0,0,,\h\h\h\h风将成为我的双手\N{\rSongEng\fax-0.3}♪ And the wind will be my hands
+Dialogue: 0,0:58:46.98,0:58:52.98,SongChs,,0,0,0,,\h\h\h\h群山之火抬起你的脚 让我们走吧\N{\rSongEng\fax-0.3}♪ Fire for the hills pick up your feet and lets go.
+Dialogue: 0,0:58:55.02,0:59:01.02,SongChs,,0,0,0,,\h\h\h\h跑得远远的 你在路上捡起钢铁\N{\rSongEng\fax-0.3}♪ Head for the hills pick up steel on your way.
+Dialogue: 0,0:59:01.70,0:59:07.70,SongChs,,0,0,0,,\h\h\h\h当你在你的位置上找到它们的一部分\N{\rSongEng\fax-0.3}♪ And when you find a piece of them in your site
+Dialogue: 0,0:59:08.40,0:59:15.40,SongChs,,0,0,0,,\h\h\h\h随意开火 你不要浪费时间\N{\rSongEng\fax-0.3}♪ Fire at will, don’t you waste no time.
+Dialogue: 0,0:59:18.30,0:59:27.00,SongChs,,0,0,0,,\h\h\h\h在点滴的爱 努力让你自由\N{\rSongEng\fax-0.3}♪ With a drop of love,trying to set you free.
+Dialogue: 0,0:00:05.00,0:00:20.00,SongEng,,0,0,0,,{\an1\pos(10,250)\fad(300,500)\fs10\blur1\fsp0}< Far From Any Road >\N{\fs8\b0\fsp0\i0}表演 The Handsome Family 2003年发行于专辑< Singing Bones >
+Dialogue: 0,0:58:35.24,0:58:50.24,SongEng,,0,0,0,,{\an1\pos(10,250)\fad(300,500)\fs10\blur1}< Young Men Dead >\N{\fs8\b0\fsp0\i0}演唱者 The Black Angels 所属专辑《Alan Wake》
+Dialogue: 0,0:00:08.20,0:00:10.70,cast,,0,0,0,,{\an4\move(75,180,105,177)\t(\fscx76.5\fscy90)\fad(300,300)\fs13}{\c&HB2B2B2&}马修 {\fs16}麦康纳{\c&H535353&}
+Dialogue: 0,0:00:08.20,0:00:10.70,cast,,0,0,0,,{\an6\move(302,70,296,75)\fad(100,100)\fs12}伍迪 {\fs16}哈里森
+Dialogue: 0,0:00:10.70,0:00:12.70,cast,,0,0,0,,{\an4\move(245,87,245,77)\fad(100,100)\fs12}米歇尔 {\fs14}莫纳汉
+Dialogue: 0,0:00:12.70,0:00:14.70,cast,,0,0,0,,{\an6\move(299,222,303,233)\fad(300,100)\fs14}迈克尔 波茨
+Dialogue: 0,0:00:14.60,0:00:17.10,cast,,0,0,0,,{\move(250,70,242,70)\fad(100,300)\fs14}托利 基特尔斯
+Dialogue: 0,0:00:19.90,0:00:22.50,cast,,0,0,0,,{\an6\move(305,103,309,110)\fad(100,100)\fs7\fn新宋体\fscx100}选   角{\fs3}{\fn\fscx}\N\N{\fs14}阿丽萨 L. 福格尔\N{\fs9}CSA
+Dialogue: 0,0:00:24.20,0:00:26.60,cast,,0,0,0,,{\an4\move(227,141,223,148)\fad(100,100)\fs7\fn新宋体\fscx100}音   乐{\fs3}{\fn\fscx}\N\N{\fs14}T 本恩 本内特
+Dialogue: 0,0:00:29.70,0:00:32.10,cast,,0,0,0,,{\an4\move(242,168,226,176)\fad(100,100)\fs7\fn新宋体\fscx100}服装设计{\fs3}{\fn\fscx}\N\N{\fs14}珍妮 伊根
+Dialogue: 0,0:00:33.30,0:00:35.70,cast,,0,0,0,,{\an6\move(177,243,172,239)\fad(100,100)\fs6\fn新宋体\fscx100}{\c&HB1B1B1&}剪   辑{\fs3}{\fn\fscx}\N\N{\fs13}艾历克斯 霍尔{\c&H535353&}
+Dialogue: 0,0:00:38.30,0:00:40.70,cast,,0,0,0,,{\an4\move(164,169,188,170)\fad(100,100)\fs7\fn新宋体\fscx100}艺术设计{\fs3}{\fn\fscx}\N\N{\fs14}亚历克斯 迪杰兰多
+Dialogue: 0,0:00:48.60,0:00:50.60,cast,,0,0,0,,{\an4\move(215,179,210,179)\fad(0,0)\fs7\fn新宋体\fscx100}摄   影{\fs3}{\fn\fscx}\N\N{\fs14}亚当 阿卡波
+Dialogue: 0,0:00:54.00,0:00:56.30,cast,,0,0,0,,{\an4\move(233,95,231,97)\fad(100,100)\fs7\fn新宋体\fscx100}{\t(fscx98\fscy98)}联合制片人{\fs3}{\fn\fscx}\N\N{\fs14}{\t(fscx98\fscy98)}杰西卡 莱文
+Dialogue: 0,0:00:58.30,0:01:00.50,cast,,0,0,0,,{\an4\move(231,171,236,172)\fad(200,0)\fs7\fn新宋体\fscx100}{\c&HDADADA&}{\t(fscx102\fscy102)}制片人{\fs3}{\fn\fscx}\N\N{\fs14}{\t(fscx102\fscy102)}卡罗 库迪{\c&H535353&}
+Dialogue: 0,0:01:00.80,0:01:03.30,cast,,0,0,0,,{\an4\move(222,102,213,106)\fad(200,0)\fs7\fn新宋体\fscx100}{\c&HDADADA&}{\t(fscx102\fscy102)}执行制片人{\fs3}{\fn\fscx}\N\N{\fs14}{\t(fscx98\fscy98)}史蒂夫 戈林{\fs3}\N\N{\fs14}{\t(fscx98\fscy98)}理查德 布朗
+Dialogue: 0,0:01:04.40,0:01:06.80,cast,,0,0,0,,{\an4\move(76,226,76,221)\fad(0,0)\fs7\fn新宋体\fscx100}{\c&HDADADA&}{\t(fscx98\fscy98)}执行制片人{\fs3}{\fn\fscx}\N\N{\fs14}{\t(fscx98\fscy98)}伍迪 哈里森
+Dialogue: 0,0:01:08.40,0:01:10.60,cast,,0,0,0,,{\an9\move(310,83,304,87)\fad(0,0)\fs7\fn新宋体\fscx100}{\c&HDADADA&}{\t(fscx98\fscy98)}执行制片人{\fs3}{\fn\fscx}\N\N{\fs14}{\t(fscx98\fscy98)}马修 麦康纳
+Dialogue: 0,0:01:14.00,0:01:16.40,cast,,0,0,0,,{\an1\move(78,217,74,220)\fad(0,100)\fs7\fn新宋体\fscx100}{\c&HDADADA&}{\t(fscx102\fscy102)}执行制片人{\fs3}{\fn\fscx}\N\N{\fs14}{\t(fscx102\fscy102)}斯科特 斯蒂文斯
+Dialogue: 0,0:01:18.40,0:01:20.80,cast,,0,0,0,,{\an1\move(73,205,75,207)\fad(0,100)\fs7\fn新宋体\fscx100}{\c&HDADADA&}{\t(fscx102\fscy102)}执行制片人{\fs3}{\fn\fscx}\N\N{\fs14}{\t(fscx102\fscy102)}凯瑞 乔吉 福永
+Dialogue: 0,0:01:23.20,0:01:25.50,cast,,0,0,0,,{\an4\move(224,105,225,109)\fad(0,0)\fs7\fn新宋体\fscx100}{\c&HDADADA&}执行制片人{\fs3}{\fn\fscx}\N\N{\fs14}尼克 皮佐拉托
+Dialogue: 0,0:01:30.00,0:01:32.40,cast,,0,0,0,,{\pos(192,185)\fad(100,100)\fs7\fn新宋体\fscx100}{\c&HC0C0C0&}创   意{\fn\fscx}\N\N\N\N\N\N\N\N\N{\fs14}尼克 皮佐拉托{\c&H535353&}
+Dialogue: 0,0:01:32.40,0:01:34.60,cast,,0,0,0,,{\move(192,130,192,135)\fad(100,100)\fs7\fn新宋体\fscx100}编   剧{\fn\fscx}\N\N{\fs14}尼克 皮佐拉托
+Dialogue: 0,0:01:34.50,0:01:36.70,cast,,0,0,0,,{\move(192,145,192,150)\fad(100,100)\fs7\fn新宋体\fscx100}导   演{\fn\fscx}\N\N{\fs14}凯瑞 乔吉 福永
+Dialogue: 0,0:01:26.44,0:01:30.15,标题,NTP,0000,0000,0000,,{\bord0\shad0\fs14\b0\blur1\fad(330,550)\t(0,3691,\fs13)\iclip(188,129,196,208)\t(0,1000,\iclip(192,129,192,208))\move(193,220,193,209,21,3691)}第一季  第一集
+Dialogue: 0,0:01:26.44,0:01:30.15,标题,NTP,0000,0000,0000,,{\bord0\shad0\fs40\blur1\b1\fad(330,550)\c&H333A98&\t(0,3691,\fs35)\move(193,199,193,192,0,3691)\iclip(188,129,196,208)\t(0,1000,\iclip(192,129,192,208))}真    探

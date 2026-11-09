@@ -1,0 +1,556 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: The.Queens.Gambit
+Original Script: FIXSubtitleGroup
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 1
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,18,&H00DEDEDE,&HF0000000,&H00111211,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,5,134
+Style: 特效,微软雅黑,20,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: 注释,微软雅黑,18,&H00DEDEDE,&HFF000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,0,0,5,1
+Style: 歌词,微软雅黑,13,&H00DEDEDE,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,7,15,5,20,1
+Style: 特效 - 背景,微软雅黑,20,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,1,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:40.31,0:03:43.60,特效,,0,0,0,,{\c&H6B6F21&\fn方正兰亭粗黑_GBK\fs10\fscx70\blur0.4\fsp10\b1\a6\pos(192,151.4)}后翼弃{\fsp0}兵\N{\fs5}\N{\fsp3\fs8}第一季 第５{\fsp0}集
+Dialogue: 0,0:27:49.85,0:27:57.06,特效,,0,0,0,,{\pos(192,43.2)}‎{\c&H5AB2DC&\shad1.5\fn方正兰亭特黑长_GBK\fs25\4c&H000000&\pos(192,54.4)\1a&HF0&\4a&HF0&\t(25,1983,\1a&H00&,\4a&H00&)\t(5233,7192,\1a&HF0&\4a&HF0&)}俄亥俄州 美国国际象棋锦标赛
+Dialogue: 0,0:29:59.85,0:30:06.18,特效,,0,0,0,,{\a6\fs48\fn方正兰亭特黑_GBK\fscx70\c&HB2B8BA&\pos(190.5,146.4)}‎第　天
+Dialogue: 0,0:30:33.14,0:30:36.39,特效,,0,0,0,,{\a6\fs89\fn方正兰亭特黑_GBK\fscx70\c&HB2B8BA&\pos(194.8,142)}‎第　天
+Dialogue: 0,0:30:36.39,0:30:37.81,特效,,0,0,0,,{\a6\fs48\fn方正兰亭特黑_GBK\fscx70\c&HB2B8BA&\pos(194.4,146.4)}‎第　天
+Dialogue: 0,0:31:17.89,0:31:19.43,特效,,0,0,0,,{\a6\fs89\fn方正兰亭特黑_GBK\fscx70\c&HB2B8BA&\pos(194.8,142)}‎第　天
+Dialogue: 0,0:00:06.41,0:00:08.16,Default,,0,0,0,,黑暗没什么可怕的\N{\c&H62a8eb&\fs13}Dark's nothing to be afraid of.
+Dialogue: 0,0:00:08.66,0:00:12.12,Default,,0,0,0,,‎说真的 我甚至认为世上没什么好怕的\N{\c&H62a8eb&\fs13}In fact, I'd go as far as saying there's nothing to be afraid of.
+Dialogue: 0,0:00:12.20,0:00:13.20,Default,,0,0,0,,‎在哪里都一样\N{\c&H62a8eb&\fs13}Anywhere.
+Dialogue: 0,0:00:14.00,0:00:18.37,Default,,0,0,0,,最强大的人不害怕孤独\N{\c&H62a8eb&\fs13}The strongest person is the person who isn't scared to be alone.
+Dialogue: 0,0:00:20.70,0:00:23.41,Default,,0,0,0,,‎你要担心的是其他人\N{\c&H62a8eb&\fs13}It's other people you got to worry about.
+Dialogue: 0,0:00:24.25,0:00:27.75,Default,,0,0,0,,‎那些人会告诉你 该怎么反应 怎么感受...\N{\c&H62a8eb&\fs13}Other people. They'll tell you what to do, how to feel...
+Dialogue: 0,0:00:29.08,0:00:30.08,Default,,0,0,0,,‎使你不知不觉中...\N{\c&H62a8eb&\fs13}Before you know it...
+Dialogue: 0,0:00:30.66,0:00:33.70,Default,,0,0,0,,‎... 消耗自己的人生 只为了追寻\N{\c&H62a8eb&\fs13}... you're pouring your life out in search of something
+Dialogue: 0,0:00:34.25,0:00:36.16,Default,,0,0,0,,‎其他人要你追寻的事物\N{\c&H62a8eb&\fs13}other people told you to go look for.
+Dialogue: 0,0:00:37.37,0:00:39.37,Default,,0,0,0,,‎总有一天 你会孤身一人\N{\c&H62a8eb&\fs13}Someday, you're gonna be all alone,
+Dialogue: 0,0:00:40.33,0:00:43.04,Default,,0,0,0,,‎所以你要学会照顾自己\N{\c&H62a8eb&\fs13}so you need to figure out how to take care of yourself.
+Dialogue: 0,0:02:34.83,0:02:35.83,Default,,0,0,0,,‎喂\N{\c&H62a8eb&\fs13}Hello.
+Dialogue: 0,0:02:36.16,0:02:37.16,Default,,0,0,0,,‎是贝丝·哈蒙吗\N{\c&H62a8eb&\fs13}Beth Harmon?
+Dialogue: 0,0:02:38.79,0:02:39.95,Default,,0,0,0,,‎我是\N{\c&H62a8eb&\fs13}Yes.
+Dialogue: 0,0:02:40.04,0:02:43.95,Default,,0,0,0,,‎我是哈利·贝尔提克 我们在肯塔基州锦标赛上交过手\N{\c&H62a8eb&\fs13}Uh, this is Harry Beltik. Uh, from the Kentucky State Tournament.
+Dialogue: 0,0:02:44.70,0:02:46.45,Default,,0,0,0,,‎我记得你\N{\c&H62a8eb&\fs13}No, I remember.
+Dialogue: 0,0:02:46.54,0:02:48.54,Default,,0,0,0,,‎听说你输给了博戈夫\N{\c&H62a8eb&\fs13}I hear you dropped one to Borgov.
+Dialogue: 0,0:02:50.20,0:02:51.75,Default,,0,0,0,,‎我想关心你一下\N{\c&H62a8eb&\fs13}I wanted to give condolences.
+Dialogue: 0,0:02:52.75,0:02:53.75,Default,,0,0,0,,‎谢了\N{\c&H62a8eb&\fs13}Thanks.
+Dialogue: 0,0:02:54.91,0:02:56.37,Default,,0,0,0,,‎你是白方吧\N{\c&H62a8eb&\fs13}What were you playing, white?
+Dialogue: 0,0:02:57.95,0:03:00.58,Default,,0,0,0,,‎-黑方  -那就还好\N{\c&H62a8eb&\fs13}- Black. - Oh, it's-it's better that way.
+Dialogue: 0,0:03:01.25,0:03:02.70,Default,,0,0,0,,‎这样输了就没那么难受\N{\c&H62a8eb&\fs13}I mean, if you're gonna lose.
+Dialogue: 0,0:03:03.29,0:03:04.29,Default,,0,0,0,,‎我想是吧\N{\c&H62a8eb&\fs13}Suppose so.
+Dialogue: 0,0:03:05.45,0:03:06.45,Default,,0,0,0,,‎你用的哪一招\N{\c&H62a8eb&\fs13}What did you play?
+Dialogue: 0,0:03:08.41,0:03:09.41,Default,,0,0,0,,‎闭式西西里\N{\c&H62a8eb&\fs13}Closed Sicilian.
+Dialogue: 0,0:03:09.45,0:03:10.50,Default,,0,0,0,,‎罗索里莫变例 真的吗\N{\c&H62a8eb&\fs13}Rossolimo? Really?
+Dialogue: 0,0:03:10.58,0:03:11.79,Default,,0,0,0,,‎我故意的\N{\c&H62a8eb&\fs13}I let him do it to me.
+Dialogue: 0,0:03:11.87,0:03:12.87,Default,,0,0,0,,‎那是你失策\N{\c&H62a8eb&\fs13}That's a mistake.
+Dialogue: 0,0:03:12.91,0:03:17.54,Default,,0,0,0,,听着 ‎夏天我要去一趟列克星敦 要不然...\N{\c&H62a8eb&\fs13}Uh, look, I'm in Lexington for the summer, and I thought maybe...
+Dialogue: 0,0:03:18.45,0:03:19.45,Default,,0,0,0,,怎么\N{\c&H62a8eb&\fs13}Maybe what?
+Dialogue: 0,0:03:20.37,0:03:21.91,Default,,0,0,0,,‎你要不要接受我的训练\N{\c&H62a8eb&\fs13}Would you like some training?
+Dialogue: 0,0:03:22.00,0:03:25.08,Default,,0,0,0,,‎我知道... 我知道你的棋艺比我出色\N{\c&H62a8eb&\fs13}I-I know... I know you're better than me.
+Dialogue: 0,0:03:25.66,0:03:28.37,Default,,0,0,0,,‎但如果你想跟苏联人对弈 就需要有人帮你一把\N{\c&H62a8eb&\fs13}But if you're gonna play the Soviets, you need help.
+Dialogue: 0,0:03:29.04,0:03:29.91,Default,,0,0,0,,‎你在哪里\N{\c&H62a8eb&\fs13}Where are you?
+Dialogue: 0,0:03:30.00,0:03:32.50,Default,,0,0,0,,‎我在去凤凰酒店的路上\N{\c&H62a8eb&\fs13}I'm on my way to the Phoenix Hotel.
+Dialogue: 0,0:03:33.50,0:03:36.54,Default,,0,0,0,,我周四会入住一间公寓 到时候我去找你\N{\c&H62a8eb&\fs13}I'm moving to an apartment on Thursday. I could come by then.
+Dialogue: 0,0:03:38.66,0:03:40.25,Default,,0,0,0,,‎你不如现在就过来吧\N{\c&H62a8eb&\fs13}Why don't you come over right now?
+Dialogue: 0,0:04:17.20,0:04:18.75,Default,,0,0,0,,‎这位小姐 恕我冒昧\N{\c&H62a8eb&\fs13}Excuse me, miss.
+Dialogue: 0,0:04:21.41,0:04:24.45,Default,,0,0,0,,五年前狠狠打败我的‎那个腼腆少女哪儿去了\N{\c&H62a8eb&\fs13}What happened to that gawky kid who kicked my ass five years ago?
+Dialogue: 0,0:04:28.08,0:04:29.37,Default,,0,0,0,,‎看来她已经长大了\N{\c&H62a8eb&\fs13}Apparently, she grew up.
+Dialogue: 0,0:04:33.50,0:04:34.58,Default,,0,0,0,,‎A·I·狄英科夫\N{\c&H62a8eb&\fs13}A.I. Deinkopf.
+Dialogue: 0,0:04:35.08,0:04:36.16,Default,,0,0,0,,‎"中局战术"\N{\c&H62a8eb&\fs13}Middlegame Strategy.
+Dialogue: 0,0:04:38.25,0:04:39.25,Default,,0,0,0,,‎这本我看过了\N{\c&H62a8eb&\fs13}I've read that one.
+Dialogue: 0,0:04:45.33,0:04:47.50,Default,,0,0,0,,‎何塞·卡帕布兰卡的"我的棋艺人生"\N{\c&H62a8eb&\fs13}J.R. Capablanca, My Chess Career.
+Dialogue: 0,0:04:48.50,0:04:49.58,Default,,0,0,0,,‎这本也看过了\N{\c&H62a8eb&\fs13}That one, too.
+Dialogue: 0,0:04:53.83,0:04:57.33,Default,,0,0,0,,‎富诺特写的"1938年至1945年阿廖欣棋局"\N{\c&H62a8eb&\fs13}Fornaut, Alekhine's Games 1938 to 1945.
+Dialogue: 0,0:04:57.41,0:04:58.41,Default,,0,0,0,,看过了\N{\c&H62a8eb&\fs13}Yes.
+Dialogue: 0,0:05:01.29,0:05:02.83,Default,,0,0,0,,‎梅耶写的"车兵残局"\N{\c&H62a8eb&\fs13}Meyer, Rook and Pawn Endings.
+Dialogue: 0,0:05:03.66,0:05:05.91,Default,,0,0,0,,‎我知道你看过了\N{\c&H62a8eb&\fs13}I know, you've read it.
+Dialogue: 0,0:05:06.00,0:05:07.00,Default,,0,0,0,,‎没看过\N{\c&H62a8eb&\fs13}No.
+Dialogue: 0,0:05:09.12,0:05:10.62,Default,,0,0,0,,‎但我楼上也有一本\N{\c&H62a8eb&\fs13}But I have my own copy upstairs.
+Dialogue: 0,0:05:11.91,0:05:14.50,Default,,0,0,0,,‎我这里有些书你可能没看过\N{\c&H62a8eb&\fs13}Well, some of these are gonna be new to you.
+Dialogue: 0,0:05:14.58,0:05:16.20,Default,,0,0,0,,‎卡帕布兰卡是个靠直觉的棋手\N{\c&H62a8eb&\fs13}Capablanca played on intuition.
+Dialogue: 0,0:05:16.29,0:05:19.75,Default,,0,0,0,,‎还有棋艺天赋 后者占大多数\N{\c&H62a8eb&\fs13}And his natural gifts, which obviously were considerable.
+Dialogue: 0,0:05:19.83,0:05:22.45,Default,,0,0,0,,‎不像波戈柳波夫和格林菲尔德 他们记忆力超群\N{\c&H62a8eb&\fs13}Unlike Bogoljubov and Grünfeld, who memorized everything.
+Dialogue: 0,0:05:22.54,0:05:24.58,Default,,0,0,0,,‎我知道你对他们的看法\N{\c&H62a8eb&\fs13}Yeah, I know how you feel about them.
+Dialogue: 0,0:05:24.66,0:05:26.37,Default,,0,0,0,,‎我看过你在"国际象棋评论"的访问\N{\c&H62a8eb&\fs13}I read your piece in Chess Review.
+Dialogue: 0,0:05:27.70,0:05:29.58,Default,,0,0,0,,‎顺便一提 封面照拍得很好\N{\c&H62a8eb&\fs13}Nice cover photo, by the way.
+Dialogue: 0,0:05:33.12,0:05:36.12,Default,,0,0,0,,‎我参加锦标赛时发现比赛结束后\N{\c&H62a8eb&\fs13}I see players at tournaments after their games have finished,
+Dialogue: 0,0:05:36.66,0:05:38.95,Default,,0,0,0,,‎其他棋手会留在现场研究开局变例\N{\c&H62a8eb&\fs13}sitting there studying opening variation
+Dialogue: 0,0:05:39.04,0:05:42.12,Default,,0,0,0,,‎中局战术或残局理论\N{\c&H62a8eb&\fs13}or middle-game strategy, endgame theory.
+Dialogue: 0,0:05:42.20,0:05:45.37,Default,,0,0,0,,‎-搞得煞有其事的  -你不研究这些吗\N{\c&H62a8eb&\fs13}- Like it would have made a difference. - You don't ever study?
+Dialogue: 0,0:05:45.45,0:05:47.00,Default,,0,0,0,,‎我只会分析棋局\N{\c&H62a8eb&\fs13}I analyze games.
+Dialogue: 0,0:05:47.75,0:05:50.04,Default,,0,0,0,,‎棋局是无法预料的\N{\c&H62a8eb&\fs13}What actually happened, not what could have happened.
+Dialogue: 0,0:05:51.04,0:05:53.04,Default,,0,0,0,,‎-我下棋完全凭直觉  -就像卡帕布兰卡\N{\c&H62a8eb&\fs13}- And I play it by ear. - Like Capablanca.
+Dialogue: 0,0:05:53.12,0:05:55.50,Default,,0,0,0,,‎-他肯定可以打败博戈夫  -不一定每一局都会赢\N{\c&H62a8eb&\fs13}- He would have beaten Borgov. - Mmm, not every game.
+Dialogue: 0,0:05:55.58,0:05:57.20,Default,,0,0,0,,‎重要的比赛都会赢\N{\c&H62a8eb&\fs13}Mmm, every game that counted.
+Dialogue: 0,0:06:00.16,0:06:02.79,Default,,0,0,0,,‎-你肯定觉得我恃才傲物吧  -这可是国际象棋\N{\c&H62a8eb&\fs13}- You think I'm a prima donna, don't you? - It's chess.
+Dialogue: 0,0:06:04.70,0:06:05.95,Default,,0,0,0,,每个棋手都这样\N{\c&H62a8eb&\fs13}We're all prima donnas.
+Dialogue: 0,0:06:07.45,0:06:10.70,Default,,0,0,0,,‎你和班尼·瓦茨的那局棋我复盘了十多次\N{\c&H62a8eb&\fs13}So, I've replayed your match with Benny Watts a dozen times now.
+Dialogue: 0,0:06:11.50,0:06:12.50,Default,,0,0,0,,‎为什么\N{\c&H62a8eb&\fs13}Why?
+Dialogue: 0,0:06:13.16,0:06:15.83,Default,,0,0,0,,‎-那是很久远的事了  -也没那么久远吧\N{\c&H62a8eb&\fs13}- That's ancient history. - Well, it's not that ancient.
+Dialogue: 0,0:06:17.16,0:06:19.29,Default,,0,0,0,,‎-我不是以前那个棋手了  -某些部分依然没变\N{\c&H62a8eb&\fs13}- I'm a different player now. - In some ways.
+Dialogue: 0,0:06:21.83,0:06:24.04,Default,,0,0,0,,‎你个性固执 所以容易恼怒\N{\c&H62a8eb&\fs13}You're stubborn, so you get mad.
+Dialogue: 0,0:06:24.12,0:06:26.43,Default,,0,0,0,,‎一怒起来就只看得到眼前的局势\N{\c&H62a8eb&\fs13}When that happens, you can only see what's in front of you.
+Dialogue: 0,0:06:26.45,0:06:28.00,Default,,0,0,0,,‎愤怒使我厘清思路\N{\c&H62a8eb&\fs13}Anger clears my head.
+Dialogue: 0,0:06:28.08,0:06:29.70,Default,,0,0,0,,‎愤怒是一味浓烈的香料\N{\c&H62a8eb&\fs13}Anger is a potent spice.
+Dialogue: 0,0:06:30.91,0:06:33.41,Default,,0,0,0,,‎放一点能让人清醒 太多只会令人麻木\N{\c&H62a8eb&\fs13}A pinch wakes you up, too much dulls your senses.
+Dialogue: 0,0:06:33.50,0:06:35.33,Default,,0,0,0,,‎这句话你从哪学来的 签语饼吗\N{\c&H62a8eb&\fs13}Where'd you get that from, a fortune cookie?
+Dialogue: 0,0:06:35.41,0:06:37.54,Default,,0,0,0,,‎我二年级的班主任格雷科老师说的\N{\c&H62a8eb&\fs13}Mrs. Grecco, my second grade teacher.
+Dialogue: 0,0:06:39.79,0:06:42.45,Default,,0,0,0,,‎但这句话说得没错 你不能固步自封\N{\c&H62a8eb&\fs13}But the point is still valid. You've got to stay open.
+Dialogue: 0,0:06:43.41,0:06:46.29,Default,,0,0,0,,‎要是局限自己 就像这个王翼马兵一样\N{\c&H62a8eb&\fs13}If you get locked into one idea, like this king knight pawn, say,
+Dialogue: 0,0:06:46.37,0:06:47.37,Default,,0,0,0,,‎只有死路一条\N{\c&H62a8eb&\fs13}it's death.
+Dialogue: 0,0:06:48.66,0:06:49.66,Default,,0,0,0,,‎你看\N{\c&H62a8eb&\fs13}Look.
+Dialogue: 0,0:06:54.66,0:06:58.16,Default,,0,0,0,,‎-现在马前兵被堵住了  -然后呢\N{\c&H62a8eb&\fs13}- Now, the knight pawn is pinned. - So?
+Dialogue: 0,0:06:58.25,0:07:01.00,Default,,0,0,0,,‎你只好把王移走 不然就被堵住了\N{\c&H62a8eb&\fs13}So you got to move the king now, or you get stuck later.
+Dialogue: 0,0:07:02.95,0:07:04.08,Default,,0,0,0,,‎我知道 可是...\N{\c&H62a8eb&\fs13}I can see that, but...
+Dialogue: 0,0:07:04.16,0:07:06.45,Default,,0,0,0,,‎但看看这边的后翼兵\N{\c&H62a8eb&\fs13}But look at the queen-side pawns, way over here.
+Dialogue: 0,0:07:08.50,0:07:10.25,Default,,0,0,0,,‎-对方可以这么做  -你试试看\N{\c&H62a8eb&\fs13}- He could do this. - Try it.
+Dialogue: 0,0:07:32.87,0:07:33.87,Default,,0,0,0,,‎看见了吗\N{\c&H62a8eb&\fs13}See?
+Dialogue: 0,0:07:35.45,0:07:36.54,Default,,0,0,0,,‎这是很厉害的走法\N{\c&H62a8eb&\fs13}It's a good sequence.
+Dialogue: 0,0:07:37.20,0:07:38.29,Default,,0,0,0,,‎这是阿廖欣的招式\N{\c&H62a8eb&\fs13}It's from Alekhine.
+Dialogue: 0,0:07:39.83,0:07:41.62,Default,,0,0,0,,‎我想说的是 这是我从书上学来的\N{\c&H62a8eb&\fs13}I'm saying I got it from a book.
+Dialogue: 0,0:07:41.70,0:07:43.08,Default,,0,0,0,,‎我懂你的意思\N{\c&H62a8eb&\fs13}I know what you're saying.
+Dialogue: 0,0:07:43.70,0:07:45.29,Default,,0,0,0,,开吃吧\N{\c&H62a8eb&\fs13}Let's eat.
+Dialogue: 0,0:07:50.54,0:07:53.41,Default,,0,0,0,,‎你也跟五年前不一样了\N{\c&H62a8eb&\fs13}You're not the same person you were five years ago, either.
+Dialogue: 0,0:07:54.16,0:07:55.75,Default,,0,0,0,,‎-是吗  -没错\N{\c&H62a8eb&\fs13}- No? - No.
+Dialogue: 0,0:07:56.54,0:07:58.29,Default,,0,0,0,,‎但我说不出来哪里不一样了\N{\c&H62a8eb&\fs13}But I can't figure out what's different.
+Dialogue: 0,0:07:59.12,0:08:01.58,Default,,0,0,0,,‎我比以前更有深度了吗\N{\c&H62a8eb&\fs13}Um, I've become more profound?
+Dialogue: 0,0:08:01.66,0:08:02.66,Default,,0,0,0,,‎不是\N{\c&H62a8eb&\fs13}That's not it.
+Dialogue: 0,0:08:04.33,0:08:06.08,Default,,0,0,0,,‎我的牙齿变整齐了\N{\c&H62a8eb&\fs13}And I, um, got my teeth fixed.
+Dialogue: 0,0:08:10.25,0:08:12.33,Default,,0,0,0,,‎-没错  -是啊\N{\c&H62a8eb&\fs13}- Yeah, that's it. - Yeah.
+Dialogue: 0,0:08:13.00,0:08:15.29,Default,,0,0,0,,‎是牙齿 以前我看了真受不了\N{\c&H62a8eb&\fs13}It's the teeth. It was driving me crazy.
+Dialogue: 0,0:08:16.50,0:08:17.87,Default,,0,0,0,,‎我用学费去把牙齿整好的\N{\c&H62a8eb&\fs13}I used my tuition money.
+Dialogue: 0,0:08:19.16,0:08:21.29,Default,,0,0,0,,‎我父母气死了\N{\c&H62a8eb&\fs13}My parents are plenty ticked off about it.
+Dialogue: 0,0:08:25.45,0:08:26.45,Default,,0,0,0,,‎钱没白花\N{\c&H62a8eb&\fs13}It was worth it.
+Dialogue: 0,0:08:32.87,0:08:35.25,Default,,0,0,0,,‎我该走了\N{\c&H62a8eb&\fs13}Uh, I should go.
+Dialogue: 0,0:08:36.37,0:08:37.95,Default,,0,0,0,,‎我把棋盘留下来吧\N{\c&H62a8eb&\fs13}Uh, I'll leave my board here.
+Dialogue: 0,0:08:39.54,0:08:40.54,Default,,0,0,0,,‎三明治我带走\N{\c&H62a8eb&\fs13}I'll take this.
+Dialogue: 0,0:08:42.58,0:08:44.75,Default,,0,0,0,,‎明早我会带更多书过来\N{\c&H62a8eb&\fs13}I'll be back in the morning with more books.
+Dialogue: 0,0:08:50.54,0:08:51.54,Default,,0,0,0,,‎操\N{\c&H62a8eb&\fs13}Shit.
+Dialogue: 0,0:08:52.41,0:08:54.37,Default,,0,0,0,,‎天啊\N{\c&H62a8eb&\fs13}Oh, God.
+Dialogue: 0,0:09:35.29,0:09:36.29,Default,,0,0,0,,‎不行\N{\c&H62a8eb&\fs13}No.
+Dialogue: 0,0:09:36.75,0:09:38.16,Default,,0,0,0,,我有点害羞\N{\c&H62a8eb&\fs13}You see, I'm a little shy.
+Dialogue: 0,0:09:38.25,0:09:40.33,Default,,0,0,0,,你有什么问题\N{\c&H62a8eb&\fs13}What seems to be the trouble?
+Dialogue: 0,0:09:40.87,0:09:44.70,Default,,0,0,0,,‎我现在很难让你看到那些症状 因为...\N{\c&H62a8eb&\fs13}Well, it's difficult to show you the symptoms at the moment, because...
+Dialogue: 0,0:09:45.41,0:09:47.08,Default,,0,0,0,,‎那些症状反复无常\N{\c&H62a8eb&\fs13}it comes and it goes.
+Dialogue: 0,0:09:47.79,0:09:51.62,Default,,0,0,0,,‎反复无常\N{\c&H62a8eb&\fs13}Oh, it comes and goes?
+Dialogue: 0,0:09:51.70,0:09:54.08,Default,,0,0,0,,‎是啊 真倒霉\N{\c&H62a8eb&\fs13}Yes, it's so unfortunate.
+Dialogue: 0,0:09:54.16,0:09:56.37,Default,,0,0,0,,‎每次去看医生时都是这样\N{\c&H62a8eb&\fs13}It's always the same whenever I see a doctor.
+Dialogue: 0,0:09:56.45,0:09:59.29,Default,,0,0,0,,‎一见到医生... 症状消失了\N{\c&H62a8eb&\fs13}When... when I come, it goes,
+Dialogue: 0,0:09:59.37,0:10:00.95,Default,,0,0,0,,‎我走了以后 症状又出现了\N{\c&H62a8eb&\fs13}and when I go, it comes.
+Dialogue: 0,0:10:07.16,0:10:09.37,Default,,0,0,0,,‎告诉我 你打算怎么走残局\N{\c&H62a8eb&\fs13}Okay, tell me, what was your endgame?
+Dialogue: 0,0:10:10.20,0:10:11.20,Default,,0,0,0,,‎你刚看见了\N{\c&H62a8eb&\fs13}You just saw it.
+Dialogue: 0,0:10:11.87,0:10:13.37,Default,,0,0,0,,‎你怎么打算的\N{\c&H62a8eb&\fs13}What was your plan?
+Dialogue: 0,0:10:13.45,0:10:15.33,Default,,0,0,0,,‎不就是打败你吗\N{\c&H62a8eb&\fs13}To beat you?
+Dialogue: 0,0:10:17.00,0:10:19.83,Default,,0,0,0,,‎-我不理解你的问题  -没错 你依然在凭直觉下棋\N{\c&H62a8eb&\fs13}- I don't know what it was. - Exactly, you're still just improvising.
+Dialogue: 0,0:10:19.91,0:10:22.00,Default,,0,0,0,,‎我刚赢了你五局\N{\c&H62a8eb&\fs13}I just wiped you out five times.
+Dialogue: 0,0:10:23.87,0:10:24.87,Default,,0,0,0,,‎我是特级大师\N{\c&H62a8eb&\fs13}I'm a master,
+Dialogue: 0,0:10:24.95,0:10:26.95,Default,,0,0,0,,‎这是我表现得最好的一次\N{\c&H62a8eb&\fs13}and I've never played better in my life.
+Dialogue: 0,0:10:28.00,0:10:29.16,Default,,0,0,0,,‎好谦虚啊\N{\c&H62a8eb&\fs13}So modest.
+Dialogue: 0,0:10:29.25,0:10:31.37,Default,,0,0,0,,‎但我比你将在巴黎碰到的棋手差远了\N{\c&H62a8eb&\fs13}But I'm nowhere close to what you'll face in Paris.
+Dialogue: 0,0:10:31.45,0:10:33.66,Default,,0,0,0,,‎我只要再努力一点就能打败博戈夫\N{\c&H62a8eb&\fs13}I could beat Borgov with a little more work.
+Dialogue: 0,0:10:33.75,0:10:36.29,Default,,0,0,0,,‎你需要加倍努力才能打败博戈夫\N{\c&H62a8eb&\fs13}You can beat Borgov with a lot more work.
+Dialogue: 0,0:10:36.37,0:10:37.66,Default,,0,0,0,,‎我是指好几年的努力\N{\c&H62a8eb&\fs13}Years more work.
+Dialogue: 0,0:10:38.29,0:10:40.62,Default,,0,0,0,,‎博戈夫不像我这种肯塔基州前冠军\N{\c&H62a8eb&\fs13}Borgov's not some Kentucky ex-champion like me.
+Dialogue: 0,0:10:40.70,0:10:42.54,Default,,0,0,0,,‎他可是世界冠军\N{\c&H62a8eb&\fs13}He is a world champion
+Dialogue: 0,0:10:42.62,0:10:44.95,Default,,0,0,0,,‎搞不好他十岁那年就能打败我俩了\N{\c&H62a8eb&\fs13}who could have beaten both of us when he was ten.
+Dialogue: 0,0:10:46.95,0:10:48.37,Default,,0,0,0,,‎你了解过他的棋艺生涯吗\N{\c&H62a8eb&\fs13}Do you even know his career?
+Dialogue: 0,0:10:49.29,0:10:50.33,Default,,0,0,0,,‎没有\N{\c&H62a8eb&\fs13}No.
+Dialogue: 0,0:10:50.41,0:10:51.41,Default,,0,0,0,,‎这...\N{\c&H62a8eb&\fs13}Well...
+Dialogue: 0,0:10:54.37,0:10:55.37,Default,,0,0,0,,‎拿去看吧\N{\c&H62a8eb&\fs13}Read it.
+Dialogue: 0,0:10:56.20,0:10:58.41,Default,,0,0,0,,看1962年他在列宁格勒的每场比赛\N{\c&H62a8eb&\fs13}Read the games from Leningrad, 1962.
+Dialogue: 0,0:10:58.50,0:11:00.54,Default,,0,0,0,,‎看他怎么应付车兵残局\N{\c&H62a8eb&\fs13}Look at the way he plays rook-pawn endings.
+Dialogue: 0,0:11:00.62,0:11:03.20,Default,,0,0,0,,‎怎么跟卢岑科和斯帕斯基对弈\N{\c&H62a8eb&\fs13}Look at the games with Luchenko and Spassky.
+Dialogue: 0,0:11:05.66,0:11:07.20,Default,,0,0,0,,‎搞不好会有新发现\N{\c&H62a8eb&\fs13}You might learn something.
+Dialogue: 0,0:11:13.04,0:11:14.91,Default,,0,0,0,,‎走错方向了\N{\c&H62a8eb&\fs13}No, this way.
+Dialogue: 0,0:11:20.79,0:11:21.79,Default,,0,0,0,,对了\N{\c&H62a8eb&\fs13}Right.
+Dialogue: 0,0:11:26.58,0:11:29.33,Default,,0,0,0,,"看他怎么跟卢岑科和斯帕斯基对弈\N{\c&H62a8eb&\fs13}"Look at the games with Luchenko and Spassky,
+Dialogue: 0,0:11:29.41,0:11:31.45,Default,,0,0,0,,‎搞不好会有新发现" 操\N{\c&H62a8eb&\fs13}you might learn something." Fuck.
+Dialogue: 0,0:11:33.91,0:11:35.08,Default,,0,0,0,,"我是特级大师"\N{\c&H62a8eb&\fs13}"I'm a master."
+Dialogue: 0,0:11:36.25,0:11:37.62,Default,,0,0,0,,我说的什么鬼\N{\c&H62a8eb&\fs13}It was so bad.
+Dialogue: 0,0:12:09.33,0:12:10.33,Default,,0,0,0,,‎夏天快到了\N{\c&H62a8eb&\fs13}Summer's coming.
+Dialogue: 0,0:12:19.33,0:12:20.33,Default,,0,0,0,,‎得了吧\N{\c&H62a8eb&\fs13}Come on.
+Dialogue: 0,0:12:20.87,0:12:22.83,Default,,0,0,0,,‎这首歌放完后我会关小音量 我只是想...\N{\c&H62a8eb&\fs13}I'll turn it down after this. I just...
+Dialogue: 0,0:12:24.16,0:12:25.16,Default,,0,0,0,,‎我很喜欢这首歌\N{\c&H62a8eb&\fs13}I love this song.
+Dialogue: 0,0:12:43.20,0:12:44.20,Default,,0,0,0,,‎你还不来下棋吗\N{\c&H62a8eb&\fs13}Are you coming?
+Dialogue: 0,0:13:51.79,0:13:55.29,Default,,0,0,0,,"既然已经陷入战局 第一招就必须是制胜招数"\N{\c&H62a8eb&\fs13}"In a fight, you want the first blow to be the last."
+Dialogue: 0,0:13:55.83,0:13:57.79,Default,,0,0,0,,"使出这一招的人最好是自己"\N{\c&H62a8eb&\fs13}"And you better be the one to throw it."
+Dialogue: 0,0:14:02.58,0:14:05.87,Default,,0,0,0,,"很少有像国际象棋这般残酷的心理战"\N{\c&H62a8eb&\fs13}"Few things are as mentally brutal as chess."
+Dialogue: 0,0:14:14.87,0:14:17.70,Default,,0,0,0,,"有时攻方会后悔走错棋\N{\c&H62a8eb&\fs13}"Attackers may sometimes regret their moves,
+Dialogue: 0,0:14:17.79,0:14:20.45,Default,,0,0,0,,但是最令人悔恨终身的\N{\c&H62a8eb&\fs13}but it is much worse to forever regret
+Dialogue: 0,0:14:20.54,0:14:23.54,Default,,0,0,0,,莫过于错过进攻的机会"\N{\c&H62a8eb&\fs13}an opportunity you allowed to pass you by."
+Dialogue: 0,0:14:24.45,0:14:26.79,Default,,0,0,0,,‎有时候不一定要进攻\N{\c&H62a8eb&\fs13}So, it's not always about attacking.
+Dialogue: 0,0:14:29.87,0:14:33.66,Default,,0,0,0,,‎有时候退一步反而更明智\N{\c&H62a8eb&\fs13}Sometimes, it's much better to take a piece back.
+Dialogue: 0,0:14:35.08,0:14:38.29,Default,,0,0,0,,‎这是斯梅斯洛夫跟鲍特维尼克对弈时的棋局\N{\c&H62a8eb&\fs13}So, this is Smyslov versus Botvinnik.
+Dialogue: 0,0:14:38.37,0:14:39.66,Default,,0,0,0,,‎你也看到了\N{\c&H62a8eb&\fs13}Now, as you can see,
+Dialogue: 0,0:14:39.75,0:14:42.87,Default,,0,0,0,,‎鲍特维尼克的后本来可以吃掉对手的一个兵\N{\c&H62a8eb&\fs13}Botvinnik should have taken the pawn with the queen.
+Dialogue: 0,0:14:43.41,0:14:44.87,Default,,0,0,0,,那会儿他肯定是累了\N{\c&H62a8eb&\fs13}He must have been very tired,
+Dialogue: 0,0:14:45.70,0:14:47.58,Default,,0,0,0,,‎或是他的茶被下了药\N{\c&H62a8eb&\fs13}or someone must have drugged his tea.
+Dialogue: 0,0:14:51.04,0:14:52.95,Default,,0,0,0,,‎总之 我觉得挺有趣的\N{\c&H62a8eb&\fs13}Anyway, I always thought that was interesting.
+Dialogue: 0,0:14:53.04,0:14:57.41,Default,,0,0,0,,"我知道我是个出色的棋手 但如今的对手都比我小一辈"\N{\c&H62a8eb&\fs13}"I know I'm a good player, but I play people half my age."
+Dialogue: 0,0:14:58.04,0:15:00.87,Default,,0,0,0,,"我不知道还能赢多久"\N{\c&H62a8eb&\fs13}"I don't know how long I can keep winning."
+Dialogue: 0,0:15:06.83,0:15:10.41,Default,,0,0,0,,"我可以对抗任何人 但无法对抗时间"\N{\c&H62a8eb&\fs13}"I can fight against anyone but time."
+Dialogue: 0,0:15:11.29,0:15:13.37,Default,,0,0,0,,‎我明天就会搬离酒店\N{\c&H62a8eb&\fs13}I'm moving out of the hotel tomorrow.
+Dialogue: 0,0:15:15.33,0:15:16.33,Default,,0,0,0,,‎入住公寓\N{\c&H62a8eb&\fs13}Into my apartment.
+Dialogue: 0,0:15:20.75,0:15:21.91,Default,,0,0,0,,‎把兵移到王线第五格\N{\c&H62a8eb&\fs13}Play pawn to king five.
+Dialogue: 0,0:15:25.04,0:15:26.04,Default,,0,0,0,,‎配合我一下嘛\N{\c&H62a8eb&\fs13}Humor me.
+Dialogue: 0,0:15:30.16,0:15:31.66,Default,,0,0,0,,‎-这个走法不常见  -对啊\N{\c&H62a8eb&\fs13}- That's unusual. - Yeah.
+Dialogue: 0,0:15:31.75,0:15:34.04,Default,,0,0,0,,‎这招出自一个叫麦肯纳斯的棋手\N{\c&H62a8eb&\fs13}Player named Mikėnas came up with that one.
+Dialogue: 0,0:15:34.12,0:15:35.91,Default,,0,0,0,,有‎多远\N{\c&H62a8eb&\fs13}How far away is it?
+Dialogue: 0,0:15:36.83,0:15:37.83,Default,,0,0,0,,‎公寓\N{\c&H62a8eb&\fs13}The apartment.
+Dialogue: 0,0:15:38.41,0:15:40.29,Default,,0,0,0,,‎在新圈路附近\N{\c&H62a8eb&\fs13}Oh, um, New Circle Road.
+Dialogue: 0,0:15:41.17,0:15:42.70,Default,,0,0,0,,‎我以后不会来得这么勤了\N{\c&H62a8eb&\fs13}I won't be coming by so much.
+Dialogue: 0,0:15:44.54,0:15:45.62,Default,,0,0,0,,‎离我家不远啊\N{\c&H62a8eb&\fs13}It's not so far away.
+Dialogue: 0,0:15:46.29,0:15:50.45,Default,,0,0,0,,‎没错 但是我要上课 可能还要找份兼职\N{\c&H62a8eb&\fs13}No, but I'll be taking classes, and I should probably get a part-time job.
+Dialogue: 0,0:15:56.58,0:16:00.79,Default,,0,0,0,,‎你完全可以来我家住 不用你付房租\N{\c&H62a8eb&\fs13}You could move in here if you want. You know, for free.
+Dialogue: 0,0:16:05.83,0:16:06.66,Default,,0,0,0,,‎你说真的吗\N{\c&H62a8eb&\fs13}Really?
+Dialogue: 0,0:16:06.75,0:16:07.91,Default,,0,0,0,,‎真的\N{\c&H62a8eb&\fs13}Yeah.
+Dialogue: 0,0:16:09.20,0:16:10.20,Default,,0,0,0,,‎我是认真的\N{\c&H62a8eb&\fs13}Really.
+Dialogue: 0,0:16:27.62,0:16:30.62,Default,,0,0,0,,‎-抱歉 我...  -‎不会\N{\c&H62a8eb&\fs13}- Sorry, I... - Uh... no. No.
+Dialogue: 0,0:16:31.45,0:16:34.87,Default,,0,0,0,,‎我只是没做好心理准备\N{\c&H62a8eb&\fs13}I-I just wasn't ready.
+Dialogue: 0,0:16:39.83,0:16:40.83,Default,,0,0,0,,‎现在准备好了\N{\c&H62a8eb&\fs13}I'm ready now.
+Dialogue: 0,0:16:48.16,0:16:49.16,Default,,0,0,0,,‎我只给你一次机会\N{\c&H62a8eb&\fs13}Now or never.
+Dialogue: 0,0:17:21.16,0:17:22.41,Default,,0,0,0,,‎那...\N{\c&H62a8eb&\fs13}So, um...
+Dialogue: 0,0:17:23.58,0:17:25.75,Default,,0,0,0,,‎我应该留下来 还是回房去\N{\c&H62a8eb&\fs13}should I stay here or go back to my room?
+Dialogue: 0,0:17:28.75,0:17:29.75,Default,,0,0,0,,‎随便你\N{\c&H62a8eb&\fs13}Whatever you want.
+Dialogue: 0,0:17:37.04,0:17:38.04,Default,,0,0,0,,‎好吧\N{\c&H62a8eb&\fs13}Okay.
+Dialogue: 0,0:17:50.41,0:17:51.41,Default,,0,0,0,,‎晚安\N{\c&H62a8eb&\fs13}Good night.
+Dialogue: 0,0:17:52.16,0:17:53.16,Default,,0,0,0,,‎晚安\N{\c&H62a8eb&\fs13}Good night.
+Dialogue: 0,0:18:12.20,0:18:13.20,Default,,0,0,0,,‎贝丝\N{\c&H62a8eb&\fs13}Beth?
+Dialogue: 0,0:18:13.66,0:18:14.66,Default,,0,0,0,,‎你是贝丝·哈蒙吧\N{\c&H62a8eb&\fs13}Beth Harmon?
+Dialogue: 0,0:18:17.12,0:18:18.16,Default,,0,0,0,,‎我是玛格丽特·尼尔\N{\c&H62a8eb&\fs13}Margaret Neil.
+Dialogue: 0,0:18:18.25,0:18:20.16,Default,,0,0,0,,‎现在叫玛格丽特·约翰逊了\N{\c&H62a8eb&\fs13}Well, Margaret Johnson now.
+Dialogue: 0,0:18:20.87,0:18:21.87,Default,,0,0,0,,‎费尔菲尔德高中\N{\c&H62a8eb&\fs13}Fairfield High?
+Dialogue: 0,0:18:24.45,0:18:27.20,Default,,0,0,0,,‎你是那个玛格丽特 ‎你好\N{\c&H62a8eb&\fs13}Margaret. Right. Hi.
+Dialogue: 0,0:18:27.29,0:18:30.16,Default,,0,0,0,,‎我和麦克毕业后就结婚了\N{\c&H62a8eb&\fs13}Mike and I tied the knot right after graduation.
+Dialogue: 0,0:18:31.04,0:18:32.37,Default,,0,0,0,,‎恭喜\N{\c&H62a8eb&\fs13}Congratulations.
+Dialogue: 0,0:18:32.45,0:18:35.33,Default,,0,0,0,,‎不久后我们就有了这个小宝宝\N{\c&H62a8eb&\fs13}Not long after, we were blessed with this little one.
+Dialogue: 0,0:18:36.04,0:18:37.08,Default,,0,0,0,,‎她叫什么名字\N{\c&H62a8eb&\fs13}What's her name?
+Dialogue: 0,0:18:37.16,0:18:39.41,Default,,0,0,0,,‎珍妮 跟麦克的奶奶一样\N{\c&H62a8eb&\fs13}Jean, after Mike's grandmother.
+Dialogue: 0,0:18:40.95,0:18:42.12,Default,,0,0,0,,‎我看过有关你的新闻\N{\c&H62a8eb&\fs13}I read about you.
+Dialogue: 0,0:18:42.70,0:18:44.70,Default,,0,0,0,,‎边下棋边旅行\N{\c&H62a8eb&\fs13}The chess and the traveling.
+Dialogue: 0,0:18:45.58,0:18:46.87,Default,,0,0,0,,‎你的人生肯定很精彩\N{\c&H62a8eb&\fs13}It must be exciting.
+Dialogue: 0,0:18:46.95,0:18:47.95,Default,,0,0,0,,‎是啊\N{\c&H62a8eb&\fs13}It is.
+Dialogue: 0,0:18:48.33,0:18:50.58,Default,,0,0,0,,‎跟这些男生待在一起的确很好玩\N{\c&H62a8eb&\fs13}Being around all those boys is a real thrill.
+Dialogue: 0,0:18:54.08,0:18:56.37,Default,,0,0,0,,‎你以前很想知道这些男生是怎么样的\N{\c&H62a8eb&\fs13}You wanted to know what the boys were like,
+Dialogue: 0,0:18:56.45,0:18:57.70,Default,,0,0,0,,还问我跟他们交往过没有\N{\c&H62a8eb&\fs13}if I dated any of them.
+Dialogue: 0,0:18:59.70,0:19:03.37,Default,,0,0,0,,‎还记得我曾去你家参加苹果派社团的聚会吗\N{\c&H62a8eb&\fs13}That time I came over to your house with the Apple Pis.
+Dialogue: 0,0:19:03.45,0:19:05.58,Default,,0,0,0,,‎天啊\N{\c&H62a8eb&\fs13}Oh! Gosh!
+Dialogue: 0,0:19:06.45,0:19:07.45,Default,,0,0,0,,‎那好像是...\N{\c&H62a8eb&\fs13}That seems, uh...
+Dialogue: 0,0:19:08.79,0:19:10.41,Default,,0,0,0,,‎那是好久以前了吧\N{\c&H62a8eb&\fs13}like a million years ago, doesn't it?
+Dialogue: 0,0:19:14.33,0:19:17.58,Default,,0,0,0,,‎我得赶紧把东西买完 不然这个小妮子...\N{\c&H62a8eb&\fs13}I should probably get my errands done, before this one gets...
+Dialogue: 0,0:19:18.25,0:19:21.70,Default,,0,0,0,,就会给我找麻烦 到时候机会就会\N{\c&H62a8eb&\fs13}really fussy, and the window of opportunity,
+Dialogue: 0,0:19:21.79,0:19:23.66,Default,,0,0,0,,‎像我们常说的 "咻"地一下就没了\N{\c&H62a8eb&\fs13}as we like to say, slams shut.
+Dialogue: 0,0:19:25.91,0:19:27.16,Default,,0,0,0,,‎很高兴见到你\N{\c&H62a8eb&\fs13}It was nice to see you.
+Dialogue: 0,0:19:28.29,0:19:29.29,Default,,0,0,0,,‎我也是\N{\c&H62a8eb&\fs13}You, too.
+Dialogue: 0,0:19:29.75,0:19:31.91,Default,,0,0,0,,‎我认为人生不是只有下棋\N{\c&H62a8eb&\fs13}I think there's more to life than chess.
+Dialogue: 0,0:19:32.00,0:19:34.45,Default,,0,0,0,,‎菲利多尔是我崇拜的一位国际象棋大师\N{\c&H62a8eb&\fs13}Yeah, one of my heroes is Philidor.
+Dialogue: 0,0:19:35.16,0:19:38.04,Default,,0,0,0,,‎这位法籍音乐家\N{\c&H62a8eb&\fs13}This French musician, used to play chess blindfolded
+Dialogue: 0,0:19:38.12,0:19:39.50,Default,,0,0,0,,曾在巴黎和伦敦下盲棋\N{\c&H62a8eb&\fs13}in Paris and London.
+Dialogue: 0,0:19:39.58,0:19:41.41,Default,,0,0,0,,‎狄德罗曾给他写了一封信\N{\c&H62a8eb&\fs13}Diderot wrote him a letter.
+Dialogue: 0,0:19:41.50,0:19:42.62,Default,,0,0,0,,‎你知道狄德罗吧\N{\c&H62a8eb&\fs13}Now, you know Diderot?
+Dialogue: 0,0:19:43.45,0:19:44.37,Default,,0,0,0,,‎法国大革命时期的人物吗\N{\c&H62a8eb&\fs13}French Revolution?
+Dialogue: 0,0:19:44.45,0:19:45.66,Default,,0,0,0,,‎差不多\N{\c&H62a8eb&\fs13}Yeah, it's close enough.
+Dialogue: 0,0:19:46.41,0:19:49.75,Default,,0,0,0,,‎菲利多尔长期致力于下盲棋\N{\c&H62a8eb&\fs13}So, uh, Philidor was doing blindfold exhibitions
+Dialogue: 0,0:19:49.83,0:19:51.45,Default,,0,0,0,,‎绞尽脑力\N{\c&H62a8eb&\fs13}and burning out his brain,
+Dialogue: 0,0:19:51.54,0:19:55.04,Default,,0,0,0,,‎那是十八世纪的说法 总之...\N{\c&H62a8eb&\fs13}or whatever it was they thought you did in the 18th century. Anyway...
+Dialogue: 0,0:19:55.12,0:19:58.54,Default,,0,0,0,,狄德罗在给他的信中写道\N{\c&H62a8eb&\fs13}Diderot wrote to him and said something like,
+Dialogue: 0,0:19:59.08,0:20:03.41,Default,,0,0,0,,"冒着陷入疯魔的风险追求虚名是愚蠢之举"\N{\c&H62a8eb&\fs13}"It's foolish to run the risk of going mad for vanity's sake."
+Dialogue: 0,0:20:04.00,0:20:06.25,Default,,0,0,0,,‎每当我费尽心思分析棋局时\N{\c&H62a8eb&\fs13}Now, I think about that sometimes,
+Dialogue: 0,0:20:06.33,0:20:09.04,Default,,0,0,0,,我偶尔会想起这句话\N{\c&H62a8eb&\fs13}when I'm analyzing my ass off over a chess board.
+Dialogue: 0,0:20:15.50,0:20:18.70,Default,,0,0,0,,‎我看过"国际象棋评论"为你拍摄的封面照\N{\c&H62a8eb&\fs13}I, um... I saw your picture on the cover of Chess Review,
+Dialogue: 0,0:20:18.79,0:20:21.25,Default,,0,0,0,,‎也看过汤斯在拉斯维加斯为你拍摄的照片\N{\c&H62a8eb&\fs13}and those pictures Townes took in Las Vegas,
+Dialogue: 0,0:20:21.87,0:20:23.33,Default,,0,0,0,,‎照片刊登在列克星敦的报纸上\N{\c&H62a8eb&\fs13}for the Lexington paper.
+Dialogue: 0,0:20:25.29,0:20:26.33,Default,,0,0,0,,‎这些照片都很好看\N{\c&H62a8eb&\fs13}They were beautiful.
+Dialogue: 0,0:20:27.95,0:20:30.66,Default,,0,0,0,,‎-我在想你俩是不是...  -没那回事\N{\c&H62a8eb&\fs13}- I thought maybe the two of you were... - No, we weren't.
+Dialogue: 0,0:20:34.95,0:20:35.95,Default,,0,0,0,,‎其实...\N{\c&H62a8eb&\fs13}Truth is...
+Dialogue: 0,0:20:36.83,0:20:38.75,Default,,0,0,0,,‎我一直在等你回来\N{\c&H62a8eb&\fs13}I was waiting for you to come back.
+Dialogue: 0,0:20:41.16,0:20:42.50,Default,,0,0,0,,‎我整牙都是为了你\N{\c&H62a8eb&\fs13}You're why I got my teeth fixed.
+Dialogue: 0,0:20:42.58,0:20:45.95,Default,,0,0,0,,‎科尔塔诺夫斯基不也经常下盲棋吗\N{\c&H62a8eb&\fs13}Didn't Koltanowski use to play blindfolded all the time?
+Dialogue: 0,0:20:47.58,0:20:48.58,Default,,0,0,0,,‎但他没疯啊\N{\c&H62a8eb&\fs13}And he wasn't crazy.
+Dialogue: 0,0:20:53.45,0:20:55.37,Default,,0,0,0,,他是没疯 是...\N{\c&H62a8eb&\fs13}No, no, no, he's-he's not. It was, um...
+Dialogue: 0,0:20:56.45,0:20:58.66,Default,,0,0,0,,‎是摩菲和斯坦尼茨疯了\N{\c&H62a8eb&\fs13}It was Morphy who went crazy, and Steinitz.
+Dialogue: 0,0:20:59.70,0:21:02.16,Default,,0,0,0,,‎摩菲以为有人要偷走他的鞋\N{\c&H62a8eb&\fs13}Morphy thought people were trying to steal his shoes.
+Dialogue: 0,0:21:03.45,0:21:06.66,Default,,0,0,0,,‎也许他把鞋想成是象了\N{\c&H62a8eb&\fs13}Well, maybe he thought shoes were bishops.
+Dialogue: 0,0:21:08.41,0:21:09.54,Default,,0,0,0,,‎可能吧\N{\c&H62a8eb&\fs13}Yeah, maybe.
+Dialogue: 0,0:21:14.20,0:21:15.20,Default,,0,0,0,,‎贝丝\N{\c&H62a8eb&\fs13}Beth?
+Dialogue: 0,0:21:19.66,0:21:20.66,Default,,0,0,0,,‎我们来下棋吧\N{\c&H62a8eb&\fs13}Let's play chess.
+Dialogue: 0,0:21:22.37,0:21:23.37,Default,,0,0,0,,‎好啊\N{\c&H62a8eb&\fs13}Okay.
+Dialogue: 0,0:21:31.12,0:21:32.87,Default,,0,0,0,,‎给我两包吉时烟\N{\c&H62a8eb&\fs13}Two packs of Chesterfields, please.
+Dialogue: 0,0:21:42.20,0:21:43.20,Default,,0,0,0,,‎还有这本杂志\N{\c&H62a8eb&\fs13}This, too.
+Dialogue: 0,0:21:48.41,0:21:50.37,Default,,0,0,0,,‎怎么不干脆直接偷走呢\N{\c&H62a8eb&\fs13}Sure you wouldn't rather just steal it?
+Dialogue: 0,0:21:54.04,0:21:55.04,Default,,0,0,0,,‎你会去吗\N{\c&H62a8eb&\fs13}You gonna be there?
+Dialogue: 0,0:21:55.83,0:21:56.83,Default,,0,0,0,,‎我是指这次锦标赛\N{\c&H62a8eb&\fs13}That tournament?
+Dialogue: 0,0:21:59.45,0:22:00.45,Default,,0,0,0,,‎会\N{\c&H62a8eb&\fs13}Yes.
+Dialogue: 0,0:22:01.66,0:22:02.66,Default,,0,0,0,,‎加油\N{\c&H62a8eb&\fs13}Good luck.
+Dialogue: 0,0:22:05.70,0:22:06.70,Default,,0,0,0,,‎收下吧\N{\c&H62a8eb&\fs13}Keep it.
+Dialogue: 0,0:22:09.08,0:22:10.33,Default,,0,0,0,,‎付第一次的钱\N{\c&H62a8eb&\fs13}For the first time.
+Dialogue: 0,0:22:12.95,0:22:15.62,Default,,0,0,0,,‎这样不对劲啊 你的马处境堪忧啊\N{\c&H62a8eb&\fs13}Whoa, that doesn't look right. Your knight is hanging.
+Dialogue: 0,0:22:16.62,0:22:19.54,Default,,0,0,0,,‎你搞错了 这一步比你想象的更有杀伤力\N{\c&H62a8eb&\fs13}You're missing it. It's a much stronger move than it looks.
+Dialogue: 0,0:22:21.62,0:22:22.62,Default,,0,0,0,,‎看好了\N{\c&H62a8eb&\fs13}Okay, watch.
+Dialogue: 0,0:22:23.04,0:22:24.75,Default,,0,0,0,,‎马吃子\N{\c&H62a8eb&\fs13}The knight takes,
+Dialogue: 0,0:22:25.25,0:22:26.66,Default,,0,0,0,,‎兵往前走一步\N{\c&H62a8eb&\fs13}and the pawn moves up.
+Dialogue: 0,0:22:28.12,0:22:30.70,Default,,0,0,0,,‎兵再不往前走 象就会被包围\N{\c&H62a8eb&\fs13}If he didn't move it up, the bishop would be locked in.
+Dialogue: 0,0:22:30.79,0:22:33.25,Default,,0,0,0,,‎要是对方这么做...\N{\c&H62a8eb&\fs13}When he does...
+Dialogue: 0,0:22:35.83,0:22:37.00,Default,,0,0,0,,‎... 另一个兵就没了\N{\c&H62a8eb&\fs13}... the other pawn falls.
+Dialogue: 0,0:22:38.29,0:22:40.51,Default,,0,0,0,,‎-那这边的象呢  -得了吧 哈利\N{\c&H62a8eb&\fs13}- What about the other bishop here? - For Christ's sakes, Harry,
+Dialogue: 0,0:22:40.54,0:22:42.66,Default,,0,0,0,,‎一旦走兵换象就将军了\N{\c&H62a8eb&\fs13}It's check once the pawn moves, and the knight trades.
+Dialogue: 0,0:22:43.37,0:22:44.37,Default,,0,0,0,,‎你没看出来吗\N{\c&H62a8eb&\fs13}Can't you see that?
+Dialogue: 0,0:22:45.79,0:22:49.00,Default,,0,0,0,,‎-没有 我无法在短时间内看出来  -‎真希望你可以\N{\c&H62a8eb&\fs13}- No, I can't. I can't find it that fast. - Well, wish you could.
+Dialogue: 0,0:22:52.66,0:22:54.20,Default,,0,0,0,,‎你太尖锐了\N{\c&H62a8eb&\fs13}You're too sharp for me.
+Dialogue: 0,0:23:58.58,0:23:59.58,Default,,0,0,0,,‎嘿\N{\c&H62a8eb&\fs13}Hey.
+Dialogue: 0,0:24:01.00,0:24:03.25,Default,,0,0,0,,‎早餐快做好了\N{\c&H62a8eb&\fs13}Breakfast is almost ready.
+Dialogue: 0,0:24:09.29,0:24:11.20,Default,,0,0,0,,‎我把我会的东西都教给你了\N{\c&H62a8eb&\fs13}I have taught you everything I know.
+Dialogue: 0,0:24:12.79,0:24:14.91,Default,,0,0,0,,‎说真的 我会的也不多\N{\c&H62a8eb&\fs13}Which, admittedly, is not a lot.
+Dialogue: 0,0:24:16.75,0:24:18.33,Default,,0,0,0,,‎我得开始学习了\N{\c&H62a8eb&\fs13}I've got to start studying.
+Dialogue: 0,0:24:18.91,0:24:22.29,Default,,0,0,0,,‎我更适合当一个电子工程师 而不是无所事事的棋手\N{\c&H62a8eb&\fs13}I'm supposed to be an electrical engineer, not a chess bum.
+Dialogue: 0,0:24:25.16,0:24:26.33,Default,,0,0,0,,‎你打算去哪里\N{\c&H62a8eb&\fs13}Where are you gonna go?
+Dialogue: 0,0:24:27.66,0:24:29.12,Default,,0,0,0,,‎我会搬进那间公寓\N{\c&H62a8eb&\fs13}I'm moving to that apartment.
+Dialogue: 0,0:24:31.25,0:24:32.95,Default,,0,0,0,,‎比较靠近大学\N{\c&H62a8eb&\fs13}It's closer to the university.
+Dialogue: 0,0:24:39.58,0:24:41.79,Default,,0,0,0,,‎-我想送给你...  -你错了\N{\c&H62a8eb&\fs13}- I'm gonna leave you... - You're wrong, you know.
+Dialogue: 0,0:24:42.70,0:24:43.91,Default,,0,0,0,,‎你教会了我很多\N{\c&H62a8eb&\fs13}You've taught me a lot.
+Dialogue: 0,0:24:45.70,0:24:46.95,Default,,0,0,0,,‎很高兴你那晚打给了我\N{\c&H62a8eb&\fs13}I'm really glad you called.
+Dialogue: 0,0:24:47.58,0:24:50.25,Default,,0,0,0,,‎我很高兴能在这里陪着你\N{\c&H62a8eb&\fs13}I'm glad I could be here with you, you know?
+Dialogue: 0,0:24:51.58,0:24:52.79,Default,,0,0,0,,‎尤其在你妈过世后\N{\c&H62a8eb&\fs13}After you lost your mom.
+Dialogue: 0,0:24:53.79,0:24:54.83,Default,,0,0,0,,‎何止如此\N{\c&H62a8eb&\fs13}It's more than that.
+Dialogue: 0,0:24:58.08,0:24:59.29,Default,,0,0,0,,‎你真的帮了我很多\N{\c&H62a8eb&\fs13}You've really helped me.
+Dialogue: 0,0:25:00.79,0:25:02.29,Default,,0,0,0,,‎你也帮了我很多\N{\c&H62a8eb&\fs13}I guess you've helped me, too.
+Dialogue: 0,0:25:03.70,0:25:05.37,Default,,0,0,0,,‎你让我明白了一些事情\N{\c&H62a8eb&\fs13}You've helped me realize something.
+Dialogue: 0,0:25:06.41,0:25:07.41,Default,,0,0,0,,‎明白了什么\N{\c&H62a8eb&\fs13}What?
+Dialogue: 0,0:25:08.79,0:25:09.91,Default,,0,0,0,,‎我不爱下棋\N{\c&H62a8eb&\fs13}That I don't love chess.
+Dialogue: 0,0:25:10.95,0:25:12.12,Default,,0,0,0,,‎不要紧的\N{\c&H62a8eb&\fs13}No, it's okay.
+Dialogue: 0,0:25:13.62,0:25:15.87,Default,,0,0,0,,‎我对国际象棋的热爱不如从前了\N{\c&H62a8eb&\fs13}I just don't love it as much as I once did.
+Dialogue: 0,0:25:17.79,0:25:20.87,Default,,0,0,0,,还没沉迷到非赢不可的程度\N{\c&H62a8eb&\fs13}I'm not obsessed with it the way one has to be to win it all.
+Dialogue: 0,0:25:23.00,0:25:24.20,Default,,0,0,0,,‎不像你\N{\c&H62a8eb&\fs13}The way you are.
+Dialogue: 0,0:25:26.54,0:25:28.04,Default,,0,0,0,,‎我想送给你...\N{\c&H62a8eb&\fs13}I'm gonna leave you...
+Dialogue: 0,0:25:30.25,0:25:31.25,Default,,0,0,0,,‎这本书\N{\c&H62a8eb&\fs13}this.
+Dialogue: 0,0:25:33.16,0:25:34.41,Default,,0,0,0,,‎你俩有很多共同点\N{\c&H62a8eb&\fs13}You have a lot in common.
+Dialogue: 0,0:25:35.70,0:25:36.70,Default,,0,0,0,,‎是吗\N{\c&H62a8eb&\fs13}Really?
+Dialogue: 0,0:25:36.79,0:25:40.16,Default,,0,0,0,,‎摩菲好像在新奥尔良当过律师\N{\c&H62a8eb&\fs13}Morphy was a lawyer or something, in New Orleans.
+Dialogue: 0,0:25:40.25,0:25:41.58,Default,,0,0,0,,‎看看他的棋局\N{\c&H62a8eb&\fs13}You look at his games,
+Dialogue: 0,0:25:42.45,0:25:43.45,Default,,0,0,0,,‎他的步法\N{\c&H62a8eb&\fs13}the way he played.
+Dialogue: 0,0:25:44.62,0:25:48.33,Default,,0,0,0,,‎他牺牲马和象 爽快得好像有一堆可以牺牲似的\N{\c&H62a8eb&\fs13}He sacrificed knights and bishops like he had a dozen instead of two,
+Dialogue: 0,0:25:49.20,0:25:52.50,Default,,0,0,0,,‎然后在短时间内逼近王 连对手都懵了\N{\c&H62a8eb&\fs13}and then he'd move in on the king so fast, his opponents would just freeze up.
+Dialogue: 0,0:25:54.37,0:25:57.62,Default,,0,0,0,,‎可惜摩菲和卡帕布兰卡活在不同的时代\N{\c&H62a8eb&\fs13}It's too bad Morphy and Capablanca hadn't been alive at the same time.
+Dialogue: 0,0:25:57.70,0:25:58.98,Default,,0,0,0,,‎不然他们可以对弈\N{\c&H62a8eb&\fs13}They could've played each other.
+Dialogue: 0,0:25:59.04,0:26:02.50,Default,,0,0,0,,‎对啊 可惜后来摩菲患上妄想症去世了\N{\c&H62a8eb&\fs13}Yeah, it's too bad Morphy fell into a muttering paranoia and died.
+Dialogue: 0,0:26:06.50,0:26:09.20,Default,,0,0,0,,‎在巴黎的比赛前夕 他会彻夜不眠\N{\c&H62a8eb&\fs13}He would stay up all night, in Paris, before his games,
+Dialogue: 0,0:26:10.75,0:26:14.04,Default,,0,0,0,,‎在餐厅喝酒 跟陌生人聊天\N{\c&H62a8eb&\fs13}drinking in cafes, and talking with strangers.
+Dialogue: 0,0:26:15.29,0:26:18.95,Default,,0,0,0,,‎第二天上场依然精神奕奕\N{\c&H62a8eb&\fs13}And then he'd play the next day like a shark.
+Dialogue: 0,0:26:20.33,0:26:23.08,Default,,0,0,0,,‎彬彬有礼 衣着得体 行棋如神\N{\c&H62a8eb&\fs13}Well-mannered, well-dressed, moving the pieces
+Dialogue: 0,0:26:23.16,0:26:26.83,Default,,0,0,0,,‎他用如女性般柔美的纤纤十指\N{\c&H62a8eb&\fs13}with these small, ladylike hands.
+Dialogue: 0,0:26:27.54,0:26:30.50,Default,,0,0,0,,‎狠挫一个又一个欧洲特级大师\N{\c&H62a8eb&\fs13}Crushing one European master after another.
+Dialogue: 0,0:26:32.75,0:26:34.25,Default,,0,0,0,,‎你知道外界怎么形容他吗\N{\c&H62a8eb&\fs13}You know what they called him?
+Dialogue: 0,0:26:36.04,0:26:38.70,Default,,0,0,0,,"国际象棋的骄傲与悲伤"\N{\c&H62a8eb&\fs13}"The pride and the sorrow of chess."
+Dialogue: 0,0:26:41.08,0:26:42.41,Default,,0,0,0,,然后‎他22岁就退役了\N{\c&H62a8eb&\fs13}And then he retired at 22.
+Dialogue: 0,0:26:43.83,0:26:46.58,Default,,0,0,0,,‎-你认为我会变成那样吗  -我认为你现在就是那样\N{\c&H62a8eb&\fs13}- And you think that's gonna be me? - I think that is you.
+Dialogue: 0,0:26:49.04,0:26:50.04,Default,,0,0,0,,‎我觉得也许...\N{\c&H62a8eb&\fs13}I think maybe...
+Dialogue: 0,0:26:50.75,0:26:51.83,Default,,0,0,0,,‎你一直都是这个样子\N{\c&H62a8eb&\fs13}it's always been you.
+Dialogue: 0,0:27:08.12,0:27:09.25,Default,,0,0,0,,‎贝丝 要适可而止\N{\c&H62a8eb&\fs13}Be careful, Beth.
+Dialogue: 0,0:28:45.75,0:28:46.91,Default,,0,0,0,,‎你好 贝丝\N{\c&H62a8eb&\fs13}Why, hello, Beth.
+Dialogue: 0,0:28:47.87,0:28:49.20,Default,,0,0,0,,‎你好 班尼\N{\c&H62a8eb&\fs13}Why, hello, Benny.
+Dialogue: 0,0:28:50.87,0:28:54.25,Default,,0,0,0,,‎我看到你和博戈夫对弈的新闻了 你肯定很难受吧\N{\c&H62a8eb&\fs13}I read about your game with Borgov. That must have felt terrible.
+Dialogue: 0,0:28:54.33,0:28:56.62,Default,,0,0,0,,‎-我觉得自己好傻  -我理解那种感觉\N{\c&H62a8eb&\fs13}- I felt like a fool. - I know that feeling.
+Dialogue: 0,0:28:57.16,0:28:58.16,Default,,0,0,0,,‎无奈\N{\c&H62a8eb&\fs13}Helpless.
+Dialogue: 0,0:28:59.12,0:29:00.45,Default,,0,0,0,,‎当下棋成了...\N{\c&H62a8eb&\fs13}It all goes, and you just...
+Dialogue: 0,0:29:02.00,0:29:03.25,Default,,0,0,0,,‎毫无意义的动作\N{\c&H62a8eb&\fs13}push wood.
+Dialogue: 0,0:29:05.83,0:29:07.25,Default,,0,0,0,,‎你第一个对手是谁\N{\c&H62a8eb&\fs13}Who have you got up first?
+Dialogue: 0,0:29:08.87,0:29:09.70,Default,,0,0,0,,‎曼弗莱迪\N{\c&H62a8eb&\fs13}Manfredi.
+Dialogue: 0,0:29:14.29,0:29:15.87,Default,,0,0,0,,‎应该很快就搞定了\N{\c&H62a8eb&\fs13}That shouldn't take too long.
+Dialogue: 0,0:29:16.87,0:29:20.33,Default,,0,0,0,,‎全国最顶尖的棋手\N{\c&H62a8eb&\fs13}Highest-rated players in the whole fucking country,
+Dialogue: 0,0:29:20.41,0:29:23.04,Default,,0,0,0,,‎却聚在某所二流大学里\N{\c&H62a8eb&\fs13}and yet here we are at some second-rate university,
+Dialogue: 0,0:29:23.12,0:29:27.33,Default,,0,0,0,,‎用便宜的塑料棋盘和棋子对弈\N{\c&H62a8eb&\fs13}playing on cheap plastic boards with cheap plastic pieces.
+Dialogue: 0,0:29:29.08,0:29:31.25,Default,,0,0,0,,‎换成是高尔夫球赛或网球赛\N{\c&H62a8eb&\fs13}If this were a golf or tennis tournament,
+Dialogue: 0,0:29:31.33,0:29:33.66,Default,,0,0,0,,‎我们肯定会被记者包围 而不是...\N{\c&H62a8eb&\fs13}we'd be surrounded by reporters, as opposed to...
+Dialogue: 0,0:29:35.20,0:29:36.33,Default,,0,0,0,,‎... 这些路人甲\N{\c&H62a8eb&\fs13}... whoever these people are.
+Dialogue: 0,0:29:37.58,0:29:39.66,Default,,0,0,0,,‎你应该见识一下苏联的比赛场地\N{\c&H62a8eb&\fs13}You should see where they play in the Soviet Union.
+Dialogue: 0,0:29:39.75,0:29:41.33,Default,,0,0,0,,‎我有这个打算\N{\c&H62a8eb&\fs13}I'm planning on it.
+Dialogue: 0,0:29:42.45,0:29:43.95,Default,,0,0,0,,‎那你要先打败我\N{\c&H62a8eb&\fs13}You have to get past me first.
+Dialogue: 0,0:29:44.04,0:29:45.54,Default,,0,0,0,,‎我也有这个打算\N{\c&H62a8eb&\fs13}I'm planning on that, too.
+Dialogue: 0,0:31:40.95,0:31:44.37,Default,,0,0,0,,‎多数棋手对自己的判断缺乏勇气\N{\c&H62a8eb&\fs13}Now, most players, they lack the courage in their convictions.
+Dialogue: 0,0:31:44.45,0:31:48.54,Default,,0,0,0,,‎举棋不定是大忌 下棋要有十足的信心\N{\c&H62a8eb&\fs13}The key is to not be tentative. You have to play with absolute confidence.
+Dialogue: 0,0:31:48.62,0:31:49.82,Default,,0,0,0,,‎从对手走的第一步棋\N{\c&H62a8eb&\fs13}I can tell, on the first move,
+Dialogue: 0,0:31:49.87,0:31:53.87,Default,,0,0,0,,我就看得出对方有没有信心\N{\c&H62a8eb&\fs13}whether someone's got that or they don't, just from how they move that first piece.
+Dialogue: 0,0:31:54.37,0:31:56.33,Default,,0,0,0,,你有话想要告诉那些\N{\c&H62a8eb&\fs13}What advice would you give to any young players
+Dialogue: 0,0:31:56.41,0:31:58.04,Default,,0,0,0,,有意跟随你脚步的年轻棋手吗\N{\c&H62a8eb&\fs13}who wanna follow in your footsteps?
+Dialogue: 0,0:32:00.50,0:32:02.00,Default,,0,0,0,,‎我会叫他们去看我写的书\N{\c&H62a8eb&\fs13}I'd tell them to read my book.
+Dialogue: 0,0:32:02.95,0:32:04.33,Default,,0,0,0,,‎这是肯定的\N{\c&H62a8eb&\fs13}Obviously. Um...
+Dialogue: 0,0:32:05.25,0:32:08.70,Default,,0,0,0,,积极参赛 另外就是要强身健体\N{\c&H62a8eb&\fs13}Yeah, play through all the games. You know, I'd tell them to get in shape.
+Dialogue: 0,0:32:08.79,0:32:12.54,Default,,0,0,0,,‎很多人一想到棋手就会联想到你这种外形的人\N{\c&H62a8eb&\fs13}Most people think about chess players, they think about people who look like you.
+Dialogue: 0,0:32:12.95,0:32:14.04,Default,,0,0,0,,‎哈蒙\N{\c&H62a8eb&\fs13}Harmon!
+Dialogue: 0,0:32:14.62,0:32:15.62,Default,,0,0,0,,‎等等\N{\c&H62a8eb&\fs13}Wait up.
+Dialogue: 0,0:32:19.08,0:32:20.66,Default,,0,0,0,,‎看来你找到记者了\N{\c&H62a8eb&\fs13}Found you a reporter, I see.
+Dialogue: 0,0:32:21.83,0:32:23.20,Default,,0,0,0,,‎很好笑\N{\c&H62a8eb&\fs13}Funny. Ha.
+Dialogue: 0,0:32:24.45,0:32:27.04,Default,,0,0,0,,‎你在第三局对那个可怜虫做了什么\N{\c&H62a8eb&\fs13}What did you do to that poor guy you played in the third round?
+Dialogue: 0,0:32:27.12,0:32:28.95,Default,,0,0,0,,他一脸生无可恋\N{\c&H62a8eb&\fs13}He looked like he wanted to kill himself.
+Dialogue: 0,0:32:29.45,0:32:31.79,Default,,0,0,0,,‎哪个可怜虫\N{\c&H62a8eb&\fs13}Uh, which poor guy are you talking about?
+Dialogue: 0,0:32:32.91,0:32:33.91,Default,,0,0,0,,‎杜谢尔\N{\c&H62a8eb&\fs13}Touché.
+Dialogue: 0,0:32:35.66,0:32:39.66,Default,,0,0,0,,‎我和几个棋手要去学生会大楼\N{\c&H62a8eb&\fs13}Hey, uh, some of us have been, uh, heading down to the student union,
+Dialogue: 0,0:32:39.75,0:32:41.63,Default,,0,0,0,,‎喝几杯啤酒 下几盘快棋\N{\c&H62a8eb&\fs13}having a couple beers, playing some speed chess.
+Dialogue: 0,0:32:41.70,0:32:42.70,Default,,0,0,0,,‎不妨一起来吧\N{\c&H62a8eb&\fs13}You should join us.
+Dialogue: 0,0:32:42.75,0:32:44.66,Default,,0,0,0,,‎不了 谢谢 我要回去学习\N{\c&H62a8eb&\fs13}No, thanks. I have to study.
+Dialogue: 0,0:32:45.29,0:32:48.04,Default,,0,0,0,,‎我想回宿舍看你写的书\N{\c&H62a8eb&\fs13}Thought I'd go back to the dorms, read your book.
+Dialogue: 0,0:32:49.08,0:32:50.25,Default,,0,0,0,,‎你懂的 修身养性\N{\c&H62a8eb&\fs13}You know, get in shape.
+Dialogue: 0,0:32:52.20,0:32:54.54,Default,,0,0,0,,‎你知道我们明天有一整天的空档吧\N{\c&H62a8eb&\fs13}You do realize that we have the whole day off tomorrow?
+Dialogue: 0,0:32:56.29,0:32:57.79,Default,,0,0,0,,‎我可以问你一个问题吗\N{\c&H62a8eb&\fs13}Can I ask you a question?
+Dialogue: 0,0:32:59.50,0:33:01.95,Default,,0,0,0,,‎那要看这个问题会不会让你在比赛中占上风\N{\c&H62a8eb&\fs13}Depends on whether or not the answer will give you an edge.
+Dialogue: 0,0:33:02.04,0:33:03.04,Default,,0,0,0,,‎不会吧\N{\c&H62a8eb&\fs13}Seriously?
+Dialogue: 0,0:33:03.83,0:33:04.91,Default,,0,0,0,,‎你真的那么紧张吗\N{\c&H62a8eb&\fs13}Are you that nervous?
+Dialogue: 0,0:33:05.58,0:33:08.08,Default,,0,0,0,,‎-这就是你的问题吗  -不是 那把小刀是怎么回事\N{\c&H62a8eb&\fs13}- Was that the question? - No! What's with the knife?
+Dialogue: 0,0:33:09.16,0:33:10.16,Default,,0,0,0,,‎什么意思\N{\c&H62a8eb&\fs13}What do you mean?
+Dialogue: 0,0:33:10.79,0:33:13.25,Default,,0,0,0,,你为什么带着小刀到处走\N{\c&H62a8eb&\fs13}I mean, why do you carry it around?
+Dialogue: 0,0:33:14.41,0:33:15.75,Default,,0,0,0,,‎防身用的\N{\c&H62a8eb&\fs13}This is for protection.
+Dialogue: 0,0:33:18.95,0:33:20.79,Default,,0,0,0,,‎-防什么  -就防万一\N{\c&H62a8eb&\fs13}- From what? - Whatever.
+Dialogue: 0,0:33:23.20,0:33:24.20,Default,,0,0,0,,‎好好用功\N{\c&H62a8eb&\fs13}Study hard.
+Dialogue: 0,0:34:40.87,0:34:41.87,Default,,0,0,0,,‎贝丝\N{\c&H62a8eb&\fs13}Beth!
+Dialogue: 0,0:34:48.29,0:34:53.33,Default,,0,0,0,,‎贝丝·哈蒙 这是丹尼·韦斯和戴夫·弗里德曼\N{\c&H62a8eb&\fs13}Beth Harmon, this is Danny Weiss and Dave Friedman.
+Dialogue: 0,0:34:54.33,0:34:55.33,Default,,0,0,0,,‎很高兴认识你们\N{\c&H62a8eb&\fs13}Nice to meet you.
+Dialogue: 0,0:34:55.41,0:34:57.79,Default,,0,0,0,,‎其实我们见过的 那天你打败了我\N{\c&H62a8eb&\fs13}Actually, we met. You beat me the other day.
+Dialogue: 0,0:34:58.87,0:35:00.91,Default,,0,0,0,,‎我也是 惨败给你\N{\c&H62a8eb&\fs13}Me, too. Rather badly, in fact.
+Dialogue: 0,0:35:02.16,0:35:03.33,Default,,0,0,0,,‎-抱歉  -没必要道歉\N{\c&H62a8eb&\fs13}- Sorry. - Don't be.
+Dialogue: 0,0:35:03.41,0:35:06.25,Default,,0,0,0,,‎回房痛哭一场之后 我复盘了那盘棋\N{\c&H62a8eb&\fs13}After I finished weeping in my room, I replayed the game.
+Dialogue: 0,0:35:06.91,0:35:09.12,Default,,0,0,0,,‎从中学到很多 多亏了你\N{\c&H62a8eb&\fs13}Learned a lot from it, so thank you.
+Dialogue: 0,0:35:09.66,0:35:12.29,Default,,0,0,0,,‎-不用客气  -贝丝 你来看一下\N{\c&H62a8eb&\fs13}- You're welcome. - Beth, take a look at this.
+Dialogue: 0,0:35:12.37,0:35:13.37,Default,,0,0,0,,‎轮到白方走了\N{\c&H62a8eb&\fs13}It's White's move.
+Dialogue: 0,0:35:14.45,0:35:15.45,Default,,0,0,0,,‎你会怎么走\N{\c&H62a8eb&\fs13}What would you do?
+Dialogue: 0,0:35:18.45,0:35:20.16,Default,,0,0,0,,‎这是以鲁伊·洛佩兹开局后的典型中局\N{\c&H62a8eb&\fs13}Typical mid-game Ruy Lopez.
+Dialogue: 0,0:35:20.25,0:35:22.50,Default,,0,0,0,,‎这我们也知道 但是要怎么走\N{\c&H62a8eb&\fs13}Well, yeah, we know that, but what's the move?
+Dialogue: 0,0:35:24.95,0:35:26.91,Default,,0,0,0,,‎-看见了吗  -也许你说得对吧\N{\c&H62a8eb&\fs13}- You see? - Maybe you're right.
+Dialogue: 0,0:35:27.00,0:35:30.25,Default,,0,0,0,,‎我果然是对的 我和贝丝的看法一样\N{\c&H62a8eb&\fs13}No, I know I'm right, and Beth sees things the same way I do.
+Dialogue: 0,0:35:31.12,0:35:32.79,Default,,0,0,0,,‎兵太弱了 是吧\N{\c&H62a8eb&\fs13}The pawn move is too weak, right?
+Dialogue: 0,0:35:34.04,0:35:36.12,Default,,0,0,0,,‎除非对方走的是象 否则兵用不上\N{\c&H62a8eb&\fs13}The pawn move only works if he plays his bishop.
+Dialogue: 0,0:35:36.20,0:35:37.20,Default,,0,0,0,,‎没错\N{\c&H62a8eb&\fs13}Exactly.
+Dialogue: 0,0:35:37.62,0:35:39.08,Default,,0,0,0,,‎-再见了 各位  -等一下\N{\c&H62a8eb&\fs13}- Bye, boys. - Whoa, hold on.
+Dialogue: 0,0:35:39.83,0:35:41.20,Default,,0,0,0,,‎要不要来下几盘快棋\N{\c&H62a8eb&\fs13}How about some speed chess?
+Dialogue: 0,0:35:43.08,0:35:45.54,Default,,0,0,0,,‎不然就来一场非正式赛 或是下一盘快棋\N{\c&H62a8eb&\fs13}Or we could play some skittles, or blitz,
+Dialogue: 0,0:35:45.62,0:35:46.75,Default,,0,0,0,,‎或是四狂象棋\N{\c&H62a8eb&\fs13}or bughouse?
+Dialogue: 0,0:35:47.79,0:35:51.12,Default,,0,0,0,,‎不了 我想买一杯咖啡然后回去学习\N{\c&H62a8eb&\fs13}No, I'm just gonna get some coffee, and then I'm gonna go back and study.
+Dialogue: 0,0:35:51.20,0:35:53.79,Default,,0,0,0,,‎韦斯会帮你买咖啡 是吧 韦斯\N{\c&H62a8eb&\fs13}Well, Weiss will get you some coffee, won't you, Weiss?
+Dialogue: 0,0:35:56.37,0:35:58.45,Default,,0,0,0,,‎好吧\N{\c&H62a8eb&\fs13}Uh... yeah.
+Dialogue: 0,0:36:00.62,0:36:02.12,Default,,0,0,0,,‎要糖还是奶精\N{\c&H62a8eb&\fs13}Sugar, cream?
+Dialogue: 0,0:36:03.66,0:36:04.66,Default,,0,0,0,,‎都要\N{\c&H62a8eb&\fs13}Yes.
+Dialogue: 0,0:36:05.12,0:36:07.25,Default,,0,0,0,,‎-谢了  -顺便帮我买一杯苹果汁\N{\c&H62a8eb&\fs13}- Thank you. - Uh, get me an apple juice.
+Dialogue: 0,0:36:08.87,0:36:10.70,Default,,0,0,0,,‎不要用软趴趴的塑料杯装\N{\c&H62a8eb&\fs13}But not one of those, uh, crappy plastic cups.
+Dialogue: 0,0:36:10.79,0:36:12.08,Default,,0,0,0,,‎给我弄个牛奶杯\N{\c&H62a8eb&\fs13}Get me a-a milk glass.
+Dialogue: 0,0:36:12.16,0:36:13.16,Default,,0,0,0,,没问题\N{\c&H62a8eb&\fs13}Yeah, sure.
+Dialogue: 0,0:36:16.75,0:36:18.12,Default,,0,0,0,,‎坐吧\N{\c&H62a8eb&\fs13}Please, sit.
+Dialogue: 0,0:36:20.58,0:36:21.58,Default,,0,0,0,,‎好啊\N{\c&H62a8eb&\fs13}Fine.
+Dialogue: 0,0:36:22.37,0:36:23.58,Default,,0,0,0,,‎就跟你下一盘\N{\c&H62a8eb&\fs13}One game.
+Dialogue: 0,0:36:24.12,0:36:25.12,Default,,0,0,0,,‎-可以了吗  -好\N{\c&H62a8eb&\fs13}- Got it? - All right.
+Dialogue: 0,0:36:30.45,0:36:31.45,Default,,0,0,0,,‎好了\N{\c&H62a8eb&\fs13}Okay.
+Dialogue: 0,0:36:32.16,0:36:33.79,Default,,0,0,0,,‎那我们...\N{\c&H62a8eb&\fs13}Shall we say...
+Dialogue: 0,0:36:35.12,0:36:36.12,Default,,0,0,0,,‎输一局赔5美元\N{\c&H62a8eb&\fs13}five bucks a game?
+Dialogue: 0,0:36:37.79,0:36:40.95,Default,,0,0,0,,‎-我的咖啡还没到手呢  -你瞧 咖啡来了\N{\c&H62a8eb&\fs13}- I haven't even had my coffee. - Well, look, here it comes right now.
+Dialogue: 0,0:36:44.08,0:36:45.33,Default,,0,0,0,,‎-你的咖啡  -谢了\N{\c&H62a8eb&\fs13}- There you go. - Thank you.
+Dialogue: 0,0:36:48.75,0:36:52.58,Default,,0,0,0,,‎你先喝一口咖啡 然后我来按你的棋钟\N{\c&H62a8eb&\fs13}All right, you take a sip of that coffee, and I'll punch your clock.
+Dialogue: 0,0:36:58.20,0:36:59.50,Default,,0,0,0,,‎开始吧\N{\c&H62a8eb&\fs13}Go ahead.
+Dialogue: 0,0:37:49.54,0:37:50.54,Default,,0,0,0,,‎再来一局\N{\c&H62a8eb&\fs13}Again?
+Dialogue: 0,0:38:09.25,0:38:10.41,Default,,0,0,0,,‎再来一局\N{\c&H62a8eb&\fs13}Again?
+Dialogue: 0,0:38:34.87,0:38:35.91,Default,,0,0,0,,‎再来一局\N{\c&H62a8eb&\fs13}Again?
+Dialogue: 0,0:39:02.62,0:39:03.91,Default,,0,0,0,,‎再来一局\N{\c&H62a8eb&\fs13}Again?
+Dialogue: 0,0:39:43.66,0:39:46.29,Default,,0,0,0,,‎-我要看证据  -你是说我骗你了\N{\c&H62a8eb&\fs13}- I need to see proof. - Calling me a liar?
+Dialogue: 0,0:40:10.33,0:40:11.58,Default,,0,0,0,,‎不是你就是我\N{\c&H62a8eb&\fs13}It's gonna be you or me.
+Dialogue: 0,0:40:19.91,0:40:23.54,Default,,0,0,0,,‎-你这是在威吓我吗  -‎我没必要那么做\N{\c&H62a8eb&\fs13}- Are you trying to psych me out? - No, I don't need to do that to beat you.
+Dialogue: 0,0:40:28.12,0:40:31.70,Default,,0,0,0,,‎我为昨天的事跟你道歉 我没有要刺激你的意思\N{\c&H62a8eb&\fs13}Listen, I'm sorry about yesterday, okay? I wasn't trying to hustle you.
+Dialogue: 0,0:40:31.79,0:40:33.91,Default,,0,0,0,,‎-是吗  -别闹了 贝丝\N{\c&H62a8eb&\fs13}- Weren't you? - Come on, Beth.
+Dialogue: 0,0:40:34.00,0:40:35.50,Default,,0,0,0,,‎你才是这里最出色的棋手\N{\c&H62a8eb&\fs13}You're the best player here.
+Dialogue: 0,0:40:37.20,0:40:39.16,Default,,0,0,0,,‎我一直在看你的比赛 你...\N{\c&H62a8eb&\fs13}And I've been watching your games. You...
+Dialogue: 0,0:40:39.87,0:40:41.12,Default,,0,0,0,,‎你进攻的方式有如阿廖欣\N{\c&H62a8eb&\fs13}You attack like Alekhine.
+Dialogue: 0,0:40:42.41,0:40:44.33,Default,,0,0,0,,‎昨天你不也见招拆招了吗\N{\c&H62a8eb&\fs13}You held me off well enough yesterday.
+Dialogue: 0,0:40:44.91,0:40:46.66,Default,,0,0,0,,‎那不算数 那只是快棋\N{\c&H62a8eb&\fs13}But that doesn't count. That's speed chess.
+Dialogue: 0,0:40:46.75,0:40:49.45,Default,,0,0,0,,‎论快棋我肯定比你强 毕竟我常在纽约下快棋\N{\c&H62a8eb&\fs13}I'm better at speed chess than you. I play a lot in New York.
+Dialogue: 0,0:40:49.54,0:40:51.87,Default,,0,0,0,,‎-你在拉斯维加斯打败过我  -那是很久以前了\N{\c&H62a8eb&\fs13}- You beat me in Las Vegas. - That was a while ago.
+Dialogue: 0,0:40:51.95,0:40:54.16,Default,,0,0,0,,‎你处处提防我的叠兵\N{\c&H62a8eb&\fs13}You were too hung up on doubling my pawns.
+Dialogue: 0,0:40:54.25,0:40:56.16,Default,,0,0,0,,‎看来我不能再用这一招了\N{\c&H62a8eb&\fs13}I don't think I could get away with that again.
+Dialogue: 0,0:41:01.00,0:41:02.75,Default,,0,0,0,,‎你会在脑海中复盘棋局吗\N{\c&H62a8eb&\fs13}Do you ever go over games in your head?
+Dialogue: 0,0:41:04.58,0:41:06.83,Default,,0,0,0,,‎我是指单独一个人 在脑海里复盘整个棋局\N{\c&H62a8eb&\fs13}When you're alone. Play all the way through them?
+Dialogue: 0,0:41:09.04,0:41:10.04,Default,,0,0,0,,‎每个人都这样吧\N{\c&H62a8eb&\fs13}Doesn't everybody?
+Dialogue: 0,0:41:34.20,0:41:36.58,Default,,0,0,0,,‎我没想到你会让我换后\N{\c&H62a8eb&\fs13}Well, I never thought you'd let me trade queens.
+Dialogue: 0,0:41:36.66,0:41:37.75,Default,,0,0,0,,‎我也没想到\N{\c&H62a8eb&\fs13}I didn't think so, either.
+Dialogue: 0,0:41:37.83,0:41:40.16,Default,,0,0,0,,‎在30步之内 天啊\N{\c&H62a8eb&\fs13}Thirty moves, man, Jesus.
+Dialogue: 0,0:41:40.79,0:41:41.91,Default,,0,0,0,,‎有那么多吗\N{\c&H62a8eb&\fs13}That many?
+Dialogue: 0,0:41:44.54,0:41:46.20,Default,,0,0,0,,‎看来你的酒量也比我好\N{\c&H62a8eb&\fs13}Looks like you can outdrink me, too.
+Dialogue: 0,0:41:48.20,0:41:50.41,Default,,0,0,0,,‎看到你如此从容地面对失败 我很欣慰\N{\c&H62a8eb&\fs13}I really appreciate how you're taking this.
+Dialogue: 0,0:41:50.91,0:41:54.33,Default,,0,0,0,,‎-我心里燃烧着熊熊怒火  -看不出来\N{\c&H62a8eb&\fs13}- I'm raging inwardly. - Well, it doesn't show.
+Dialogue: 0,0:41:55.16,0:41:57.50,Default,,0,0,0,,‎我真不应该以象兵开局\N{\c&H62a8eb&\fs13}Should never have played that goddamn bishop pawn.
+Dialogue: 0,0:41:58.00,0:42:01.45,Default,,0,0,0,,‎-那也不一定会赢  -‎你打算怎么和博戈夫下\N{\c&H62a8eb&\fs13}- No, probably not. - What are you gonna do about Borgov?
+Dialogue: 0,0:42:03.08,0:42:04.08,Default,,0,0,0,,‎不知道\N{\c&H62a8eb&\fs13}I don't know.
+Dialogue: 0,0:42:04.66,0:42:07.29,Default,,0,0,0,,‎我连护照和适合的衣裳也没有\N{\c&H62a8eb&\fs13}I don't even have a passport. Or the right clothes.
+Dialogue: 0,0:42:07.37,0:42:09.79,Default,,0,0,0,,‎听说到时候巴黎会很冷\N{\c&H62a8eb&\fs13}I hear it's pretty cold in Paris that time of year.
+Dialogue: 0,0:42:10.29,0:42:12.58,Default,,0,0,0,,‎我不是指巴黎 我是指莫斯科\N{\c&H62a8eb&\fs13}I'm not talking about Paris. I'm talking about Moscow.
+Dialogue: 0,0:42:14.37,0:42:16.66,Default,,0,0,0,,‎肯塔基州没有邮寄服务吗\N{\c&H62a8eb&\fs13}What, do they not deliver mail in Kentucky?
+Dialogue: 0,0:42:17.75,0:42:18.83,Default,,0,0,0,,‎莫斯科有什么赛事\N{\c&H62a8eb&\fs13}What's in Moscow?
+Dialogue: 0,0:42:19.83,0:42:21.54,Default,,0,0,0,,‎莫斯科邀请赛\N{\c&H62a8eb&\fs13}The Moscow Invitational.
+Dialogue: 0,0:42:21.62,0:42:24.54,Default,,0,0,0,,‎全美冠军将受邀参赛 你不知道吗\N{\c&H62a8eb&\fs13}The US winner gets invited. You didn't know that?
+Dialogue: 0,0:42:27.29,0:42:29.83,Default,,0,0,0,,‎-是 女士  -再来两瓶\N{\c&H62a8eb&\fs13}- Yes, ma'am. - A couple more, please.
+Dialogue: 0,0:42:29.91,0:42:33.66,Default,,0,0,0,,‎-谢了 我不要 第一杯还没喝完呢  -‎那两瓶都归我了\N{\c&H62a8eb&\fs13}- Uh, no, thanks. I'm still on my first. - Well, I'll drink them both.
+Dialogue: 0,0:42:35.16,0:42:36.29,Default,,0,0,0,,少喝点儿 母老虎\N{\c&H62a8eb&\fs13}Easy there, tiger.
+Dialogue: 0,0:42:39.58,0:42:41.62,Default,,0,0,0,,‎如果收到邀请 我要怎么去莫斯科\N{\c&H62a8eb&\fs13}How do I get to Moscow if I go?
+Dialogue: 0,0:42:41.70,0:42:43.33,Default,,0,0,0,,‎当年我去的时候\N{\c&H62a8eb&\fs13}Uh, well, I mean, when I went,
+Dialogue: 0,0:42:43.91,0:42:47.29,Default,,0,0,0,,‎是协会替我付的机票钱\N{\c&H62a8eb&\fs13}the Federation paid for my ticket, and then this church group
+Dialogue: 0,0:42:47.37,0:42:48.54,Default,,0,0,0,,其他费用由某个教会包办\N{\c&H62a8eb&\fs13}covered the rest of it.
+Dialogue: 0,0:42:48.62,0:42:49.75,Default,,0,0,0,,‎你有没有带个助手\N{\c&H62a8eb&\fs13}Did you have a second?
+Dialogue: 0,0:42:50.50,0:42:51.91,Default,,0,0,0,,‎-韦斯  -韦斯\N{\c&H62a8eb&\fs13}- Weiss. - Weiss?
+Dialogue: 0,0:42:52.00,0:42:54.25,Default,,0,0,0,,‎一个人去苏联可不容易\N{\c&H62a8eb&\fs13}It would be tough to go to Russia alone.
+Dialogue: 0,0:42:54.75,0:42:56.79,Default,,0,0,0,,‎-酒来了  -谢了\N{\c&H62a8eb&\fs13}- Here you go. - Oh, thank you.
+Dialogue: 0,0:43:03.12,0:43:04.50,Default,,0,0,0,,‎你每次都喝这么多吗\N{\c&H62a8eb&\fs13}You always drink this much?
+Dialogue: 0,0:43:07.33,0:43:08.54,Default,,0,0,0,,‎有时我喝得更多\N{\c&H62a8eb&\fs13}Sometimes, I drink more.
+Dialogue: 0,0:43:11.08,0:43:13.08,Default,,0,0,0,,‎还有哪些棋手会参加莫斯科邀请赛\N{\c&H62a8eb&\fs13}Who else will be playing in Moscow?
+Dialogue: 0,0:43:13.87,0:43:17.25,Default,,0,0,0,,‎四个苏联顶尖棋手 还有四个其他国家的\N{\c&H62a8eb&\fs13}Four top Russians, and four other countries.
+Dialogue: 0,0:43:18.54,0:43:20.62,Default,,0,0,0,,如果你一直这么喝 不到21岁\N{\c&H62a8eb&\fs13}If you keep doing this, you're gonna end up washed up
+Dialogue: 0,0:43:20.70,0:43:21.91,Default,,0,0,0,,你就会完蛋的\N{\c&H62a8eb&\fs13}by the time you're 21.
+Dialogue: 0,0:43:27.75,0:43:28.75,Default,,0,0,0,,‎我喜欢你的头发\N{\c&H62a8eb&\fs13}I like your hair.
+Dialogue: 0,0:43:32.08,0:43:33.08,Default,,0,0,0,,‎可以理解\N{\c&H62a8eb&\fs13}Yeah, sure you do.
+Dialogue: 0,0:43:34.62,0:43:35.75,Default,,0,0,0,,‎你去不去莫斯科\N{\c&H62a8eb&\fs13}What about Moscow?
+Dialogue: 0,0:43:37.66,0:43:40.58,Default,,0,0,0,,‎四个苏联棋手实在是太多了\N{\c&H62a8eb&\fs13}Four Soviet chess players is a lot of Soviet chess players.
+Dialogue: 0,0:43:41.41,0:43:42.41,Default,,0,0,0,,‎简直就是找死\N{\c&H62a8eb&\fs13}Murderous.
+Dialogue: 0,0:43:43.62,0:43:44.87,Default,,0,0,0,,‎但我认为全美国只有你\N{\c&H62a8eb&\fs13}But you're the only American
+Dialogue: 0,0:43:44.95,0:43:47.08,Default,,0,0,0,,有可能打败他们\N{\c&H62a8eb&\fs13}I can think of that might be able to do it.
+Dialogue: 0,0:43:48.12,0:43:50.16,Default,,0,0,0,,‎我在墨西哥城被博戈夫杀得片甲不留\N{\c&H62a8eb&\fs13}I went to pieces with Borgov in Mexico City.
+Dialogue: 0,0:43:54.37,0:43:55.62,Default,,0,0,0,,‎你什么时候去巴黎\N{\c&H62a8eb&\fs13}When do you go to Paris?
+Dialogue: 0,0:43:57.16,0:43:58.45,Default,,0,0,0,,‎五周后\N{\c&H62a8eb&\fs13}In five weeks.
+Dialogue: 0,0:44:00.08,0:44:02.04,Default,,0,0,0,,‎你需要一个出色的教练\N{\c&H62a8eb&\fs13}Well, you'll need a good trainer.
+Dialogue: 0,0:44:03.75,0:44:05.12,Default,,0,0,0,,‎哈利·贝尔提克不行\N{\c&H62a8eb&\fs13}Not Harry Beltik.
+Dialogue: 0,0:44:06.12,0:44:07.12,Default,,0,0,0,,‎这个人必须...\N{\c&H62a8eb&\fs13}Someone...
+Dialogue: 0,0:44:08.62,0:44:09.79,Default,,0,0,0,,‎更出色\N{\c&H62a8eb&\fs13}better.
+Dialogue: 0,0:44:10.41,0:44:13.04,Default,,0,0,0,,‎更成熟\N{\c&H62a8eb&\fs13}Someone more, um, mature.
+Dialogue: 0,0:44:14.00,0:44:15.16,Default,,0,0,0,,‎你想到谁了\N{\c&H62a8eb&\fs13}Who'd you have in mind?
+Dialogue: 0,0:44:17.87,0:44:19.75,Default,,0,0,0,,‎你可以来一趟纽约吗\N{\c&H62a8eb&\fs13}Can you come to New York?
+Dialogue: 0,0:44:23.08,0:44:24.08,Default,,0,0,0,,‎不知道\N{\c&H62a8eb&\fs13}I don't know.
+Dialogue: 0,0:44:24.58,0:44:27.91,Default,,0,0,0,,‎你可以睡我家的客厅 到时候直接从纽约飞往巴黎\N{\c&H62a8eb&\fs13}You can sleep in my living room, and you can leave for Paris from there.
+Dialogue: 0,0:44:28.41,0:44:29.75,Default,,0,0,0,,‎你人真好\N{\c&H62a8eb&\fs13}That's very nice of you,
+Dialogue: 0,0:44:29.83,0:44:33.29,Default,,0,0,0,,‎只是我还不确定要不要去巴黎\N{\c&H62a8eb&\fs13}but I'm not even so sure I wanna go to Paris anymore.
+Dialogue: 0,0:44:35.04,0:44:38.04,Default,,0,0,0,,‎那你有什么打算 酗酒\N{\c&H62a8eb&\fs13}What are you gonna do instead, huh? Get drunk?
+Dialogue: 0,0:44:38.12,0:44:41.33,Default,,0,0,0,,谢谢提醒 这个主意不错\N{\c&H62a8eb&\fs13}Now that you mention it, yeah, sounds pretty good.
+Dialogue: 0,0:44:43.25,0:44:44.29,Default,,0,0,0,,‎贝丝...\N{\c&H62a8eb&\fs13}Beth...
+Dialogue: 0,0:44:45.12,0:44:46.45,Default,,0,0,0,,‎博戈夫让我看起来像个傻子\N{\c&H62a8eb&\fs13}Borgov made me look like a fool.
+Dialogue: 0,0:44:46.54,0:44:49.29,Default,,0,0,0,,‎-因为你当时没准备好  -‎我甚至不知道自己够不够强\N{\c&H62a8eb&\fs13}- That's 'cause you weren't ready. - I don't know if I'm good enough.
+Dialogue: 0,0:44:49.37,0:44:51.04,Default,,0,0,0,,‎你是美国最强的棋手\N{\c&H62a8eb&\fs13}You're the best there is.
+Dialogue: 0,0:44:52.16,0:44:53.62,Default,,0,0,0,,‎你打败了我\N{\c&H62a8eb&\fs13}You beat me.
+Dialogue: 0,0:44:59.58,0:45:02.45,Default,,0,0,0,,‎好吧 我去纽约\N{\c&H62a8eb&\fs13}Okay, fine. I'll come to New York.
+Dialogue: 0,0:45:02.54,0:45:03.54,Default,,0,0,0,,‎好极了\N{\c&H62a8eb&\fs13}Great.
+Dialogue: 0,0:45:06.87,0:45:08.75,Default,,0,0,0,,‎我们从这里出发 我开车\N{\c&H62a8eb&\fs13}We'll leave from here. I'll drive us.
+Dialogue: 0,0:45:09.45,0:45:11.66,Default,,0,0,0,,‎-什么时候  -明天下午\N{\c&H62a8eb&\fs13}- When? - Tomorrow. Afternoon.
+Dialogue: 0,0:45:12.66,0:45:14.33,Default,,0,0,0,,这边的事情搞定之后我们就出发\N{\c&H62a8eb&\fs13}Once everything here finishes up.
+Dialogue: 0,0:45:15.20,0:45:16.20,Default,,0,0,0,,要是你想跟我上床...\N{\c&H62a8eb&\fs13}Oh, and about sex...
+Dialogue: 0,0:45:19.66,0:45:20.66,Default,,0,0,0,,‎别想了\N{\c&H62a8eb&\fs13}forget it.
+
+

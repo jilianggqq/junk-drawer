@@ -1,0 +1,465 @@
+[Script Info]
+;SrtEdit 9.0.2025.1210
+;Copyright(C) 2005-2025 Yuan Weiguo
+;MusicBeat: 0
+;ManualBilingual: 
+
+Title: 七王国的骑士 第一季 A Knight of the Seven Kingdoms Season 1 (2026)
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 米奇爸爸
+Script Updated By: 米奇爸爸 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,18,&H00DFDFDF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,5,5,5,134
+Style: Eng,Microsoft YaHei,16,&H0062A8EB,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,5,5,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.30,0:00:15.84,Default,,0,0,0,,你可能不记得他了，但…\N{\rEng}You-you might not remember him, but, um...
+Dialogue: 0,0:00:16.34,0:00:17.51,Default,,0,0,0,,待在那里\N{\rEng}Stay there.
+Dialogue: 0,0:00:18.30,0:00:20.56,Default,,0,0,0,,我会回来的 他是真正的骑士\N{\rEng}I'm coming back. ...he was a true knight.
+Dialogue: 0,0:00:22.27,0:00:25.31,Default,,0,0,0,,跟其他人不一样，对\N{\rEng}Uh, different than other men. Yeah.
+Dialogue: 0,0:00:27.31,0:00:29.15,Default,,0,0,0,,他生性平和\N{\rEng}He had a peaceable nature.
+Dialogue: 0,0:00:30.32,0:00:33.07,Default,,0,0,0,,安静又谦虚\N{\rEng}Quiet and humble.
+Dialogue: 0,0:00:33.07,0:00:35.82,Default,,0,0,0,,身经百战，却不与人为敌\N{\rEng}A veteran of a hundred wars, but an enemy to none.
+Dialogue: 0,0:00:39.37,0:00:42.08,Default,,0,0,0,,他一向清楚别人对他的期望\N{\rEng}He always knew what was expected of him.
+Dialogue: 0,0:00:43.83,0:00:45.29,Default,,0,0,0,,他从不抱怨\N{\rEng}He never complained.
+Dialogue: 0,0:00:47.25,0:00:51.00,Default,,0,0,0,,即使他快死了，他… 他只是…\N{\rEng}Even as he was dying, he... he just...
+Dialogue: 0,0:00:51.05,0:00:53.15,Default,,0,0,0,,{\an2\c&H006F35FC\b0\fs19\pos(192,287)}《七王国的骑士》\N{\blur0\fnMicrosoft JhengHei\fs15\1c&H62a8eb&\b1}本剧集由{\1c&HFF8000&\fs17\b1}米奇爸爸\N{\fs15\1c&H62a8eb&\b1}基于HBOMax官方译文制作
+Dialogue: 0,0:00:53.17,0:00:55.01,Default,,0,0,0,,他只是顺其自然\N{\rEng}He just got on with it.
+Dialogue: 0,0:00:58.05,0:01:01.06,Default,,0,0,0,,他本想造福身边的人\N{\rEng}He-he meant to be a benefit to those around him.
+Dialogue: 0,0:01:03.68,0:01:05.60,Default,,0,0,0,,却没因此致富\N{\rEng}It did not make him rich.
+Dialogue: 0,0:01:05.60,0:01:10.19,Default,,0,0,0,,他没有土地，没有子嗣\N{\rEng}He-he held no lands, sired no children.
+Dialogue: 0,0:01:11.82,0:01:14.19,Default,,0,0,0,,“去岑佛德找一位美丽的姑娘”\N{\rEng}♪ Off to Ashford to see a fair maid ♪
+Dialogue: 0,0:01:14.19,0:01:16.45,Default,,0,0,0,,嘿哟，嘿哟\N{\rEng}♪ Heigh-ho, heigh-ho ♪
+Dialogue: 0,0:01:16.45,0:01:20.03,Default,,0,0,0,,“我会让她成为我的爱人 我们会在阴凉处休息”\N{\rEng}♪ I'll make her my love and we'll rest in the shade ♪
+Dialogue: 0,0:01:20.03,0:01:21.95,Default,,0,0,0,,嘿哟，嘿哟\N{\rEng}♪ Heigh-ho, heigh-ho ♪
+Dialogue: 0,0:01:21.95,0:01:23.20,Default,,0,0,0,,来吧，邓克！\N{\rEng}Come on, Dunk!
+Dialogue: 0,0:01:29.04,0:01:31.54,Default,,0,0,0,,他别无所求，只想要待在户外\N{\rEng}He-he wanted for nothing but the open air.
+Dialogue: 0,0:01:32.50,0:01:35.88,Default,,0,0,0,,嘿。还有火可以温暖他的脚\N{\rEng}Hey. And a fire to warm his feet at.
+Dialogue: 0,0:01:44.27,0:01:45.68,Default,,0,0,0,,他的战士技巧…\N{\rEng}His skills as a warrior were...
+Dialogue: 0,0:01:47.60,0:01:49.10,Default,,0,0,0,,未曾受到赞颂\N{\rEng}...unsung,
+Dialogue: 0,0:01:49.10,0:01:51.61,Default,,0,0,0,,但他十分耐打\N{\rEng}but he had a chin cut from granite.
+Dialogue: 0,0:01:51.61,0:01:54.69,Default,,0,0,0,,来吧 他是个顽强的战士\N{\rEng}Come on. And he was a dogged fighter.
+Dialogue: 0,0:01:54.69,0:01:56.74,Default,,0,0,0,,他不断进攻\N{\rEng}He just, he kept on coming.
+Dialogue: 0,0:02:05.12,0:02:09.21,Default,,0,0,0,,“我会从我的刀尖 偷走一个甜蜜的吻”\N{\rEng}♪ I'll steal a sweet kiss from the point of my blade ♪
+Dialogue: 0,0:02:09.21,0:02:11.71,Default,,0,0,0,,嘿哟，嘿哟\N{\rEng}♪ Heigh-ho, heigh-ho ♪
+Dialogue: 0,0:02:14.46,0:02:16.55,Default,,0,0,0,,哇！哇！\N{\rEng}Whoa! Whoa!
+Dialogue: 0,0:02:24.18,0:02:27.31,Default,,0,0,0,,佛罗伦家族，你们的父亲失明时 阿兰爵士曾担任你们的护卫\N{\rEng}House Florent, Ser Arlan took service in your guard when your lord father lost his sight.
+Dialogue: 0,0:02:32.19,0:02:34.52,Default,,0,0,0,,“我会让她成为我的爱人 我们会在阴凉处休息”\N{\rEng}♪ I'll make her my love and we'll rest in the shade ♪
+Dialogue: 0,0:02:34.52,0:02:36.28,Default,,0,0,0,,海福德家族\N{\rEng}House Hayford,
+Dialogue: 0,0:02:36.28,0:02:39.82,Default,,0,0,0,,阿兰爵士曾与你们的兄弟们 在红草之战并肩作战\N{\rEng}Ser Arlan fought side by side with your brothers at the Redgrass.
+Dialogue: 0,0:02:41.70,0:02:45.20,Default,,0,0,0,,他当时的侍从，他的外甥 在战争中丧生\N{\rEng}His squire, his-his own nephew was killed in the battle.
+Dialogue: 0,0:02:47.45,0:02:49.33,Default,,0,0,0,,提利尔家\N{\rEng}House Tyrell...
+Dialogue: 0,0:02:50.25,0:02:55.17,Default,,0,0,0,,阿兰爵士常说他为你们服务的时光是他最美好的时光\N{\rEng}Ser Arlan often spoke of his time in your service as his very finest.
+Dialogue: 0,0:02:56.38,0:03:03.18,Default,,0,0,0,,大人，他说是你告诉他雇佣骑士是贵族与平民之间的桥梁\N{\rEng}He said it was you, m'lord, who told him that a hedge knight was the bridge between lords and the smallfolk.
+Dialogue: 0,0:03:08.31,0:03:09.77,Default,,0,0,0,,我不认识他\N{\rEng}I know him not, man.
+Dialogue: 0,0:03:12.27,0:03:15.77,Default,,0,0,0,,他是个烂骑士吗？ 他不是烂骑士\N{\rEng}Was he a shit knight? He was not a shit knight.
+Dialogue: 0,0:03:15.77,0:03:18.07,Default,,0,0,0,,如果没人记得他 他一定不是个好骑士\N{\rEng}Well, he can't have been a very good one if no one remembers him.
+Dialogue: 0,0:03:18.07,0:03:19.94,Default,,0,0,0,,抬起你的脚，走快点\N{\rEng}Pick up your feet, come on.
+Dialogue: 0,0:03:19.94,0:03:21.53,Default,,0,0,0,,这太没尊严了，爵士\N{\rEng}This is undignified, ser.
+Dialogue: 0,0:03:21.53,0:03:25.16,Default,,0,0,0,,那就请你快回营地去，别来烦我\N{\rEng}So, hie back to camp and leave me be, if it please you.
+Dialogue: 0,0:03:25.16,0:03:27.03,Default,,0,0,0,,我不会离开你的，爵士\N{\rEng}I would not leave you, ser,
+Dialogue: 0,0:03:27.04,0:03:30.83,Default,,0,0,0,,尤其是你必须忍受 你的主人一次又一次地死去\N{\rEng}not while you must suffer your master dying over and over again.
+Dialogue: 0,0:03:30.83,0:03:35.13,Default,,0,0,0,,不过这些大人似乎根本没在听你说话\N{\rEng}Though it does not seem like these lords are even listening to you.
+Dialogue: 0,0:03:35.13,0:03:37.63,Default,,0,0,0,,我也无能为力\N{\rEng}Nothing I can do about that.
+Dialogue: 0,0:03:37.63,0:03:40.09,Default,,0,0,0,,你是全境的骑士，爵士\N{\rEng}You are a knight of the realm, ser.
+Dialogue: 0,0:03:40.09,0:03:41.97,Default,,0,0,0,,你可以说“去他们的许可”\N{\rEng}You can say fuck their permission.
+Dialogue: 0,0:03:41.97,0:03:44.26,Default,,0,0,0,,然后骑着马进入比武场，向朗索恩提利尔下战帖\N{\rEng}Ride into the lists, call out Longthorn Tyrell,
+Dialogue: 0,0:03:44.26,0:03:46.47,Default,,0,0,0,,把他打得屁滚尿流\N{\rEng}and turn his arsehole into a lance-hole.
+Dialogue: 0,0:03:48.10,0:03:49.81,Default,,0,0,0,,够了\N{\rEng}That's enough now.
+Dialogue: 0,0:03:49.81,0:03:53.31,Default,,0,0,0,,你为什么要把这些皇家走狗 当成比你尊贵的人？\N{\rEng}Why do you treat these royal lapdogs like they're your betters?
+Dialogue: 0,0:03:53.31,0:03:55.02,Default,,0,0,0,,他们确实比我尊贵\N{\rEng}They are my betters.
+Dialogue: 0,0:03:55.02,0:03:56.98,Default,,0,0,0,,而你太厚颜无耻了\N{\rEng}You're too brazen for your own good.
+Dialogue: 0,0:03:58.40,0:04:00.94,Default,,0,0,0,,阿兰爵士是伟大的骑士\N{\rEng}Ser Arlan was a great knight.
+Dialogue: 0,0:04:00.94,0:04:02.78,Default,,0,0,0,,会有人记得他的\N{\rEng}Someone will remember him.
+Dialogue: 0,0:04:08.08,0:04:09.33,Default,,0,0,0,,嘿，是谁来了？\N{\rEng}Hey. Who's come?
+Dialogue: 0,0:04:09.33,0:04:11.62,Default,,0,0,0,,你没看到旗帜吗，你这大蠢蛋？\N{\rEng}Can't you see the banners, you giant cunt?
+Dialogue: 0,0:04:21.42,0:04:24.88,Default,,0,0,0,,也许我该回去，爵士 检查一下营地？\N{\rEng}Perhaps I should go back, ser, check on the camp.
+Dialogue: 0,0:04:24.88,0:04:27.05,Default,,0,0,0,,确保没有小偷在到处打探\N{\rEng}Make sure no thieves have been nosing about.
+Dialogue: 0,0:04:28.89,0:04:30.51,Default,,0,0,0,,好，我有个主意\N{\rEng}Aye. I have an idea.
+Dialogue: 0,0:04:30.52,0:04:32.64,Default,,0,0,0,,我可以用你的剑来赶人吗？\N{\rEng}Can I have your sword to run people off with?
+Dialogue: 0,0:04:32.64,0:04:34.73,Default,,0,0,0,,或是鎚矛？ 你有刀子就够了\N{\rEng}Or a mace? You have a knife.
+Dialogue: 0,0:04:34.73,0:04:36.14,Default,,0,0,0,,够了\N{\rEng}That's enough.
+Dialogue: 0,0:04:36.15,0:04:38.40,Default,,0,0,0,,我回来时，你最好在这里\N{\rEng}You'd best be here when I come back.
+Dialogue: 0,0:04:38.40,0:04:41.44,Default,,0,0,0,,要是敢抢我的东西，我会带狗去追你\N{\rEng}Rob me, and I'll hunt you down, with dogs.
+Dialogue: 0,0:04:41.44,0:04:43.65,Default,,0,0,0,,你又没有狗 我会去弄来\N{\rEng}You don't have dogs. I'll get some.
+Dialogue: 0,0:04:43.65,0:04:44.86,Default,,0,0,0,,去哪弄？\N{\rEng}Where?
+Dialogue: 0,0:04:58.84,0:05:00.75,Default,,0,0,0,,我们岑佛德大人\N{\rEng}Our Lord of Ashford
+Dialogue: 0,0:05:00.75,0:05:06.13,Default,,0,0,0,,恭迎伟大高尚的贝勒坦格利安\N{\rEng}humbly welcomes the great and honorable Baelor Targaryen...
+Dialogue: 0,0:05:06.13,0:05:08.55,Default,,0,0,0,,贤王戴伦的长子\N{\rEng}...firstborn son of King Daeron the Good.
+Dialogue: 0,0:05:10.05,0:05:11.89,Default,,0,0,0,,龙石岛王子\N{\rEng}Prince of Dragonstone,
+Dialogue: 0,0:05:11.89,0:05:13.52,Default,,0,0,0,,御前首相\N{\rEng}Hand of the King...
+Dialogue: 0,0:05:15.27,0:05:17.69,Default,,0,0,0,,铁王座的继承人\N{\rEng}and heir to the Iron Throne.
+Dialogue: 0,0:05:19.48,0:05:21.86,Default,,0,0,0,,还有他的弟弟，梅卡\N{\rEng}Uh, and his brother, Maekar.
+Dialogue: 0,0:05:21.86,0:05:23.15,Default,,0,0,0,,岑佛德大人\N{\rEng}My Lord of Ashford.
+Dialogue: 0,0:05:23.15,0:05:25.36,Default,,0,0,0,,很荣幸能接待您，殿下\N{\rEng}It's a great honor to receive Your Grace.
+Dialogue: 0,0:05:25.36,0:05:26.70,Default,,0,0,0,,很荣幸能受到接待\N{\rEng}It's a great honor to be received.
+Dialogue: 0,0:05:26.70,0:05:28.49,Default,,0,0,0,,这是我女儿，格温\N{\rEng}My daughter, Gwin.
+Dialogue: 0,0:05:37.58,0:05:40.17,Default,,0,0,0,,小子，别愣着了，去照顾我的马\N{\rEng}Boy, stop gaping. See to my horse.
+Dialogue: 0,0:05:41.42,0:05:43.88,Default,,0,0,0,,我不是马童，大人\N{\rEng}I'm-I'm not a stable boy, m'lord.
+Dialogue: 0,0:05:45.21,0:05:47.18,Default,,0,0,0,,不够聪明吗？\N{\rEng}Not clever enough?
+Dialogue: 0,0:05:49.84,0:05:52.05,Default,,0,0,0,,如果你不会管理马\N{\rEng}Well, if you can't manage horses,
+Dialogue: 0,0:05:52.06,0:05:54.64,Default,,0,0,0,,那就给我找一些酒和一个美女来\N{\rEng}then fetch me some wine and a pretty wench.
+Dialogue: 0,0:05:55.68,0:05:59.77,Default,,0,0,0,,大人，抱歉，我也不是仆人\N{\rEng}Oh, m'lord pardons. I'm-I'm no serving man, either.
+Dialogue: 0,0:06:02.48,0:06:04.73,Default,,0,0,0,,我有幸成为骑士\N{\rEng}I have-I have the honor to be a knight.
+Dialogue: 0,0:06:07.11,0:06:09.28,Default,,0,0,0,,这个嘛…\N{\rEng}Oh. Well...
+Dialogue: 0,0:06:10.87,0:06:12.83,Default,,0,0,0,,骑士现在真是凄凉\N{\rEng}knighthood has fallen on sad days.
+Dialogue: 0,0:06:18.29,0:06:20.67,Default,,0,0,0,,哇，哇。哇，哇。\N{\rEng}Whoa, whoa. Whoa, whoa.
+Dialogue: 0,0:06:20.67,0:06:22.63,Default,,0,0,0,,让开！ 放轻松\N{\rEng}Move away! Easy.
+Dialogue: 0,0:06:22.63,0:06:24.46,Default,,0,0,0,,慢点，来吧\N{\rEng}Easy now, come on.
+Dialogue: 0,0:06:24.46,0:06:27.17,Default,,0,0,0,,来吧，没事的…\N{\rEng}Come on. Yeah, it's okay. It's okay.
+Dialogue: 0,0:06:32.51,0:06:33.89,Default,,0,0,0,,好了，女孩\N{\rEng}There you are, girl.
+Dialogue: 0,0:06:35.52,0:06:39.02,Default,,0,0,0,,这里人太多了，我同意\N{\rEng}Far too many people around. I agree.
+Dialogue: 0,0:06:39.02,0:06:41.69,Default,,0,0,0,,我该把这些马放在哪里？\N{\rEng}Where the fuck am I meant to put all these horses?
+Dialogue: 0,0:06:41.69,0:06:44.52,Default,,0,0,0,,长得好看的总是喜怒无常\N{\rEng}The pretty ones are always temperamental.
+Dialogue: 0,0:06:44.52,0:06:47.23,Default,,0,0,0,,它只是有点兴奋而已\N{\rEng}Ah, she just got a bit excited, that's all.
+Dialogue: 0,0:06:47.24,0:06:49.57,Default,,0,0,0,,他是说王子殿下，不是驯马\N{\rEng}He meant the princeling, not the palfrey.
+Dialogue: 0,0:06:51.74,0:06:54.03,Default,,0,0,0,,不好意思，大人\N{\rEng}Excuse me, m'lords.
+Dialogue: 0,0:06:54.03,0:06:56.79,Default,,0,0,0,,我是高个爵士邓肯 幸会\N{\rEng}I'm-I'm Ser Duncan the Tall. Well met.
+Dialogue: 0,0:06:56.79,0:06:58.66,Default,,0,0,0,,我是罗兰克莱霍尔爵士\N{\rEng}I'm Ser Roland Crakehall,
+Dialogue: 0,0:06:58.66,0:07:01.08,Default,,0,0,0,,这是我的誓忠兄弟 暮谷镇的多诺爵士\N{\rEng}and this is my sworn brother, Ser Donnel of Duskendale.
+Dialogue: 0,0:07:01.08,0:07:02.54,Default,,0,0,0,,我的天啊\N{\rEng}Gods, boy.
+Dialogue: 0,0:07:02.54,0:07:04.63,Default,,0,0,0,,是你骑着马上战场，还是马骑你？\N{\rEng}Do you ride your horse into battle or does it ride you?
+Dialogue: 0,0:07:04.63,0:07:06.55,Default,,0,0,0,,请原谅罗兰爵士，他通常不需要抬头\N{\rEng}Forgive Ser Roland.
+Dialogue: 0,0:07:06.55,0:07:10.09,Default,,0,0,0,,就能往下看\N{\rEng}It's not often he must look up to cast his eyes down.
+Dialogue: 0,0:07:10.09,0:07:12.43,Default,,0,0,0,,对…我就是个无赖\N{\rEng}Yes, yes, I'm quite the rascal.
+Dialogue: 0,0:07:12.43,0:07:13.80,Default,,0,0,0,,告诉我，邓肯爵士\N{\rEng}Now, tell me, Ser Duncan,
+Dialogue: 0,0:07:13.80,0:07:15.97,Default,,0,0,0,,这附近有适合拉屎的地方吗？\N{\rEng}is there a proper place to shit around here?
+Dialogue: 0,0:07:16.89,0:07:18.43,Default,,0,0,0,,其实没有\N{\rEng}Uh, not really, no.
+Dialogue: 0,0:07:22.56,0:07:26.48,Default,,0,0,0,,像他这种出身的人绝不会屈尊 让自己的屁股沾上干草\N{\rEng}A man of such birth has never deigned to disturb his arsehole with hay.
+Dialogue: 0,0:07:26.48,0:07:29.57,Default,,0,0,0,,我打赌他这周结束前就会屈尊了\N{\rEng}He'll deign before the week is out, I'd wager.
+Dialogue: 0,0:07:30.86,0:07:33.91,Default,,0,0,0,,你是哪里人？ 你不像家族训练出来的人\N{\rEng}Where are you from, man? You don't smell House-bred.
+Dialogue: 0,0:07:35.53,0:07:38.95,Default,,0,0,0,,不属于任何地方，真的\N{\rEng}No place, really. I know it.
+Dialogue: 0,0:07:38.95,0:07:40.54,Default,,0,0,0,,我的家族也是\N{\rEng}My family's from there.
+Dialogue: 0,0:07:40.54,0:07:42.96,Default,,0,0,0,,你不是来自暮谷镇的达克林家族？\N{\rEng}You're not a Darklyn of Duskendale?
+Dialogue: 0,0:07:43.96,0:07:46.04,Default,,0,0,0,,我们是暮谷镇的捕蟹人\N{\rEng}We were crabbers at Duskendale.
+Dialogue: 0,0:07:46.04,0:07:47.75,Default,,0,0,0,,可以追溯到很久以前\N{\rEng}Far back as it goes.
+Dialogue: 0,0:07:49.13,0:07:50.59,Default,,0,0,0,,多诺爵士\N{\rEng}Ser Donnel?
+Dialogue: 0,0:07:52.59,0:07:55.72,Default,,0,0,0,,可以请问一下吗，爵士？捕蟹人的儿子\N{\rEng}May I ask, ser, how the son of a crabber
+Dialogue: 0,0:07:55.72,0:07:58.72,Default,,0,0,0,,是如何有幸成为御林铁卫的骑士？\N{\rEng}came to have the honor of being a knight in the Kingsguard?
+Dialogue: 0,0:07:59.97,0:08:01.68,Default,,0,0,0,,就像我们成为捕蟹人一样\N{\rEng}Same way we became crabbers.
+Dialogue: 0,0:08:06.56,0:08:07.98,Default,,0,0,0,,就像我们成为…\N{\rEng}"Same way we became..."
+Dialogue: 0,0:08:07.98,0:08:10.11,Default,,0,0,0,,你是贝勒坦格利安吗？\N{\rEng}Are you Baelor Targaryen?
+Dialogue: 0,0:08:11.15,0:08:12.65,Default,,0,0,0,,不是\N{\rEng}Uh, n-no.
+Dialogue: 0,0:08:12.65,0:08:14.57,Default,,0,0,0,,那你他妈的可以让开吗？\N{\rEng}Then would you move the fuck out of the way?
+Dialogue: 0,0:08:14.57,0:08:16.95,Default,,0,0,0,,好…当然，抱歉\N{\rEng}Yeah. Yeah. Of course. Apologies.
+Dialogue: 0,0:08:18.58,0:08:20.37,Default,,0,0,0,,抱歉\N{\rEng}Sorry.
+Dialogue: 0,0:08:20.37,0:08:23.58,Default,,0,0,0,,王子们他妈的需要洗手\N{\rEng}The princes be needing their fucking hands washed!
+Dialogue: 0,0:08:23.58,0:08:25.75,Default,,0,0,0,,我马上过去，女士\N{\rEng}I'm on my way, ma'am.
+Dialogue: 0,0:08:30.09,0:08:32.22,Default,,0,0,0,,让开！马车要通过\N{\rEng}Move! A carriage is comin' through!
+Dialogue: 0,0:08:55.61,0:08:58.78,Default,,0,0,0,,春雨让许多溪流暴涨\N{\rEng}The spring rains have swollen many of our streams.
+Dialogue: 0,0:08:58.78,0:09:01.03,Default,,0,0,0,,也许年轻的王子们只是被耽搁了？\N{\rEng}Perhaps the young princes have just been delayed?
+Dialogue: 0,0:09:01.04,0:09:02.41,Default,,0,0,0,,该死\N{\rEng}Fuck me.
+Dialogue: 0,0:09:02.41,0:09:04.62,Default,,0,0,0,,耽搁，他们才没有被耽搁\N{\rEng}"Delayed." They're not delayed.
+Dialogue: 0,0:09:04.62,0:09:05.96,Default,,0,0,0,,别诅咒我们好心的东道主\N{\rEng}Do not curse our gracious host.
+Dialogue: 0,0:09:05.96,0:09:08.67,Default,,0,0,0,,我是说我该死，不是他该死\N{\rEng}I said "fuck me," not "fuck him."
+Dialogue: 0,0:09:08.67,0:09:10.09,Default,,0,0,0,,父亲要我们参加这个可悲的马戏团 不是他的错\N{\rEng}It's not his fault Father bade us
+Dialogue: 0,0:09:10.09,0:09:12.25,Default,,0,0,0,,attend this miserable circus.
+Dialogue: 0,0:09:12.26,0:09:14.97,Default,,0,0,0,,我们可以改天再讨论吗？\N{\rEng}Might we discuss this another time?
+Dialogue: 0,0:09:14.97,0:09:16.59,Default,,0,0,0,,你说我们要去打猎的\N{\rEng}I say we go hunting.
+Dialogue: 0,0:09:16.59,0:09:18.59,Default,,0,0,0,,戴伦以前也做过这种事\N{\rEng}Daeron has done this before.
+Dialogue: 0,0:09:19.64,0:09:21.60,Default,,0,0,0,,你不应该命令他参加比武的\N{\rEng}You should not have commanded him to enter the lists.
+Dialogue: 0,0:09:23.27,0:09:24.56,Default,,0,0,0,,王子的儿子们失踪了\N{\rEng}The prince's sons are missing.
+Dialogue: 0,0:09:25.39,0:09:27.39,Default,,0,0,0,,如果是你儿子失踪，你一定会更担心\N{\rEng}You'd be more concerned if it was your son, I wager.
+Dialogue: 0,0:09:27.40,0:09:29.19,Default,,0,0,0,,哦 可能死了\N{\rEng}Oh. Probably dead.
+Dialogue: 0,0:09:30.19,0:09:32.69,Default,,0,0,0,,死了？ 比这还小的事都能开战了\N{\rEng}Dead? Wars have started for less.
+Dialogue: 0,0:09:37.53,0:09:39.07,Default,,0,0,0,,你又大只又蠢\N{\rEng}You're big and stupid.
+Dialogue: 0,0:09:44.58,0:09:46.41,Default,,0,0,0,,他们只失踪了一天\N{\rEng}They have only been missing a day.
+Dialogue: 0,0:09:47.54,0:09:51.00,Default,,0,0,0,,罗兰爵士肯定会把他找出来 连同伊耿一起\N{\rEng}No doubt, Ser Roland will turn him up and Aegon along with him.
+Dialogue: 0,0:09:51.00,0:09:53.00,Default,,0,0,0,,也许等比武竞技结束后吧\N{\rEng}When the tourney is over, perhaps.
+Dialogue: 0,0:09:53.00,0:09:57.55,Default,,0,0,0,,戴伦和伊里斯跟雷格尔一样 不适合上比武场\N{\rEng}Daeron belongs on a tourney field no more than Aerys or Rhaegel.
+Dialogue: 0,0:09:57.55,0:10:00.01,Default,,0,0,0,,你的意思是他宁愿骑妓女也不愿骑马\N{\rEng}By which you mean he'd sooner ride a whore than a horse.
+Dialogue: 0,0:10:00.01,0:10:01.60,Default,,0,0,0,,我不是那个意思\N{\rEng}That is not what I said.
+Dialogue: 0,0:10:05.14,0:10:07.93,Default,,0,0,0,,不必再提醒我我儿子的缺点\N{\rEng}I do not need to be reminded of my son's failings.
+Dialogue: 0,0:10:07.94,0:10:10.48,Default,,0,0,0,,他可以改的，他会改的，去他的诸神\N{\rEng}He can change. He will change, gods be damned.
+Dialogue: 0,0:10:10.48,0:10:13.07,Default,,0,0,0,,否则我发誓，我会看着他死去\N{\rEng}Or I swear, I'll see him dead.
+Dialogue: 0,0:10:15.94,0:10:17.19,Default,,0,0,0,,你\N{\rEng}You.
+Dialogue: 0,0:10:17.95,0:10:20.87,Default,,0,0,0,,你是谁？你监视我们做什么？\N{\rEng}Who are you? What do you mean by spying on us?
+Dialogue: 0,0:10:22.87,0:10:24.12,Default,,0,0,0,,现身吧\N{\rEng}Show yourself.
+Dialogue: 0,0:10:26.45,0:10:27.96,Default,,0,0,0,,呃…\N{\rEng}Um...
+Dialogue: 0,0:10:29.54,0:10:32.42,Default,,0,0,0,,各位大人，很抱歉打断你们\N{\rEng}My Lords, I do apologize for my interruption.
+Dialogue: 0,0:10:32.42,0:10:33.50,Default,,0,0,0,,我…\N{\rEng}I, um...
+Dialogue: 0,0:10:36.55,0:10:38.26,Default,,0,0,0,,我请曼弗雷德唐德利恩爵士为我担保\N{\rEng}I have asked Ser Manfred Dondarrion
+Dialogue: 0,0:10:38.26,0:10:43.22,Default,,0,0,0,,让我可以参加比武，但他拒绝了 谁？\N{\rEng}to vouch for me so that I might enter the lists, but he has refused to do so. Who?
+Dialogue: 0,0:10:44.22,0:10:45.43,Default,,0,0,0,,到底是怎么回事？\N{\rEng}What the fuck is going on?
+Dialogue: 0,0:10:45.43,0:10:47.27,Default,,0,0,0,,我们才是入侵者，弟弟\N{\rEng}We are the intruders here, brother.
+Dialogue: 0,0:10:47.27,0:10:48.56,Default,,0,0,0,,走近一点，爵士\N{\rEng}Come closer, ser.
+Dialogue: 0,0:10:50.31,0:10:52.48,Default,,0,0,0,,其他人也拒绝了\N{\rEng}And others, too.
+Dialogue: 0,0:10:53.40,0:10:57.32,Default,,0,0,0,,是这样的，他们说他们不认识 铜分树村的阿兰爵士\N{\rEng}You see, they say they know not Ser Arlan of Pennytree.
+Dialogue: 0,0:10:57.32,0:11:00.15,Default,,0,0,0,,但他服侍过他们，我发誓\N{\rEng}But he served them. I swear it.
+Dialogue: 0,0:11:00.15,0:11:02.07,Default,,0,0,0,,我有他的剑和盾牌\N{\rEng}I have his sword and shield.
+Dialogue: 0,0:11:02.07,0:11:04.66,Default,,0,0,0,,剑和盾牌不会造就一个骑士\N{\rEng}Sword and shield do not make a knight.
+Dialogue: 0,0:11:04.66,0:11:05.66,Default,,0,0,0,,嗯？\N{\rEng}Mm?
+Dialogue: 0,0:11:08.87,0:11:11.41,Default,,0,0,0,,除非你有更好的证据支持，像是书面或…\N{\rEng}Unless you have better proof to support what you say. Some writing or--
+Dialogue: 0,0:11:11.42,0:11:14.04,Default,,0,0,0,,您记得他吗，殿下？\N{\rEng}Do you remember him, Your Grace?
+Dialogue: 0,0:11:16.71,0:11:18.59,Default,,0,0,0,,那是很多年前的事了\N{\rEng}It was many years ago.
+Dialogue: 0,0:11:18.71,0:11:20.26,Default,,0,0,0,,您可能忘了\N{\rEng}You may have forgotten.
+Dialogue: 0,0:11:24.43,0:11:26.01,Default,,0,0,0,,铜分树村的阿兰爵士\N{\rEng}Ser Arlan of Pennytree.
+Dialogue: 0,0:11:28.68,0:11:30.43,Default,,0,0,0,,就我所知，他从没赢过任何比武竞技\N{\rEng}He never won a tourney that I know.
+Dialogue: 0,0:11:31.77,0:11:33.19,Default,,0,0,0,,但他也从未让自己蒙羞\N{\rEng}But he never shamed himself, either.
+Dialogue: 0,0:11:33.19,0:11:34.85,Default,,0,0,0,,是的，爵士\N{\rEng}Yes, ser.
+Dialogue: 0,0:11:34.86,0:11:36.94,Default,,0,0,0,,我是说不…他没有\N{\rEng}I mean, no. No, he didn't.
+Dialogue: 0,0:11:36.94,0:11:40.28,Default,,0,0,0,,他在君临的大混战中 推翻了史铎克渥斯大人\N{\rEng}He overthrew Lord Stokeworth in the melee at King's Landing
+Dialogue: 0,0:11:40.53,0:11:42.86,Default,,0,0,0,,多年前，他亲自让灰狮落马\N{\rEng}and years before, he unhorsed the Grey Lion himself.
+Dialogue: 0,0:11:42.86,0:11:45.16,Default,,0,0,0,,他跟我说过很多次\N{\rEng}He-he told me of that many a time.
+Dialogue: 0,0:11:46.87,0:11:51.54,Default,,0,0,0,,那你一定记得灰狮的真名，我毫不怀疑\N{\rEng}Then, you will recall the Grey Lion's true name, I have no doubt.
+Dialogue: 0,0:11:52.75,0:11:53.75,Default,,0,0,0,,呃…\N{\rEng}Um...
+Dialogue: 0,0:12:00.21,0:12:02.59,Default,,0,0,0,,达蒙兰尼斯特爵士\N{\rEng}Ser Damon Lannister.
+Dialogue: 0,0:12:02.59,0:12:05.18,Default,,0,0,0,,灰狮，他现在是凯岩城的领主了\N{\rEng}The Grey Lion, he's Lord of Casterly Rock now.
+Dialogue: 0,0:12:05.22,0:12:06.30,Default,,0,0,0,,没错\N{\rEng}So he is.
+Dialogue: 0,0:12:06.97,0:12:08.81,Default,,0,0,0,,他明日就会上场比武\N{\rEng}And enters the lists upon the morrow.
+Dialogue: 0,0:12:08.97,0:12:11.73,Default,,0,0,0,,你怎么可能记得某个该死的雇佣骑士\N{\rEng}How can you possibly remember some fucking hedge knight
+Dialogue: 0,0:12:11.77,0:12:15.40,Default,,0,0,0,,16年前碰巧让达蒙兰尼斯特落马？\N{\rEng}who chanced to unhorse Damon Lannister 16 years ago?
+Dialogue: 0,0:12:15.40,0:12:17.82,Default,,0,0,0,,我把彻底了解敌人当成一种习惯\N{\rEng}I make it a practice to learn all I can of my foes.
+Dialogue: 0,0:12:17.90,0:12:20.36,Default,,0,0,0,,你为什么会屈尊 跟雇佣骑士长枪比武？\N{\rEng}And why would you deign to joust with a hedge knight?
+Dialogue: 0,0:12:20.36,0:12:22.65,Default,,0,0,0,,那是很多年前的事了，在风息堡\N{\rEng}It was many years past, at Storm's End.
+Dialogue: 0,0:12:22.70,0:12:26.49,Default,,0,0,0,,拜拉席恩大人举办了比武大会 庆祝孙子的诞生\N{\rEng}Lord Baratheon held a hastilude to celebrate the birth of a grandson.
+Dialogue: 0,0:12:26.66,0:12:29.24,Default,,0,0,0,,第一场比武时 我抽到的对手是阿兰爵士\N{\rEng}The lots made Ser Arlan my opponent in the first tilt.
+Dialogue: 0,0:12:29.74,0:12:32.33,Default,,0,0,0,,我们打断了四支长矛 我才终于把他拉下马\N{\rEng}We broke four lances before I finally unhorsed him.
+Dialogue: 0,0:12:32.33,0:12:33.58,Default,,0,0,0,,是七支\N{\rEng}It was seven.
+Dialogue: 0,0:12:38.04,0:12:39.63,Default,,0,0,0,,我听说是如此\N{\rEng}I be-believe.
+Dialogue: 0,0:12:39.84,0:12:41.51,Default,,0,0,0,,故事会被加油添醋，我知道\N{\rEng}Tales grow in the telling, I know.
+Dialogue: 0,0:12:43.72,0:12:45.38,Default,,0,0,0,,别看不起你的老主人\N{\rEng}Do not think ill of your old master,
+Dialogue: 0,0:12:45.38,0:12:47.60,Default,,0,0,0,,但恐怕真的只有四支长矛\N{\rEng}but it was four lances only, I fear.
+Dialogue: 0,0:12:47.68,0:12:51.43,Default,,0,0,0,,您说得对，殿下，是四支，万分抱歉\N{\rEng}As you say, Your Grace. I-It was four. I do apologize.
+Dialogue: 0,0:12:51.43,0:12:53.85,Default,,0,0,0,,老阿兰爵士以前总说\N{\rEng}The old man, Ser Arlan, he used to say
+Dialogue: 0,0:12:53.89,0:12:56.69,Default,,0,0,0,,我笨得像城墙，慢得像野牛\N{\rEng}that I was thick as a castle wall and slow as an aurochs.
+Dialogue: 0,0:12:56.90,0:12:58.56,Default,,0,0,0,,无伤大雅，爵士，起来吧\N{\rEng}No harm was done, ser. Rise.
+Dialogue: 0,0:13:01.44,0:13:04.99,Default,,0,0,0,,你把马和盔甲还给他，没要求赎金\N{\rEng}You gave him back his horse and armor and took no ransom.
+Dialogue: 0,0:13:06.24,0:13:09.66,Default,,0,0,0,,阿兰爵士经常告诉我 你是骑士精神的化身\N{\rEng}Ser Arlan often told me that you were the soul of chivalry...
+Dialogue: 0,0:13:09.78,0:13:13.29,Default,,0,0,0,,有一天，七王国将得到你的庇护\N{\rEng}...and that one day, the Seven Kingdoms would be safe in your hands.
+Dialogue: 0,0:13:13.75,0:13:16.00,Default,,0,0,0,,但愿还要等很多年\N{\rEng}Not for many years yet, I pray.
+Dialogue: 0,0:13:16.12,0:13:19.17,Default,,0,0,0,,不，我不是说国王应该…\N{\rEng}No, I-I did not mean that the King should--
+Dialogue: 0,0:13:19.17,0:13:20.50,Default,,0,0,0,,你想参加比武，是这样吗？\N{\rEng}You wish to enter the lists.
+Dialogue: 0,0:13:20.50,0:13:21.92,Default,,0,0,0,,是这样吗？\N{\rEng}Is that it?
+Dialogue: 0,0:13:22.84,0:13:25.55,Default,,0,0,0,,是的 决定权在比赛主办人手上\N{\rEng}Yes. The decision rests with the master of the games,
+Dialogue: 0,0:13:25.59,0:13:27.09,Default,,0,0,0,,但我想不到理由拒绝你\N{\rEng}but I see no reason to deny you.
+Dialogue: 0,0:13:27.18,0:13:28.76,Default,,0,0,0,,遵命，大人\N{\rEng}As you say, m'lord.
+Dialogue: 0,0:13:32.60,0:13:34.85,Default,,0,0,0,,殿下，我… 很好，爵士，你很感激\N{\rEng}Your Grace-Very well, ser, You are grateful.
+Dialogue: 0,0:13:34.98,0:13:36.23,Default,,0,0,0,,现在快滚吧\N{\rEng}Now, fuck off!
+Dialogue: 0,0:13:36.35,0:13:38.10,Default,,0,0,0,,请原谅我弟弟，爵士\N{\rEng}You must forgive my brother, ser.
+Dialogue: 0,0:13:38.23,0:13:41.19,Default,,0,0,0,,他的儿子们在来这里的途中迷路了 他很担心他们\N{\rEng}His sons went astray on the way here, and he fears for them.
+Dialogue: 0,0:13:41.32,0:13:42.77,Default,,0,0,0,,当然\N{\rEng}Of course.
+Dialogue: 0,0:13:42.78,0:13:45.86,Default,,0,0,0,,我相信他们被发现时不会已成尸体\N{\rEng}Um, I trust they will not be found dead.
+Dialogue: 0,0:13:57.16,0:13:58.17,Default,,0,0,0,,爵士\N{\rEng}Ser.
+Dialogue: 0,0:14:00.92,0:14:03.30,Default,,0,0,0,,你不是阿兰爵士的血脉？\N{\rEng}You are not of Ser Arlan's blood?
+Dialogue: 0,0:14:04.63,0:14:05.97,Default,,0,0,0,,不，我不是\N{\rEng}No, I am not.
+Dialogue: 0,0:14:07.13,0:14:10.39,Default,,0,0,0,,根据法律，只有亲生儿子 才有资格继承骑士的家徽\N{\rEng}By law, only a trueborn son is entitled to inherit a knight's arms.
+Dialogue: 0,0:14:10.51,0:14:12.93,Default,,0,0,0,,你必须找个新徽章，爵士\N{\rEng}You must needs find a new device, ser.
+Dialogue: 0,0:14:13.60,0:14:15.43,Default,,0,0,0,,属于你自己的纹章\N{\rEng}A sigil of your own.
+Dialogue: 0,0:14:16.64,0:14:17.64,Default,,0,0,0,,我会的\N{\rEng}I will.
+Dialogue: 0,0:14:19.56,0:14:21.44,Default,,0,0,0,,再次感谢您，殿下\N{\rEng}Thank you again, Your Grace.
+Dialogue: 0,0:14:23.19,0:14:26.65,Default,,0,0,0,,我会英勇作战。你等着看吧\N{\rEng}I will fight bravely. You'll see.
+Dialogue: 0,0:14:32.91,0:14:35.12,Default,,0,0,0,,是这边 你不是骑士\N{\rEng}It's this way. You are no knight.
+Dialogue: 0,0:14:40.54,0:14:42.59,Default,,0,0,0,,你是弄臣弗洛里安\N{\rEng}You are Florian the Fool.
+Dialogue: 0,0:14:42.71,0:14:44.17,Default,,0,0,0,,我是，小姐\N{\rEng}I am, my lady.
+Dialogue: 0,0:14:46.13,0:14:48.09,Default,,0,0,0,,史上最伟大的弄臣\N{\rEng}As great a fool as ever lived.
+Dialogue: 0,0:14:51.76,0:14:54.55,Default,,0,0,0,,也是伟大的骑士！\N{\rEng}And as great a knight as well!
+Dialogue: 0,0:14:59.23,0:15:01.40,Default,,0,0,0,,又是弄臣，又是骑士？\N{\rEng}A fool and a knight.
+Dialogue: 0,0:15:02.31,0:15:04.77,Default,,0,0,0,,我从没听过这种事\N{\rEng}I have never heard of such a thing.
+Dialogue: 0,0:15:04.77,0:15:05.98,Default,,0,0,0,,亲爱的小姐\N{\rEng}Sweet lady.
+Dialogue: 0,0:15:06.61,0:15:09.57,Default,,0,0,0,,所有男人都是弄臣 所有男人也都是骑士\N{\rEng}All men are fools, and all men are knights...
+Dialogue: 0,0:15:10.28,0:15:12.20,Default,,0,0,0,,只要跟女人有关\N{\rEng}...where women are concerned.
+Dialogue: 0,0:15:25.25,0:15:26.63,Default,,0,0,0,,你好\N{\rEng}Hello there.
+Dialogue: 0,0:15:28.80,0:15:31.26,Default,,0,0,0,,另外这是为了你昨晚的演出\N{\rEng}And, uh, one for last night.
+Dialogue: 0,0:15:32.09,0:15:33.43,Default,,0,0,0,,很精彩\N{\rEng}That was great.
+Dialogue: 0,0:15:33.43,0:15:35.22,Default,,0,0,0,,那个火的把戏你是怎么做的？\N{\rEng}How'd you do the fire tricks?
+Dialogue: 0,0:15:41.85,0:15:43.23,Default,,0,0,0,,是花粉吗？\N{\rEng}Oh. Is it pollen?
+Dialogue: 0,0:15:43.23,0:15:45.40,Default,,0,0,0,,对，我们在路上收集的\N{\rEng}Yeah, we, uh, we collect it on the way.
+Dialogue: 0,0:15:48.90,0:15:50.82,Default,,0,0,0,,我从没见过这么大的人偶\N{\rEng}I've never seen such giant puppets.
+Dialogue: 0,0:15:50.95,0:15:52.24,Default,,0,0,0,,你自己做的吗？\N{\rEng}Do you make them yourself?
+Dialogue: 0,0:15:52.28,0:15:55.62,Default,,0,0,0,,我叔伯做的，但是我彩绘的\N{\rEng}My uncle builds them, but I paint.
+Dialogue: 0,0:15:56.41,0:15:58.04,Default,,0,0,0,,你能帮我画个东西吗？\N{\rEng}Could you paint something for me?
+Dialogue: 0,0:15:58.91,0:16:01.46,Default,,0,0,0,,我有钱可以付，我…\N{\rEng}Uh, I-I have the coin to pay. I, um... just...
+Dialogue: 0,0:16:05.13,0:16:07.46,Default,,0,0,0,,我需要盖掉这个圣杯图案\N{\rEng}Um, I need to paint something over the chalice.
+Dialogue: 0,0:16:07.96,0:16:09.84,Default,,0,0,0,,你想要画什么？\N{\rEng}Well, what would you want?
+Dialogue: 0,0:16:14.09,0:16:16.35,Default,,0,0,0,,我其实不知道\N{\rEng}Um... I... I don't-I don't actually know.
+Dialogue: 0,0:16:17.10,0:16:18.31,Default,,0,0,0,,我…\N{\rEng}I, uh...
+Dialogue: 0,0:16:19.47,0:16:21.56,Default,,0,0,0,,抱歉，你一定觉得我很蠢\N{\rEng}Sorry, you must think me a fool.
+Dialogue: 0,0:16:21.73,0:16:24.60,Default,,0,0,0,,“所有男人都是弄臣 所有男人也都是骑士”\N{\rEng}All men are fools, and all men are knights.
+Dialogue: 0,0:16:35.95,0:16:39.20,Default,,0,0,0,,灰色有点单调 对\N{\rEng}The-the gray is a bit drab. Aye, um...
+Dialogue: 0,0:16:40.91,0:16:44.25,Default,,0,0,0,,对，底色应该用日落的颜色\N{\rEng}Yeah, the-the field should be the color of sunset
+Dialogue: 0,0:16:44.83,0:16:46.96,Default,,0,0,0,,因为老家伙喜欢日落\N{\rEng}'cause the old man always liked sunsets and, uh--
+Dialogue: 0,0:16:47.08,0:16:48.50,Default,,0,0,0,,还有… 一棵榆树\N{\rEng}An elm tree. A big one.
+Dialogue: 0,0:16:49.00,0:16:51.46,Default,,0,0,0,,大棵的榆树，就像河边那棵\N{\rEng}Like the one by the river with the brown trunk
+Dialogue: 0,0:16:51.59,0:16:53.80,Default,,0,0,0,,棕色树干，绿色树枝\N{\rEng}and the green branches.
+Dialogue: 0,0:16:54.93,0:16:58.14,Default,,0,0,0,,对，一棵榆树，这样可以\N{\rEng}Aye. An elm tree, that would serve.
+Dialogue: 0,0:16:58.97,0:17:01.18,Default,,0,0,0,,但上面要有一颗流星\N{\rEng}But with a shooting star above.
+Dialogue: 0,0:17:01.93,0:17:02.93,Default,,0,0,0,,你能做到吗？\N{\rEng}Could you do that? Mm-hmm.
+Dialogue: 0,0:17:05.56,0:17:06.81,Default,,0,0,0,,谢谢\N{\rEng}Thank you,
+Dialogue: 0,0:17:06.94,0:17:08.69,Default,,0,0,0,,我是高个爵士邓肯\N{\rEng}um, I'm-I'm Ser Duncan the Tall.
+Dialogue: 0,0:17:11.32,0:17:12.78,Default,,0,0,0,,我是坦赛儿\N{\rEng}Um, I'm Tanselle.
+Dialogue: 0,0:17:12.90,0:17:15.86,Default,,0,0,0,,男生以前都叫我高个子坦赛儿\N{\rEng}The-the boys used to call me Tanselle Too-Tall.
+Dialogue: 0,0:17:17.11,0:17:18.45,Default,,0,0,0,,你不会太高\N{\rEng}You're not too tall.
+Dialogue: 0,0:17:18.45,0:17:19.91,Default,,0,0,0,,我是说，你刚好适合…\N{\rEng}I mean, you're just right for...
+Dialogue: 0,0:17:22.70,0:17:23.70,Default,,0,0,0,,适合什么？\N{\rEng}Uh... For?
+Dialogue: 0,0:17:24.50,0:17:25.50,Default,,0,0,0,,操偶\N{\rEng}Puppets.
+Dialogue: 0,0:17:27.29,0:17:28.92,Default,,0,0,0,,对，操偶\N{\rEng}Yeah, puppets.
+Dialogue: 0,0:17:30.17,0:17:31.21,Default,,0,0,0,,好\N{\rEng}Okay, I'll, um...
+Dialogue: 0,0:17:31.67,0:17:34.47,Default,,0,0,0,,等等，盾牌，对 对，抱歉，对，盾牌\N{\rEng}Wait. The shield. Yes, sorry. Yes, the shield. Yeah.
+Dialogue: 0,0:17:34.59,0:17:35.84,Default,,0,0,0,,那算处理不当吗？\N{\rEng}Was that ill-handled?
+Dialogue: 0,0:17:37.59,0:17:39.34,Default,,0,0,0,,操偶的女孩\N{\rEng}Hm? The-the puppet girl.
+Dialogue: 0,0:17:42.43,0:17:45.52,Default,,0,0,0,,感觉处理得不好\N{\rEng}Oh. It-it just-it didn't feel well-handled.
+Dialogue: 0,0:17:46.56,0:17:48.27,Default,,0,0,0,,她在画你的盾牌\N{\rEng}She is painting your shield.
+Dialogue: 0,0:17:48.73,0:17:50.02,Default,,0,0,0,,对，为了钱\N{\rEng}Yeah, for pay.
+Dialogue: 0,0:17:52.19,0:17:54.28,Default,,0,0,0,,你们两个都很高大\N{\rEng}You are both gigantic.
+Dialogue: 0,0:17:58.82,0:18:00.16,Default,,0,0,0,,这样有希望吗？\N{\rEng}Is that promising?
+Dialogue: 0,0:18:01.37,0:18:02.62,Default,,0,0,0,,这是…\N{\rEng}It's a...
+Dialogue: 0,0:18:04.20,0:18:06.08,Default,,0,0,0,,共通点\N{\rEng}commonality.
+Dialogue: 0,0:18:07.16,0:18:08.17,Default,,0,0,0,,对，没错\N{\rEng}Right, yeah.
+Dialogue: 0,0:18:09.25,0:18:10.38,Default,,0,0,0,,共通点\N{\rEng}C-Commonality.
+Dialogue: 0,0:18:18.05,0:18:20.39,Default,,0,0,0,,你觉得我有天能成为骑士吗？\N{\rEng}Do you think I'll ever make a knight one day?
+Dialogue: 0,0:18:20.51,0:18:22.76,Default,,0,0,0,,当然，有何不可？你很可能成为骑士\N{\rEng}Sure, why not? You're a likely lad.
+Dialogue: 0,0:18:22.89,0:18:24.18,Default,,0,0,0,,我有点瘦弱\N{\rEng}I'm a bit puny.
+Dialogue: 0,0:18:24.93,0:18:26.02,Default,,0,0,0,,你会长大的\N{\rEng}You'll grow. Even for my age.
+Dialogue: 0,0:18:26.14,0:18:29.10,Default,,0,0,0,,我都到这个年纪了 大家还是常这么说\N{\rEng}Everyone's always told me so.
+Dialogue: 0,0:18:32.61,0:18:35.11,Default,,0,0,0,,大家总是说我笨\N{\rEng}Everyone's always told me I was stupid.
+Dialogue: 0,0:18:43.99,0:18:44.99,Default,,0,0,0,,然后呢？\N{\rEng}And?
+Dialogue: 0,0:18:48.16,0:18:49.46,Default,,0,0,0,,什么？ 什么？\N{\rEng}Hm? What? What?
+Dialogue: 0,0:18:50.75,0:18:53.71,Default,,0,0,0,,别人说你笨时，你怎么做，爵士？\N{\rEng}What did you do when people said you were stupid, ser?
+Dialogue: 0,0:18:55.13,0:18:57.26,Default,,0,0,0,,那跟你有什么关系？\N{\rEng}What business is that of yours?
+Dialogue: 0,0:18:57.38,0:18:59.09,Default,,0,0,0,,我的问题我自己解决\N{\rEng}My problems are my own.
+Dialogue: 0,0:18:59.22,0:19:00.22,Default,,0,0,0,,我以为…\N{\rEng}I thought...
+Dialogue: 0,0:19:00.93,0:19:02.26,Default,,0,0,0,,你不是想帮我吗？\N{\rEng}Aren't you trying to help me?
+Dialogue: 0,0:19:02.26,0:19:04.39,Default,,0,0,0,,帮你什么？成长？\N{\rEng}Help you what? Grow?
+Dialogue: 0,0:19:04.39,0:19:05.85,Default,,0,0,0,,对，雇佣骑士，就是你\N{\rEng}Yes! Hedge knight, you.
+Dialogue: 0,0:19:08.52,0:19:10.18,Default,,0,0,0,,这泡尿是什么？\N{\rEng}What is this piss froth?
+Dialogue: 0,0:19:10.19,0:19:11.19,Default,,0,0,0,,我需要壮汉\N{\rEng}I need muscle.
+Dialogue: 0,0:19:11.81,0:19:13.77,Default,,0,0,0,,你愿意跟我一起上战场吗？\N{\rEng}Will you heed my call to war?
+Dialogue: 0,0:19:15.73,0:19:17.73,Default,,0,0,0,,很好，去吧！起来\N{\rEng}Aha! Good. Go! Get up, come.
+Dialogue: 0,0:19:18.36,0:19:20.15,Default,,0,0,0,,各就位\N{\rEng}Ready!
+Dialogue: 0,0:19:21.99,0:19:25.37,Default,,0,0,0,,嘿！擦干手掌，你这笨手笨脚的蠢货\N{\rEng}Hey! Dry those palms, you clam-handed cunt.
+Dialogue: 0,0:19:25.49,0:19:27.37,Default,,0,0,0,,我们现在不是在你姊妹的房间\N{\rEng}We're not in your sister's chambers now.
+Dialogue: 0,0:19:27.49,0:19:28.58,Default,,0,0,0,,预备\N{\rEng}Ready?
+Dialogue: 0,0:19:31.50,0:19:33.75,Default,,0,0,0,,开始 拉！\N{\rEng}Go! Pull!
+Dialogue: 0,0:19:34.92,0:19:37.25,Default,,0,0,0,,要是输了，我就把你的长子淹死\N{\rEng}If we lose this, I'll be drowning your firstborn!
+Dialogue: 0,0:19:37.25,0:19:38.71,Default,,0,0,0,,快点！ 拉！\N{\rEng}Come on! Pull! Pull!
+Dialogue: 0,0:19:38.84,0:19:42.63,Default,,0,0,0,,拉！一群软弱无力的废物！\N{\rEng}Pull, you cunt-strapped dandelions!
+Dialogue: 0,0:19:50.68,0:19:52.73,Default,,0,0,0,,我会回来的…\N{\rEng}I'll be back. I'll be back! I'll be back.
+Dialogue: 0,0:19:52.73,0:19:55.36,Default,,0,0,0,,莱昂诺，你在做什么？ 我渴了\N{\rEng}Lyonel! What are you doing? I'm thirsty.
+Dialogue: 0,0:19:55.48,0:19:56.48,Default,,0,0,0,,莱昂诺\N{\rEng}Lyonel!
+Dialogue: 0,0:19:57.98,0:19:59.07,Default,,0,0,0,,用力拉！\N{\rEng}Pull!
+Dialogue: 0,0:20:01.95,0:20:03.49,Default,,0,0,0,,我很渴，蠢货\N{\rEng}I'm thirsty, cunt.
+Dialogue: 0,0:20:05.74,0:20:07.53,Default,,0,0,0,,我渴了\N{\rEng}I'm thirsty!
+Dialogue: 0,0:20:11.91,0:20:12.92,Default,,0,0,0,,不错喔\N{\rEng}Looking good.
+Dialogue: 0,0:20:20.17,0:20:23.22,Default,,0,0,0,,他妈的蠢货！\N{\rEng}Fucking pull!
+Dialogue: 0,0:20:51.79,0:20:53.08,Default,,0,0,0,,你手艺很好\N{\rEng}You do good work.
+Dialogue: 0,0:20:53.21,0:20:54.37,Default,,0,0,0,,无人能及\N{\rEng}None better.
+Dialogue: 0,0:20:56.67,0:20:58.50,Default,,0,0,0,,我明天需要一些盔甲\N{\rEng}I need some armor on the morrow.
+Dialogue: 0,0:20:59.75,0:21:02.92,Default,,0,0,0,,颈甲、胫甲还有头盔\N{\rEng}Gorget, greaves, and great helm.
+Dialogue: 0,0:21:03.05,0:21:04.88,Default,,0,0,0,,你是来长枪比武还是来工作的？\N{\rEng}Are you jousting or working?
+Dialogue: 0,0:21:05.76,0:21:07.09,Default,,0,0,0,,也许两者皆是\N{\rEng}Both, perhaps.
+Dialogue: 0,0:21:10.39,0:21:13.35,Default,,0,0,0,,你块头很大，但我做过更大的盔甲\N{\rEng}You're a big one, though I've armored bigger.
+Dialogue: 0,0:21:17.40,0:21:19.86,Default,,0,0,0,,我的马车上应该有些零件能用\N{\rEng}I have some pieces in the wagon that might do.
+Dialogue: 0,0:21:20.19,0:21:23.74,Default,,0,0,0,,没有什么金银装饰\N{\rEng}Nothing prettied up with gold or silver, like.
+Dialogue: 0,0:21:23.86,0:21:26.91,Default,,0,0,0,,只有优质钢材，坚固又朴素\N{\rEng}Just good steel, strong and plain.
+Dialogue: 0,0:21:27.32,0:21:29.03,Default,,0,0,0,,我做的头盔看起来就是头盔\N{\rEng}I make helms that look like helms,
+Dialogue: 0,0:21:29.03,0:21:31.74,Default,,0,0,0,,不是有翅膀的猪和花俏的外国水果\N{\rEng}not winged pigs and fancy foreign fruit.
+Dialogue: 0,0:21:33.45,0:21:36.87,Default,,0,0,0,,但如果你的脸被长矛刺中 我的头盔会更实用\N{\rEng}But mine'll serve you better if you take a lance in the face.
+Dialogue: 0,0:21:37.00,0:21:39.29,Default,,0,0,0,,那就是我想要的，多少钱？\N{\rEng}That's all I want. How much?
+Dialogue: 0,0:21:39.79,0:21:42.67,Default,,0,0,0,,八百银鹿，因为我心情好\N{\rEng}Eight hundred stag, for I'm feeling kindly.
+Dialogue: 0,0:21:42.67,0:21:43.84,Default,,0,0,0,,八百？\N{\rEng}Eight hundred?
+Dialogue: 0,0:21:45.55,0:21:48.26,Default,,0,0,0,,或许我可以用尺寸较小的盔甲跟你换\N{\rEng}Perhaps I could trade you some armor made for a smaller man.
+Dialogue: 0,0:21:48.76,0:21:50.64,Default,,0,0,0,,半个头盔？半件锁子甲？\N{\rEng}A half helm, a mail hauberk.
+Dialogue: 0,0:21:50.64,0:21:54.02,Default,,0,0,0,,铁头佩特只卖自己的作品\N{\rEng}Steely Pate sells only his own work.
+Dialogue: 0,0:22:08.49,0:22:10.16,Default,,0,0,0,,我可以再利用那些金属\N{\rEng}I could make use of the metal.
+Dialogue: 0,0:22:10.87,0:22:13.37,Default,,0,0,0,,如果没有生锈太严重的话，我要了\N{\rEng}If it's not too rusted, I'll take it
+Dialogue: 0,0:22:13.37,0:22:14.54,Default,,0,0,0,,你的盔甲就跟你收…\N{\rEng}and armor you for...
+Dialogue: 0,0:22:15.95,0:22:17.21,Default,,0,0,0,,六百\N{\rEng}600.
+Dialogue: 0,0:22:18.92,0:22:20.63,Default,,0,0,0,,我只有两银鹿\N{\rEng}I only have two stags.
+Dialogue: 0,0:22:21.29,0:22:22.46,Default,,0,0,0,,能帮你保留一天\N{\rEng}Buys you a day.
+Dialogue: 0,0:22:26.72,0:22:28.42,Default,,0,0,0,,叫你的侍从把剩下的钱送来\N{\rEng}Send your squire along with the rest,
+Dialogue: 0,0:22:28.43,0:22:30.64,Default,,0,0,0,,不然我就把我的东西卖给下一个人\N{\rEng}or else I'll sell me wares to the next man.
+Dialogue: 0,0:22:31.85,0:22:33.89,Default,,0,0,0,,你会全部拿到的，我发誓\N{\rEng}You'll get it all back, I swear it.
+Dialogue: 0,0:22:34.93,0:22:36.43,Default,,0,0,0,,我想成为这里的冠军\N{\rEng}I mean to be a champion here.
+Dialogue: 0,0:22:36.56,0:22:37.68,Default,,0,0,0,,是吗？\N{\rEng}Do you, now?
+Dialogue: 0,0:22:39.56,0:22:42.19,Default,,0,0,0,,其他人都只是来…\N{\rEng}And the others all came just...
+Dialogue: 0,0:22:42.69,0:22:44.36,Default,,0,0,0,,只是来为你加油？\N{\rEng}just to cheer you on?
+Dialogue: 0,0:23:03.00,0:23:05.75,Default,,0,0,0,,还有什么蠢事是我没做的吗？\N{\rEng}Is there any measure of a fool I fail to meet?
+Dialogue: 0,0:23:12.14,0:23:16.14,Default,,0,0,0,,如果我赢了，我会再回来买下你\N{\rEng}If I win, I'll come back and buy you again.
+Dialogue: 0,0:23:16.26,0:23:17.43,Default,,0,0,0,,我保证\N{\rEng}I promise.
+Dialogue: 0,0:23:21.14,0:23:22.15,Default,,0,0,0,,你是最棒的\N{\rEng}Best girl.
+Dialogue: 0,0:23:40.29,0:23:41.37,Default,,0,0,0,,那是给它的\N{\rEng}That's for her.
+Dialogue: 0,0:23:44.00,0:23:46.25,Default,,0,0,0,,今晚记得给它些燕麦，对\N{\rEng}See she has some oats tonight, yeah?
+Dialogue: 0,0:23:54.22,0:23:55.55,Default,,0,0,0,,还有一颗苹果\N{\rEng}And an apple, too.
+Dialogue: 0,0:24:08.28,0:24:10.15,Default,,0,0,0,,我想现在无法回头了\N{\rEng}No turning back now, I suppose.
+Dialogue: 0,0:24:18.03,0:24:20.54,Default,,0,0,0,,那老头活了将近60年\N{\rEng}You know, the old man lived nigh on 60 years
+Dialogue: 0,0:24:20.66,0:24:21.75,Default,,0,0,0,,从来没拿过冠军\N{\rEng}and was never a champion.
+Dialogue: 0,0:24:21.87,0:24:23.17,Default,,0,0,0,,我的苹果酒里有虫\N{\rEng}There's a bug in my cider.
+Dialogue: 0,0:24:24.92,0:24:27.79,Default,,0,0,0,,如果我能自称岑佛德草地的冠军\N{\rEng}If I could call myself a champion of Ashford Meadow...
+Dialogue: 0,0:24:28.92,0:24:30.34,Default,,0,0,0,,即使只有一小时\N{\rEng}even for an hour...
+Dialogue: 0,0:24:32.22,0:24:35.47,Default,,0,0,0,,或许某个显赫家族会愿意雇用我\N{\rEng}maybe some great house might take me into its service.
+Dialogue: 0,0:24:37.14,0:24:38.93,Default,,0,0,0,,或许甚至是坦格利安家族\N{\rEng}Perhaps even House Targaryen.
+Dialogue: 0,0:24:41.06,0:24:44.10,Default,,0,0,0,,你觉得龙族家族 雇用了很多雇佣骑士吗，爵士？\N{\rEng}You suppose the dragon house employs many hedge knights, ser?
+Dialogue: 0,0:24:44.73,0:24:45.94,Default,,0,0,0,,够了\N{\rEng}Enough of that.
+Dialogue: 0,0:24:46.86,0:24:49.07,Default,,0,0,0,,我告诉你，御林铁卫的多诺爵士\N{\rEng}I'll have you know Ser Donnel of the Kingsguard
+Dialogue: 0,0:24:49.19,0:24:51.03,Default,,0,0,0,,只是捕蟹人的儿子\N{\rEng}is but the son of a crabber.
+Dialogue: 0,0:24:51.94,0:24:53.24,Default,,0,0,0,,多诺爵士？\N{\rEng}Ser Donnel?
+Dialogue: 0,0:24:53.57,0:24:55.32,Default,,0,0,0,,暮谷镇的多诺爵士？ 对\N{\rEng}Of Duskendale? Yeah.
+Dialogue: 0,0:24:55.66,0:24:58.83,Default,,0,0,0,,他父亲拥有维斯特洛一半的捕蟹船队\N{\rEng}His father owns half the crabbing fleets in Westeros.
+Dialogue: 0,0:24:59.78,0:25:00.79,Default,,0,0,0,,什么？\N{\rEng}What?!
+Dialogue: 0,0:25:03.04,0:25:04.16,Default,,0,0,0,,你怎么知道？\N{\rEng}How would you know?
+Dialogue: 0,0:25:04.92,0:25:06.12,Default,,0,0,0,,我喜欢钓鱼\N{\rEng}I like fishing.
+Dialogue: 0,0:25:12.55,0:25:13.80,Default,,0,0,0,,时候到了\N{\rEng}It's time!
+Dialogue: 0,0:25:15.18,0:25:16.43,Default,,0,0,0,,好，来吧，我们走\N{\rEng}Right, come on, let's go.
+Dialogue: 0,0:25:16.43,0:25:18.60,Default,,0,0,0,,来吧，抬起你的脚，走快点\N{\rEng}Come on, pick your feet up. Let's go.
+Dialogue: 0,0:25:23.39,0:25:24.81,Default,,0,0,0,,等等我\N{\rEng}Wait for me!
+Dialogue: 0,0:25:33.32,0:25:34.74,Default,,0,0,0,,邓肯爵士\N{\rEng}Ser Duncan!
+Dialogue: 0,0:25:34.86,0:25:36.15,Default,,0,0,0,,邓肯爵士\N{\rEng}Ser Duncan!
+Dialogue: 0,0:25:39.66,0:25:41.20,Default,,0,0,0,,你没事吧？ 没事\N{\rEng}You alright? Yeah.
+Dialogue: 0,0:26:18.15,0:26:21.37,Default,,0,0,0,,为了古神与新神\N{\rEng}For the new gods and old!
+Dialogue: 0,0:26:34.17,0:26:35.17,Default,,0,0,0,,长矛\N{\rEng}Lance!
+Dialogue: 0,0:26:35.84,0:26:36.84,Default,,0,0,0,,盾牌\N{\rEng}Shield,
+Dialogue: 0,0:26:37.22,0:26:38.22,Default,,0,0,0,,长矛\N{\rEng}and lance.
+Dialogue: 0,0:26:38.80,0:26:39.80,Default,,0,0,0,,盾牌\N{\rEng}Shield, and lance.
+Dialogue: 0,0:26:47.77,0:26:48.89,Default,,0,0,0,,头盔\N{\rEng}Helmet!
+Dialogue: 0,0:26:50.73,0:26:52.23,Default,,0,0,0,,嘿，那是谁？\N{\rEng}Hey, who's that?
+Dialogue: 0,0:26:52.90,0:26:55.40,Default,,0,0,0,,维拉王子，贝勒的儿子\N{\rEng}Prince Valarr, Baelor's son.
+Dialogue: 0,0:26:56.44,0:26:58.49,Default,,0,0,0,,王位的第二顺位继承人 盾牌\N{\rEng}Second in line to the throne. Shield!
+Dialogue: 0,0:26:58.61,0:27:01.78,Default,,0,0,0,,我赌他是最被看好的 我接受赌注，爵士\N{\rEng}He's the favorite, I'd wager. I'll take that bet, ser.
+Dialogue: 0,0:27:20.51,0:27:23.09,Default,,0,0,0,,岑佛德大人干了他的羊！\N{\rEng}Lord Ashford fucks his sheep!
+Dialogue: 0,0:27:43.62,0:27:45.58,Default,,0,0,0,,上啊！\N{\rEng}Come on! Whoo!
+Dialogue: 0,0:27:51.75,0:27:53.71,Default,,0,0,0,,侍从！长矛…\N{\rEng}Squire! Lance, lance, lance!
+Dialogue: 0,0:27:53.71,0:27:54.75,Default,,0,0,0,,长矛！ 快…\N{\rEng}Squire! Lance, lance, lance!
+Dialogue: 0,0:28:10.52,0:28:12.64,Default,,0,0,0,,爵士，放我下来，爵士\N{\rEng}Ser. Put me down, ser.
+Dialogue: 0,0:29:07.87,0:29:09.16,Default,,0,0,0,,死吧！\N{\rEng}Die!
+Dialogue: 0,0:29:09.28,0:29:12.00,Default,,0,0,0,,你要投降吗，黑火的混蛋？\N{\rEng}Do you yield, Blackfyre bastards?!
+Dialogue: 0,0:29:17.42,0:29:19.25,Default,,0,0,0,,今晚的比武真精彩\N{\rEng}Splendid riding tonight.
+Dialogue: 0,0:29:22.26,0:29:24.55,Default,,0,0,0,,鱼的部分很恶心\N{\rEng}Mm, the part with the fish was disgusting.
+Dialogue: 0,0:29:30.72,0:29:32.06,Default,,0,0,0,,怎么了吗，爵士？\N{\rEng}Something the matter, ser?
+Dialogue: 0,0:29:37.10,0:29:42.32,Default,,0,0,0,,伟大的骑士会睡在草丛里 然后死在泥路旁吗？\N{\rEng}Do great knights live in the hedges and die by the side of a muddy road?
+Dialogue: 0,0:29:46.40,0:29:47.53,Default,,0,0,0,,我不这么认为\N{\rEng}I think not.
+Dialogue: 0,0:29:51.62,0:29:54.20,Default,,0,0,0,,阿兰爵士不擅长用剑或长矛\N{\rEng}Ser Arlan wasn't gifted with sword or lance,
+Dialogue: 0,0:29:54.33,0:29:57.54,Default,,0,0,0,,他酗酒又嫖妓\N{\rEng}and he drank, and he whored,
+Dialogue: 0,0:29:57.67,0:30:00.42,Default,,0,0,0,,是个难以理解的人\N{\rEng}and he was a hard man to know.
+Dialogue: 0,0:30:03.67,0:30:05.38,Default,,0,0,0,,他也没交到朋友\N{\rEng}He made no friends, either.
+Dialogue: 0,0:30:06.22,0:30:09.47,Default,,0,0,0,,他活了将近60年，从没拿过冠军\N{\rEng}He lived nigh on 60 years and never was a champion.
+Dialogue: 0,0:30:11.05,0:30:13.93,Default,,0,0,0,,我有什么机会，说真的？\N{\rEng}Mm, what chance do I have? Truly?
+Dialogue: 0,0:30:17.23,0:30:18.60,Default,,0,0,0,,但他对我很好\N{\rEng}But he was good to me.
+Dialogue: 0,0:30:24.44,0:30:25.78,Default,,0,0,0,,我不是他的家人\N{\rEng}I wasn't his family...
+Dialogue: 0,0:30:27.32,0:30:29.03,Default,,0,0,0,,但他像家人一样照顾我\N{\rEng}but he kept me like we were.
+Dialogue: 0,0:30:33.87,0:30:36.20,Default,,0,0,0,,他把我养成一个正直的人\N{\rEng}He raised me to be an honorable man.
+Dialogue: 0,0:30:39.71,0:30:41.67,Default,,0,0,0,,而这些…\N{\rEng}And all these noble lords
+Dialogue: 0,0:30:42.79,0:30:45.96,Default,,0,0,0,,高贵的大人甚至不记得他的名字\N{\rEng}can't even remember his name.
+Dialogue: 0,0:30:49.09,0:30:51.30,Default,,0,0,0,,他是铜分树村的阿兰爵士\N{\rEng}His name was Ser Arlan of Pennytree.
+Dialogue: 0,0:30:53.18,0:30:54.56,Default,,0,0,0,,而我是他的传人\N{\rEng}And I am his legacy.
+Dialogue: 0,0:30:56.60,0:30:57.73,Default,,0,0,0,,明天…\N{\rEng}On the morrow...
+Dialogue: 0,0:30:59.39,0:31:01.60,Default,,0,0,0,,我们会让他们见识 他亲手培养出的成果\N{\rEng}we will show them what his hand has wrought.
+Dialogue: 0,0:31:17.62,0:31:19.71,Default,,0,0,0,,（改编自乔治RR马丁小说）
+Dialogue: 0,0:31:19.71,0:31:20.79,Default,,0,0,0,,待续
+Dialogue: 0,0:31:20.79,0:31:21.79,Default,,0,0,0,,谢谢观赏
+Dialogue: 0,0:31:23.79,0:31:25.80,Default,,0,0,0,,翻译：董怜瑶
+
